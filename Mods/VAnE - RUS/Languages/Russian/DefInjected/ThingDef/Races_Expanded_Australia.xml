@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Boombat -->
+
+  <AEXP_Boombat.label>бумбат</AEXP_Boombat.label>
+  <AEXP_Boombat.description>В результате какого-то безумного эксперимента эти милые пушистые грызуны стали ходячей бомбой. Будучи убиты они производят мощный взрыв, воспламеняющий все вокруг.</AEXP_Boombat.description>
+  <AEXP_Boombat.tools.0.label>левая лапа</AEXP_Boombat.tools.0.label>
+  <AEXP_Boombat.tools.1.label>правая лапа</AEXP_Boombat.tools.1.label>
+  <AEXP_Boombat.tools.2.label>зубы</AEXP_Boombat.tools.2.label>
+  <AEXP_Boombat.tools.3.label>голова</AEXP_Boombat.tools.3.label>
+
+
+  <!-- Kangaroo -->
+
+  <AEXP_Kangaroo.label>кенгуру</AEXP_Kangaroo.label>
+  <AEXP_Kangaroo.description>Кенгуру - крупное сумчатое животное размером с человека, с сильными ногами и мощными руками. На него охотятся племена из-за нежного мяса и термостойкой кожи. Кенгуру - сильные противники в рукопашном бою. Их можно легко обучить, чтобы превратить в суперсолдат.</AEXP_Kangaroo.description>
+  <AEXP_Kangaroo.tools.0.label>левая лапа</AEXP_Kangaroo.tools.0.label>
+  <AEXP_Kangaroo.tools.1.label>правая лапа</AEXP_Kangaroo.tools.1.label>
+  <AEXP_Kangaroo.tools.2.label>зубы</AEXP_Kangaroo.tools.2.label>
+  <AEXP_Kangaroo.tools.3.label>голова</AEXP_Kangaroo.tools.3.label>
+  <AEXP_Kangaroo.race.meatLabel>мясо кенгуру</AEXP_Kangaroo.race.meatLabel>
+
+
+  <!-- Koala -->
+
+  <AEXP_Koala.label>коала</AEXP_Koala.label>
+  <AEXP_Koala.description>Коал легко узнать по крепкому телу и большим круглым головам с пушистыми ушами. Обычно они обитают в засушливых умеренных лесах, но редко встречаются в тропических районах. Коал обожают королевские семьи - они являются отличными домашними питомцами из-за их чудесного нюха.</AEXP_Koala.description>
+  <AEXP_Koala.tools.0.label>левая лапа</AEXP_Koala.tools.0.label>
+  <AEXP_Koala.tools.1.label>правая лапа</AEXP_Koala.tools.1.label>
+  <AEXP_Koala.tools.2.label>зубы</AEXP_Koala.tools.2.label>
+  <AEXP_Koala.tools.3.label>голова</AEXP_Koala.tools.3.label>
+  <AEXP_Koala.race.meatLabel>мясо коалы</AEXP_Koala.race.meatLabel>
+
+
+  <!-- Platypus -->
+
+  <AEXP_Platypus.label>утконос</AEXP_Platypus.label>
+  <AEXP_Platypus.description>Утконос - единственный выживший представитель своего семейства животных. Эти хвостатые млекопитающие, похожие на бобров, имеют утиный клюв и откладывают яйца. Утконосы всеядны и способны убивать мелких грызунов своими ядовитыми шпорами, размещенных на лодыжках.</AEXP_Platypus.description>
+  <AEXP_Platypus.tools.0.label>левая лапа</AEXP_Platypus.tools.0.label>
+  <AEXP_Platypus.tools.1.label>правая лапа</AEXP_Platypus.tools.1.label>
+  <AEXP_Platypus.tools.2.label>задняя левая шпора</AEXP_Platypus.tools.2.label>
+  <AEXP_Platypus.tools.3.label>задняя правая шпора</AEXP_Platypus.tools.3.label>
+  <AEXP_Platypus.tools.4.label>голова</AEXP_Platypus.tools.4.label>
+  <AEXP_Platypus.race.meatLabel>мясо утконоса</AEXP_Platypus.race.meatLabel>
+
+
+</LanguageData>

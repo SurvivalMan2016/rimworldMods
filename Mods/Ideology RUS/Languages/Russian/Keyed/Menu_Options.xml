@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- Background image -->
+  <!-- EN: Menu background -->
+  <SetBackgroundImage>Фон меню</SetBackgroundImage>
+  
+  <!-- Core -->
+  
+  <!-- Gameplay -->
+  <!-- EN: Simulate not owning Ideology -->
+  <SimulateNotOwningIdeology>Симулировать отсутствие Ideology</SimulateNotOwningIdeology>
+
+</LanguageData>

@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Corpse_AEXP_CatAbyssinian.label>тушка абиссинской кошки</Corpse_AEXP_CatAbyssinian.label>
+  <Corpse_AEXP_CatAbyssinian.description>Мертвая абиссинская кошка.</Corpse_AEXP_CatAbyssinian.description>
+
+  <Corpse_AEXP_CatBengal.label>тушка бенгальской кошки</Corpse_AEXP_CatBengal.label>
+  <Corpse_AEXP_CatBengal.description>Мертвая бенгальская кошка.</Corpse_AEXP_CatBengal.description>
+
+  <Corpse_AEXP_CatBritishShorthair.label>тушка британской короткошерстной кошки</Corpse_AEXP_CatBritishShorthair.label>
+  <Corpse_AEXP_CatBritishShorthair.description>Мертвая британская короткошерстная кошка.</Corpse_AEXP_CatBritishShorthair.description>
+
+  <Corpse_AEXP_CatMaineCoon.label>туша мейн-куна</Corpse_AEXP_CatMaineCoon.label>
+  <Corpse_AEXP_CatMaineCoon.description>Мертвый мейн-кун.</Corpse_AEXP_CatMaineCoon.description>
+
+  <Corpse_AEXP_CatMunchkin.label>тушка манчкина</Corpse_AEXP_CatMunchkin.label>
+  <Corpse_AEXP_CatMunchkin.description>Мертвый манчкин.</Corpse_AEXP_CatMunchkin.description>
+
+  <Corpse_AEXP_CatNorwegianForest.label>тушка норвежской лесной кошки</Corpse_AEXP_CatNorwegianForest.label>
+  <Corpse_AEXP_CatNorwegianForest.description>Мертвая норвежская лесная кошка.</Corpse_AEXP_CatNorwegianForest.description>
+
+  <Corpse_AEXP_CatPersian.label>тушка персидской кошки</Corpse_AEXP_CatPersian.label>
+  <Corpse_AEXP_CatPersian.description>Мертвая персидская кошка.</Corpse_AEXP_CatPersian.description>
+
+  <Corpse_AEXP_CatSiamese.label>тушка сиамской кошки</Corpse_AEXP_CatSiamese.label>
+  <Corpse_AEXP_CatSiamese.description>Мертвая сиамская кошка.</Corpse_AEXP_CatSiamese.description>
+
+  <Corpse_AEXP_CatSomali.label>тушка сомалийской кошки</Corpse_AEXP_CatSomali.label>
+  <Corpse_AEXP_CatSomali.description>Мертвая сомалийская кошка.</Corpse_AEXP_CatSomali.description>
+
+  <Corpse_AEXP_CatSphynx.label>тушка сфинкса</Corpse_AEXP_CatSphynx.label>
+  <Corpse_AEXP_CatSphynx.description>Мертвый сфинкс.</Corpse_AEXP_CatSphynx.description>
+
+  <Corpse_AEXP_Beagle.label>туша бигля</Corpse_AEXP_Beagle.label>
+  <Corpse_AEXP_Beagle.description>Мертвый бигль.</Corpse_AEXP_Beagle.description>
+
+  <Corpse_AEXP_Chihuahua.label>тушка чихуахуа</Corpse_AEXP_Chihuahua.label>
+  <Corpse_AEXP_Chihuahua.description>Мертвая чихуахуа.</Corpse_AEXP_Chihuahua.description>
+
+  <Corpse_AEXP_Corgi.label>тушка корги</Corpse_AEXP_Corgi.label>
+  <Corpse_AEXP_Corgi.description>Мертвый корги.</Corpse_AEXP_Corgi.description>
+
+  <Corpse_AEXP_FrenchBulldog.label>тушка французского бульдога</Corpse_AEXP_FrenchBulldog.label>
+  <Corpse_AEXP_FrenchBulldog.description>Мертвый французский бульдог.</Corpse_AEXP_FrenchBulldog.description>
+
+  <Corpse_AEXP_GermanShepherd.label>туша немецкой овчарки</Corpse_AEXP_GermanShepherd.label>
+  <Corpse_AEXP_GermanShepherd.description>Мертвая немецкая овчарка.</Corpse_AEXP_GermanShepherd.description>
+
+  <Corpse_AEXP_GreatDane.label>туша датского дога</Corpse_AEXP_GreatDane.label>
+  <Corpse_AEXP_GreatDane.description>Мертвый датский дог.</Corpse_AEXP_GreatDane.description>
+
+  <Corpse_AEXP_Poodle.label>туша пуделя</Corpse_AEXP_Poodle.label>
+  <Corpse_AEXP_Poodle.description>Мертвый пудель.</Corpse_AEXP_Poodle.description>
+
+  <Corpse_AEXP_Pug.label>тушка мопса</Corpse_AEXP_Pug.label>
+  <Corpse_AEXP_Pug.description>Мертвый мопс.</Corpse_AEXP_Pug.description>
+
+  <Corpse_AEXP_Rottweiler.label>туша ротвейлера</Corpse_AEXP_Rottweiler.label>
+  <Corpse_AEXP_Rottweiler.description>Мертвый ротвейлер.</Corpse_AEXP_Rottweiler.description>
+
+  <Corpse_AEXP_Shih-Tzu.label>тушка ши-тцу</Corpse_AEXP_Shih-Tzu.label>
+  <Corpse_AEXP_Shih-Tzu.description>Мертвый ши-тцу.</Corpse_AEXP_Shih-Tzu.description>
+
+  <Corpse_AEXP_WelshTerrier.label>тушка вельштерьера</Corpse_AEXP_WelshTerrier.label>
+  <Corpse_AEXP_WelshTerrier.description>Мертвый вельштерьер.</Corpse_AEXP_WelshTerrier.description>
+
+  <Corpse_AEXP_Penguin.label>туша пингвина</Corpse_AEXP_Penguin.label>
+  <Corpse_AEXP_Penguin.description>Мертвый пингвин.</Corpse_AEXP_Penguin.description>
+
+  <Corpse_AEXP_Seal.label>туша тюленя</Corpse_AEXP_Seal.label>
+  <Corpse_AEXP_Seal.description>Мертвый тюлень.</Corpse_AEXP_Seal.description>
+
+  <Corpse_AEXP_Walrus.label>туша моржа</Corpse_AEXP_Walrus.label>
+  <Corpse_AEXP_Walrus.description>Мертвый морж.</Corpse_AEXP_Walrus.description>
+  
+  <Corpse_AEXP_Muskox.label>туша овцебыка</Corpse_AEXP_Muskox.label>
+  <Corpse_AEXP_Muskox.description>Мертвый овцебык.</Corpse_AEXP_Muskox.description>
+
+  <Corpse_AEXP_Moose.label>туша лося</Corpse_AEXP_Moose.label>
+  <Corpse_AEXP_Moose.description>Мертвый лось.</Corpse_AEXP_Moose.description>
+
+  <Corpse_AEXP_MegaWolverine.label>туша гигантской росомахи</Corpse_AEXP_MegaWolverine.label>
+  <Corpse_AEXP_MegaWolverine.description>Мертвая гигантская росомаха.</Corpse_AEXP_MegaWolverine.description>
+
+  <Corpse_AEXP_Porcupine.label>туша дикобраза</Corpse_AEXP_Porcupine.label>
+  <Corpse_AEXP_Porcupine.description>Мертвый дикобраз.</Corpse_AEXP_Porcupine.description> 
+
+  <Corpse_AEXP_Otter.label>тушка выдры</Corpse_AEXP_Otter.label>
+  <Corpse_AEXP_Otter.description>Мертвая выдра.</Corpse_AEXP_Otter.description>
+
+  <Corpse_AEXP_ArcticCoyote.label>туша полярного койота</Corpse_AEXP_ArcticCoyote.label>
+  <Corpse_AEXP_ArcticCoyote.description>Мертвый полярный койот.</Corpse_AEXP_ArcticCoyote.description>
+
+  <Corpse_AEXP_BlackBear.label>туша черного медведя</Corpse_AEXP_BlackBear.label>
+  <Corpse_AEXP_BlackBear.description>Мертвый черный медведь.</Corpse_AEXP_BlackBear.description>
+
+  <Corpse_AEXP_RedPanda.label>тушка красной панды</Corpse_AEXP_RedPanda.label>
+  <Corpse_AEXP_RedPanda.description>Мертвая красная панда.</Corpse_AEXP_RedPanda.description>
+
+  <Corpse_AEXP_Badger.label>туша барсука</Corpse_AEXP_Badger.label>
+  <Corpse_AEXP_Badger.description>Мертвый барсук.</Corpse_AEXP_Badger.description>
+
+  <Corpse_AEXP_WildGoose.label>туша дикого гуся</Corpse_AEXP_WildGoose.label>
+  <Corpse_AEXP_WildGoose.description>Мертвый дикий гусь.</Corpse_AEXP_WildGoose.description>
+
+  <Corpse_AEXP_Beaver.label>туша бобра</Corpse_AEXP_Beaver.label>
+  <Corpse_AEXP_Beaver.description>Мертвый бобер.</Corpse_AEXP_Beaver.description>
+
+  <Corpse_AEXP_Hedgehog.label>тушка ежа</Corpse_AEXP_Hedgehog.label>
+  <Corpse_AEXP_Hedgehog.description>Мертвый еж.</Corpse_AEXP_Hedgehog.description>
+
+  <Corpse_AEXP_Gorilla.label>туша гориллы</Corpse_AEXP_Gorilla.label>
+  <Corpse_AEXP_Gorilla.description>Мертвая горилла.</Corpse_AEXP_Gorilla.description>
+
+  <Corpse_AEXP_Jaguar.label>туша ягуара</Corpse_AEXP_Jaguar.label>
+  <Corpse_AEXP_Jaguar.description>Мертвый ягуар.</Corpse_AEXP_Jaguar.description>
+
+  <Corpse_AEXP_Lemur.label>тушка лемура</Corpse_AEXP_Lemur.label>
+  <Corpse_AEXP_Lemur.description>Мертвый лемур.</Corpse_AEXP_Lemur.description>
+
+  <Corpse_AEXP_Mandrill.label>туша мандрилла</Corpse_AEXP_Mandrill.label>
+  <Corpse_AEXP_Mandrill.description>Мертвый мандрилл.</Corpse_AEXP_Mandrill.description>
+
+  <Corpse_AEXP_Tapir.label>туша тапира</Corpse_AEXP_Tapir.label>
+  <Corpse_AEXP_Tapir.description>Мертвый тапир.</Corpse_AEXP_Tapir.description>
+
+  <Corpse_AEXP_Tiger.label>туша тигра</Corpse_AEXP_Tiger.label>
+  <Corpse_AEXP_Tiger.description>Мертвый тигр.</Corpse_AEXP_Tiger.description>
+
+  <Corpse_AEXP_Alligator.label>туша аллигатора</Corpse_AEXP_Alligator.label>
+  <Corpse_AEXP_Alligator.description>Мертвый аллигатор.</Corpse_AEXP_Alligator.description>
+
+  <Corpse_AEXP_Anaconda.label>туша анаконды</Corpse_AEXP_Anaconda.label>
+  <Corpse_AEXP_Anaconda.description>Мертвая анаконда.</Corpse_AEXP_Anaconda.description>
+
+  <Corpse_AEXP_IndianElephant.label>туша индийского слона</Corpse_AEXP_IndianElephant.label>
+  <Corpse_AEXP_IndianElephant.description>Мертвый индийский слон.</Corpse_AEXP_IndianElephant.description>
+
+  <Corpse_AEXP_Boombat.label>тушка бумбата</Corpse_AEXP_Boombat.label>
+  <Corpse_AEXP_Boombat.description>Мертвый бумбат.</Corpse_AEXP_Boombat.description>
+
+  <Corpse_AEXP_Kangaroo.label>туша кенгуру</Corpse_AEXP_Kangaroo.label>
+  <Corpse_AEXP_Kangaroo.description>Мертвый кенгуру.</Corpse_AEXP_Kangaroo.description>
+
+  <Corpse_AEXP_Koala.label>туша коалы</Corpse_AEXP_Koala.label>
+  <Corpse_AEXP_Koala.description>Мертвая коала.</Corpse_AEXP_Koala.description>
+
+  <Corpse_AEXP_Platypus.label>туша утконоса</Corpse_AEXP_Platypus.label>
+  <Corpse_AEXP_Platypus.description>Мертвый утконос.</Corpse_AEXP_Platypus.description>
+
+  <Corpse_AEXP_Coyote.label>туша койота</Corpse_AEXP_Coyote.label>
+  <Corpse_AEXP_Coyote.description>Мертвый койот.</Corpse_AEXP_Coyote.description>
+
+  <Corpse_AEXP_Giraffe.label>туша жирафа</Corpse_AEXP_Giraffe.label>
+  <Corpse_AEXP_Giraffe.description>Мертвый жираф.</Corpse_AEXP_Giraffe.description>
+
+  <Corpse_AEXP_Hippopotamus.label>туша бегемота</Corpse_AEXP_Hippopotamus.label>
+  <Corpse_AEXP_Hippopotamus.description>Мертвый бегемот.</Corpse_AEXP_Hippopotamus.description>
+
+  <Corpse_AEXP_Zebra.label>туша зебры</Corpse_AEXP_Zebra.label>
+  <Corpse_AEXP_Zebra.description>Мертвая зебра.</Corpse_AEXP_Zebra.description>
+
+  <Corpse_AEXP_Wildebeest.label>туша антилопы гну</Corpse_AEXP_Wildebeest.label>
+  <Corpse_AEXP_Wildebeest.description>Мертвая антилопа гну.</Corpse_AEXP_Wildebeest.description>
+
+  <Corpse_AEXP_Crocodile.label>туша крокодила</Corpse_AEXP_Crocodile.label>
+  <Corpse_AEXP_Crocodile.description>Мертвый крокодил.</Corpse_AEXP_Crocodile.description>
+
+  <Corpse_AEXP_Cheetah.label>туша гепарда</Corpse_AEXP_Cheetah.label>
+  <Corpse_AEXP_Cheetah.description>Мертвый гепард.</Corpse_AEXP_Cheetah.description>
+
+  <Corpse_AEXP_Hyena.label>туша гиены</Corpse_AEXP_Hyena.label>
+  <Corpse_AEXP_Hyena.description>Мертвая гиена.</Corpse_AEXP_Hyena.description>
+
+  <Corpse_AEXP_DesertTortoise.label>туша пустынной черепахи</Corpse_AEXP_DesertTortoise.label>
+  <Corpse_AEXP_DesertTortoise.description>Мертвая пустынная черепаха.</Corpse_AEXP_DesertTortoise.description>
+
+  <Corpse_AEXP_Lion.label>туша льва</Corpse_AEXP_Lion.label>
+  <Corpse_AEXP_Lion.description>Мертвый лев.</Corpse_AEXP_Lion.description>
+
+  <Corpse_AEXP_GilaMonster.label>туша ядозуба</Corpse_AEXP_GilaMonster.label>
+  <Corpse_AEXP_GilaMonster.description>Мертвый ядозуб.</Corpse_AEXP_GilaMonster.description>
+
+  <Corpse_AEXP_Camel.label>туша бактриана</Corpse_AEXP_Camel.label>
+  <Corpse_AEXP_Camel.description>Мертвый бактриан.</Corpse_AEXP_Camel.description>
+
+  <Corpse_AEXP_Rattlesnake.label>тушка гремучей змеи</Corpse_AEXP_Rattlesnake.label>
+  <Corpse_AEXP_Rattlesnake.description>Мертвая гремучая змея.</Corpse_AEXP_Rattlesnake.description>
+
+  <Corpse_AEXP_Megascorpion.label>туша мегаскорпиона</Corpse_AEXP_Megascorpion.label>
+  <Corpse_AEXP_Megascorpion.description>Мертвый мегаскорпион.</Corpse_AEXP_Megascorpion.description>
+
+  <Corpse_AEXP_BlackFootedFerret.label>тушка черноногого хорька</Corpse_AEXP_BlackFootedFerret.label>
+  <Corpse_AEXP_BlackFootedFerret.description>Мертвый черноногий хорек.</Corpse_AEXP_BlackFootedFerret.description>
+
+  <Corpse_AEXP_BlackRhino.label>туша черного носорога</Corpse_AEXP_BlackRhino.label>
+  <Corpse_AEXP_BlackRhino.description>Мертвый черный носорог.</Corpse_AEXP_BlackRhino.description>
+
+  <Corpse_AEXP_Bonobo.label>туша бонобо</Corpse_AEXP_Bonobo.label>
+  <Corpse_AEXP_Bonobo.description>Мертвый бонобо.</Corpse_AEXP_Bonobo.description>
+
+  <Corpse_AEXP_Moa.label>туша моа</Corpse_AEXP_Moa.label>
+  <Corpse_AEXP_Moa.description>Мертвый моа.</Corpse_AEXP_Moa.description>
+
+  <Corpse_AEXP_Panda.label>туша большой панды</Corpse_AEXP_Panda.label>
+  <Corpse_AEXP_Panda.description>Мертвая большая панда.</Corpse_AEXP_Panda.description>
+
+  <Corpse_AEXP_Quagga.label>туша квагги</Corpse_AEXP_Quagga.label>
+  <Corpse_AEXP_Quagga.description>Мертвая квагга.</Corpse_AEXP_Quagga.description>
+
+  <Corpse_AEXP_RockhopperPenguin.label>тушка хохлатого пингвина</Corpse_AEXP_RockhopperPenguin.label>
+  <Corpse_AEXP_RockhopperPenguin.description>Мертвый хохлатый пингвин.</Corpse_AEXP_RockhopperPenguin.description>
+
+  <Corpse_AEXP_TasmanianDevil.label>тушка тасманийского дьявола</Corpse_AEXP_TasmanianDevil.label>
+  <Corpse_AEXP_TasmanianDevil.description>Мертвый тасманийский дьявол.</Corpse_AEXP_TasmanianDevil.description>
+
+  <Corpse_AEXP_Thylacine.label>туша сумчатого волка</Corpse_AEXP_Thylacine.label>
+  <Corpse_AEXP_Thylacine.description>Мертвый сумчатый волк.</Corpse_AEXP_Thylacine.description>
+
+  <Corpse_AEXP_AfricanWildDog.label>туша гиеновидной собаки</Corpse_AEXP_AfricanWildDog.label>
+  <Corpse_AEXP_AfricanWildDog.description>Мертвая гиеновидная собака.</Corpse_AEXP_AfricanWildDog.description>
+
+  <Corpse_AEXP_Pangolin.label>туша гигантского панголина</Corpse_AEXP_Pangolin.label>
+  <Corpse_AEXP_Pangolin.description>Мертвый гигантский панголин.</Corpse_AEXP_Pangolin.description>
+
+  <Corpse_VAECaves_AncientGiantSpider.label>туша древнего гигантского паука</Corpse_VAECaves_AncientGiantSpider.label>
+  <Corpse_VAECaves_AncientGiantSpider.description>Мертвый древний гигантский паук.</Corpse_VAECaves_AncientGiantSpider.description>
+
+  <Corpse_VAECaves_GiantSpider.label>туша гигантского паука</Corpse_VAECaves_GiantSpider.label>
+  <Corpse_VAECaves_GiantSpider.description>Мертвый гигантский паук.</Corpse_VAECaves_GiantSpider.description>
+
+  <Corpse_VAECaves_GiantSpiderHatchling.label>туша гигантского паучонка</Corpse_VAECaves_GiantSpiderHatchling.label>
+  <Corpse_VAECaves_GiantSpiderHatchling.description>Мертвый гигантский паучонок.</Corpse_VAECaves_GiantSpiderHatchling.description>
+
+  <Corpse_VAECaves_BlindSalamander.label>туша слепой саламандры</Corpse_VAECaves_BlindSalamander.label>
+  <Corpse_VAECaves_BlindSalamander.description>Мертвая слепая саламандра.</Corpse_VAECaves_BlindSalamander.description>
+  
+  <Corpse_VAECaves_CaveBear.label>туша пещерного медведя</Corpse_VAECaves_CaveBear.label>
+  <Corpse_VAECaves_CaveBear.description>Мертвый пещерный медведь.</Corpse_VAECaves_CaveBear.description>
+  
+  <Corpse_VAECaves_CaveCrawler.label>туша пещерного падальщика</Corpse_VAECaves_CaveCrawler.label>
+  <Corpse_VAECaves_CaveCrawler.description>Мертвый пещерный падальщик.</Corpse_VAECaves_CaveCrawler.description>  
+  
+  <Corpse_VAECaves_InsectoidHulk.label>туша гаргантюа</Corpse_VAECaves_InsectoidHulk.label>
+  <Corpse_VAECaves_InsectoidHulk.description>Мертвый гаргантюа.</Corpse_VAECaves_InsectoidHulk.description>
+  
+  <Corpse_VAECaves_Wyrm.label>туша виверны</Corpse_VAECaves_Wyrm.label>
+  <Corpse_VAECaves_Wyrm.description>Мертвая виверна.</Corpse_VAECaves_Wyrm.description>    
+
+
+</LanguageData>

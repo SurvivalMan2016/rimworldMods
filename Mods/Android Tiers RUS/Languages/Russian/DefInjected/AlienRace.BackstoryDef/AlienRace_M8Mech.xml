@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidTier_MechanizedInfantry.title>Механизированная пехота</AndroidTier_MechanizedInfantry.title>
+  <AndroidTier_MechanizedInfantry.titleShort>Мех</AndroidTier_MechanizedInfantry.titleShort>
+  <AndroidTier_MechanizedInfantry.baseDescription>{PAWN_nameDef} - это форма прототипа механизированной пехоты, очень мощная боевая единица, которая позволяет своему оцифрованному разуму находиться в безопасном месте и при этом участвовать в сражениях.</AndroidTier_MechanizedInfantry.baseDescription>
+
+  <AndroidTier_PrototypeM8.title>Прототип M8</AndroidTier_PrototypeM8.title>
+  <AndroidTier_PrototypeM8.titleShort>Мех</AndroidTier_PrototypeM8.titleShort>
+  <AndroidTier_PrototypeM8.baseDescription>Этот мех является прототипом, созданным из M7, к которому мы подключили дополнительные модули SkyCore и Skyminds.</AndroidTier_PrototypeM8.baseDescription>
+
+
+</LanguageData>

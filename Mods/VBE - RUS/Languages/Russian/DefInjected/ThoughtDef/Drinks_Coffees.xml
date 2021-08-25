@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_HotCoffeeHigh.stages.0.label>взбодрился от кофе</VBE_HotCoffeeHigh.stages.0.label>
+  <VBE_HotCoffeeHigh.stages.0.description>Этот кофе пришелся мне по вкусу, теперь давайте поработаем.</VBE_HotCoffeeHigh.stages.0.description>
+
+  <VBE_IcedCoffeeHigh.stages.0.label>взбодрился от кофе со льдом</VBE_IcedCoffeeHigh.stages.0.label>
+  <VBE_IcedCoffeeHigh.stages.0.description>Нет ничего лучше холодного кофе, чтобы освежиться.</VBE_IcedCoffeeHigh.stages.0.description>
+
+
+  <!-- Caffeine Addiction -->
+
+  <VBE_CaffeineWithdrawal.stages.1.label>кофеиновая ломка</VBE_CaffeineWithdrawal.stages.1.label>
+  <VBE_CaffeineWithdrawal.stages.1.description>Боже, я так устал. Все раздражает, руки трясутся и голова тяжелая.</VBE_CaffeineWithdrawal.stages.1.description>
+
+
+</LanguageData>

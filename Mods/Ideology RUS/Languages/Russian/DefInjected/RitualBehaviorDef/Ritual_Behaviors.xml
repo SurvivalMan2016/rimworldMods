@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: target -->
+  <BlindingCeremony.roles.0.label>цель</BlindingCeremony.roles.0.label>
+  <!-- EN: the person to blind -->
+  <BlindingCeremony.roles.0.missingDesc>ослеплять человека</BlindingCeremony.roles.0.missingDesc>
+  <!-- EN: cutter -->
+  <BlindingCeremony.roles.1.label>мясник</BlindingCeremony.roles.1.label>
+  <!-- EN: the person who performs the blinding -->
+  <BlindingCeremony.roles.1.missingDesc>человек, который выполняет ослепление</BlindingCeremony.roles.1.missingDesc>
+  
+  <!-- EN: participate -->
+  <BurnCircle.spectatorGerund>участвовать</BurnCircle.spectatorGerund>
+  <!-- EN: Participants -->
+  <BurnCircle.spectatorsLabel>Участники</BurnCircle.spectatorsLabel>
+  
+  <!-- EN: participate -->
+  <CelebrationPartyDanceDrum.spectatorGerund>участвовать</CelebrationPartyDanceDrum.spectatorGerund>
+  <!-- EN: Participants -->
+  <CelebrationPartyDanceDrum.spectatorsLabel>Участники</CelebrationPartyDanceDrum.spectatorsLabel>
+  <!-- EN: Campfire is missing. -->
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>Костер отсутствует.</CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>
+  <!-- EN: Campfire is not lit. -->
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>Костер не горит.</CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>
+  <!-- EN: No drums. -->
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>Никаких барабанов.</CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>
+  
+  <!-- EN: participate -->
+  <CelebrationSkyLanterns.spectatorGerund>участвовать</CelebrationSkyLanterns.spectatorGerund>
+  <!-- EN: Participants -->
+  <CelebrationSkyLanterns.spectatorsLabel>Участники</CelebrationSkyLanterns.spectatorsLabel>
+  
+  <!-- EN: participate -->
+  <CelebrationTree.spectatorGerund>участвовать</CelebrationTree.spectatorGerund>
+  <!-- EN: Participants -->
+  <CelebrationTree.spectatorsLabel>Участники</CelebrationTree.spectatorsLabel>
+  
+  <!-- EN: speaker -->
+  <Conversion.roles.0.label>оратор</Conversion.roles.0.label>
+  <!-- EN: convertee -->
+  <Conversion.roles.1.label>обращенный</Conversion.roles.1.label>
+  <!-- EN: Prisoner is not reachable. -->
+  <Conversion.stages.0.failTriggers.0.desc>Заключенный недоступен.</Conversion.stages.0.failTriggers.0.desc>
+  
+  <!-- EN: participate -->
+  <DancePartyTech.spectatorGerund>участвовать</DancePartyTech.spectatorGerund>
+  <!-- EN: Participants -->
+  <DancePartyTech.spectatorsLabel>Участники</DancePartyTech.spectatorsLabel>
+  <!-- EN: Lightball is missing. -->
+  <DancePartyTech.stages.0.failTriggers.0.desc>Дискошар отсутствует.</DancePartyTech.stages.0.failTriggers.0.desc>
+  <!-- EN: Lightball is not powered. -->
+  <DancePartyTech.stages.0.failTriggers.1.desc>Дискошар не работает.</DancePartyTech.stages.0.failTriggers.1.desc>
+  <!-- EN: No powered loudspeakers. -->
+  <DancePartyTech.stages.0.failTriggers.2.desc>Нет работающих динамиков.</DancePartyTech.stages.0.failTriggers.2.desc>
+  
+  <!-- EN: speaker -->
+  <DateRitual.roles.0.label>оратор</DateRitual.roles.0.label>
+  <!-- EN: participate -->
+  <DateRitual.spectatorGerund>участвовать</DateRitual.spectatorGerund>
+  <!-- EN: Participants -->
+  <DateRitual.spectatorsLabel>Участники</DateRitual.spectatorsLabel>
+  <!-- EN: <x>{0}</x>: The speech is over, and the party is beginning. -->
+  <DateRitual.stages.0.postAction.text>{0} ：Речь окончена, и вечеринка начинается.</DateRitual.stages.0.postAction.text>
+  
+  <!-- EN: executioner -->
+  <Execution.roles.0.label>палач</Execution.roles.0.label>
+  <!-- EN: an executioner -->
+  <Execution.roles.0.missingDesc>палач</Execution.roles.0.missingDesc>
+  <!-- EN: prisoner -->
+  <Execution.roles.1.label>заключенный</Execution.roles.1.label>
+  <!-- EN: a prisoner -->
+  <Execution.roles.1.missingDesc>заключенный</Execution.roles.1.missingDesc>
+  <!-- EN: Spectators must be willing to watch the execution. -->
+  <Execution.spectatorFilter.description>Зрители должны быть готовы наблюдать за казнью.</Execution.spectatorFilter.description>
+  <!-- EN: Prisoner is not reachable. -->
+  <Execution.stages.0.failTriggers.0.desc>Заключенный недоступен.</Execution.stages.0.failTriggers.0.desc>
+  
+  <!-- EN: participate -->
+  <FeastCannibal.spectatorGerund>участвовать</FeastCannibal.spectatorGerund>
+  <!-- EN: Participants -->
+  <FeastCannibal.spectatorsLabel>Участники</FeastCannibal.spectatorsLabel>
+  
+  <!-- EN: speaker -->
+  <Funeral.roles.0.label>оратор</Funeral.roles.0.label>
+  
+  <!-- EN: speaker -->
+  <GladiatorDuel.roles.0.label>оратор</GladiatorDuel.roles.0.label>
+  <!-- EN: duelist -->
+  <GladiatorDuel.roles.1.label>дуэлянт</GladiatorDuel.roles.1.label>
+  <!-- EN: duelists -->
+  <GladiatorDuel.roles.1.categoryLabel>дуэлянт</GladiatorDuel.roles.1.categoryLabel>
+  <!-- EN: prisoners / slaves (duelists) -->
+  <GladiatorDuel.roles.1.missingDesc>заключенные / рабы (дуэлянты)</GladiatorDuel.roles.1.missingDesc>
+  <!-- EN: duelist -->
+  <GladiatorDuel.roles.2.label>дуэлянт</GladiatorDuel.roles.2.label>
+  <!-- EN: duelists -->
+  <GladiatorDuel.roles.2.categoryLabel>дуэлянт</GladiatorDuel.roles.2.categoryLabel>
+  <!-- EN: prisoners / slaves (duelists) -->
+  <GladiatorDuel.roles.2.missingDesc>заключенные / рабы (дуэлянты)</GladiatorDuel.roles.2.missingDesc>
+  <!-- EN: duelist escort -->
+  <GladiatorDuel.roles.3.label>сопровождение дуэлянта</GladiatorDuel.roles.3.label>
+  <!-- EN: duelist escorts -->
+  <GladiatorDuel.roles.3.categoryLabel>сопровождение дуэлянта</GladiatorDuel.roles.3.categoryLabel>
+  <!-- EN: non-downed colonists capable of hauling -->
+  <GladiatorDuel.roles.3.missingDesc>непобитые поселенцы, способные тащить</GladiatorDuel.roles.3.missingDesc>
+  <!-- EN: duelist escort -->
+  <GladiatorDuel.roles.4.label>сопровождение дуэлянта</GladiatorDuel.roles.4.label>
+  <!-- EN: duelist escorts -->
+  <GladiatorDuel.roles.4.categoryLabel>сопровождение дуэлянта</GladiatorDuel.roles.4.categoryLabel>
+  <!-- EN: non-downed colonists capable of hauling -->
+  <GladiatorDuel.roles.4.missingDesc>непобитые поселенцы, способные тащить</GladiatorDuel.roles.4.missingDesc>
+  <!-- EN: participate -->
+  <GladiatorDuel.spectatorGerund>участвовать</GladiatorDuel.spectatorGerund>
+  <!-- EN: Spectators -->
+  <GladiatorDuel.spectatorsLabel>Зрители</GladiatorDuel.spectatorsLabel>
+  <!-- EN: Duelist is not reachable. -->
+  <GladiatorDuel.stages.2.failTriggers.0.desc>Дуэлянт недоступен.</GladiatorDuel.stages.2.failTriggers.0.desc>
+  
+  <!-- EN: <x>{SPEAKER_labelShort} </x>is giving a<x> {RITUAL_labelIndef}</x>.\n      \nIf all goes well, listeners will feel inspired, and gain respect for<x> {SPEAKER_labelShort}</x>. If it goes poorly, the speech will do social damage. Positive effects are reduced for non-<x>{IDEOMEMBERS}</x>. -->
+  <LeaderSpeech.letterText>{SPEAKER_labelShort} дает {RITUAL_labelIndef}.\n\nЕсли все пойдет хорошо, слушатели почувствуют вдохновение и проникнутся уважением к {SPEAKER_labelShort}. Если все пойдет плохо, речь нанесет социальный ущерб. Положительные эффекты уменьшаются для не{IDEOMEMBERS}.</LeaderSpeech.letterText>
+  <!-- EN: <x>{RITUAL_labelCap}</x> -->
+  <LeaderSpeech.letterTitle>{RITUAL_labelCap}</LeaderSpeech.letterTitle>
+  <!-- EN: speaker -->
+  <LeaderSpeech.roles.0.label>оратор</LeaderSpeech.roles.0.label>
+  
+  <!-- EN: cutter -->
+  <SacrificeAnimal.roles.0.label>мясник</SacrificeAnimal.roles.0.label>
+  <!-- EN: sacrifice -->
+  <SacrificeAnimal.roles.1.label>жертва</SacrificeAnimal.roles.1.label>
+  <!-- EN: an animal with body size of at least 0.8 -->
+  <SacrificeAnimal.roles.1.missingDesc>животное с размером тела не менее 0.8</SacrificeAnimal.roles.1.missingDesc>
+  <!-- EN: participate -->
+  <SacrificeAnimal.spectatorGerund>участвовать</SacrificeAnimal.spectatorGerund>
+  <!-- EN: Participants -->
+  <SacrificeAnimal.spectatorsLabel>Участники</SacrificeAnimal.spectatorsLabel>
+  <!-- EN: Animal is not reachable. -->
+  <SacrificeAnimal.stages.0.failTriggers.0.desc>Животное недоступно.</SacrificeAnimal.stages.0.failTriggers.0.desc>
+  
+  <!-- EN: cutter -->
+  <SacrificePrisoner.roles.0.label>мясник</SacrificePrisoner.roles.0.label>
+  <!-- EN: sacrifice -->
+  <SacrificePrisoner.roles.1.label>жертва</SacrificePrisoner.roles.1.label>
+  <!-- EN: a prisoner -->
+  <SacrificePrisoner.roles.1.missingDesc>заключенный</SacrificePrisoner.roles.1.missingDesc>
+  <!-- EN: participate -->
+  <SacrificePrisoner.spectatorGerund>участвовать</SacrificePrisoner.spectatorGerund>
+  <!-- EN: Participants -->
+  <SacrificePrisoner.spectatorsLabel>Участники</SacrificePrisoner.spectatorsLabel>
+  <!-- EN: Prisoner is not reachable. -->
+  <SacrificePrisoner.stages.0.failTriggers.0.desc>Заключенный недоступен.</SacrificePrisoner.stages.0.failTriggers.0.desc>
+  
+  <!-- EN: target -->
+  <ScarificationCeremony.roles.0.label>цель</ScarificationCeremony.roles.0.label>
+  <!-- EN: the person to scarify -->
+  <ScarificationCeremony.roles.0.missingDesc>человек, которого нужно шрамировать</ScarificationCeremony.roles.0.missingDesc>
+  <!-- EN: cutter -->
+  <ScarificationCeremony.roles.1.label>мясник</ScarificationCeremony.roles.1.label>
+  <!-- EN: the person who performs the scarification -->
+  <ScarificationCeremony.roles.1.missingDesc>лицо, которое выполняет шрамирование</ScarificationCeremony.roles.1.missingDesc>
+  
+  <!-- EN: participate -->
+  <SmokeCircle.spectatorGerund>участвовать</SmokeCircle.spectatorGerund>
+  <!-- EN: Participants -->
+  <SmokeCircle.spectatorsLabel>Участники</SmokeCircle.spectatorsLabel>
+  
+  <!-- EN: connector -->
+  <TreeConnection.roles.0.label>Арборист</TreeConnection.roles.0.label>
+  <!-- EN: spectate -->
+  <TreeConnection.spectatorGerund>наблюдать</TreeConnection.spectatorGerund>
+  <!-- EN: Spectators -->
+  <TreeConnection.spectatorsLabel>Зрители</TreeConnection.spectatorsLabel>
+  
+  <!-- EN: judge -->
+  <Trial.roles.0.label>судья</Trial.roles.0.label>
+  <!-- EN: convict -->
+  <Trial.roles.1.label>осужденный</Trial.roles.1.label>
+  
+  <!-- EN: judge -->
+  <TrialMentalState.roles.0.label>судья</TrialMentalState.roles.0.label>
+  <!-- EN: convict -->
+  <TrialMentalState.roles.1.label>осужденный</TrialMentalState.roles.1.label>
+  
+  <!-- EN: judge -->
+  <TrialPrisoner.roles.0.label>судья</TrialPrisoner.roles.0.label>
+  <!-- EN: convict -->
+  <TrialPrisoner.roles.1.label>осужденный</TrialPrisoner.roles.1.label>
+  <!-- EN: Convicted prisoner is not reachable. -->
+  <TrialPrisoner.stages.0.failTriggers.0.desc>Осужденный заключенный недоступен.</TrialPrisoner.stages.0.failTriggers.0.desc>
+  
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_RawApple.label>яблоки</VCE_RawApple.label>
+  <VCE_RawApple.description>Наливные красные яблоки. Яблоки использовались в качестве закуски, из них делали десерты и варили сидр с древних времен.</VCE_RawApple.description>
+
+  <VCE_RawPeach.label>персики</VCE_RawPeach.label>
+  <VCE_RawPeach.description>Съедобный сочный фрукт, называемый персиком или нектарином. Спелый персик имеет прекрасный аромат и восхитителен в свежем виде.</VCE_RawPeach.description>
+
+  <VCE_RawCherry.label>вишня</VCE_RawCherry.label>
+  <VCE_RawCherry.description>Крошечные пурпурно-красные плоды. Вишня отличается от других растений тем, что нуждается в небольших заморозках для созревания, поэтому она быстро стала фаворитом среди северных культур.</VCE_RawCherry.description>
+
+  <VCE_RawPlum.label>сливы</VCE_RawPlum.label>
+  <VCE_RawPlum.description>Фиолетовый плод с гладкой кожицей. Многие культуры высушивают сливы, делая чернослив для длительного хранения. Вместо того, чтобы гнить, по прошествии 15 дней сливы высохнут и превратятся в чернослив, который считается консервированной пищей.</VCE_RawPlum.description>
+
+  <VCE_RawPrunes.label>чернослив</VCE_RawPrunes.label>
+  <VCE_RawPrunes.description>Сушеные сливы. Чернослив хранится очень долго.</VCE_RawPrunes.description>
+
+  <VCE_RawPear.label>груши</VCE_RawPear.label>
+  <VCE_RawPear.description>Хрустящие зеленые груши. С виду груши похожи на яблоки, но они немного более волокнистые и менее сладкие.</VCE_RawPear.description>
+
+  <VCE_RawPricklyPear.label>опунция</VCE_RawPricklyPear.label>
+  <VCE_RawPricklyPear.description>Розовые съедобные плоды, по вкусу похожие на дыню. Исторически использовались аборигенами пустыни для перекусов и в медицинских целях.</VCE_RawPricklyPear.description>
+
+  <VCE_Bearberry.label>толокнянка</VCE_Bearberry.label>
+  <VCE_Bearberry.description>Маленькие розовые ягоды, известные как толокнянка. Хотя сырые ягоды толокнянки обладают мягким и кисловатым вкусом, они становятся гораздо более вкусными после приготовления ,когда проявляется их естественная сладость.</VCE_Bearberry.description>
+
+  <VCE_RawBanana.label>бананы</VCE_RawBanana.label>
+  <VCE_RawBanana.description>Желтые продолговатые ягоды, легко очищаемые до сладкой мякоти. На протяжении тысячелетий бананы были любимым фруктом людей и других приматов тропиков.</VCE_RawBanana.description>
+
+  <VCE_RawOrange.label>апельсины</VCE_RawOrange.label>
+  <VCE_RawOrange.description>Круглые и сморщенные апельсины, как известно, раздражают своей жесткой кожурой, но известны как один из самых сочных фруктов с ярким запахом и кисловатым послевкусием.</VCE_RawOrange.description>
+
+
+</LanguageData>

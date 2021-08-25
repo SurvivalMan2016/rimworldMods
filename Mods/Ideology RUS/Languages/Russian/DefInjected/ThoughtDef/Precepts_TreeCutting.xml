@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cut tree -->
+  <CutTree_Disapproved.stages.cut_tree.label>срубил дерево</CutTree_Disapproved.stages.cut_tree.label>
+  <!-- EN: I had to cut down a tree. It was wrong to scar nature this way. -->
+  <CutTree_Disapproved.stages.cut_tree.description>Мне пришлось срубить дерево. Было неправильно так ранить природу.</CutTree_Disapproved.stages.cut_tree.description>
+  
+  <!-- EN: cut tree -->
+  <CutTree_Horrible.stages.cut_tree.label>срубил дерево</CutTree_Horrible.stages.cut_tree.label>
+  <!-- EN: I had to cut down a tree. It was horrible to scar nature this way. -->
+  <CutTree_Horrible.stages.cut_tree.description>Мне пришлось срубить дерево. Это было ужасно - так ранить природу.</CutTree_Horrible.stages.cut_tree.description>
+  
+  <!-- EN: cut tree -->
+  <CutTree_Know_Disapproved.stages.cut_tree.label>срубил дерево</CutTree_Know_Disapproved.stages.cut_tree.label>
+  
+  <!-- EN: tree felled -->
+  <CutTree_Know_Disapproved_Mood.stages.tree_felled.label>срубленое дерево</CutTree_Know_Disapproved_Mood.stages.tree_felled.label>
+  <!-- EN: We cut down a tree. It wasn't good to harm nature this way. -->
+  <CutTree_Know_Disapproved_Mood.stages.tree_felled.description>Мы срубили дерево. Нехорошо было так вредить природе.</CutTree_Know_Disapproved_Mood.stages.tree_felled.description>
+  
+  <!-- EN: cut tree -->
+  <CutTree_Know_Horrible.stages.cut_tree.label>срубил дерево</CutTree_Know_Horrible.stages.cut_tree.label>
+  
+  <!-- EN: tree felled -->
+  <CutTree_Know_Horrible_Mood.stages.tree_felled.label>срубленое дерево</CutTree_Know_Horrible_Mood.stages.tree_felled.label>
+  <!-- EN: We cut down a tree. It's wrong to scar nature this way. -->
+  <CutTree_Know_Horrible_Mood.stages.tree_felled.description>Мы срубили дерево. Неправильно так ранить природу.</CutTree_Know_Horrible_Mood.stages.tree_felled.description>
+  
+  <!-- EN: cut tree -->
+  <CutTree_Know_Prohibited.stages.cut_tree.label>срубил дерево</CutTree_Know_Prohibited.stages.cut_tree.label>
+  
+  <!-- EN: tree felled -->
+  <CutTree_Know_Prohibited_Mood.stages.tree_felled.label>срубленое дерево</CutTree_Know_Prohibited_Mood.stages.tree_felled.label>
+  <!-- EN: We cut down a tree. Such things violations of nature should never be done. -->
+  <CutTree_Know_Prohibited_Mood.stages.tree_felled.description>Мы срубили дерево. Такие вещи, нарушающие природу, никогда не должны совершаться.</CutTree_Know_Prohibited_Mood.stages.tree_felled.description>
+  
+</LanguageData>

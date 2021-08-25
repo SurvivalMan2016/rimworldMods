@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hunger Tea -->
+
+  <TM_MakeHungerTeas.label>сделать чай от голода</TM_MakeHungerTeas.label>
+  <TM_MakeHungerTeas.description>Приготовьте "Чай от голода" из красных лепестков и кожи.</TM_MakeHungerTeas.description>
+  <TM_MakeHungerTeas.jobString>Заваривание чая от голода.</TM_MakeHungerTeas.jobString>
+
+  <TM_MakeHungerTeasFour.label>сделать чай от голода x4</TM_MakeHungerTeasFour.label>
+  <TM_MakeHungerTeasFour.description>Приготовьте "Чай от голода" из красных лепестков и кожи.</TM_MakeHungerTeasFour.description>
+  <TM_MakeHungerTeasFour.jobString>Заваривание чая от голода.</TM_MakeHungerTeasFour.jobString>
+
+
+</LanguageData>

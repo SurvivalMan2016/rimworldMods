@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Coloring Androids framework -->
+
+  <ATPP_PaintAndroidFrameworkDefault.label>Покрасить каркас андроида в стандартный цвет</ATPP_PaintAndroidFrameworkDefault.label>
+  <ATPP_PaintAndroidFrameworkDefault.description>Покрасить каркас андроида в стандартный цвет.</ATPP_PaintAndroidFrameworkDefault.description>
+  <ATPP_PaintAndroidFrameworkDefault.jobString>Покрасить каркас андроида в стандартный цвет.</ATPP_PaintAndroidFrameworkDefault.jobString>
+
+  <ATPP_PaintAndroidFrameworkKhaki.label>Покрасить каркас андроида в хаки</ATPP_PaintAndroidFrameworkKhaki.label>
+  <ATPP_PaintAndroidFrameworkKhaki.description>Покрасить каркас андроида в хаки.</ATPP_PaintAndroidFrameworkKhaki.description>
+  <ATPP_PaintAndroidFrameworkKhaki.jobString>Покрасить каркас андроида в хаки.</ATPP_PaintAndroidFrameworkKhaki.jobString>
+
+  <ATPP_PaintAndroidFrameworkGreen.label>Покрасить каркас андроида в зелёный</ATPP_PaintAndroidFrameworkGreen.label>
+  <ATPP_PaintAndroidFrameworkGreen.description>Покрасить каркас андроида в зелёный.</ATPP_PaintAndroidFrameworkGreen.description>
+  <ATPP_PaintAndroidFrameworkGreen.jobString>Покрасить каркас андроида в зелёный.</ATPP_PaintAndroidFrameworkGreen.jobString>
+
+  <ATPP_PaintAndroidFrameworkBlue.label>Покрасить каркас андроида в синий</ATPP_PaintAndroidFrameworkBlue.label>
+  <ATPP_PaintAndroidFrameworkBlue.description>Покрасить каркас андроида в синий.</ATPP_PaintAndroidFrameworkBlue.description>
+  <ATPP_PaintAndroidFrameworkBlue.jobString>Покрасить каркас андроида в синий.</ATPP_PaintAndroidFrameworkBlue.jobString>
+
+  <ATPP_PaintAndroidFrameworkRed.label>Покрасить каркас андроида в красный</ATPP_PaintAndroidFrameworkRed.label>
+  <ATPP_PaintAndroidFrameworkRed.description>Покрасить каркас андроида в красный.</ATPP_PaintAndroidFrameworkRed.description>
+  <ATPP_PaintAndroidFrameworkRed.jobString>Покрасить каркас андроида в красный.</ATPP_PaintAndroidFrameworkRed.jobString>
+
+  <ATPP_PaintAndroidFrameworkOrange.label>Покрасить каркас андроида в оранжевый</ATPP_PaintAndroidFrameworkOrange.label>
+  <ATPP_PaintAndroidFrameworkOrange.description>Покрасить каркас андроида в оранжевый.</ATPP_PaintAndroidFrameworkOrange.description>
+  <ATPP_PaintAndroidFrameworkOrange.jobString>Покрасить каркас андроида в оранжевый.</ATPP_PaintAndroidFrameworkOrange.jobString>
+
+  <ATPP_PaintAndroidFrameworkYellow.label>Покрасить каркас андроида в жёлтый</ATPP_PaintAndroidFrameworkYellow.label>
+  <ATPP_PaintAndroidFrameworkYellow.description>Покрасить каркас андроида в жёлтый.</ATPP_PaintAndroidFrameworkYellow.description>
+  <ATPP_PaintAndroidFrameworkYellow.jobString>Покрасить каркас андроида в жёлтый.</ATPP_PaintAndroidFrameworkYellow.jobString>
+
+  <ATPP_PaintAndroidFrameworkBlack.label>Покрасить каркас андроида в чёрный</ATPP_PaintAndroidFrameworkBlack.label>
+  <ATPP_PaintAndroidFrameworkBlack.description>Покрасить каркас андроида в чёрный.</ATPP_PaintAndroidFrameworkBlack.description>
+  <ATPP_PaintAndroidFrameworkBlack.jobString>Покрасить каркас андроида в чёрный.</ATPP_PaintAndroidFrameworkBlack.jobString>
+
+  <ATPP_PaintAndroidFrameworkWhite.label>Покрасить каркас андроида в белый</ATPP_PaintAndroidFrameworkWhite.label>
+  <ATPP_PaintAndroidFrameworkWhite.description>Покрасить каркас андроида в белый.</ATPP_PaintAndroidFrameworkWhite.description>
+  <ATPP_PaintAndroidFrameworkWhite.jobString>Покрасить каркас андроида в белый.</ATPP_PaintAndroidFrameworkWhite.jobString>
+
+  <ATPP_PaintAndroidFrameworkGray.label>Покрасить каркас андроида в серый</ATPP_PaintAndroidFrameworkGray.label>
+  <ATPP_PaintAndroidFrameworkGray.description>Покрасить каркас андроида в серый.</ATPP_PaintAndroidFrameworkGray.description>
+  <ATPP_PaintAndroidFrameworkGray.jobString>Покрасить каркас андроида в серый.</ATPP_PaintAndroidFrameworkGray.jobString>
+
+  <ATPP_PaintAndroidFrameworkPurple.label>Покрасить каркас андроида в фиолетовый</ATPP_PaintAndroidFrameworkPurple.label>
+  <ATPP_PaintAndroidFrameworkPurple.description>Покрасить каркас андроида в фиолетовый.</ATPP_PaintAndroidFrameworkPurple.description>
+  <ATPP_PaintAndroidFrameworkPurple.jobString>Покрасить каркас андроида в фиолетовый.</ATPP_PaintAndroidFrameworkPurple.jobString>
+
+  <ATPP_PaintAndroidFrameworkPink.label>Покрасить каркас андроида в розовый</ATPP_PaintAndroidFrameworkPink.label>
+  <ATPP_PaintAndroidFrameworkPink.description>Покрасить каркас андроида в розовый.</ATPP_PaintAndroidFrameworkPink.description>
+  <ATPP_PaintAndroidFrameworkPink.jobString>Покрасить каркас андроида в розовый.</ATPP_PaintAndroidFrameworkPink.jobString>
+
+  <ATPP_PaintAndroidFrameworkCyan.label>Покрасить каркас андроида в голубой</ATPP_PaintAndroidFrameworkCyan.label>
+  <ATPP_PaintAndroidFrameworkCyan.description>Покрасить каркас андроида в голубой.</ATPP_PaintAndroidFrameworkCyan.description>
+  <ATPP_PaintAndroidFrameworkCyan.jobString>Покрасить каркас андроида в голубой.</ATPP_PaintAndroidFrameworkCyan.jobString>
+
+
+  <!-- Apply nanite bank on androids thought an operation -->
+
+  <ATPP_ApplyHydraulicNaniteBank.label>Ввести банк гидравлических нанитов</ATPP_ApplyHydraulicNaniteBank.label>
+  <ATPP_ApplyHydraulicNaniteBank.description>Ввести одноразовую дозу нанитов, настроенных на ремонт сломанных гидравлических систем андроида.</ATPP_ApplyHydraulicNaniteBank.description>
+  <ATPP_ApplyHydraulicNaniteBank.jobString>Исправление возрастных проблем андроидов с помощью сыворотки нанитов</ATPP_ApplyHydraulicNaniteBank.jobString>
+
+  <ATPP_ApplyHealFrameworkSystem.label>Ввести банк корпусных нанитов</ATPP_ApplyHealFrameworkSystem.label>
+  <ATPP_ApplyHealFrameworkSystem.description>Ввести дозу одноразового банка нанитов, настроенного на восстановление сломанного экзоскелета андроида.</ATPP_ApplyHealFrameworkSystem.description>
+  <ATPP_ApplyHealFrameworkSystem.jobString>Исправление возрастных проблем андроидов с помощью сыворотки нанитов</ATPP_ApplyHealFrameworkSystem.jobString>
+
+  <ATPP_ApplyHealCoolingSystem.label>Ввести банк охлаждающий нанитов</ATPP_ApplyHealCoolingSystem.label>
+  <ATPP_ApplyHealCoolingSystem.description>Ввести дозу одноразового банка нанитов, настроенного на ремонт сломанной системы охлаждения андроидов в случае перегрева.</ATPP_ApplyHealCoolingSystem.description>
+  <ATPP_ApplyHealCoolingSystem.jobString>Исправление возрастных проблем андроидов с помощью сыворотки нанитов</ATPP_ApplyHealCoolingSystem.jobString>
+
+  <ATPP_ApplyHealCPUSerum.label>Ввести банк CPU нанитов</ATPP_ApplyHealCPUSerum.label>
+  <ATPP_ApplyHealCPUSerum.description>Ввести дозу одноразового банка нанитов, настроенного на восстановление сломанной системы искусственного мозга андроидов.</ATPP_ApplyHealCPUSerum.description>
+  <ATPP_ApplyHealCPUSerum.jobString>Исправление возрастных проблем андроидов с помощью сыворотки нанитов</ATPP_ApplyHealCPUSerum.jobString>
+
+  <ATPP_InstallRXChip.label>Установить RX нейрочип</ATPP_InstallRXChip.label>
+  <ATPP_InstallRXChip.description>Установить RX нейрочип, который выступает в роли персонального реле SkyMind для его хоста.</ATPP_InstallRXChip.description>
+  <ATPP_InstallRXChip.jobString>Установить RX нейрочип.</ATPP_InstallRXChip.jobString>
+
+  <ATPP_InstallRXChipOnAndroid.label>Установить RX нейрочип</ATPP_InstallRXChipOnAndroid.label>
+  <ATPP_InstallRXChipOnAndroid.description>Установить RX нейрочип, который выступает в роли персонального реле SkyMind для его хоста.</ATPP_InstallRXChipOnAndroid.description>
+  <ATPP_InstallRXChipOnAndroid.jobString>Установить RX нейрочип.</ATPP_InstallRXChipOnAndroid.jobString>
+
+  <ATPP_InstallVX0Chip.label>Установить VX0 нейрочип</ATPP_InstallVX0Chip.label>
+  <ATPP_InstallVX0Chip.description>Установить VX0 нейрочип, нейронный чип, который превращает его хозяина в биологический суррогат.</ATPP_InstallVX0Chip.description>
+  <ATPP_InstallVX0Chip.jobString>Установить VX0 нейрочип.</ATPP_InstallVX0Chip.jobString>
+
+  <ATPP_InstallVX0ChipOnAndroid.label>Установить VX0 нейрочип</ATPP_InstallVX0ChipOnAndroid.label>
+  <ATPP_InstallVX0ChipOnAndroid.description>Установить VX0 нейрочип, нейронный чип, который превращает его хозяина в биологический суррогат.</ATPP_InstallVX0ChipOnAndroid.description>
+  <ATPP_InstallVX0ChipOnAndroid.jobString>Установить VX0 нейрочип.</ATPP_InstallVX0ChipOnAndroid.jobString>
+
+  <ATPP_InstallVX1Chip.label>Установить VX1 нейрочип</ATPP_InstallVX1Chip.label>
+  <ATPP_InstallVX1Chip.description>Установить VX1 нейрочип, позволяющий хосту удаленно управлять любым андроидом серии SX или биологическим суррогатом.</ATPP_InstallVX1Chip.description>
+  <ATPP_InstallVX1Chip.jobString>Установить VX1 нейрочип.</ATPP_InstallVX1Chip.jobString>
+
+  <ATPP_InstallVX1ChipOnAndroid.label>Установить VX1 нейрочип</ATPP_InstallVX1ChipOnAndroid.label>
+  <ATPP_InstallVX1ChipOnAndroid.description>Установить VX1 нейрочип, позволяющий хосту удаленно управлять любым андроидом серии SX или биологическим суррогатом.</ATPP_InstallVX1ChipOnAndroid.description>
+  <ATPP_InstallVX1ChipOnAndroid.jobString>Установить VX1 нейрочип.</ATPP_InstallVX1ChipOnAndroid.jobString>
+
+  <ATPP_InstallVX2Chip.label>Установить VX2 нейрочип</ATPP_InstallVX2Chip.label>
+  <ATPP_InstallVX2Chip.description>Установить VX2 нейрочип,позволяя хосту удаленно управлять любым андроидом или биологическим суррогатом серии SX и дублировать / переставлять их разум</ATPP_InstallVX2Chip.description>
+  <ATPP_InstallVX2Chip.jobString>Установить VX2 нейрочип.</ATPP_InstallVX2Chip.jobString>
+
+  <ATPP_InstallVX2ChipOnAndroid.label>Установить VX2 нейрочип</ATPP_InstallVX2ChipOnAndroid.label>
+  <ATPP_InstallVX2ChipOnAndroid.description>Установить VX2 нейрочип,позволяя хосту удаленно управлять любым андроидом или биологическим суррогатом серии SX и дублировать / переставлять их разум</ATPP_InstallVX2ChipOnAndroid.description>
+  <ATPP_InstallVX2ChipOnAndroid.jobString>Установить VX2 нейрочип.</ATPP_InstallVX2ChipOnAndroid.jobString>
+
+  <ATPP_InstallVX3Chip.label>Установить VX3 нейрочип</ATPP_InstallVX3Chip.label>
+  <ATPP_InstallVX3Chip.description>Установить VX3 нейрочип,позволяя хосту удаленно управлять любым андроидом или биологическим суррогатом серии SX и дублировать / переставлять их разум</ATPP_InstallVX3Chip.description>
+  <ATPP_InstallVX3Chip.jobString>Установить VX3 нейрочип.</ATPP_InstallVX3Chip.jobString>
+
+  <ATPP_InstallVX3ChipOnAndroid.label>Установить VX3 нейрочип</ATPP_InstallVX3ChipOnAndroid.label>
+  <ATPP_InstallVX3ChipOnAndroid.description>Установить VX3 нейрочип,позволяя хосту удаленно управлять любым андроидом или биологическим суррогатом серии SX и дублировать / переставлять их разум</ATPP_InstallVX3ChipOnAndroid.description>
+  <ATPP_InstallVX3ChipOnAndroid.jobString>Установить VX3 нейрочип.</ATPP_InstallVX3ChipOnAndroid.jobString>
+
+  <ATPP_InstallT1ArtificialBrain.label>Установить искусственного мозга T1</ATPP_InstallT1ArtificialBrain.label>
+  <ATPP_InstallT1ArtificialBrain.description>Установка искусственного мозга T1,при установке позволяющий трансформировать суррогат T1 в пустую нейронную сеть андроида</ATPP_InstallT1ArtificialBrain.description>
+  <ATPP_InstallT1ArtificialBrain.jobString>Установить искусственного мозга T1.</ATPP_InstallT1ArtificialBrain.jobString>
+
+  <ATPP_InstallT2ArtificialBrain.label>Установить искусственного мозга T2</ATPP_InstallT2ArtificialBrain.label>
+  <ATPP_InstallT2ArtificialBrain.description>Установка искусственного мозга T2,при установке позволяющий трансформировать суррогат T2 в пустую нейронную сеть андроида</ATPP_InstallT2ArtificialBrain.description>
+  <ATPP_InstallT2ArtificialBrain.jobString>IУстановить искусственного мозга T2.</ATPP_InstallT2ArtificialBrain.jobString>
+
+  <ATPP_InstallT3ArtificialBrain.label>Установить искусственного мозга T3</ATPP_InstallT3ArtificialBrain.label>
+  <ATPP_InstallT3ArtificialBrain.description>Установка искусственного мозга T3,при установке позволяющий трансформировать суррогат T3 в пустую нейронную сеть андроида</ATPP_InstallT3ArtificialBrain.description>
+  <ATPP_InstallT3ArtificialBrain.jobString>Установить искусственного мозга T3.</ATPP_InstallT3ArtificialBrain.jobString>
+
+  <ATPP_InstallT4ArtificialBrain.label>Установить искусственного мозга T4</ATPP_InstallT4ArtificialBrain.label>
+  <ATPP_InstallT4ArtificialBrain.description>Установка искусственного мозга T4,при установке позволяющий трансформировать суррогат T4 в пустую нейронную сеть андроида</ATPP_InstallT4ArtificialBrain.description>
+  <ATPP_InstallT4ArtificialBrain.jobString>Установить искусственного мозга T4.</ATPP_InstallT4ArtificialBrain.jobString>
+
+
+</LanguageData>

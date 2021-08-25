@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Soups -->
+
+  <VCE_InsertSoup>поставить суп</VCE_InsertSoup>
+  <VCE_InsertSoupDesc>Поставить на плитку суп для последующей варки.</VCE_InsertSoupDesc>
+  <VCE_NoSoupsFound>Этот вид супа не найден на карте.</VCE_NoSoupsFound>
+  <VCE_UncookedSoupSimple>простой суп</VCE_UncookedSoupSimple>
+  <VCE_UncookedSoupFine>вкусный суп</VCE_UncookedSoupFine>
+  <VCE_UncookedSoupLavish>шикарный суп</VCE_UncookedSoupLavish>
+  <VCE_UncookedSoupGourmet>изысканный суп</VCE_UncookedSoupGourmet>
+  <VCE_UncookedSoupSimple_InsertSoup>поставить простой суп</VCE_UncookedSoupSimple_InsertSoup>
+  <VCE_UncookedSoupFine_InsertSoup>поставить вкусный суп</VCE_UncookedSoupFine_InsertSoup>
+  <VCE_UncookedSoupLavish_InsertSoup>поставить шикарный суп</VCE_UncookedSoupLavish_InsertSoup>
+  <VCE_UncookedSoupGourmet_InsertSoup>поставить изысканный суп</VCE_UncookedSoupGourmet_InsertSoup>
+  <VCE_SelectSoup>Выберите тип супа для варки</VCE_SelectSoup>
+  <VCE_StartInsertion>Поставить суп</VCE_StartInsertion>
+  <VCE_StartInsertionDesc>Принести и поставить суп на электрическую плитку для начала варки.</VCE_StartInsertionDesc>
+  <VCE_RemoveSoup>Убрать суп</VCE_RemoveSoup>
+  <VCE_RemoveSoupDesc>Убрать суп с плитки. Это можно сделать только до начала варки.</VCE_RemoveSoupDesc>
+  <VCE_CancelBringingSoup>Не ставить суп</VCE_CancelBringingSoup>
+  <VCE_CancelBringingSoupDesc>Не ставить суп на электрическую плитку.</VCE_CancelBringingSoupDesc>
+  <VCE_WaitTillJobsEnd>Подождите пока суп принесут на электрическую плитку или отмените это задание.</VCE_WaitTillJobsEnd>
+  <VCE_NotPowered>Электрическая плитка не подключена к сети</VCE_NotPowered>
+  <VCE_Engage>Варить суп</VCE_Engage>
+  <VCE_EngageDesc>Начинается варка супа. Этот процесс займет три дня и не должен прерываться. В противном случае суп будет испорчен.</VCE_EngageDesc>
+  <VCE_SoupFailurePower>Суп испортился из-за отключения электрической плитки от сети</VCE_SoupFailurePower>
+  <VCE_SoupFailurePowerWarning>Суп портится из-за отключения электрической плитки от сети</VCE_SoupFailurePowerWarning>
+  <VCE_SoupFinished>Суп заканчивает вариться на электрической плитке</VCE_SoupFinished>
+  <VCE_SoupInProgress>{0} готовится. Будет готово через {1}</VCE_SoupInProgress>
+  <VCE_SoupReady>Суп готов и ожидает, когда кто-нибудь его заберет</VCE_SoupReady>
+
+  <!-- Cheese making -->
+
+  <VCE_InsertMilkDesc>Выберите молоко для добавления в сырный пресс. Разные виды молока могуть дать разные виды сыра.</VCE_InsertMilkDesc>
+  <VCE_InsertMilk>Выберите молоко</VCE_InsertMilk>
+  <VCE_InsertMilkVariable>Добавить {0}</VCE_InsertMilkVariable>
+  <VCE_NoMilksFound>Этот вид молока не найден на карте.</VCE_NoMilksFound>
+  <VCE_SelectMilk>Выберите тип молока для добавления в пресс</VCE_SelectMilk>
+  <VCE_StartInsertionMilk>Добавить молоко</VCE_StartInsertionMilk>
+  <VCE_StartInsertionMilkDesc>Принести и добавить молоко в пресс, чтобы начать отжимать сыр</VCE_StartInsertionMilkDesc>
+  <VCE_RemoveMilk>Убрать молоко</VCE_RemoveMilk>
+  <VCE_RemoveMilkDesc>Убрать молоко из пресса. Это возможно только до начала работы сырного пресса.</VCE_RemoveMilkDesc>
+  <VCE_CancelBringingMilk>Не добавлять молоко</VCE_CancelBringingMilk>
+  <VCE_CancelBringingMilkDesc>Отменяет переноску молока в сырный пресс.</VCE_CancelBringingMilkDesc>
+  <VCE_WaitTillJobsEndMilk>Подождите пока молоко не будет добавлено в пресс или отмените это задание.</VCE_WaitTillJobsEndMilk>
+  <VCE_EngageMilk>Сделать сыр</VCE_EngageMilk>
+  <VCE_EngageMilkDesc>Начался процесс превращения молока в сыр под прессом. Процесс может занимать различное время и качество сыра будет расти по мере созревания. Вы можете забрать сыр в любой момент после начального созревания.</VCE_EngageMilkDesc>
+  <VCE_CheeseFinished>Сыр закончил созревать в сырном прессе</VCE_CheeseFinished>
+  <VCE_CheeseInProgress>Сырный пресс работает {0}. Сыр будет готов через {1} с качеством {2}</VCE_CheeseInProgress>
+  <VCE_CheeseReady>Этот сыр достиг желаемой степени созревания и ждет, когда кто-нибудь его заберет</VCE_CheeseReady>
+  <VCE_MilkImproperlyDefined>Это молоко несовместимо с сырным прессом. Свяжитесь с автором мода, который добавил это молоко.</VCE_MilkImproperlyDefined>
+  <VCE_RemoveCheese>Забрать сыр ({0})</VCE_RemoveCheese>
+  <VCE_RemoveCheeseDesc>Забрать сыр из сырного пресса. Сыр будет готов с качеством ({0})</VCE_RemoveCheeseDesc>
+
+  <VCE_CheesePressEmpty>Сырный пресс пуст в настоящий момент</VCE_CheesePressEmpty>
+  <VCE_CheesePressFilled>Сырный пресс заполнен {0}</VCE_CheesePressFilled>
+  <VCE_CheesePressWorking>Сырный пресс в процессе работы:</VCE_CheesePressWorking>
+  <VCE_ResourcePercentage> (заполнен {0} из {1})</VCE_ResourcePercentage>
+  
+</LanguageData>

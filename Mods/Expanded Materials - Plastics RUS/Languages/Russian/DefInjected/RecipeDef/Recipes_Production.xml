@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Chemfuel with dark oil -->
+
+  <VMEu_MakeChemfuelFromDarkOil.label>Сделать химтопливо из нефти</VMEu_MakeChemfuelFromDarkOil.label>
+  <VMEu_MakeChemfuelFromDarkOil.description>Довольно длительный процесс, в ходе которого из нефти извлекается огромное количество химического топлива.\n\nЭтот процесс делает нефть не пригодной для последующего использования.</VMEu_MakeChemfuelFromDarkOil.description>
+  <VMEu_MakeChemfuelFromDarkOil.jobString>Переработка нефти в химтопливо.</VMEu_MakeChemfuelFromDarkOil.jobString>
+
+
+  <!-- Asphalt production -->
+
+  <VMEu_MakeAsphaltMix.label>сделать асфальт</VMEu_MakeAsphaltMix.label>
+  <VMEu_MakeAsphaltMix.description>Сделайте асфальтную смесь темного цвета из остатков уже использованной нефти и каменной крошки.\n\nАсфальт отлично подходит для дорожек, по нему очень быстро ходить.</VMEu_MakeAsphaltMix.description>
+  <VMEu_MakeAsphaltMix.jobString>Изготовление асфальтобетонной смеси.</VMEu_MakeAsphaltMix.jobString>
+
+
+  <!-- Bulk -->
+
+  <VMEu_MakeAsphaltMix_Bulk.label>сделать асфальт х4</VMEu_MakeAsphaltMix_Bulk.label>
+  <VMEu_MakeAsphaltMix_Bulk.description>Сделайте асфальтную смесь темного цвета из остатков уже использованной нефти и каменной крошки.\n\nАсфальт отлично подходит для дорожек, по нему очень быстро ходить.</VMEu_MakeAsphaltMix_Bulk.description>
+  <VMEu_MakeAsphaltMix_Bulk.jobString>Изготовление асфальтобетонной смеси.</VMEu_MakeAsphaltMix_Bulk.jobString>
+
+
+  <!-- Polyester Cloth -->
+
+  <VMEu_WeavePolyesterCloth.label>сделать полиэстер</VMEu_WeavePolyesterCloth.label>
+  <VMEu_WeavePolyesterCloth.description>Сделать полиэстеровую ткань, синтетический вариант ткани, который проще в производстве и немного лучше обычной ткани, однако этпа ткань может быть использована лишь для изготовления одежды и мебели.</VMEu_WeavePolyesterCloth.description>
+  <VMEu_WeavePolyesterCloth.jobString>Создание полиэстера.</VMEu_WeavePolyesterCloth.jobString>
+
+  <VMEu_WeavePolyesterCloth_Bulk.label>сделать много полиэстера</VMEu_WeavePolyesterCloth_Bulk.label>
+  <VMEu_WeavePolyesterCloth_Bulk.description>Сделать полиэстеровую ткань, синтетический вариант ткани, который проще в производстве и немного лучше обычной ткани, однако этпа ткань может быть использована лишь для изготовления одежды и мебели.</VMEu_WeavePolyesterCloth_Bulk.description>
+  <VMEu_WeavePolyesterCloth_Bulk.jobString>Создание полиэстера.</VMEu_WeavePolyesterCloth_Bulk.jobString>
+
+
+  <!-- Leathers -->
+
+  <VMEu_WeaveSynthleather_Black.label>сделать кожезаменитель (чёрный)</VMEu_WeaveSynthleather_Black.label>
+  <VMEu_WeaveSynthleather_Black.description>Создание синтетического заменителя кожи, не такого прочного, как натуральная кожа, но более красивого и эластичного, чем обычная кожа.</VMEu_WeaveSynthleather_Black.description>
+  <VMEu_WeaveSynthleather_Black.jobString>Создание кожезаменителя.</VMEu_WeaveSynthleather_Black.jobString>
+
+  <VMEu_WeaveSynthleather_Brown.label>сделать кожезаменитель (коричневый)</VMEu_WeaveSynthleather_Brown.label>
+  <VMEu_WeaveSynthleather_Brown.description>Создание синтетического заменителя кожи, не такого прочного, как натуральная кожа, но более красивого и эластичного, чем обычная кожа.</VMEu_WeaveSynthleather_Brown.description>
+  <VMEu_WeaveSynthleather_Brown.jobString>Создание кожезаменителя.</VMEu_WeaveSynthleather_Brown.jobString>
+
+  <VMEu_WeaveSynthleather_Beige.label>сделать кожезаменитель (бежевый)</VMEu_WeaveSynthleather_Beige.label>
+  <VMEu_WeaveSynthleather_Beige.description>Создание синтетического заменителя кожи, не такого прочного, как натуральная кожа, но более красивого и эластичного, чем обычная кожа.</VMEu_WeaveSynthleather_Beige.description>
+  <VMEu_WeaveSynthleather_Beige.jobString>Создание кожезаменителя.</VMEu_WeaveSynthleather_Beige.jobString>
+
+  <VMEu_WeaveSynthleather_Crimson.label>сделать кожезаменитель (малиновый)</VMEu_WeaveSynthleather_Crimson.label>
+  <VMEu_WeaveSynthleather_Crimson.description>Создание синтетического заменителя кожи, не такого прочного, как натуральная кожа, но более красивого и эластичного, чем обычная кожа.</VMEu_WeaveSynthleather_Crimson.description>
+  <VMEu_WeaveSynthleather_Crimson.jobString>Создание кожезаменителя.</VMEu_WeaveSynthleather_Crimson.jobString>
+
+
+  <!-- Synthread -->
+
+  <VMEu_WeaveSynthread.label>сделать синткань</VMEu_WeaveSynthread.label>
+  <VMEu_WeaveSynthread.description>Создание синткани - полимерной ткани из мелких нановолокон псевдопласталевого материала, из неё можно создавать прочную и качественную одежду.</VMEu_WeaveSynthread.description>
+  <VMEu_WeaveSynthread.jobString>Изготовление синткани.</VMEu_WeaveSynthread.jobString>
+
+
+  <!-- Hyperweave -->
+
+  <VMEu_WeaveHyperWeave.label>сделать гиперткань</VMEu_WeaveHyperWeave.label>
+  <VMEu_WeaveHyperWeave.description>Гиперткань - полимерная ткань из толстых усовершенствованных полимерных нановолокон в сочетании с полимерными изолирующими материалами.\n\nЭтот материал отлично подходит для изготовления плотной, красивой и обеспечивающей хорошую защиту одежды.</VMEu_WeaveHyperWeave.description>
+  <VMEu_WeaveHyperWeave.jobString>Изготовление гиперткани.</VMEu_WeaveHyperWeave.jobString>
+
+
+  <!-- Tier One -->
+
+  <VMEu_MakeLiquidPlastic_TierOne.label>синтезировать жидкий дешёвый пластик</VMEu_MakeLiquidPlastic_TierOne.label>
+  <VMEu_MakeLiquidPlastic_TierOne.description>Перегоните нефть и подвергните химической обработке нейтроамином, чтобы получить жидкую основу для создания обычного дешевого пластика, имеющего простое промышленное применение и в основном используется для изготовления дешевой мебели и декоративных элементов.</VMEu_MakeLiquidPlastic_TierOne.description>
+  <VMEu_MakeLiquidPlastic_TierOne.jobString>Синтез пластика.</VMEu_MakeLiquidPlastic_TierOne.jobString>
+
+
+  <!-- Pellets with Tier One -->
+
+  <VMEu_MakePlasticPellets_TierOne.label>сделать дешевые пластиковые гранулы</VMEu_MakePlasticPellets_TierOne.label>
+  <VMEu_MakePlasticPellets_TierOne.description>Формовать дешевый пластик в небольшие гранулы, которые можно использовать для изготовления различных вещей из пластика.</VMEu_MakePlasticPellets_TierOne.description>
+  <VMEu_MakePlasticPellets_TierOne.jobString>Синтез пластиковых гранул.</VMEu_MakePlasticPellets_TierOne.jobString>
+
+
+  <!-- Nylon with Tier One -->
+
+  <VMEu_MakeNylonRoll_TierOne.label>сделать полиэтиленовую плёнку</VMEu_MakeNylonRoll_TierOne.label>
+  <VMEu_MakeNylonRoll_TierOne.description>Сделайте из пластика тонкую полиэтиленовую пленку. Этот материал часто используется для обертывания продуктов с целью их сохранения.</VMEu_MakeNylonRoll_TierOne.description>
+  <VMEu_MakeNylonRoll_TierOne.jobString>Создание полиэтиленовой плёнки.</VMEu_MakeNylonRoll_TierOne.jobString>
+
+
+  <!-- Tier One Planks -->
+
+  <VMEu_MakePlasticPlanks_TierOne.label>сделать пластиковые панели</VMEu_MakePlasticPlanks_TierOne.label>
+  <VMEu_MakePlasticPlanks_TierOne.description>Сделайте из пластика панели, которые широко используются для декоративного строительства.</VMEu_MakePlasticPlanks_TierOne.description>
+  <VMEu_MakePlasticPlanks_TierOne.jobString>Создание пластиковых панелей.</VMEu_MakePlasticPlanks_TierOne.jobString>
+
+
+  <!-- Tier Two -->
+
+  <VMEu_MakeLiquidPlastic_TierTwo.label>синтезировать жидкий полимерный пластик</VMEu_MakeLiquidPlastic_TierTwo.label>
+  <VMEu_MakeLiquidPlastic_TierTwo.description>Перегоните нефть и подвергните химической обработке пронитамин, чтобы получить жидкую основу для более стойкого и прочного вида пластика.</VMEu_MakeLiquidPlastic_TierTwo.description>
+  <VMEu_MakeLiquidPlastic_TierTwo.jobString>Синтез пластмассы.</VMEu_MakeLiquidPlastic_TierTwo.jobString>
+
+
+  <!-- Pellets with Tier Two -->
+
+  <VMEu_MakePlasticPellets_TierTwo.label>сделать полимерные пластиковые гранулы</VMEu_MakePlasticPellets_TierTwo.label>
+  <VMEu_MakePlasticPellets_TierTwo.description>Формирование полимерного пластика в небольшие гранулы, которые могут быть использованы для производства любых изделий.</VMEu_MakePlasticPellets_TierTwo.description>
+  <VMEu_MakePlasticPellets_TierTwo.jobString>Синтез пластиковых гранул.</VMEu_MakePlasticPellets_TierTwo.jobString>
+
+
+  <!-- ########## CHEMICALS ########## -->
+
+  <VMEu_MakeNeutroamine.label>Синтезировать нейтроамин</VMEu_MakeNeutroamine.label>
+  <VMEu_MakeNeutroamine.description>Тонкая перегонка нефти для удаления различных примесей.\n\nЭто длительный производственный этап, но его результат стоит потраченного времени: после продолжительного и сложного химического процесса можно получить чистый нейтроамин.\n\nВ результате этого химического процесса нефть подвергается сильному разложению.</VMEu_MakeNeutroamine.description>
+  <VMEu_MakeNeutroamine.jobString>Синтез нейтроамина.</VMEu_MakeNeutroamine.jobString>
+
+
+  <!-- Make Pronitamine -->
+
+  <VMEu_MakePronitamine.label>Синтезировать пронитамин</VMEu_MakePronitamine.label>
+  <VMEu_MakePronitamine.description>Перекристаллизация протонов нейтроамина с использованием процесса нагревания и охлаждения для получения варианта нейтроамина, называемого пронитамином, который обладает большей молекулярной устойчивостью, что позволяет синтезировать прочные материалы.\n\nВ результате этого процесса тратится небольшое количество нейтроамина.</VMEu_MakePronitamine.description>
+  <VMEu_MakePronitamine.jobString>Синтез пронитамина.</VMEu_MakePronitamine.jobString>
+
+
+  <!-- Make Xenotamine -->
+
+  <VMEu_MakeXenotamine.label>Синтезировать ксенотамин</VMEu_MakeXenotamine.label>
+  <VMEu_MakeXenotamine.description>Соедините нейтроамин с живой материей и реактивными элементами, сделав его молекулярную структуру более плотной. Этот процесс дает в результате продукт под названием ксенотамин - плотную версию нейтроамина, которая используется в качестве химического вещества-затвердителя при синтезе передовых, сложных материалов.\n\nНесмотря на то, что химически он является разновидностью нейтроамина, это сложное химическое вещество создается непосредственно на основе нефти.</VMEu_MakeXenotamine.description>
+  <VMEu_MakeXenotamine.jobString>Синтез ксенотамина.</VMEu_MakeXenotamine.jobString>
+  
+  
+  <!-- Нет в дефах -->
+  
+  <VMEu_MakeBoraetamine.label>синтезировать борэтамин</VMEu_MakeBoraetamine.label>
+  <VMEu_MakeBoraetamine.description>Соедините нейтроамин с прочными атомами металлов, связанными между собой общей химической цепочкой, полученной из золота. Этот процесс длительный и дорогой, но в результате он дает продукт под названием бораэтамин - синтетическую химическую основу, используемую для упрочнения материалов и синтеза современных сложных материалов.\n\nНесмотря на то, что химически это разновидность нейтроамина, этот сложный химикат создается непосредственно из темного масла.</VMEu_MakeBoraetamine.description>
+  <VMEu_MakeBoraetamine.jobString>Синтез бораетамина.</VMEu_MakeBoraetamine.jobString>
+  
+  <VMEu_MakeTherminamine.label>синтезировать терминамин</VMEu_MakeTherminamine.label>
+  <VMEu_MakeTherminamine.description>Загрузите концентрированный нейтроамин и подайте на него электрический заряд с применением лития.\n\nЭтот процесс дает в результате продукт под названием терминамин, усовершенствованную версию нейтроамина со сложными химическими свойствами, которые позволяют ему быть базовым ингредиентом при создании множества передовых материалов.</VMEu_MakeTherminamine.description>
+  <VMEu_MakeTherminamine.jobString>Синтез бораетамина.</VMEu_MakeTherminamine.jobString>
+  
+  <VMEu_MakeActinamine.label>синтезировать актинамин</VMEu_MakeActinamine.label>
+  <VMEu_MakeActinamine.description>Активация изотопов нейтроамина путем его испарения и проведения реакции с германием при высоких температурах. Этот процесс дает в результате продукт под названием актинамин, более химически нестабильную версию нейтроамина, его реакции более бурные, но позволяют синтезировать различные материалы.</VMEu_MakeActinamine.description>
+  <VMEu_MakeActinamine.jobString>Синтез бораетамина.</VMEu_MakeActinamine.jobString>
+  
+  <VMEu_MakeCarbonFiber.label>сделать синтетическое волокно</VMEu_MakeCarbonFiber.label>
+  <VMEu_MakeCarbonFiber.description>Создание тонких волокон из полимера на основе углерода для получения прочного и универсального материала, называемого углеродным волокном.</VMEu_MakeCarbonFiber.description>
+  <VMEu_MakeCarbonFiber.jobString>Создание синтетического волокна.</VMEu_MakeCarbonFiber.jobString>
+  
+  <VMEu_WeavePlasteelBase.label>сделать пласталевую основу</VMEu_WeavePlasteelBase.label>
+  <VMEu_WeavePlasteelBase.description>Синтезировать прочный материал на основе нефти, используемый для многих целей, одна из которых - сплав пластали, самого высокотехнологичного материала среди Rimworld.</VMEu_WeavePlasteelBase.description>
+  <VMEu_WeavePlasteelBase.jobString>Синтез пласталевой основы.</VMEu_WeavePlasteelBase.jobString>
+  
+  <VMEu_AlloyPlasteel.label>сделать пласталь</VMEu_AlloyPlasteel.label>
+  <VMEu_AlloyPlasteel.description>Выплавьте пласталь, сверхтехнологичный сложный полимерный материал, в основном используемый для самых совершенных и высокотехнологичных разработок в Rimworld.</VMEu_AlloyPlasteel.description>
+  <VMEu_AlloyPlasteel.jobString>Выплавка пластали.</VMEu_AlloyPlasteel.jobString>
+  
+  <VMEu_MakePlasticBricks.label>сделать пластмассовые кирпичи</VMEu_MakePlasticBricks.label>
+  <VMEu_MakePlasticBricks.description>Плавить пластик и каменную крошку при высоких температурах для получения твердых, легких и дешевых пластиковых кирпичей.</VMEu_MakePlasticBricks.description>
+  <VMEu_MakePlasticBricks.jobString>Создание пластмассовых кирпичей.</VMEu_MakePlasticBricks.jobString>
+  
+  <VMEu_MakePlasticBricks_Bulk.label>сделать пластмассовые кирпичи х3</VMEu_MakePlasticBricks_Bulk.label>
+  <VMEu_MakePlasticBricks_Bulk.description>Плавить пластик и каменную крошку при высоких температурах для получения твердых, легких и дешевых пластиковых кирпичей.</VMEu_MakePlasticBricks_Bulk.description>
+  <VMEu_MakePlasticBricks_Bulk.jobString>Создание пластмассовых кирпичей.</VMEu_MakePlasticBricks_Bulk.jobString>
+
+  <!-- Если установлен Vanilla Cooking Expanded -->
+  
+  <VMEu_WrapSnacks.label>приготовить снеки</VMEu_WrapSnacks.label>
+  <VMEu_WrapSnacks.description>Заверните кукурузные снеки или сушеные фрукты в пластиковый пакет.</VMEu_WrapSnacks.description>
+  <VMEu_WrapSnacks.jobString>Упаковка снеков.</VMEu_WrapSnacks.jobString>
+  
+  <VMEu_CookWrappedMeal_Simple.label>приготовить простой сухой паёк</VMEu_CookWrappedMeal_Simple.label>
+  <VMEu_CookWrappedMeal_Simple.description>Приготовить запечатанный простой сухой паёк из ингридиентов растительного и животного происхождения.</VMEu_CookWrappedMeal_Simple.description>
+  <VMEu_CookWrappedMeal_Simple.jobString>Приготовить простой сухой паёк.</VMEu_CookWrappedMeal_Simple.jobString>
+  
+  <VMEu_CookWrappedMeal_Simple_x4.label>приготовить простой сухой паёк х4</VMEu_CookWrappedMeal_Simple_x4.label>
+  <VMEu_CookWrappedMeal_Simple_x4.description>Приготовить запечатанный простой сухой паёк из ингридиентов растительного и животного происхождения.</VMEu_CookWrappedMeal_Simple_x4.description>
+  <VMEu_CookWrappedMeal_Simple_x4.jobString>Простое блюдо, упакованное в плёнку.</VMEu_CookWrappedMeal_Simple_x4.jobString>
+  
+  <VMEu_CookWrappedMeal_Fine.label>приготовить вкусный сухой паёк</VMEu_CookWrappedMeal_Fine.label>
+  <VMEu_CookWrappedMeal_Fine.description>Приготовить запечатанный вкусный сухой паёк из ингридиентов растительного и животного происхождения.</VMEu_CookWrappedMeal_Fine.description>
+  <VMEu_CookWrappedMeal_Fine.jobString>Вкусное блюдо, упакованное в плёнку.</VMEu_CookWrappedMeal_Fine.jobString>
+  
+  <VMEu_CookWrappedMeal_Fine_x4.label>приготовить вкусный сухой паёк х4</VMEu_CookWrappedMeal_Fine_x4.label>
+  <VMEu_CookWrappedMeal_Fine_x4.description>Приготовить запечатанный вкусный сухой паёк из ингридиентов растительного и животного происхождения.</VMEu_CookWrappedMeal_Fine_x4.description>
+  <VMEu_CookWrappedMeal_Fine_x4.jobString>Вкусное блюдо, упакованное в плёнку.</VMEu_CookWrappedMeal_Fine_x4.jobString>
+  
+  <VMEu_CookWrappedMeal_Lavish.label>приготовить шикарный сухой паёк</VMEu_CookWrappedMeal_Lavish.label>
+  <VMEu_CookWrappedMeal_Lavish.description>Приготовить запечатанный шикарный сухой паёк из ингридиентов растительного и животного происхождения.</VMEu_CookWrappedMeal_Lavish.description>
+  <VMEu_CookWrappedMeal_Lavish.jobString>Шикарное блюдо, упакованное в плёнку.</VMEu_CookWrappedMeal_Lavish.jobString>
+  
+  <VMEu_CookWrappedMeal_Lavish_x4.label>приготовить шикарный сухой паёк х4</VMEu_CookWrappedMeal_Lavish_x4.label>
+  <VMEu_CookWrappedMeal_Lavish_x4.description>Приготовить запечатанный шикарный сухой паёк из ингридиентов растительного и животного происхождения.</VMEu_CookWrappedMeal_Lavish_x4.description>
+  <VMEu_CookWrappedMeal_Lavish_x4.jobString>Шикарное блюдо, упакованное в плёнку.</VMEu_CookWrappedMeal_Lavish_x4.jobString>
+  
+  <VMEu_CookWrappedMeal_Gourmet.label>приготовить изысканный сухой паёк</VMEu_CookWrappedMeal_Gourmet.label>
+  <VMEu_CookWrappedMeal_Gourmet.description>Приготовить запечатанный изысканный сухой паёк из ингридиентов растительного и животного происхождения.</VMEu_CookWrappedMeal_Gourmet.description>
+  <VMEu_CookWrappedMeal_Gourmet.jobString>Изысканное блюдо, упакованное в плёнку.</VMEu_CookWrappedMeal_Gourmet.jobString>
+  
+  <VMEu_CookWrappedMeal_Gourmet_x4.label>приготовить изысканный сухой паёк х4</VMEu_CookWrappedMeal_Gourmet_x4.label>
+  <VMEu_CookWrappedMeal_Gourmet_x4.description>Приготовить запечатанный изысканный сухой паёк из ингридиентов растительного и животного происхождения.</VMEu_CookWrappedMeal_Gourmet_x4.description>
+  <VMEu_CookWrappedMeal_Gourmet_x4.jobString>Изысканное блюдо, упакованное в плёнку.</VMEu_CookWrappedMeal_Gourmet_x4.jobString>
+  
+  <!-- Polymer components -->
+
+  <VMEu_MakePolymerComponents.label>изготовить полимерный компонент</VMEu_MakePolymerComponents.label>
+  <VMEu_MakePolymerComponents.description>Изготовить компонент из полимерных материалов, который может заменить собой множество других материалов.</VMEu_MakePolymerComponents.description>
+  <VMEu_MakePolymerComponents.jobString>Изготовление компонента.</VMEu_MakePolymerComponents.jobString>
+
+  <VMEu_MakePolymerAdvancedComponents.label>сделать продвинутый полимерный компонент</VMEu_MakePolymerAdvancedComponents.label>
+  <VMEu_MakePolymerAdvancedComponents.description>Изготовить усовершенствованный компонент из полимерных материалов, который может заменить собой множество других материалов.</VMEu_MakePolymerAdvancedComponents.description>
+  <VMEu_MakePolymerAdvancedComponents.jobString>Изготовление усовершенствованного компонента.</VMEu_MakePolymerAdvancedComponents.jobString>
+
+
+  <!-- High-explosive -->
+
+  <VMEu_MakePolymerShell_HighExplosive.label>сделать полимерный осколочный снаряд</VMEu_MakePolymerShell_HighExplosive.label>
+  <VMEu_MakePolymerShell_HighExplosive.description>Изготовьте осколочный снаряд из полимерных материалов, которые вполне способны заменить сталь.</VMEu_MakePolymerShell_HighExplosive.description>
+  <VMEu_MakePolymerShell_HighExplosive.jobString>Изготовление осколочного снаряда.</VMEu_MakePolymerShell_HighExplosive.jobString>
+
+
+  <!-- Incendiary -->
+
+  <VMEu_MakePolymerShell_Incendiary.label>сделать полимерный зажигательный снаряд</VMEu_MakePolymerShell_Incendiary.label>
+  <VMEu_MakePolymerShell_Incendiary.description>Изготовьте зажигательный снаряд из полимерных материалов, которые вполне способны заменить сталь.</VMEu_MakePolymerShell_Incendiary.description>
+  <VMEu_MakePolymerShell_Incendiary.jobString>Изготовление зажигательного снаряда.</VMEu_MakePolymerShell_Incendiary.jobString>
+
+
+  <!-- EMP -->
+
+  <VMEu_MakePolymerShell_EMP.label>сделать полимерный ЭМИ-снаряд</VMEu_MakePolymerShell_EMP.label>
+  <VMEu_MakePolymerShell_EMP.description>Изготовьте ЭМИ-снаряд из полимерных материалов, которые вполне способны заменить сталь.</VMEu_MakePolymerShell_EMP.description>
+  <VMEu_MakePolymerShell_EMP.jobString>Изготовление ЭМИ-снаряда.</VMEu_MakePolymerShell_EMP.jobString>
+
+
+  <!-- Smoke -->
+
+  <VMEu_MakePolymerShell_Smoke.label>сделать полимерный дымовой снаряд</VMEu_MakePolymerShell_Smoke.label>
+  <VMEu_MakePolymerShell_Smoke.description>Изготовьте дымовой снаряд из полимерных материалов, которые вполне способны заменить сталь.</VMEu_MakePolymerShell_Smoke.description>
+  <VMEu_MakePolymerShell_Smoke.jobString>Изготовление дымового снаряда.</VMEu_MakePolymerShell_Smoke.jobString>
+
+
+  <!-- Firefoam -->
+
+  <VMEu_MakePolymerShell_Firefoam.label>сделать полимерный пенный снаряд</VMEu_MakePolymerShell_Firefoam.label>
+  <VMEu_MakePolymerShell_Firefoam.description>Изготовьте пенный снаряд из полимерных материалов, которые вполне способны заменить сталь.</VMEu_MakePolymerShell_Firefoam.description>
+  <VMEu_MakePolymerShell_Firefoam.jobString>Изготовление пенного снаряда.</VMEu_MakePolymerShell_Firefoam.jobString>
+
+
+  <!-- Antigrain -->
+
+  <VMEu_MakeAntigrainWarhead.label>сделать гранульный снаряд</VMEu_MakeAntigrainWarhead.label>
+  <VMEu_MakeAntigrainWarhead.description>Сделать сверхвысокотехнологичный боевой снаряд, используемый в военной технике утопических миров.</VMEu_MakeAntigrainWarhead.description>
+  <VMEu_MakeAntigrainWarhead.jobString>Изготовление гранульного снаряда.</VMEu_MakeAntigrainWarhead.jobString>
+
+
+  <!-- Mix -->
+
+  <VMEu_MakeAntigrainMix.label>сделать антиагрегатную смесь</VMEu_MakeAntigrainMix.label>
+  <VMEu_MakeAntigrainMix.description>Сделайте нестабильную химическую смесь, заключенную в прочную капсулу. Этот продукт готов к использованию при изготовлении гранульных снарядов.</VMEu_MakeAntigrainMix.description>
+  <VMEu_MakeAntigrainMix.jobString>Создание антиагрегатной смеси.</VMEu_MakeAntigrainMix.jobString>
+
+
+</LanguageData>

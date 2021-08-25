@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <raidEnemySettlement.label>Набег на вражеское поселение</raidEnemySettlement.label>
+  <enslaveEnemySettlement.label>Поработить вражеское поселение</enslaveEnemySettlement.label>
+  <captureEnemySettlement.label>Захватить враждебное поселение</captureEnemySettlement.label>
+  <cooldownMilitary.label>Военное кд</cooldownMilitary.label>
+  <settlementBeingAttacked.label>Поселение находится под угрозой</settlementBeingAttacked.label>
+
+
+</LanguageData>

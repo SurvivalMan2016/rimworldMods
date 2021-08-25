@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BionicBladder.label>удалитель отходов</BionicBladder.label>
+  <BionicBladder.description>Современный бионический имплант, позволяющий удалять отходы организма. Система химичекой рециркуляции расщепляет отходы организма на молекулы, которые рециркулируют, а остаток выделяется в виде газа, который высвобождается пользователем.</BionicBladder.description>
+
+  <HygieneEnhancer.label>усилитель гигиены</HygieneEnhancer.label>
+  <HygieneEnhancer.description>Высвобождает механиты, разрушающие омертвевшвие клетки кожи и другие детриты на коже и волосах, безвредно рассеивая их в воздухе.</HygieneEnhancer.description>
+
+
+</LanguageData>

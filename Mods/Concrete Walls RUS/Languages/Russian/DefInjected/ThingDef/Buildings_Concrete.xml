@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ConcreteSlab.label>керамобетонные плиты</ConcreteSlab.label>
+  <ConcreteSlab.description>Усиленные бетонные плиты для крепких стен.</ConcreteSlab.description>
+  <ConcreteSlab.stuffProps.stuffAdjective>керамобетона</ConcreteSlab.stuffProps.stuffAdjective>
+
+  <Embrasure.label>стена с амбразурой</Embrasure.label>
+  <Embrasure.description>Непроходимая стена. Достаточно крепка, чтобы поддерживать крышу. Имеет бойницы для ведения огня.</Embrasure.description>
+  <Embrasure_Blueprint.label>стена с амбразурой (проект)</Embrasure_Blueprint.label>
+  <Embrasure_Frame.label>стена с амбразурой (в процессе сборки)</Embrasure_Frame.label>
+  <Embrasure_Frame.description>Непроходимая стена. Достаточно крепка, чтобы поддерживать крышу. Имеет бойницы для ведения огня.</Embrasure_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>/Defs/ThingDef[@Name="MedTimes_BlacksmithsForgeBase"]</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[@Name="MedTimes_BlacksmithsForgeBase"]/comps/li[contains(@Class,'CompProperties_Refuelable')]/fuelFilter/thingDefs</xpath>       
+      <value>
+        <li>Coal</li>
+      </value>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>/Defs/ThingDef[@Name="MedTimes_BlacksmithsForgeBase"]</xpath>
+    <match Class="PatchOperationAdd">     
+      <order>Append</order>
+      <xpath>/Defs/ThingDef[defName="MedTimes_Firepit" or defName="MedTimes_CorpseBonfire" or defName="MedTimes_StoneHearth" or defName="MedTimes_Smokehouse" or defName="MedTimes_Brazier" or defName="MedTimes_StreetLamp" or defName="MedTimes_Reflector" or defName="MedTimes_FoodPrepStation" or defName="MedTimes_FueledSmelter" or defName="MedTimes_CoalGenerator"]/li[contains(@Class,'CompProperties_Refuelable')]/fuelFilter/thingDefs</xpath>       
+      <value>
+        <li>Coal</li>
+      </value>
+    </match>
+  </Operation>
+
+</Patch>
+

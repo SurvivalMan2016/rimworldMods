@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<WorkGiverDef>
+    <defName>MP_DoBillsSmallStove</defName>
+    <label>готовить еду на плите</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Cooking</workType>
+    <priorityInType>100</priorityInType>
+    <fixedBillGiverDefs>
+      <li>MP_SmallStove</li>
+    </fixedBillGiverDefs>
+    <verb>cook</verb>
+    <gerund>cooking at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+  
+  <WorkGiverDef>
+    <defName>DoBillsSmallBrewery</defName>
+    <label>заваривать спиртные напитки</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Cooking</workType>
+    <priorityInType>30</priorityInType>
+    <fixedBillGiverDefs>
+      <li>MP_SmallBrewery</li>
+    </fixedBillGiverDefs>
+    <verb>brew</verb>
+    <gerund>brewing at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+  
+  <!-- ============= Smithing ============= -->
+
+  <WorkGiverDef>
+    <defName>MP_DoBillsSmallSmithy</defName>
+    <label>делать оружие</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Smithing</workType>
+    <priorityInType>115</priorityInType>
+    <fixedBillGiverDefs>
+      <li>MP_SmallSmithy</li>
+    </fixedBillGiverDefs>
+    <verb>smith</verb>
+    <gerund>smithing at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+
+  <WorkGiverDef>
+    <defName>MP_DoBillsSmallMachining</defName>
+    <label>делать вещи на обрабатывающем столе</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Smithing</workType>
+    <priorityInType>75</priorityInType>
+    <fixedBillGiverDefs>
+      <li>MP_SmallMachiningTable</li>
+    </fixedBillGiverDefs>
+    <verb>work</verb>
+    <gerund>working at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+
+  <!-- ============= Tailoring ============= -->
+
+  <WorkGiverDef>
+    <defName>MP_DoBillsSmallTailoring</defName>
+    <label>делать одежду</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Tailoring</workType>
+    <priorityInType>110</priorityInType>
+    <fixedBillGiverDefs>
+      <li>MP_SmallTailoringTable</li>
+    </fixedBillGiverDefs>
+    <verb>tailor</verb>
+    <gerund>tailoring at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+
+  <!-- ============= Art ============= -->
+  
+  <WorkGiverDef>
+    <defName>MP_DoBillsSmallSculpting</defName>
+    <label>делать вещи на художественной скамейке</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Art</workType>
+    <priorityInType>100</priorityInType>
+    <fixedBillGiverDefs>
+      <li>MP_SmallStoneworkerTable</li>
+    </fixedBillGiverDefs>
+    <verb>sculpt</verb>
+    <gerund>sculpting at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+
+  <WorkGiverDef>
+    <defName>MP_DoBillsSmallDrugLab</defName>
+    <label>синтезировать наркотики</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Crafting</workType>
+    <workTags>
+      <li>Intellectual</li>
+    </workTags>
+    <priorityInType>95</priorityInType>
+    <fixedBillGiverDefs>
+      <li>MP_SmallDrugLab</li>
+    </fixedBillGiverDefs>
+    <verb>produce drugs</verb>
+    <gerund>producing drugs at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+  
+</Defs>

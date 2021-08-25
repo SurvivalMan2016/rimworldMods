@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<ARKPPP_WirelessPowerTheoryResearch.label>Teoría de la emisión de energía inalámbrica</ARKPPP_WirelessPowerTheoryResearch.label>
+	<ARKPPP_WirelessPowerTheoryResearch.description>Le permite desbloquear tecnologías de energía inalámbricas</ARKPPP_WirelessPowerTheoryResearch.description>
+	
+	<ARKPPP_WirelessPowerShortRangeResearch.label>Redes inalámbricas de área local (LWPN)</ARKPPP_WirelessPowerShortRangeResearch.label>
+	<ARKPPP_WirelessPowerShortRangeResearch.description>Le permite crear redes de energía inalámbrica locales estables (LWPN) que permiten el uso de dispositivos eléctricos conectados de forma inalámbrica</ARKPPP_WirelessPowerShortRangeResearch.description>
+	
+	<ARKPPP_WirelessPowerLongRangeResearch.label>Redes de energía inalámbrica de largo alcance (WPN)</ARKPPP_WirelessPowerLongRangeResearch.label>
+	<ARKPPP_WirelessPowerLongRangeResearch.description>Le permite crear redes de energía inalámbricas estables de largo alcance (WPN)</ARKPPP_WirelessPowerLongRangeResearch.description>
+	
+	<ARKPPP_WirelessPowerLongRangeAdvancedResearch.label>Transmisor WPN avanzado</ARKPPP_WirelessPowerLongRangeAdvancedResearch.label>
+	<ARKPPP_WirelessPowerLongRangeAdvancedResearch.description>Le permite crear un transmisor WPN avanzado que consume menos energía y funciona correctamente incluso en una tormenta eléctrica</ARKPPP_WirelessPowerLongRangeAdvancedResearch.description>
+	
+	<ARKPPP_WirelessPowerShortRangePortableResearch.label>Transmisor portátil LWPN</ARKPPP_WirelessPowerShortRangePortableResearch.label>
+	<ARKPPP_WirelessPowerShortRangePortableResearch.description>Le permite construir transmisores LWPN portátiles, muy útiles durante los viajes en caravana y en las misiones</ARKPPP_WirelessPowerShortRangePortableResearch.description>
+	
+	<ARKPPP_WirelessPowerLongRangePortableReceptorResearch.label>Receptor WPN portátil</ARKPPP_WirelessPowerLongRangePortableReceptorResearch.label>
+	<ARKPPP_WirelessPowerLongRangePortableReceptorResearch.description>Le permite crear un receptor WPN portátil, que puede ser muy útil durante una caravana</ARKPPP_WirelessPowerLongRangePortableReceptorResearch.description>
+	
+	<ARKPPP_WirelessPowerLongRangeARES.label>ARES</ARKPPP_WirelessPowerLongRangeARES.label>
+	<ARKPPP_WirelessPowerLongRangeARES.description>Le permite usar los receptores WPN como arma, drenando toda la energía de la red eléctrica de la fuente y luego canalizándola como una tormenta eléctrica</ARKPPP_WirelessPowerLongRangeARES.description>
+	
+	<ARKPPP_WirelessPowerLongRangeARESEMP.label>ARES EMP</ARKPPP_WirelessPowerLongRangeARESEMP.label>
+	<ARKPPP_WirelessPowerLongRangeARESEMP.description>Una forma indirecta de utilizar el sistema ARES para generar un gran pulso electromagnético (EMP) que quemará todos los sistemas eléctricos dentro del radio del impacto</ARKPPP_WirelessPowerLongRangeARESEMP.description>
+	
+	<ARKPPP_WirelessPowerLongRangeARES2.label>ARES 2.0</ARKPPP_WirelessPowerLongRangeARES2.label>
+	<ARKPPP_WirelessPowerLongRangeARES2.description>Una mejora del sistema ARES que amplía considerablemente el diámetro y la intensidad de la tormenta.</ARKPPP_WirelessPowerLongRangeARES2.description>
+	
+	<ARKPPP_HackingSatelliteNetwork.label>Hackear la red de recolección de energía satelital</ARKPPP_HackingSatelliteNetwork.label>
+	<ARKPPP_HackingSatelliteNetwork.description>Le permite desbloquear tecnologías relacionadas con la recolección de energía en una red satelital</ARKPPP_HackingSatelliteNetwork.description>
+	
+	<ARKPPP_HackingSatelliteNetworkSTS.label>Sistema de observación satelital (STS)</ARKPPP_HackingSatelliteNetworkSTS.label>
+	<ARKPPP_HackingSatelliteNetworkSTS.description>Le permite utilizar un sistema de orientación satelital, que guiará el haz orbital al centímetro más cercano directamente en una placa de absorción</ARKPPP_HackingSatelliteNetworkSTS.description>
+	
+	<ARKPPP_HackingSatelliteNetworkAD.label>Placa de absorción (AD)</ARKPPP_HackingSatelliteNetworkAD.label>
+	<ARKPPP_HackingSatelliteNetworkAD.description>Te permite construir una placa de absorción gigante</ARKPPP_HackingSatelliteNetworkAD.description>
+	
+	<ARKPPP_HackingSatelliteNetworkLens.label>Lente para modificar color del haz</ARKPPP_HackingSatelliteNetworkLens.label>
+	<ARKPPP_HackingSatelliteNetworkLens.description>Le permite cambiar el color del haz de energía pirateando el subsistema de administración de lentes ópticas del satélite</ARKPPP_HackingSatelliteNetworkLens.description>
+	
+	<ARKPPP_HackingSatelliteNetworkADRT.label>Placa de absorción remota</ARKPPP_HackingSatelliteNetworkADRT.label>
+	<ARKPPP_HackingSatelliteNetworkADRT.description>Le permite construir relés de torre AD, lo que le permite vincular un STS a AD remotos</ARKPPP_HackingSatelliteNetworkADRT.description>
+</LanguageData>

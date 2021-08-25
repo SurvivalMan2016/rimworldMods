@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: <x>{0} </x><x>{1} </x>want to carry out the blinding as soon as possible. -->
+  <BlindingCeremony.ritualExpectedPostfix>{0} {1} хочет провести ослепление как можно скорее.</BlindingCeremony.ritualExpectedPostfix>
+  
+  <!-- EN: A ritualistic burning of a hated symbol. Participants will gather around a sacrificial structure, light it on fire, and celebrate as it burns to ash. -->
+  <BurnCircle.descOverride>Ритуальное сожжение ненавистного символа. Участники соберутся вокруг жертвенного сооружения, подожгут его и отпразднуют, когда оно превратится в пепел.</BurnCircle.descOverride>
+  <!-- EN: Every year on<x> {DATE}</x>,<x> {MEMBERS} </x>celebrate<x> {RITUAL_labelDef}</x>. -->
+  <BurnCircle.ritualExpectedDesc>Каждый год {DATE}, {MEMBERS} празднуют {RITUAL_labelDef}.</BurnCircle.ritualExpectedDesc>
+  <!-- EN: <x>{0} </x><x>{1} </x>want to hold the celebration as soon as possible. -->
+  <BurnCircle.ritualExpectedPostfix>{0} {1} хочет провести празднование как можно скорее.</BurnCircle.ritualExpectedPostfix>
+  <!-- EN: symbol burning -->
+  <BurnCircle.shortDescOverride>сжигание символов</BurnCircle.shortDescOverride>
+  
+  <!-- EN: Every year on<x> {DATE}</x>,<x> {MEMBERS} </x>celebrate<x> {RITUAL_labelDef}</x>. -->
+  <CelebrationPartyChat.ritualExpectedDesc>Каждый год {DATE}, {MEMBERS} празднуют {RITUAL_labelDef}.</CelebrationPartyChat.ritualExpectedDesc>
+  <!-- EN: <x>{0} </x><x>{1} </x>want to hold the celebration as soon as possible. -->
+  <CelebrationPartyChat.ritualExpectedPostfix>{0} {1} хочет провести празднование как можно скорее.</CelebrationPartyChat.ritualExpectedPostfix>
+  
+  <!-- EN: A dance party with drums. Participants will gather, socialize, play drums, and dance to have fun and connect with each other. -->
+  <CelebrationPartyDanceDrum.descOverride>Танцевальная вечеринка с барабанами. Участники будут собираться, общаться, играть на барабанах и танцевать, чтобы весело провести время и пообщаться друг с другом.</CelebrationPartyDanceDrum.descOverride>
+  <!-- EN: Every year on<x> {DATE}</x>,<x> {MEMBERS} </x>celebrate<x> {RITUAL_labelDef}</x>. -->
+  <CelebrationPartyDanceDrum.ritualExpectedDesc>Каждый год {DATE}, {MEMBERS} празднуют {RITUAL_labelDef}.</CelebrationPartyDanceDrum.ritualExpectedDesc>
+  <!-- EN: <x>{0} </x><x>{1} </x>want to hold the celebration as soon as possible. -->
+  <CelebrationPartyDanceDrum.ritualExpectedPostfix>{0} {1} хочет провести празднование как можно скорее.</CelebrationPartyDanceDrum.ritualExpectedPostfix>
+  <!-- EN: drum party -->
+  <CelebrationPartyDanceDrum.shortDescOverride>барабанная вечеринка</CelebrationPartyDanceDrum.shortDescOverride>
+  
+  <!-- EN: A dance party with loud music. Participants will gather, socialize, and dance to have fun and connect with each other. -->
+  <CelebrationPartyDanceTech.descOverride>Танцевальная вечеринка с громкой музыкой. Участники будут собираться, общаться и танцевать, чтобы повеселиться и пообщаться друг с другом.</CelebrationPartyDanceTech.descOverride>
+  <!-- EN: Every year on<x> {DATE}</x>,<x> {MEMBERS} </x>celebrate<x> {RITUAL_labelDef}</x>. -->
+  <CelebrationPartyDanceTech.ritualExpectedDesc>Каждый год {DATE}, {MEMBERS} празднуют {RITUAL_labelDef}.</CelebrationPartyDanceTech.ritualExpectedDesc>
+  <!-- EN: <x>{0} </x><x>{1} </x>want to hold the celebration as soon as possible. -->
+  <CelebrationPartyDanceTech.ritualExpectedPostfix>{0} {1} хочет провести празднование как можно скорее.</CelebrationPartyDanceTech.ritualExpectedPostfix>
+  <!-- EN: dance party -->
+  <CelebrationPartyDanceTech.shortDescOverride>танцевальная вечеринка</CelebrationPartyDanceTech.shortDescOverride>
+  
+  <!-- EN: A social ritual where people release skylanterns. Participants will assemble wooden skylanterns while socializing, then release them and watch them drift away. -->
+  <CelebrationSkyLanterns.descOverride>Социальный ритуал, во время которого люди выпускают фонарики. Участники соберут деревянные фонари во время общения, затем выпустят их и будут наблюдать, как они уплывают.</CelebrationSkyLanterns.descOverride>
+  <!-- EN: Every year on<x> {DATE}</x>,<x> {MEMBERS} </x>celebrate<x> {RITUAL_labelDef}</x>. -->
+  <CelebrationSkyLanterns.ritualExpectedDesc>Каждый год {DATE}, {MEMBERS} празднуют {RITUAL_labelDef}.</CelebrationSkyLanterns.ritualExpectedDesc>
+  <!-- EN: <x>{0} </x><x>{1} </x>want to hold the celebration as soon as possible. -->
+  <CelebrationSkyLanterns.ritualExpectedPostfix>{0} {1} хочет провести празднование как можно скорее.</CelebrationSkyLanterns.ritualExpectedPostfix>
+  <!-- EN: skylantern festival -->
+  <CelebrationSkyLanterns.shortDescOverride>фестиваль фонариков</CelebrationSkyLanterns.shortDescOverride>
+  
+  <!-- EN: A party around a Christmas tree. Participants will gather around a Christmas tree and make merry. -->
+  <CelebrationTree.descOverride>Вечеринка вокруг рождественской елки. Участники соберутся вокруг рождественской елки и будут веселиться.</CelebrationTree.descOverride>
+  <!-- EN: Every year on<x> {DATE}</x>,<x> {MEMBERS} </x>celebrate<x> {RITUAL_labelDef}</x>. -->
+  <CelebrationTree.ritualExpectedDesc>Каждый год {DATE}, {MEMBERS} празднуют {RITUAL_labelDef}.</CelebrationTree.ritualExpectedDesc>
+  <!-- EN: <x>{0} </x><x>{1} </x>want to hold the celebration as soon as possible. -->
+  <CelebrationTree.ritualExpectedPostfix>{0} {1} хочет провести празднование как можно скорее.</CelebrationTree.ritualExpectedPostfix>
+  <!-- EN: christmas tree party -->
+  <CelebrationTree.shortDescOverride>вечеринка с рождественской елкой</CelebrationTree.shortDescOverride>
+  
+  <!-- EN: In case of success, their certainty will be reduced or they will convert immediately. If it backfires, their certainty in own beliefs will increase. -->
+  <Conversion.ritualExplanation>В случае успеха их уверенность снизится или они немедленно обратятся в другую веру. Если это приведет к обратным результатам, их уверенность в собственных убеждениях возрастет.</Conversion.ritualExplanation>
+  
+  <!-- EN: A ritualistic flesh-eating meal. Participants gather around a platter of human flesh and bloodily feast on it. -->
+  <FeastCannibal.descOverride>Ритуальная мясоедческая трапеза. Участники собираются вокруг блюда с человечиной и кроваво лакомятся им.</FeastCannibal.descOverride>
+  <!-- EN: Every year on<x> {DATE}</x>,<x> {MEMBERS} </x>celebrate<x> {RITUAL_labelDef}</x>. -->
+  <FeastCannibal.ritualExpectedDesc>Каждый год {DATE}, {MEMBERS} празднуют {RITUAL_labelDef}.</FeastCannibal.ritualExpectedDesc>
+  <!-- EN: <x>{0} </x><x>{1} </x>want to hold the celebration as soon as possible. -->
+  <FeastCannibal.ritualExpectedPostfix>{0} {1} хочет провести празднование как можно скорее.</FeastCannibal.ritualExpectedPostfix>
+  <!-- EN: cannibal feast -->
+  <FeastCannibal.shortDescOverride>пир каннибалов</FeastCannibal.shortDescOverride>
+  
+  <!-- EN: Once a<x> {IDEO} </x>member dies and the body is lost, other<x> {MEMBERS} </x>gather around an empty grave for<x> {RITUAL_labelDef}</x>. -->
+  <FuneralNoCorpse.ritualExpectedDesc>Как только член {IDEO} умирает и тело пропадает, другие {MEMBERS} собираются вокруг пустой могилы для {RITUAL_labelDef}.</FuneralNoCorpse.ritualExpectedDesc>
+  
+  <!-- EN: Once a<x> {IDEO} </x>member dies, other<x> {MEMBERS} </x>gather around their grave for<x> {RITUAL_labelDef}</x>. -->
+  <FuneralStandard.ritualExpectedDesc>Как только член {IDEO} умирает, другие {MEMBERS} собираются вокруг их могилы для {RITUAL_labelDef}.</FuneralStandard.ritualExpectedDesc>
+  <!-- EN: <x>{0} </x><x>{1} </x>want to carry out the funeral as soon as possible. -->
+  <FuneralStandard.ritualExpectedPostfix>{0} {1} хочет провести похороны как можно скорее.</FuneralStandard.ritualExpectedPostfix>
+  
+  <!-- EN: A ritualistic animal sacrifice. The organizer will give a speech to excite the crowd, then cut the animal's throat. Once the animal is dead, the organizer will speak some finishing words. -->
+  <SacrificeAnimal.descOverride>Ритуальное жертвоприношение животных. Организатор произнесет речь, чтобы взбудоражить толпу, а затем перережет животному горло. Как только животное умрет, организатор произнесет несколько заключительных слов.</SacrificeAnimal.descOverride>
+  <!-- EN: Every year on<x> {DATE}</x>,<x> {MEMBERS} </x>celebrate<x> {RITUAL_labelDef}</x>. -->
+  <SacrificeAnimal.ritualExpectedDesc>Каждый год {DATE}, {MEMBERS} празднуют {RITUAL_labelDef}.</SacrificeAnimal.ritualExpectedDesc>
+  <!-- EN: <x>{0} </x><x>{1} </x>want to carry out the sacrifice as soon as possible. -->
+  <SacrificeAnimal.ritualExpectedPostfix>{0} {1} хочет совершить жертвоприношение как можно скорее.</SacrificeAnimal.ritualExpectedPostfix>
+  <!-- EN: animal sacrifice -->
+  <SacrificeAnimal.shortDescOverride>жертвоприношение животных</SacrificeAnimal.shortDescOverride>
+  
+  <!-- EN: A ritualistic prisoner sacrifice. The organizer will give a speech to excite the crowd, then cut the prisoner's throat. Once the prisoner is dead, organizer will speak some finishing words. -->
+  <SacrificePrisoner.descOverride>Ритуальное жертвоприношение пленника. Организатор произнесет речь, чтобы взбудоражить толпу, а затем перережет заключенному горло. Как только заключенный умрет, организатор произнесет несколько заключительных слов.</SacrificePrisoner.descOverride>
+  <!-- EN: Every year on<x> {DATE}</x>,<x> {MEMBERS} </x>celebrate<x> {RITUAL_labelDef}</x>. -->
+  <SacrificePrisoner.ritualExpectedDesc>Каждый год {DATE}, {MEMBERS} празднуют {RITUAL_labelDef}.</SacrificePrisoner.ritualExpectedDesc>
+  <!-- EN: <x>{0} </x><x>{1} </x>want to carry out the sacrifice as soon as possible. -->
+  <SacrificePrisoner.ritualExpectedPostfix>{0} {1} хочет совершить жертвоприношение как можно скорее.</SacrificePrisoner.ritualExpectedPostfix>
+  <!-- EN: prisoner sacrifice -->
+  <SacrificePrisoner.shortDescOverride>жертвоприношение пленника</SacrificePrisoner.shortDescOverride>
+  
+  <!-- EN: <x>{0} </x><x>{1} </x>want to carry out the scarification as soon as possible. -->
+  <ScarificationCeremony.ritualExpectedPostfix>{0} {1} хочет провести скарификацию как можно скорее.</ScarificationCeremony.ritualExpectedPostfix>
+  
+  <!-- EN: A ritualistic smoking of large amounts of smokeleaf. Participants will gather around a burnbong or incense shrine, light it on fire, and celebrate while inhaling the fumes. -->
+  <SmokeCircle.descOverride>Ритуальное курение большого количества дымлиста. Участники соберутся вокруг костра или храма благовоний, зажгут его в огне и будут праздновать, вдыхая дым.</SmokeCircle.descOverride>
+  <!-- EN: Every year on<x> {DATE}</x>,<x> {MEMBERS} </x>celebrate<x> {RITUAL_labelDef}</x>. -->
+  <SmokeCircle.ritualExpectedDesc>Каждый год {DATE}, {MEMBERS} празднуют {RITUAL_labelDef}.</SmokeCircle.ritualExpectedDesc>
+  <!-- EN: <x>{0} </x><x>{1} </x>want to hold the celebration as soon as possible. -->
+  <SmokeCircle.ritualExpectedPostfix>{0} {1} хочет провести празднование как можно скорее.</SmokeCircle.ritualExpectedPostfix>
+  <!-- EN: smokeleaf circle -->
+  <SmokeCircle.shortDescOverride>круг дымлиста</SmokeCircle.shortDescOverride>
+  
+</LanguageData>

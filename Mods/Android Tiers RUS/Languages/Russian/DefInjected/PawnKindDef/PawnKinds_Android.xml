@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AbominationAtlas.label>Мутант</AbominationAtlas.label>
+  <AbominationAtlas.labelPlural>Мутанты</AbominationAtlas.labelPlural>
+  <AbominationAtlas.labelMale>Мужчина-мутант</AbominationAtlas.labelMale>
+  <AbominationAtlas.labelMalePlural>Мужчины-мутанты</AbominationAtlas.labelMalePlural>
+  <AbominationAtlas.labelFemale>Женщина-мутант</AbominationAtlas.labelFemale>
+  <AbominationAtlas.labelFemalePlural>Женщины-мутанты</AbominationAtlas.labelFemalePlural>
+
+  <AndroidT5Colonist.label>T5 Андроид колонист</AndroidT5Colonist.label>
+  <AndroidT5Colonist.labelPlural>T5 Андроиды колонисты</AndroidT5Colonist.labelPlural>
+  <AndroidT5Colonist.labelMale>T5 Андроид колонист-мужчина</AndroidT5Colonist.labelMale>
+  <AndroidT5Colonist.labelMalePlural>T5 Андроиды колонисты-мужчины</AndroidT5Colonist.labelMalePlural>
+  <AndroidT5Colonist.labelFemale>T5 Андроид колонист-женщина</AndroidT5Colonist.labelFemale>
+  <AndroidT5Colonist.labelFemalePlural>T5 Андроиды колонисты-женщины</AndroidT5Colonist.labelFemalePlural>
+
+  <AndroidT4Colonist.label>T4 Андроид колонист</AndroidT4Colonist.label>
+  <AndroidT4Colonist.labelPlural>T4 Андроиды колонисты</AndroidT4Colonist.labelPlural>
+  <AndroidT4Colonist.labelMale>T4 Андроид колонист-мужчина</AndroidT4Colonist.labelMale>
+  <AndroidT4Colonist.labelMalePlural>T4 Андроиды колонисты-мужчины</AndroidT4Colonist.labelMalePlural>
+  <AndroidT4Colonist.labelFemale>T4 Андроид колонист-женщина</AndroidT4Colonist.labelFemale>
+  <AndroidT4Colonist.labelFemalePlural>T4 Андроиды колонисты-женщины</AndroidT4Colonist.labelFemalePlural>
+
+  <AndroidT3Colonist.label>T3 Андроид колонист</AndroidT3Colonist.label>
+  <AndroidT3Colonist.labelPlural>T3 Андроиды колонисты</AndroidT3Colonist.labelPlural>
+  <AndroidT3Colonist.labelMale>T3 Андроид колонист-мужчина</AndroidT3Colonist.labelMale>
+  <AndroidT3Colonist.labelMalePlural>T3 Андроиды колонисты-мужчины</AndroidT3Colonist.labelMalePlural>
+  <AndroidT3Colonist.labelFemale>T3 Андроид колонист-женщина</AndroidT3Colonist.labelFemale>
+  <AndroidT3Colonist.labelFemalePlural>T3 Андроиды колонисты-женщины</AndroidT3Colonist.labelFemalePlural>
+
+  <AndroidT1Colonist.label>T1 Андроид колонист</AndroidT1Colonist.label>
+  <AndroidT1Colonist.labelPlural>T1 Андроиды колонисты</AndroidT1Colonist.labelPlural>
+  <AndroidT1Colonist.labelMale>T1 Андроид колонист-мужчина</AndroidT1Colonist.labelMale>
+  <AndroidT1Colonist.labelMalePlural>T1 Андроиды колонисты-мужчины</AndroidT1Colonist.labelMalePlural>
+  <AndroidT1Colonist.labelFemale>T1 Андроид колонист-женщина</AndroidT1Colonist.labelFemale>
+  <AndroidT1Colonist.labelFemalePlural>T1 Андроиды колонисты-женщины</AndroidT1Colonist.labelFemalePlural>
+
+  <AndroidT2Colonist.label>T2 Андроид колонист</AndroidT2Colonist.label>
+  <AndroidT2Colonist.labelPlural>T2 Андроиды колонисты</AndroidT2Colonist.labelPlural>
+  <AndroidT2Colonist.labelMale>T2 Андроид колонист-мужчина</AndroidT2Colonist.labelMale>
+  <AndroidT2Colonist.labelMalePlural>T2 Андроиды колонисты-мужчины</AndroidT2Colonist.labelMalePlural>
+  <AndroidT2Colonist.labelFemale>T2 Андроид колонист-женщина</AndroidT2Colonist.labelFemale>
+  <AndroidT2Colonist.labelFemalePlural>T2 Андроиды колонисты-женщины</AndroidT2Colonist.labelFemalePlural>
+
+
+  <!-- Androids With Real Backstories -->
+
+  <AndroidT4ColonistGeneral.label>T4 Андроид колонист</AndroidT4ColonistGeneral.label>
+  <AndroidT4ColonistGeneral.labelPlural>T4 Андроиды колонисты</AndroidT4ColonistGeneral.labelPlural>
+  <AndroidT4ColonistGeneral.labelMale>T4 Андроид колонист-мужчина</AndroidT4ColonistGeneral.labelMale>
+  <AndroidT4ColonistGeneral.labelMalePlural>T4 Андроиды колонисты-мужчины</AndroidT4ColonistGeneral.labelMalePlural>
+  <AndroidT4ColonistGeneral.labelFemale>T4 Андроид колонист-женщина</AndroidT4ColonistGeneral.labelFemale>
+  <AndroidT4ColonistGeneral.labelFemalePlural>T4 Андроиды колонисты-женщины</AndroidT4ColonistGeneral.labelFemalePlural>
+
+  <AndroidT3ColonistGeneral.label>T3 Андроид колонист</AndroidT3ColonistGeneral.label>
+  <AndroidT3ColonistGeneral.labelPlural>T3 Андроиды колонисты</AndroidT3ColonistGeneral.labelPlural>
+  <AndroidT3ColonistGeneral.labelMale>T3 Андроид колонист-мужчина</AndroidT3ColonistGeneral.labelMale>
+  <AndroidT3ColonistGeneral.labelMalePlural>T3 Андроиды колонисты-мужчины</AndroidT3ColonistGeneral.labelMalePlural>
+  <AndroidT3ColonistGeneral.labelFemale>T3 Андроид колонист-женщина</AndroidT3ColonistGeneral.labelFemale>
+  <AndroidT3ColonistGeneral.labelFemalePlural>T3 Андроиды колонисты-женщины</AndroidT3ColonistGeneral.labelFemalePlural>
+
+  <AndroidT1ColonistGeneral.label>T1 Андроид колонист</AndroidT1ColonistGeneral.label>
+  <AndroidT1ColonistGeneral.labelPlural>T1 Андроиды колонисты</AndroidT1ColonistGeneral.labelPlural>
+  <AndroidT1ColonistGeneral.labelMale>T1 Андроид колонист-мужчина</AndroidT1ColonistGeneral.labelMale>
+  <AndroidT1ColonistGeneral.labelMalePlural>T1 Андроиды колонисты-мужчины</AndroidT1ColonistGeneral.labelMalePlural>
+  <AndroidT1ColonistGeneral.labelFemale>T1 Андроид колонист-женщина</AndroidT1ColonistGeneral.labelFemale>
+  <AndroidT1ColonistGeneral.labelFemalePlural>T1 Андроиды колонисты-женщины</AndroidT1ColonistGeneral.labelFemalePlural>
+
+  <AndroidT2ColonistGeneral.label>T2 Андроид колонист</AndroidT2ColonistGeneral.label>
+  <AndroidT2ColonistGeneral.labelPlural>T2 Андроиды колонисты</AndroidT2ColonistGeneral.labelPlural>
+  <AndroidT2ColonistGeneral.labelMale>T2 Андроид колонист-мужчина</AndroidT2ColonistGeneral.labelMale>
+  <AndroidT2ColonistGeneral.labelMalePlural>T2 Андроиды колонисты-мужчины</AndroidT2ColonistGeneral.labelMalePlural>
+  <AndroidT2ColonistGeneral.labelFemale>T2 Андроид колонист-женщина</AndroidT2ColonistGeneral.labelFemale>
+  <AndroidT2ColonistGeneral.labelFemalePlural>T2 Андроиды колонисты-женщины</AndroidT2ColonistGeneral.labelFemalePlural>
+
+
+</LanguageData>

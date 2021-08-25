@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: farmer -->
+  <Farmer.label>фермер</Farmer.label>
+  
+  <!-- EN: hunter -->
+  <Hunter.label>охотник</Hunter.label>
+  
+  <!-- EN: logger -->
+  <Logger.label>лесоруб</Logger.label>
+  
+  <!-- EN: miner -->
+  <Miner.label>шахтер</Miner.label>
+  
+  <!-- EN: farmer -->
+  <Tribal_Farmer.label>фермер</Tribal_Farmer.label>
+  
+  <!-- EN: logger -->
+  <Tribal_Logger.label>лесоруб</Tribal_Logger.label>
+  
+  <!-- EN: miner -->
+  <Tribal_Miner.label>шахтер</Tribal_Miner.label>
+  
+</LanguageData>

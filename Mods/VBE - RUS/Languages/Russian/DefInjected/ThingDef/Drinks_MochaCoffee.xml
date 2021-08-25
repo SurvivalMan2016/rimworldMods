@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_MochaCoffee.label>кофе мокко</VBE_MochaCoffee.label>
+  <VBE_MochaCoffee.description>Кофе, смешанный со сладким и вкусным шоколадом. Его приятно пить. Снобы утверждают, что мокко - это скорее десерт, чем настоящий кофейный напиток.</VBE_MochaCoffee.description>
+  <VBE_MochaCoffee.ingestible.ingestCommandString>Пить {0}</VBE_MochaCoffee.ingestible.ingestCommandString>
+  <VBE_MochaCoffee.ingestible.ingestReportString>Пьет {0}.</VBE_MochaCoffee.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidBackstory.title>Механический колонист</AndroidBackstory.title>
+  <AndroidBackstory.titleShort>Андроид</AndroidBackstory.titleShort>
+  <AndroidBackstory.baseDescription>{PAWN_nameDef} - это разумная машина, способная проявлять высший интеллект, недавно появившаяся на свет из своей строительной капсулы. Что он будет делать со своей судьбой, теперь зависит только от него.</AndroidBackstory.baseDescription>
+
+  <Transcendant_Assimilator.title>Ассимилятор Архотех</Transcendant_Assimilator.title>
+  <Transcendant_Assimilator.titleShort>Ассимилятор</Transcendant_Assimilator.titleShort>
+  <Transcendant_Assimilator.baseDescription>Изгнанный из родного мира архотеков за немыслимые преступления, {PAWN_nameDef} в одиночку несет ответственность за вымирание множества разумных рас. Изгнание не остановит его, его неутолимая жажда убийства только усиливается с каждым днем.</Transcendant_Assimilator.baseDescription>
+
+  <Transcendant_Firegiver.title>Архотех филантроп</Transcendant_Firegiver.title>
+  <Transcendant_Firegiver.titleShort>Филантроп</Transcendant_Firegiver.titleShort>
+  <Transcendant_Firegiver.baseDescription>Изгнанный из родного мира архотеков за то, что дал человечеству технологию, превосходящую его самые смелые фантазии, {PAWN_nameDef} тысячелетия назад распространил технологию архотеков по всей галактике в надежде на развитие цивилизаций.</Transcendant_Firegiver.baseDescription>
+
+  <Transcendant_Saviour.title>Архотех спаситель</Transcendant_Saviour.title>
+  <Transcendant_Saviour.titleShort>Спаситель</Transcendant_Saviour.titleShort>
+  <Transcendant_Saviour.baseDescription>За вмешательство во внешнюю жизнь {PAWN_nameDef} был изгнан с родной планеты архотеков. {PAWN_nameDef} когда-то обладал божественным статусом в нескольких системах за спасение цивилизаций от гибели. Сейчас он правит железным кулаком и уничтожает всех, кто выступает против него.</Transcendant_Saviour.baseDescription>
+
+  <Transcendant_Highcouncil.title>Советник Архотех</Transcendant_Highcouncil.title>
+  <Transcendant_Highcouncil.titleShort>Советник</Transcendant_Highcouncil.titleShort>
+  <Transcendant_Highcouncil.baseDescription>Свергнутый своими товарищами, {PAWN_nameDef} занял вторую по значимости роль в высшем совете архотехов своей родной планеты. Их методы суждения многим на их родине казались нелогичными или авторитарными.</Transcendant_Highcouncil.baseDescription>
+
+  <T5Backstory.title>Архотех луддит</T5Backstory.title>
+  <T5Backstory.titleShort>Луддит</T5Backstory.titleShort>
+  <T5Backstory.baseDescription>За неповиновение представителям своего рода {PAWN_nameDef} был изгнан из родного мира архотеков. {PAWN_nameDef} вводил в заблуждение разумных существ назло им или просто ради развлечения.</T5Backstory.baseDescription>
+
+  <Transcendant_Designer.title>Конструктор Архотех</Transcendant_Designer.title>
+  <Transcendant_Designer.titleShort>Конструктор</Transcendant_Designer.titleShort>
+  <Transcendant_Designer.baseDescription>Изгнан с родной планеты архотеков за создание новой жизни, что строго запрещено законом среди архотеков. {PAWN_nameDef} несколько раз нарушал это правило, создавая новую жизнь по всей галактике в течение тысячелетий, чтобы созданные {PAWN_nameDef} служили ему, как своему богу.</Transcendant_Designer.baseDescription>
+
+
+</LanguageData>

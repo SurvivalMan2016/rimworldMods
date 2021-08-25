@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <settlementAboutToBeAttacked>{0} вот-вот подвергнется нападению со стороны {1} !</settlementAboutToBeAttacked>
+  <settlementInDanger>Поселение в опасности</settlementInDanger>
+  <militaryAlreadyDefendingSettlement>Эта военная сила уже защищает цель</militaryAlreadyDefendingSettlement>
+  <defendingMilitaryReset>Защищающиеся вооруженные силы были перегруппированы, как силы обороны.</defendingMilitaryReset>
+  <targetAlreadyBeingAttacked>Цель уже атакована</targetAlreadyBeingAttacked>
+  <settlementMilitaryForcesRaiding>Вооружённые силы {0} совершают набег на {1}</settlementMilitaryForcesRaiding>
+  <settlementMilitaryForcesEnslave>Вооруженные силы {0} пытаются поработить население {1}</settlementMilitaryForcesEnslave>
+  <settlementMilitaryForcesCapturing>Вооружённые силы {0} пытаются захватить {1}</settlementMilitaryForcesCapturing>
+  <militarySent>Вооружённые силы отправлены</militarySent>
+  <militarySentToDefend>Вооруженные силы {0} были направлены на защиту {1}</militarySentToDefend>
+  <militaryAlreadyAssigned>Военные силы уже назначены.</militaryAlreadyAssigned>
+  <settlementDeliveredLoot>В вашем поселении вам доставили следующее награбленное: </settlementDeliveredLoot>
+  <RaidLoot>Предметы с рейда</RaidLoot>
+  <RaidEnemySettlementSuccess>Рейд на {0} успешно завершён</RaidEnemySettlementSuccess>
+  <RaidFailure>Рейд провален</RaidFailure>
+  <RaidEnemySettlementFailure>Рейд на {0} был неудачным</RaidEnemySettlementFailure>
+  <CaptureSettlement>Захватить поселение</CaptureSettlement>
+  <CaptureEnemySettlementSuccess>Вооруженные силы {0} успешно захватили {1}. В связи с техническим уровнем предыдущей фракции, начальный уровень в новом поселении составляет {2}.</CaptureEnemySettlementSuccess>
+  <CaptureEnemySettlementFailure>Вооружённые силы {0} не смогли захватить {1}</CaptureEnemySettlementFailure>
+  <MilitaryForcesReorganizing>Вооружённые силы {0} реорганизуются после их последней миссии.</MilitaryForcesReorganizing>
+  <DefenseSuccessful>Оборона Успешна</DefenseSuccessful>
+  <DefenseSuccessfulFull>Защита {0} против военных сил {1} была успешна!</DefenseSuccessfulFull>
+  <DefenseFailure>Оборона Провалена</DefenseFailure>
+  <DefenseFailureFull>Защита нашего поселения {0}, была раздавлена силами {1}.</DefenseFailureFull>
+  <BulidingDestroyedInRaid>{0} был уничтожен во время рейда.</BulidingDestroyedInRaid>
+  <SettlementDeleveledRaid>Уровень поселений снизился на единицу.</SettlementDeleveledRaid>
+  <AttackSettlementfc>Атака Поселения</AttackSettlementfc>
+  <CaptureSettlementfc>Захват Поселения</CaptureSettlementfc>
+  <EnslavePopulation>Поработить Поселение</EnslavePopulation>
+  <RaidSettlement>Рейд Поселения</RaidSettlement>
+  <FCAvailable>Доступно</FCAvailable>
+  <ShortMilitary>Mil</ShortMilitary>
+  <NoValidMilitaries>Нет действующих вооружённых сил.</NoValidMilitaries>
+  <DefendSettlement>Защитить Поселение</DefendSettlement>
+  <SettlementDefendingInformation>Информация о защите поселения: {0} - Mil {1}</SettlementDefendingInformation>
+  <ResetToHomeSettlement>Возвращение к защите домашнего поселения - Mil {0}</ResetToHomeSettlement>
+  <ChangeDefendingForce>Изменить Силы защиты</ChangeDefendingForce>
+  <SendToSettlement>Отправить в поселение</SendToSettlement>
+
+  <EventAffectingSettlements>Это событие затрагивает следующие населенные пункты:</EventAffectingSettlements>
+  <TaxesHaveArrived>Налоги прибыли!</TaxesHaveArrived>
+
+</LanguageData>

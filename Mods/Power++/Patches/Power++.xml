@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<!-- Add support for local wireless power connexion-->
+	<Operation Class="PatchOperationAdd">
+	  <xpath>*/*[ translate(name(),'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz') = 'thingdef' and (defName != "ARKPPP_LocalWirelessPowerEmitter" or not(defName)) and (defName != "ARKPPP_LocalWirelessPortablePowerEmitter" or not(defName)) ]/comps[ li[ @Class = "CompProperties_Power" and (basePowerConsumption >= 0 or not(basePowerConsumption) ) and (not(transmitsPower) or transmitsPower = false )] ]</xpath>
+	  <value>
+			<li Class="aRandomKiwi.PPP.CompProperties_LocalWirelessPowerReceptor">
+				<compClass>aRandomKiwi.PPP.CompLocalWirelessPowerReceptor</compClass>
+			</li>
+	  </value>
+	</Operation>	
+</Patch>

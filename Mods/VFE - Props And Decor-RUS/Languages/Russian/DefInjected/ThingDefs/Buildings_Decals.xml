@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DecalBaseLarge.description>большая напольная наклейка</DecalBaseLarge.description>
+
+  <VFEPD_LargeDecalArrowLong.label>большая длинная стрелка</VFEPD_LargeDecalArrowLong.label>
+  <VFEPD_LargeDecalArrowShort.label>большая короткая стрелка</VFEPD_LargeDecalArrowShort.label>
+  <VFEPD_LargeDecalArrowWide.label>большая широкая стрелка</VFEPD_LargeDecalArrowWide.label>
+  <VFEPD_LargeDecalLineDouble.label>большая двойная линия</VFEPD_LargeDecalLineDouble.label>
+  <VFEPD_LargeDecalLineDoubleCornerInner.label>большая двойная линия (внутренний угол)</VFEPD_LargeDecalLineDoubleCornerInner.label>
+  <VFEPD_LargeDecalLineDoubleCornerOuter.label>большая двойная линия (внешний угол)</VFEPD_LargeDecalLineDoubleCornerOuter.label>
+  <VFEPD_LargeDecalLineThin.label>большая тонкая линия</VFEPD_LargeDecalLineThin.label>
+  <VFEPD_LargeDecalLineThinCornerInner.label>большая тонкая линия (внутренний угол)</VFEPD_LargeDecalLineThinCornerInner.label>
+  <VFEPD_LargeDecalLineThinCornerOuter.label>большая тонкая линия (внешний угол)</VFEPD_LargeDecalLineThinCornerOuter.label>
+  <VFEPD_LargeDecalSymbolA.label>большой символ A</VFEPD_LargeDecalSymbolA.label>
+  <VFEPD_LargeDecalSymbolB.label>большой символ B</VFEPD_LargeDecalSymbolB.label>
+  <VFEPD_LargeDecalSymbolC.label>большой символ C</VFEPD_LargeDecalSymbolC.label>
+  <VFEPD_LargeDecalSymbolD.label>большой символ D</VFEPD_LargeDecalSymbolD.label>
+  <VFEPD_LargeDecalSymbolE.label>большой символ E</VFEPD_LargeDecalSymbolE.label>
+  <VFEPD_LargeDecalSymbolF.label>большой символ F</VFEPD_LargeDecalSymbolF.label>
+  <VFEPD_LargeDecalSymbolG.label>большой символ G</VFEPD_LargeDecalSymbolG.label>
+  <VFEPD_LargeDecalSymbolH.label>большой символ H</VFEPD_LargeDecalSymbolH.label>
+  <VFEPD_LargeDecalSymbolI.label>большой символ I</VFEPD_LargeDecalSymbolI.label>
+  <VFEPD_LargeDecalSymbolJ.label>большой символ J</VFEPD_LargeDecalSymbolJ.label>
+  <VFEPD_LargeDecalSymbolK.label>большой символ K</VFEPD_LargeDecalSymbolK.label>
+  <VFEPD_LargeDecalSymbolL.label>большой символ L</VFEPD_LargeDecalSymbolL.label>
+  <VFEPD_LargeDecalSymbolM.label>большой символ M</VFEPD_LargeDecalSymbolM.label>
+  <VFEPD_LargeDecalSymbolN.label>большой символ N</VFEPD_LargeDecalSymbolN.label>
+  <VFEPD_LargeDecalSymbolO.label>большой символ O</VFEPD_LargeDecalSymbolO.label>
+  <VFEPD_LargeDecalSymbolP.label>большой символ P</VFEPD_LargeDecalSymbolP.label>
+  <VFEPD_LargeDecalSymbolR.label>большой символ R</VFEPD_LargeDecalSymbolR.label>
+  <VFEPD_LargeDecalSymbolS.label>большой символ S</VFEPD_LargeDecalSymbolS.label>
+  <VFEPD_LargeDecalSymbolT.label>большой символ T</VFEPD_LargeDecalSymbolT.label>
+  <VFEPD_LargeDecalSymbolU.label>большой символ U</VFEPD_LargeDecalSymbolU.label>
+  <VFEPD_LargeDecalSymbolW.label>большой символ W</VFEPD_LargeDecalSymbolW.label>
+  <VFEPD_LargeDecalSymbolX.label>большой символ X</VFEPD_LargeDecalSymbolX.label>
+  <VFEPD_LargeDecalSymbolY.label>большой символ Y</VFEPD_LargeDecalSymbolY.label>
+  <VFEPD_LargeDecalSymbolZ.label>большой символ Z</VFEPD_LargeDecalSymbolZ.label>
+  <VFEPD_LargeDecalSymbolOne.label>большой символ 1</VFEPD_LargeDecalSymbolOne.label>
+  <VFEPD_LargeDecalSymbolTwo.label>большой символ 2</VFEPD_LargeDecalSymbolTwo.label>
+  <VFEPD_LargeDecalSymbolThree.label>большой символ 3</VFEPD_LargeDecalSymbolThree.label>
+  <VFEPD_LargeDecalSymbolFour.label>большой символ 4</VFEPD_LargeDecalSymbolFour.label>
+  <VFEPD_LargeDecalSymbolFive.label>большой символ 5</VFEPD_LargeDecalSymbolFive.label>
+  <VFEPD_LargeDecalSymbolSix.label>большой символ 6</VFEPD_LargeDecalSymbolSix.label>
+  <VFEPD_LargeDecalSymbolSeven.label>большой символ 7</VFEPD_LargeDecalSymbolSeven.label>
+  <VFEPD_LargeDecalSymbolEight.label>большой символ 8</VFEPD_LargeDecalSymbolEight.label>
+  <VFEPD_LargeDecalSymbolNine.label>большой символ 9</VFEPD_LargeDecalSymbolNine.label>
+  <VFEPD_LargeDecalSymbolZero.label>большой символ 0</VFEPD_LargeDecalSymbolZero.label>
+  <VFEPD_LargeDecalWordArmory.label>наклейка 'арсенал'</VFEPD_LargeDecalWordArmory.label>
+  <VFEPD_LargeDecalWordBarracks.label>наклейка 'казармы'</VFEPD_LargeDecalWordBarracks.label>
+  <VFEPD_LargeDecalWordBlock.label>наклейка 'блок'</VFEPD_LargeDecalWordBlock.label>
+  <VFEPD_LargeDecalWordCafeteria.label>наклейка 'кафетерий'</VFEPD_LargeDecalWordCafeteria.label>
+  <VFEPD_LargeDecalWordCargo.label>наклейка 'груз'</VFEPD_LargeDecalWordCargo.label>
+  <VFEPD_LargeDecalWordChamber.label>наклейка 'камера'</VFEPD_LargeDecalWordChamber.label>
+  <VFEPD_LargeDecalWordClimate.label>наклейка 'климат'</VFEPD_LargeDecalWordClimate.label>
+  <VFEPD_LargeDecalWordCommand.label>наклейка 'командная'</VFEPD_LargeDecalWordCommand.label>
+  <VFEPD_LargeDecalWordControl.label>наклейка 'контрольная'</VFEPD_LargeDecalWordControl.label>
+  <VFEPD_LargeDecalWordEngineer.label>наклейка 'инженер'</VFEPD_LargeDecalWordEngineer.label>
+  <VFEPD_LargeDecalWordFarming.label>наклейка 'ферма'</VFEPD_LargeDecalWordFarming.label>
+  <VFEPD_LargeDecalWordFreezer.label>наклейка 'морозильник'</VFEPD_LargeDecalWordFreezer.label>
+  <VFEPD_LargeDecalWordFridge.label>наклейка 'холодильник'</VFEPD_LargeDecalWordFridge.label>
+  <VFEPD_LargeDecalWordHangar.label>наклейка 'ангар'</VFEPD_LargeDecalWordHangar.label>
+  <VFEPD_LargeDecalWordHospital.label>наклейка 'госпиталь'</VFEPD_LargeDecalWordHospital.label>
+  <VFEPD_LargeDecalWordKill.label>наклейка 'убить'</VFEPD_LargeDecalWordKill.label>
+  <VFEPD_LargeDecalWordKitchen.label>наклейка 'кухня'</VFEPD_LargeDecalWordKitchen.label>
+  <VFEPD_LargeDecalWordLanding.label>наклейка 'посадка'</VFEPD_LargeDecalWordLanding.label>
+  <VFEPD_LargeDecalWordMedical.label>наклейка 'медицина'</VFEPD_LargeDecalWordMedical.label>
+  <VFEPD_LargeDecalWordMess.label>наклейка 'бардак'</VFEPD_LargeDecalWordMess.label>
+  <VFEPD_LargeDecalWordMorgue.label>наклейка 'морг'</VFEPD_LargeDecalWordMorgue.label>
+  <VFEPD_LargeDecalWordMortar.label>наклейка 'миномет'</VFEPD_LargeDecalWordMortar.label>
+  <VFEPD_LargeDecalWordPlay.label>наклейка 'игровая'</VFEPD_LargeDecalWordPlay.label>
+  <VFEPD_LargeDecalWordPrison.label>наклейка 'тюрьма'</VFEPD_LargeDecalWordPrison.label>
+  <VFEPD_LargeDecalWordReactor.label>наклейка 'реактор'</VFEPD_LargeDecalWordReactor.label>
+  <VFEPD_LargeDecalWordRecreation.label>наклейка 'место отдыха'</VFEPD_LargeDecalWordRecreation.label>
+  <VFEPD_LargeDecalWordRefinery.label>наклейка 'НПЗ'</VFEPD_LargeDecalWordRefinery.label>
+  <VFEPD_LargeDecalWordRelax.label>наклейка 'место расслабления'</VFEPD_LargeDecalWordRelax.label>
+  <VFEPD_LargeDecalWordResearch.label>наклейка 'место исследования'</VFEPD_LargeDecalWordResearch.label>
+  <VFEPD_LargeDecalWordSecurity.label>наклейка 'место охраны'</VFEPD_LargeDecalWordSecurity.label>
+  <VFEPD_LargeDecalWordShipping.label>наклейка 'доставка'</VFEPD_LargeDecalWordShipping.label>
+  <VFEPD_LargeDecalWordSleeping.label>наклейка 'место сна'</VFEPD_LargeDecalWordSleeping.label>
+  <VFEPD_LargeDecalWordSmelting.label>наклейка 'плавильня'</VFEPD_LargeDecalWordSmelting.label>
+  <VFEPD_LargeDecalWordStorage.label>наклейка 'хранилище'</VFEPD_LargeDecalWordStorage.label>
+  <VFEPD_LargeDecalWordWarning.label>наклейка 'предупреждение'</VFEPD_LargeDecalWordWarning.label>
+  <VFEPD_LargeDecalWordWorkshop.label>наклейка 'мастерская'</VFEPD_LargeDecalWordWorkshop.label>
+  <VFEPD_LargeDecalWordSmallBase.label>наклейка 'база'</VFEPD_LargeDecalWordSmallBase.label>
+  <VFEPD_LargeDecalWordSmallBay.label>наклейка 'залив'</VFEPD_LargeDecalWordSmallBay.label>
+  <VFEPD_LargeDecalWordSmallBox.label>наклейка 'коробка'</VFEPD_LargeDecalWordSmallBox.label>
+  <VFEPD_LargeDecalWordSmallCell.label>наклейка 'клетка'</VFEPD_LargeDecalWordSmallCell.label>
+  <VFEPD_LargeDecalWordSmallClear.label>наклейка 'чистота'</VFEPD_LargeDecalWordSmallClear.label>
+  <VFEPD_LargeDecalWordSmallDock.label>наклейка 'док'</VFEPD_LargeDecalWordSmallDock.label>
+  <VFEPD_LargeDecalWordSmallGas.label>наклейка 'топливо'</VFEPD_LargeDecalWordSmallGas.label>
+  <VFEPD_LargeDecalWordSmallHall.label>наклейка 'холл'</VFEPD_LargeDecalWordSmallHall.label>
+  <VFEPD_LargeDecalWordSmallKeep.label>наклейка 'хранение'</VFEPD_LargeDecalWordSmallKeep.label>
+  <VFEPD_LargeDecalWordSmallLab.label>наклейка 'лаборатория'</VFEPD_LargeDecalWordSmallLab.label>
+  <VFEPD_LargeDecalWordSmallPad.label>наклейка 'площадка'</VFEPD_LargeDecalWordSmallPad.label>
+  <VFEPD_LargeDecalWordSmallRoom.label>наклейка 'комната'</VFEPD_LargeDecalWordSmallRoom.label>
+  <VFEPD_LargeDecalWordSmallWing.label>наклейка 'крыло'</VFEPD_LargeDecalWordSmallWing.label>
+  <VFEPD_LargeDecalWordSmallZone.label>наклейка 'зона'</VFEPD_LargeDecalWordSmallZone.label>
+
+  <DecalBase.description>напольная наклейка</DecalBase.description>
+
+  <VFEPD_DecalArrowLong.label>длинная стрелка</VFEPD_DecalArrowLong.label>
+  <VFEPD_DecalArrowShort.label>короткая стрелка</VFEPD_DecalArrowShort.label>
+  <VFEPD_DecalArrowWide.label>широкая стрелка</VFEPD_DecalArrowWide.label>
+  <VFEPD_DecalLineDouble.label>двойная линия</VFEPD_DecalLineDouble.label>
+  <VFEPD_DecalLineDoubleCornerInner.label>двойная линия (внутренний угол)</VFEPD_DecalLineDoubleCornerInner.label>
+  <VFEPD_DecalLineDoubleCornerOuter.label>двойная линия (внешний угол)</VFEPD_DecalLineDoubleCornerOuter.label>
+  <VFEPD_DecalLineThin.label>тонкая линия</VFEPD_DecalLineThin.label>
+  <VFEPD_DecalLineThinCornerInner.label>тонкая линия (внутренний угол)</VFEPD_DecalLineThinCornerInner.label>
+  <VFEPD_DecalLineThinCornerOuter.label>тонкая линия (внешний угол)</VFEPD_DecalLineThinCornerOuter.label>
+  <VFEPD_DecalSymbolA.label>символ A</VFEPD_DecalSymbolA.label>
+  <VFEPD_DecalSymbolB.label>символ B</VFEPD_DecalSymbolB.label>
+  <VFEPD_DecalSymbolC.label>символ C</VFEPD_DecalSymbolC.label>
+  <VFEPD_DecalSymbolD.label>символ D</VFEPD_DecalSymbolD.label>
+  <VFEPD_DecalSymbolE.label>символ E</VFEPD_DecalSymbolE.label>
+  <VFEPD_DecalSymbolF.label>символ F</VFEPD_DecalSymbolF.label>
+  <VFEPD_DecalSymbolG.label>символ G</VFEPD_DecalSymbolG.label>
+  <VFEPD_DecalSymbolH.label>символ H</VFEPD_DecalSymbolH.label>
+  <VFEPD_DecalSymbolI.label>символ I</VFEPD_DecalSymbolI.label>
+  <VFEPD_DecalSymbolJ.label>символ J</VFEPD_DecalSymbolJ.label>
+  <VFEPD_DecalSymbolK.label>символ K</VFEPD_DecalSymbolK.label>
+  <VFEPD_DecalSymbolL.label>символ L</VFEPD_DecalSymbolL.label>
+  <VFEPD_DecalSymbolM.label>символ M</VFEPD_DecalSymbolM.label>
+  <VFEPD_DecalSymbolN.label>символ N</VFEPD_DecalSymbolN.label>
+  <VFEPD_DecalSymbolO.label>символ O</VFEPD_DecalSymbolO.label>
+  <VFEPD_DecalSymbolP.label>символ P</VFEPD_DecalSymbolP.label>
+  <VFEPD_DecalSymbolR.label>символ R</VFEPD_DecalSymbolR.label>
+  <VFEPD_DecalSymbolS.label>символ S</VFEPD_DecalSymbolS.label>
+  <VFEPD_DecalSymbolT.label>символ T</VFEPD_DecalSymbolT.label>
+  <VFEPD_DecalSymbolU.label>символ U</VFEPD_DecalSymbolU.label>
+  <VFEPD_DecalSymbolW.label>символ W</VFEPD_DecalSymbolW.label>
+  <VFEPD_DecalSymbolX.label>символ X</VFEPD_DecalSymbolX.label>
+  <VFEPD_DecalSymbolY.label>символ Y</VFEPD_DecalSymbolY.label>
+  <VFEPD_DecalSymbolZ.label>символ Z</VFEPD_DecalSymbolZ.label>
+  <VFEPD_DecalSymbolOne.label>символ 1</VFEPD_DecalSymbolOne.label>
+  <VFEPD_DecalSymbolTwo.label>символ 2</VFEPD_DecalSymbolTwo.label>
+  <VFEPD_DecalSymbolThree.label>символ 3</VFEPD_DecalSymbolThree.label>
+  <VFEPD_DecalSymbolFour.label>символ 4</VFEPD_DecalSymbolFour.label>
+  <VFEPD_DecalSymbolFive.label>символ 5</VFEPD_DecalSymbolFive.label>
+  <VFEPD_DecalSymbolSix.label>символ 6</VFEPD_DecalSymbolSix.label>
+  <VFEPD_DecalSymbolSeven.label>символ 7</VFEPD_DecalSymbolSeven.label>
+  <VFEPD_DecalSymbolEight.label>символ 8</VFEPD_DecalSymbolEight.label>
+  <VFEPD_DecalSymbolNine.label>символ 9</VFEPD_DecalSymbolNine.label>
+  <VFEPD_DecalSymbolZero.label>символ 0</VFEPD_DecalSymbolZero.label>
+  <VFEPD_DecalWordArmory.label>наклейка 'арсенал'</VFEPD_DecalWordArmory.label>
+  <VFEPD_DecalWordBarracks.label>наклейка 'казармы'</VFEPD_DecalWordBarracks.label>
+  <VFEPD_DecalWordBlock.label>наклейка 'блок'</VFEPD_DecalWordBlock.label>
+  <VFEPD_DecalWordCafeteria.label>наклейка 'кафетерий'</VFEPD_DecalWordCafeteria.label>
+  <VFEPD_DecalWordCargo.label>наклейка 'груз'</VFEPD_DecalWordCargo.label>
+  <VFEPD_DecalWordChamber.label>наклейка 'камера'</VFEPD_DecalWordChamber.label>
+  <VFEPD_DecalWordClimate.label>наклейка 'климат'</VFEPD_DecalWordClimate.label>
+  <VFEPD_DecalWordCommand.label>наклейка 'командная'</VFEPD_DecalWordCommand.label>
+  <VFEPD_DecalWordControl.label>наклейка 'контрольная'</VFEPD_DecalWordControl.label>
+  <VFEPD_DecalWordEngineer.label>наклейка 'инженер'</VFEPD_DecalWordEngineer.label>
+  <VFEPD_DecalWordFarming.label>наклейка 'ферма'</VFEPD_DecalWordFarming.label>
+  <VFEPD_DecalWordFreezer.label>наклейка 'морозильник'</VFEPD_DecalWordFreezer.label>
+  <VFEPD_DecalWordFridge.label>наклейка 'холодильник'</VFEPD_DecalWordFridge.label>
+  <VFEPD_DecalWordHangar.label>наклейка 'ангар'</VFEPD_DecalWordHangar.label>
+  <VFEPD_DecalWordHospital.label>наклейка 'госпиталь'</VFEPD_DecalWordHospital.label>
+  <VFEPD_DecalWordKill.label>наклейка 'убить'</VFEPD_DecalWordKill.label>
+  <VFEPD_DecalWordKitchen.label>наклейка 'кухня'</VFEPD_DecalWordKitchen.label>
+  <VFEPD_DecalWordLanding.label>наклейка 'посадка'</VFEPD_DecalWordLanding.label>
+  <VFEPD_DecalWordMedical.label>наклейка 'медицина'</VFEPD_DecalWordMedical.label>
+  <VFEPD_DecalWordMess.label>наклейка 'бардак'</VFEPD_DecalWordMess.label>
+  <VFEPD_DecalWordMorgue.label>наклейка 'морг'</VFEPD_DecalWordMorgue.label>
+  <VFEPD_DecalWordMortar.label>наклейка 'миномет'</VFEPD_DecalWordMortar.label>
+  <VFEPD_DecalWordPlay.label>наклейка 'игровая'</VFEPD_DecalWordPlay.label>
+  <VFEPD_DecalWordPrison.label>наклейка 'тюрьма'</VFEPD_DecalWordPrison.label>
+  <VFEPD_DecalWordReactor.label>наклейка 'реактор'</VFEPD_DecalWordReactor.label>
+  <VFEPD_DecalWordRecreation.label>наклейка 'место отдыха'</VFEPD_DecalWordRecreation.label>
+  <VFEPD_DecalWordRefinery.label>наклейка 'НПЗ'</VFEPD_DecalWordRefinery.label>
+  <VFEPD_DecalWordRelax.label>наклейка 'место расслабления'</VFEPD_DecalWordRelax.label>
+  <VFEPD_DecalWordResearch.label>наклейка 'место исследования'</VFEPD_DecalWordResearch.label>
+  <VFEPD_DecalWordSecurity.label>наклейка 'место охраны'</VFEPD_DecalWordSecurity.label>
+  <VFEPD_DecalWordShipping.label>наклейка 'доставка'</VFEPD_DecalWordShipping.label>
+  <VFEPD_DecalWordSleeping.label>наклейка 'место сна'</VFEPD_DecalWordSleeping.label>
+  <VFEPD_DecalWordSmelting.label>наклейка 'плавильня'</VFEPD_DecalWordSmelting.label>
+  <VFEPD_DecalWordStorage.label>наклейка 'хранилище'</VFEPD_DecalWordStorage.label>
+  <VFEPD_DecalWordWarning.label>наклейка 'предупреждение'</VFEPD_DecalWordWarning.label>
+  <VFEPD_DecalWordWorkshop.label>наклейка 'мастерская'</VFEPD_DecalWordWorkshop.label>
+  <VFEPD_DecalWordSmallBase.label>наклейка 'база'</VFEPD_DecalWordSmallBase.label>
+  <VFEPD_DecalWordSmallBay.label>наклейка 'залив'</VFEPD_DecalWordSmallBay.label>
+  <VFEPD_DecalWordSmallBox.label>наклейка 'коробка'</VFEPD_DecalWordSmallBox.label>
+  <VFEPD_DecalWordSmallCell.label>наклейка 'клетка'</VFEPD_DecalWordSmallCell.label>
+  <VFEPD_DecalWordSmallClear.label>наклейка 'чистота'</VFEPD_DecalWordSmallClear.label>
+  <VFEPD_DecalWordSmallDock.label>наклейка 'док'</VFEPD_DecalWordSmallDock.label>
+  <VFEPD_DecalWordSmallGas.label>наклейка 'топливо'</VFEPD_DecalWordSmallGas.label>
+  <VFEPD_DecalWordSmallHall.label>наклейка 'холл'</VFEPD_DecalWordSmallHall.label>
+  <VFEPD_DecalWordSmallKeep.label>наклейка 'хранение'</VFEPD_DecalWordSmallKeep.label>
+  <VFEPD_DecalWordSmallLab.label>наклейка 'лаборатория'</VFEPD_DecalWordSmallLab.label>
+  <VFEPD_DecalWordSmallPad.label>наклейка 'площадка'</VFEPD_DecalWordSmallPad.label>
+  <VFEPD_DecalWordSmallRoom.label>наклейка 'комната'</VFEPD_DecalWordSmallRoom.label>
+  <VFEPD_DecalWordSmallWing.label>наклейка 'крыло'</VFEPD_DecalWordSmallWing.label>
+  <VFEPD_DecalWordSmallZone.label>наклейка 'зона'</VFEPD_DecalWordSmallZone.label>
+   
+</LanguageData>

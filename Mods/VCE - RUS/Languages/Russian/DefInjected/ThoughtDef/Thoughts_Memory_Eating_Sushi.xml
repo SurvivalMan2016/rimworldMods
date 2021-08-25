@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ingredient based thoughts -->
+
+  <VCE_ConsumedSoySauce.stages.0.label>употребил соевый соус</VCE_ConsumedSoySauce.stages.0.label>
+  <VCE_ConsumedSoySauce.stages.0.description>Соленый, умеренный умами - сладкий вкус и очень легкая горечь. Совершенство.</VCE_ConsumedSoySauce.stages.0.description>
+
+  <VCE_ConsumedWasabi.stages.0.label>дыхание дракона</VCE_ConsumedWasabi.stages.0.label>
+  <VCE_ConsumedWasabi.stages.0.description>У меня весь нос горит! Пожалуйста, дайте еще.</VCE_ConsumedWasabi.stages.0.description>
+
+
+  <!-- Sushi based thoughts -->
+
+  <VCE_AteSimpleSushi.stages.0.label>съел простые суши</VCE_AteSimpleSushi.stages.0.label>
+  <VCE_AteSimpleSushi.stages.0.description>Даже самые простые суши - деликатес.</VCE_AteSimpleSushi.stages.0.description>
+
+  <VCE_AteFineSushi.stages.0.label>съел вкусные суши</VCE_AteFineSushi.stages.0.label>
+  <VCE_AteFineSushi.stages.0.description>Я съел очень вкусные суши с овощами. Прекрасно.</VCE_AteFineSushi.stages.0.description>
+
+  <VCE_AteLavishSushi.stages.0.label>съел шикарные суши</VCE_AteLavishSushi.stages.0.label>
+  <VCE_AteLavishSushi.stages.0.description>Я съел невероятные суши. Вкусно!</VCE_AteLavishSushi.stages.0.description>
+
+  <VCE_AteGourmetSushi.stages.0.label>съел изысканные суши</VCE_AteGourmetSushi.stages.0.label>
+  <VCE_AteGourmetSushi.stages.0.description>Это...это было как будто не из этого мира. Ломтики рыбы таяли во рту. Просто невероятно.</VCE_AteGourmetSushi.stages.0.description>
+
+
+  <!-- Fried food based thoughts -->
+
+  <VCE_AteFriedSushi.stages.0.label>съел жареные суши</VCE_AteFriedSushi.stages.0.label>
+  <VCE_AteFriedSushi.stages.0.description>Жирная еда. Так вкусно.</VCE_AteFriedSushi.stages.0.description>
+
+</LanguageData>

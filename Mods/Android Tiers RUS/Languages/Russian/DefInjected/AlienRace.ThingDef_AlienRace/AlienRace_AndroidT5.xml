@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Android5Tier.label>Андроид Т5</Android5Tier.label>
+  <Android5Tier.description>Потерянный андроид, отвергнутый своим трансцендентным сообществом. Технологии, используемые для его создания, находятся за пределами человеческого понимания, он обладает практически неограниченной мощностью и не требует большого количества энергии для работы. Представители всех других рас, кроме собственной, считаются в некотором роде ниже себе подобных и предполагают, что жизнь на Rimworld - это участь хуже смерти.</Android5Tier.description>
+  <Android5Tier.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>Кожа</Android5Tier.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Android5Tier.tools.0.label>Правый кулак</Android5Tier.tools.0.label>
+  <Android5Tier.tools.1.label>Левый кулак</Android5Tier.tools.1.label>
+  <Android5Tier.tools.2.label>Голова</Android5Tier.tools.2.label>
+
+
+</LanguageData>

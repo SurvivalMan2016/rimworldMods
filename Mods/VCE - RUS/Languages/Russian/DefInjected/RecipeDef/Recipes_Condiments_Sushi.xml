@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_WasabiPaste.label>приготовить васаби</VCE_WasabiPaste.label>
+  <VCE_WasabiPaste.description>Сделать пасту васаби из сырого васаби. Пасту используют как острую приправу для суши и других блюд. По вкусу васаби больше похож на острую горчицу, чем на перец чили, поскольку стимулирует нос больше, чем язык. Он теряет свой аромат и портится очень быстро.</VCE_WasabiPaste.description>
+  <VCE_WasabiPaste.jobString>Готовит васаби.</VCE_WasabiPaste.jobString>
+
+
+</LanguageData>

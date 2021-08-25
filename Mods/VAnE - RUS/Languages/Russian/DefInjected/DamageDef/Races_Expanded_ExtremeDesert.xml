@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rattlesnake -->
+
+  <AEXP_RattleSnakeToxicBuildUp.label>ядовитый укус</AEXP_RattleSnakeToxicBuildUp.label>
+  <AEXP_RattleSnakeToxicBuildUp.deathMessage>{0} {0_gender ? умер : умерла : умерло} от ядовитых укусов.</AEXP_RattleSnakeToxicBuildUp.deathMessage>
+
+
+  <!-- Megascorpion -->
+
+  <AEXP_MegascorpionToxicBuildUp.label>ядовитое жало</AEXP_MegascorpionToxicBuildUp.label>
+  <AEXP_MegascorpionToxicBuildUp.deathMessage>{0} {0_gender ? умер : умерла : умерло} от ядовитого жала.</AEXP_MegascorpionToxicBuildUp.deathMessage>
+
+
+</LanguageData>

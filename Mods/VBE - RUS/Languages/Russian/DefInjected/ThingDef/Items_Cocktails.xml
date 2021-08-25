@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_SimpleCocktail.label>простой коктейль</VBE_SimpleCocktail.label>
+  <VBE_SimpleCocktail.description>Простой коктейль, на скорую руку смешанный из пары ингридиентов.</VBE_SimpleCocktail.description>
+
+  <VBE_FineCocktail.label>вкусный коктейль</VBE_FineCocktail.label>
+  <VBE_FineCocktail.description>Вкусный и сложный коктейль, тщательно смешанный из нескольких ингридиентов.</VBE_FineCocktail.description>
+
+  <VBE_LavishCocktail.label>шикарный коктейль</VBE_LavishCocktail.label>
+  <VBE_LavishCocktail.description>Воплощенный шедевр барменского дела, этот коктейль, смешан из самых разных ингридиентов и охлажден до идеальной температуры, а затем тщательно встряхнут и подан на стол.</VBE_LavishCocktail.description>
+
+  <VBE_GourmetCocktail.label>изысканный коктейль</VBE_GourmetCocktail.label>
+  <VBE_GourmetCocktail.description>Настоящее чудо миксологии. В этом коктейле учтены все факторы: темература стекла, выбор инструмента для смешивания, тип гарнира, точно рассчитанные вкус и консистенция.</VBE_GourmetCocktail.description>
+
+
+</LanguageData>

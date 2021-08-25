@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAECaves_Wyrm.label>виверна</VAECaves_Wyrm.label>
+  <VAECaves_Wyrm.labelPlural>виверны</VAECaves_Wyrm.labelPlural>
+  <VAECaves_Wyrm.lifeStages.0.label>детеныш виверны</VAECaves_Wyrm.lifeStages.0.label>
+  <VAECaves_Wyrm.lifeStages.0.labelPlural>детеныши виверны</VAECaves_Wyrm.lifeStages.0.labelPlural>
+  <VAECaves_Wyrm.lifeStages.0.labelMale>детеныш виверны</VAECaves_Wyrm.lifeStages.0.labelMale>
+  <VAECaves_Wyrm.lifeStages.0.labelMalePlural>детеныши виверны</VAECaves_Wyrm.lifeStages.0.labelMalePlural>
+  <VAECaves_Wyrm.lifeStages.0.labelFemale>детеныш виверны</VAECaves_Wyrm.lifeStages.0.labelFemale>
+  <VAECaves_Wyrm.lifeStages.0.labelFemalePlural>детеныши виверны</VAECaves_Wyrm.lifeStages.0.labelFemalePlural>
+  <VAECaves_Wyrm.lifeStages.1.label>молодая виверна</VAECaves_Wyrm.lifeStages.1.label>
+  <VAECaves_Wyrm.lifeStages.1.labelPlural>молодые виверны</VAECaves_Wyrm.lifeStages.1.labelPlural>
+  <VAECaves_Wyrm.lifeStages.1.labelMale>молодая виверна</VAECaves_Wyrm.lifeStages.1.labelMale>
+  <VAECaves_Wyrm.lifeStages.1.labelMalePlural>молодые виверны</VAECaves_Wyrm.lifeStages.1.labelMalePlural>
+  <VAECaves_Wyrm.lifeStages.1.labelFemale>молодая виверна</VAECaves_Wyrm.lifeStages.1.labelFemale>
+  <VAECaves_Wyrm.lifeStages.1.labelFemalePlural>молодые виверны</VAECaves_Wyrm.lifeStages.1.labelFemalePlural>
+  <VAECaves_Wyrm.lifeStages.2.label>виверна</VAECaves_Wyrm.lifeStages.2.label>
+  <VAECaves_Wyrm.lifeStages.2.labelPlural>виверны</VAECaves_Wyrm.lifeStages.2.labelPlural>
+  <VAECaves_Wyrm.lifeStages.2.labelMale>виверна</VAECaves_Wyrm.lifeStages.2.labelMale>
+  <VAECaves_Wyrm.lifeStages.2.labelMalePlural>виверны</VAECaves_Wyrm.lifeStages.2.labelMalePlural>
+  <VAECaves_Wyrm.lifeStages.2.labelFemale>виверна</VAECaves_Wyrm.lifeStages.2.labelFemale>
+  <VAECaves_Wyrm.lifeStages.2.labelFemalePlural>виверны</VAECaves_Wyrm.lifeStages.2.labelFemalePlural>
+  <VAECaves_Wyrm.labelMale>виверна</VAECaves_Wyrm.labelMale>
+  <VAECaves_Wyrm.labelMalePlural>виверны</VAECaves_Wyrm.labelMalePlural>
+  <VAECaves_Wyrm.labelFemale>виверна</VAECaves_Wyrm.labelFemale>
+  <VAECaves_Wyrm.labelFemalePlural>виверны</VAECaves_Wyrm.labelFemalePlural>
+
+
+</LanguageData>

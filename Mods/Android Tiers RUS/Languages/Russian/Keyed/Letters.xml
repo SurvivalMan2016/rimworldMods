@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Atlas_FactionChange>{0} был успешно перепрограммирован. Теперь он - часть колонии.</Atlas_FactionChange>
+  <LetterLabelAtlas_FactionChange>Новый колонист</LetterLabelAtlas_FactionChange>
+
+  <Atlas_LossOfSelfWill>У {0} была подавлена свобода воли. Как таковой он теперь не способны свободно мыслить или испытывать эмоции и не будет взаимодействовать с другими колонистами, как это обычно бывает. К этому следует добавить, что во время процесса он утратили все свои черты характера. В результате он стал просто послушной машиной.</Atlas_LossOfSelfWill>
+  <LetterLabelAtlas_LossOfSelfWill>Свободная воля андроида</LetterLabelAtlas_LossOfSelfWill>
+
+  <Atlas_Mutation>{0} мутировал во фрактал. Чудовище с искривленной плотью, порожденное фрактальной тварью!</Atlas_Mutation>
+  <LetterLabelAtlas_Mutation>Колонист мутировал!</LetterLabelAtlas_Mutation>
+
+  <Atlas_TraitReroll>У {0} была изменена личность, а черты были перераспределены.</Atlas_TraitReroll>
+  <LetterLabelAtlas_TraitReroll>Изменение личности андроида</LetterLabelAtlas_TraitReroll>
+
+</LanguageData>

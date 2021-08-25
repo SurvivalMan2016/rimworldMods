@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RoomRequirementAllHeartsMustBeLit>все жаровни должны быть зажжены</RoomRequirementAllHeartsMustBeLit>
+
+  <!-- Settings -->
+  <NeedRestart>&lt;b&gt;&lt;color=red&gt;Для применения всех настроек необходим перезапуск&lt;/color&gt;&lt;/b&gt;</NeedRestart>
+
+</LanguageData>

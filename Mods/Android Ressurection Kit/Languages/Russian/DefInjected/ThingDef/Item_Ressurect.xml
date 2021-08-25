@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<RepairKitRessurectorB.label>Ремонтный комплект класса B</RepairKitRessurectorB>
+	<RepairKitRessurectorB.description>Ремонтный комплект, полностью восстанавливающий мертвых T1 андроидов, используя широкий набор запчастей и специализированных инструментов.</RepairKitRessurectorB.description>
+	<RepairKitRessurectorA.label>Ремонтный комплект класса A</RepairKitRessurectorA.label>
+	<RepairKitRessurectorA.label>An all-in-one repair kit. Revive dead T1 and T2 androids using a vast array of replacement parts and specialized tools.</RepairKitRessurectorA.label>
+	<RepairKitRessurectorS.description>Ремонтный комплект класса S</RepairKitRessurectorS.description>
+	<RepairKitRessurectorS.description>An all-in-one universal repair kit. Revive any dead android using a vast array of replacement parts and specialized tools.</RepairKitRessurectorS.description>
+	<RepairKitARK1.label>Make a B-tier resurrector repair kit</RepairKitARK1.label>
+	<RepairKitARK1.description>Create a T1 android revival kit. Revive dead T1 androids using a vast array of replacement parts and specialized tools.</RepairKitARK1.description>
+	<RepairKitARK1.jobString>Making repair kit</RepairKitARK1.jobString>
+	<RepairKitARK2.label>Make a A-tier resurrector repair kit</RepairKitARK1.label>
+	<RepairKitARK2.description>Create a T1 and T2 android revival kit. Revive dead T1 and T2 androids using a vast array of replacement parts and specialized tools.</RepairKitARK1.description>
+	<RepairKitARK2.jobString>Making repair kit</RepairKitARK1.jobString>
+	<RepairKitARK3.label>Make a S-tier resurrector repair kit</RepairKitARK1.label>
+	<RepairKitARK3.description>Create a universal android revival kit. Revive any dead android using a vast array of replacement parts and specialized tools.</RepairKitARK1.description>
+	<RepairKitARK3.jobString>Making repair kit</RepairKitARK1.jobString>
+	
+</LanguageData>

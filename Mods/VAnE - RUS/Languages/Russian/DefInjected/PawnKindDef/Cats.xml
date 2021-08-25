@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- CatAbyssinian -->
+
+  <AEXP_CatAbyssinian.label>абиссинская кошка</AEXP_CatAbyssinian.label>
+  <AEXP_CatAbyssinian.labelPlural>абиссинские кошки</AEXP_CatAbyssinian.labelPlural>
+  <AEXP_CatAbyssinian.lifeStages.0.label>абиссинский котенок</AEXP_CatAbyssinian.lifeStages.0.label>
+  <AEXP_CatAbyssinian.lifeStages.0.labelPlural>абиссинские котята</AEXP_CatAbyssinian.lifeStages.0.labelPlural>
+  <AEXP_CatAbyssinian.lifeStages.0.labelMale>абиссинский котенок</AEXP_CatAbyssinian.lifeStages.0.labelMale>
+  <AEXP_CatAbyssinian.lifeStages.0.labelMalePlural>абиссинские котята</AEXP_CatAbyssinian.lifeStages.0.labelMalePlural>
+  <AEXP_CatAbyssinian.lifeStages.0.labelFemale>абиссинский котенок</AEXP_CatAbyssinian.lifeStages.0.labelFemale>
+  <AEXP_CatAbyssinian.lifeStages.0.labelFemalePlural>абиссинские котята</AEXP_CatAbyssinian.lifeStages.0.labelFemalePlural>
+  <AEXP_CatAbyssinian.lifeStages.1.label>молодая абиссинская кошка</AEXP_CatAbyssinian.lifeStages.1.label>
+  <AEXP_CatAbyssinian.lifeStages.1.labelPlural>молодые абиссинские кошки</AEXP_CatAbyssinian.lifeStages.1.labelPlural>
+  <AEXP_CatAbyssinian.lifeStages.1.labelMale>молодой абиссинский кот</AEXP_CatAbyssinian.lifeStages.1.labelMale>
+  <AEXP_CatAbyssinian.lifeStages.1.labelMalePlural>молодые абиссинские коты</AEXP_CatAbyssinian.lifeStages.1.labelMalePlural>
+  <AEXP_CatAbyssinian.lifeStages.1.labelFemale>молодая абиссинская кошка</AEXP_CatAbyssinian.lifeStages.1.labelFemale>
+  <AEXP_CatAbyssinian.lifeStages.1.labelFemalePlural>молодые абиссинские кошки</AEXP_CatAbyssinian.lifeStages.1.labelFemalePlural>
+  <AEXP_CatAbyssinian.lifeStages.2.label>абиссинская кошка</AEXP_CatAbyssinian.lifeStages.2.label>
+  <AEXP_CatAbyssinian.lifeStages.2.labelPlural>абиссинские кошки</AEXP_CatAbyssinian.lifeStages.2.labelPlural>
+  <AEXP_CatAbyssinian.lifeStages.2.labelMale>абиссинский кот</AEXP_CatAbyssinian.lifeStages.2.labelMale>
+  <AEXP_CatAbyssinian.lifeStages.2.labelMalePlural>абиссинские коты</AEXP_CatAbyssinian.lifeStages.2.labelMalePlural>
+  <AEXP_CatAbyssinian.lifeStages.2.labelFemale>абиссинская кошка</AEXP_CatAbyssinian.lifeStages.2.labelFemale>
+  <AEXP_CatAbyssinian.lifeStages.2.labelFemalePlural>абиссинские кошки</AEXP_CatAbyssinian.lifeStages.2.labelFemalePlural>
+  <AEXP_CatAbyssinian.labelMale>абиссинский кот</AEXP_CatAbyssinian.labelMale>
+  <AEXP_CatAbyssinian.labelMalePlural>абиссинские коты</AEXP_CatAbyssinian.labelMalePlural>
+  <AEXP_CatAbyssinian.labelFemale>абиссинская кошка</AEXP_CatAbyssinian.labelFemale>
+  <AEXP_CatAbyssinian.labelFemalePlural>абиссинские кошки</AEXP_CatAbyssinian.labelFemalePlural>
+
+
+  <!-- CatBengal -->
+
+  <AEXP_CatBengal.label>бенгальская кошка</AEXP_CatBengal.label>
+  <AEXP_CatBengal.labelPlural>бенгальские кошки</AEXP_CatBengal.labelPlural>
+  <AEXP_CatBengal.lifeStages.0.label>бенгальский котенок</AEXP_CatBengal.lifeStages.0.label>
+  <AEXP_CatBengal.lifeStages.0.labelPlural>бенгальские котята</AEXP_CatBengal.lifeStages.0.labelPlural>
+  <AEXP_CatBengal.lifeStages.0.labelMale>бенгальский котенок</AEXP_CatBengal.lifeStages.0.labelMale>
+  <AEXP_CatBengal.lifeStages.0.labelMalePlural>бенгальские котята</AEXP_CatBengal.lifeStages.0.labelMalePlural>
+  <AEXP_CatBengal.lifeStages.0.labelFemale>бенгальский котенок</AEXP_CatBengal.lifeStages.0.labelFemale>
+  <AEXP_CatBengal.lifeStages.0.labelFemalePlural>бенгальские котята</AEXP_CatBengal.lifeStages.0.labelFemalePlural>
+  <AEXP_CatBengal.lifeStages.1.label>молодая бенгальская кошка</AEXP_CatBengal.lifeStages.1.label>
+  <AEXP_CatBengal.lifeStages.1.labelPlural>молодые бенгальские кошки</AEXP_CatBengal.lifeStages.1.labelPlural>
+  <AEXP_CatBengal.lifeStages.1.labelMale>молодой бенгальский кот</AEXP_CatBengal.lifeStages.1.labelMale>
+  <AEXP_CatBengal.lifeStages.1.labelMalePlural>молодые бенгальские коты</AEXP_CatBengal.lifeStages.1.labelMalePlural>
+  <AEXP_CatBengal.lifeStages.1.labelFemale>молодая бенгальская кошка</AEXP_CatBengal.lifeStages.1.labelFemale>
+  <AEXP_CatBengal.lifeStages.1.labelFemalePlural>молодые бенгальские кошки</AEXP_CatBengal.lifeStages.1.labelFemalePlural>
+  <AEXP_CatBengal.lifeStages.2.label>бенгальская кошка</AEXP_CatBengal.lifeStages.2.label>
+  <AEXP_CatBengal.lifeStages.2.labelPlural>бенгальские кошки</AEXP_CatBengal.lifeStages.2.labelPlural>
+  <AEXP_CatBengal.lifeStages.2.labelMale>бенгальский кот</AEXP_CatBengal.lifeStages.2.labelMale>
+  <AEXP_CatBengal.lifeStages.2.labelMalePlural>бенгальские коты</AEXP_CatBengal.lifeStages.2.labelMalePlural>
+  <AEXP_CatBengal.lifeStages.2.labelFemale>бенгальская кошка</AEXP_CatBengal.lifeStages.2.labelFemale>
+  <AEXP_CatBengal.lifeStages.2.labelFemalePlural>бенгальские кошки</AEXP_CatBengal.lifeStages.2.labelFemalePlural>
+  <AEXP_CatBengal.labelMale>бенгальский кот</AEXP_CatBengal.labelMale>
+  <AEXP_CatBengal.labelMalePlural>бенгальские коты</AEXP_CatBengal.labelMalePlural>
+  <AEXP_CatBengal.labelFemale>бенгальская кошка</AEXP_CatBengal.labelFemale>
+  <AEXP_CatBengal.labelFemalePlural>бенгальские кошки</AEXP_CatBengal.labelFemalePlural>
+
+
+  <!-- CatBritishShorthair -->
+
+  <AEXP_CatBritishShorthair.label>британская короткошерстная кошка</AEXP_CatBritishShorthair.label>
+  <AEXP_CatBritishShorthair.labelPlural>британские короткошерстные кошки</AEXP_CatBritishShorthair.labelPlural>
+  <AEXP_CatBritishShorthair.lifeStages.0.label>британский короткошерстный котенок</AEXP_CatBritishShorthair.lifeStages.0.label>
+  <AEXP_CatBritishShorthair.lifeStages.0.labelPlural>британские короткошерстные котята</AEXP_CatBritishShorthair.lifeStages.0.labelPlural>
+  <AEXP_CatBritishShorthair.lifeStages.0.labelMale>британский короткошерстный котенок</AEXP_CatBritishShorthair.lifeStages.0.labelMale>
+  <AEXP_CatBritishShorthair.lifeStages.0.labelMalePlural>британские короткошерстные котята</AEXP_CatBritishShorthair.lifeStages.0.labelMalePlural>
+  <AEXP_CatBritishShorthair.lifeStages.0.labelFemale>британский короткошерстный котенок</AEXP_CatBritishShorthair.lifeStages.0.labelFemale>
+  <AEXP_CatBritishShorthair.lifeStages.0.labelFemalePlural>британские короткошерстные котята</AEXP_CatBritishShorthair.lifeStages.0.labelFemalePlural>
+  <AEXP_CatBritishShorthair.lifeStages.1.label>молодая британская короткошерстная кошка</AEXP_CatBritishShorthair.lifeStages.1.label>
+  <AEXP_CatBritishShorthair.lifeStages.1.labelPlural>молодые британские короткошерстные кошки</AEXP_CatBritishShorthair.lifeStages.1.labelPlural>
+  <AEXP_CatBritishShorthair.lifeStages.1.labelMale>молодой британский короткошерстный кот</AEXP_CatBritishShorthair.lifeStages.1.labelMale>
+  <AEXP_CatBritishShorthair.lifeStages.1.labelMalePlural>молодые британские короткошерстные коты</AEXP_CatBritishShorthair.lifeStages.1.labelMalePlural>
+  <AEXP_CatBritishShorthair.lifeStages.1.labelFemale>молодая британская короткошерстная кошка</AEXP_CatBritishShorthair.lifeStages.1.labelFemale>
+  <AEXP_CatBritishShorthair.lifeStages.1.labelFemalePlural>молодые британские короткошерстные кошки</AEXP_CatBritishShorthair.lifeStages.1.labelFemalePlural>
+  <AEXP_CatBritishShorthair.lifeStages.2.label>британская короткошерстная кошка</AEXP_CatBritishShorthair.lifeStages.2.label>
+  <AEXP_CatBritishShorthair.lifeStages.2.labelPlural>британские короткошерстные кошки</AEXP_CatBritishShorthair.lifeStages.2.labelPlural>
+  <AEXP_CatBritishShorthair.lifeStages.2.labelMale>британский короткошерстный кот</AEXP_CatBritishShorthair.lifeStages.2.labelMale>
+  <AEXP_CatBritishShorthair.lifeStages.2.labelMalePlural>британские короткошерстные коты</AEXP_CatBritishShorthair.lifeStages.2.labelMalePlural>
+  <AEXP_CatBritishShorthair.lifeStages.2.labelFemale>британская короткошерстная кошка</AEXP_CatBritishShorthair.lifeStages.2.labelFemale>
+  <AEXP_CatBritishShorthair.lifeStages.2.labelFemalePlural>британские короткошерстные кошки</AEXP_CatBritishShorthair.lifeStages.2.labelFemalePlural>
+  <AEXP_CatBritishShorthair.labelMale>британский короткошерстный кот</AEXP_CatBritishShorthair.labelMale>
+  <AEXP_CatBritishShorthair.labelMalePlural>британские короткошерстные коты</AEXP_CatBritishShorthair.labelMalePlural>
+  <AEXP_CatBritishShorthair.labelFemale>британская короткошерстная кошка</AEXP_CatBritishShorthair.labelFemale>
+  <AEXP_CatBritishShorthair.labelFemalePlural>британские короткошерстные кошки</AEXP_CatBritishShorthair.labelFemalePlural>
+
+
+  <!-- CatMaineCoon -->
+
+  <AEXP_CatMaineCoon.label>мейн-кун</AEXP_CatMaineCoon.label>
+  <AEXP_CatMaineCoon.labelPlural>мейн-куны</AEXP_CatMaineCoon.labelPlural>
+  <AEXP_CatMaineCoon.lifeStages.0.label>котенок мейн-куна</AEXP_CatMaineCoon.lifeStages.0.label>
+  <AEXP_CatMaineCoon.lifeStages.0.labelPlural>котята мейн-куна</AEXP_CatMaineCoon.lifeStages.0.labelPlural>
+  <AEXP_CatMaineCoon.lifeStages.0.labelMale>котенок мейн-куна</AEXP_CatMaineCoon.lifeStages.0.labelMale>
+  <AEXP_CatMaineCoon.lifeStages.0.labelMalePlural>котята мейн-куна</AEXP_CatMaineCoon.lifeStages.0.labelMalePlural>
+  <AEXP_CatMaineCoon.lifeStages.0.labelFemale>котенок мейн-куна</AEXP_CatMaineCoon.lifeStages.0.labelFemale>
+  <AEXP_CatMaineCoon.lifeStages.0.labelFemalePlural>котята мейн-куна</AEXP_CatMaineCoon.lifeStages.0.labelFemalePlural>
+  <AEXP_CatMaineCoon.lifeStages.1.label>молодой мейн-кун</AEXP_CatMaineCoon.lifeStages.1.label>
+  <AEXP_CatMaineCoon.lifeStages.1.labelPlural>молодые мейн-куны</AEXP_CatMaineCoon.lifeStages.1.labelPlural>
+  <AEXP_CatMaineCoon.lifeStages.1.labelMale>молодой мейн-кун</AEXP_CatMaineCoon.lifeStages.1.labelMale>
+  <AEXP_CatMaineCoon.lifeStages.1.labelMalePlural>молодые мейн-куны</AEXP_CatMaineCoon.lifeStages.1.labelMalePlural>
+  <AEXP_CatMaineCoon.lifeStages.1.labelFemale>молодой мейн-кун</AEXP_CatMaineCoon.lifeStages.1.labelFemale>
+  <AEXP_CatMaineCoon.lifeStages.1.labelFemalePlural>молодые мейн-куны</AEXP_CatMaineCoon.lifeStages.1.labelFemalePlural>
+  <AEXP_CatMaineCoon.lifeStages.2.label>мейн-кун</AEXP_CatMaineCoon.lifeStages.2.label>
+  <AEXP_CatMaineCoon.lifeStages.2.labelPlural>мейн-куны</AEXP_CatMaineCoon.lifeStages.2.labelPlural>
+  <AEXP_CatMaineCoon.lifeStages.2.labelMale>мейн-кун</AEXP_CatMaineCoon.lifeStages.2.labelMale>
+  <AEXP_CatMaineCoon.lifeStages.2.labelMalePlural>мейн-куны</AEXP_CatMaineCoon.lifeStages.2.labelMalePlural>
+  <AEXP_CatMaineCoon.lifeStages.2.labelFemale>мейн-кун</AEXP_CatMaineCoon.lifeStages.2.labelFemale>
+  <AEXP_CatMaineCoon.lifeStages.2.labelFemalePlural>мейн-куны</AEXP_CatMaineCoon.lifeStages.2.labelFemalePlural>
+  <AEXP_CatMaineCoon.labelMale>мейн-кун</AEXP_CatMaineCoon.labelMale>
+  <AEXP_CatMaineCoon.labelMalePlural>мейн-куны</AEXP_CatMaineCoon.labelMalePlural>
+  <AEXP_CatMaineCoon.labelFemale>мейн-кун</AEXP_CatMaineCoon.labelFemale>
+  <AEXP_CatMaineCoon.labelFemalePlural>мейн-куны</AEXP_CatMaineCoon.labelFemalePlural>
+
+
+  <!-- CatMunchkin -->
+
+  <AEXP_CatMunchkin.label>манчкин</AEXP_CatMunchkin.label>
+  <AEXP_CatMunchkin.labelPlural>манчкины</AEXP_CatMunchkin.labelPlural>
+  <AEXP_CatMunchkin.lifeStages.0.label>котенок манчкина</AEXP_CatMunchkin.lifeStages.0.label>
+  <AEXP_CatMunchkin.lifeStages.0.labelPlural>котята манчкины</AEXP_CatMunchkin.lifeStages.0.labelPlural>
+  <AEXP_CatMunchkin.lifeStages.0.labelMale>котенок манчкина</AEXP_CatMunchkin.lifeStages.0.labelMale>
+  <AEXP_CatMunchkin.lifeStages.0.labelMalePlural>котята манчкины</AEXP_CatMunchkin.lifeStages.0.labelMalePlural>
+  <AEXP_CatMunchkin.lifeStages.0.labelFemale>котенок манчкина</AEXP_CatMunchkin.lifeStages.0.labelFemale>
+  <AEXP_CatMunchkin.lifeStages.0.labelFemalePlural>котята манчкины</AEXP_CatMunchkin.lifeStages.0.labelFemalePlural>
+  <AEXP_CatMunchkin.lifeStages.1.label>молодой манчкин</AEXP_CatMunchkin.lifeStages.1.label>
+  <AEXP_CatMunchkin.lifeStages.1.labelPlural>молодые манчкины</AEXP_CatMunchkin.lifeStages.1.labelPlural>
+  <AEXP_CatMunchkin.lifeStages.1.labelMale>молодой манчкин</AEXP_CatMunchkin.lifeStages.1.labelMale>
+  <AEXP_CatMunchkin.lifeStages.1.labelMalePlural>молодые манчкины</AEXP_CatMunchkin.lifeStages.1.labelMalePlural>
+  <AEXP_CatMunchkin.lifeStages.1.labelFemale>молодой манчкин</AEXP_CatMunchkin.lifeStages.1.labelFemale>
+  <AEXP_CatMunchkin.lifeStages.1.labelFemalePlural>молодые манчкины</AEXP_CatMunchkin.lifeStages.1.labelFemalePlural>
+  <AEXP_CatMunchkin.lifeStages.2.label>манчкин</AEXP_CatMunchkin.lifeStages.2.label>
+  <AEXP_CatMunchkin.lifeStages.2.labelPlural>манчкины</AEXP_CatMunchkin.lifeStages.2.labelPlural>
+  <AEXP_CatMunchkin.lifeStages.2.labelMale>манчкин</AEXP_CatMunchkin.lifeStages.2.labelMale>
+  <AEXP_CatMunchkin.lifeStages.2.labelMalePlural>манчкины</AEXP_CatMunchkin.lifeStages.2.labelMalePlural>
+  <AEXP_CatMunchkin.lifeStages.2.labelFemale>манчкин</AEXP_CatMunchkin.lifeStages.2.labelFemale>
+  <AEXP_CatMunchkin.lifeStages.2.labelFemalePlural>манчкины</AEXP_CatMunchkin.lifeStages.2.labelFemalePlural>
+  <AEXP_CatMunchkin.labelMale>манчкин</AEXP_CatMunchkin.labelMale>
+  <AEXP_CatMunchkin.labelMalePlural>манчкины</AEXP_CatMunchkin.labelMalePlural>
+  <AEXP_CatMunchkin.labelFemale>манчкин</AEXP_CatMunchkin.labelFemale>
+  <AEXP_CatMunchkin.labelFemalePlural>манчкины</AEXP_CatMunchkin.labelFemalePlural>
+
+
+  <!-- NorwegianForestCat -->
+
+  <AEXP_CatNorwegianForest.label>норвежская лесная кошка</AEXP_CatNorwegianForest.label>
+  <AEXP_CatNorwegianForest.labelPlural>норвежские лесные кошки</AEXP_CatNorwegianForest.labelPlural>
+  <AEXP_CatNorwegianForest.lifeStages.0.label>норвежский лесной котенок</AEXP_CatNorwegianForest.lifeStages.0.label>
+  <AEXP_CatNorwegianForest.lifeStages.0.labelPlural>норвежские лесные котята</AEXP_CatNorwegianForest.lifeStages.0.labelPlural>
+  <AEXP_CatNorwegianForest.lifeStages.0.labelMale>норвежский лесной котенок</AEXP_CatNorwegianForest.lifeStages.0.labelMale>
+  <AEXP_CatNorwegianForest.lifeStages.0.labelMalePlural>норвежские лесные котята</AEXP_CatNorwegianForest.lifeStages.0.labelMalePlural>
+  <AEXP_CatNorwegianForest.lifeStages.0.labelFemale>норвежский лесной котенок</AEXP_CatNorwegianForest.lifeStages.0.labelFemale>
+  <AEXP_CatNorwegianForest.lifeStages.0.labelFemalePlural>норвежские лесные котята</AEXP_CatNorwegianForest.lifeStages.0.labelFemalePlural>
+  <AEXP_CatNorwegianForest.lifeStages.1.label>молодая норвежская лесная кошка</AEXP_CatNorwegianForest.lifeStages.1.label>
+  <AEXP_CatNorwegianForest.lifeStages.1.labelPlural>молодые норвежские лесные кошки</AEXP_CatNorwegianForest.lifeStages.1.labelPlural>
+  <AEXP_CatNorwegianForest.lifeStages.1.labelMale>молодой норвежский лесной кот</AEXP_CatNorwegianForest.lifeStages.1.labelMale>
+  <AEXP_CatNorwegianForest.lifeStages.1.labelMalePlural>молодые норвежские лесные коты</AEXP_CatNorwegianForest.lifeStages.1.labelMalePlural>
+  <AEXP_CatNorwegianForest.lifeStages.1.labelFemale>молодая норвежская лесная кошка</AEXP_CatNorwegianForest.lifeStages.1.labelFemale>
+  <AEXP_CatNorwegianForest.lifeStages.1.labelFemalePlural>молодые норвежские лесные кошки</AEXP_CatNorwegianForest.lifeStages.1.labelFemalePlural>
+  <AEXP_CatNorwegianForest.lifeStages.2.label>норвежская лесная кошка</AEXP_CatNorwegianForest.lifeStages.2.label>
+  <AEXP_CatNorwegianForest.lifeStages.2.labelPlural>норвежские лесные кошки</AEXP_CatNorwegianForest.lifeStages.2.labelPlural>
+  <AEXP_CatNorwegianForest.lifeStages.2.labelMale>норвежский лесной кот</AEXP_CatNorwegianForest.lifeStages.2.labelMale>
+  <AEXP_CatNorwegianForest.lifeStages.2.labelMalePlural>норвежские лесные коты</AEXP_CatNorwegianForest.lifeStages.2.labelMalePlural>
+  <AEXP_CatNorwegianForest.lifeStages.2.labelFemale>норвежская лесная кошка</AEXP_CatNorwegianForest.lifeStages.2.labelFemale>
+  <AEXP_CatNorwegianForest.lifeStages.2.labelFemalePlural>норвежские лесные кошки</AEXP_CatNorwegianForest.lifeStages.2.labelFemalePlural>
+  <AEXP_CatNorwegianForest.labelMale>норвежский лесной кот</AEXP_CatNorwegianForest.labelMale>
+  <AEXP_CatNorwegianForest.labelMalePlural>норвежские лесные коты</AEXP_CatNorwegianForest.labelMalePlural>
+  <AEXP_CatNorwegianForest.labelFemale>норвежская лесная кошка</AEXP_CatNorwegianForest.labelFemale>
+  <AEXP_CatNorwegianForest.labelFemalePlural>норвежские лесные кошки</AEXP_CatNorwegianForest.labelFemalePlural>
+
+
+  <!-- CatPersian -->
+
+  <AEXP_CatPersian.label>персидская кошка</AEXP_CatPersian.label>
+  <AEXP_CatPersian.labelPlural>персидские кошки</AEXP_CatPersian.labelPlural>
+  <AEXP_CatPersian.lifeStages.0.label>персидский котенок</AEXP_CatPersian.lifeStages.0.label>
+  <AEXP_CatPersian.lifeStages.0.labelPlural>персидские котята</AEXP_CatPersian.lifeStages.0.labelPlural>
+  <AEXP_CatPersian.lifeStages.0.labelMale>персидский котенок</AEXP_CatPersian.lifeStages.0.labelMale>
+  <AEXP_CatPersian.lifeStages.0.labelMalePlural>персидские котята</AEXP_CatPersian.lifeStages.0.labelMalePlural>
+  <AEXP_CatPersian.lifeStages.0.labelFemale>персидский котенок</AEXP_CatPersian.lifeStages.0.labelFemale>
+  <AEXP_CatPersian.lifeStages.0.labelFemalePlural>персидские котята</AEXP_CatPersian.lifeStages.0.labelFemalePlural>
+  <AEXP_CatPersian.lifeStages.1.label>молодая персидская кошка</AEXP_CatPersian.lifeStages.1.label>
+  <AEXP_CatPersian.lifeStages.1.labelPlural>молодые персидские кошки</AEXP_CatPersian.lifeStages.1.labelPlural>
+  <AEXP_CatPersian.lifeStages.1.labelMale>молодой персидский кот</AEXP_CatPersian.lifeStages.1.labelMale>
+  <AEXP_CatPersian.lifeStages.1.labelMalePlural>молодые персидские коты</AEXP_CatPersian.lifeStages.1.labelMalePlural>
+  <AEXP_CatPersian.lifeStages.1.labelFemale>молодая персидская кошка</AEXP_CatPersian.lifeStages.1.labelFemale>
+  <AEXP_CatPersian.lifeStages.1.labelFemalePlural>молодые персидские кошки</AEXP_CatPersian.lifeStages.1.labelFemalePlural>
+  <AEXP_CatPersian.lifeStages.2.label>персидская кошка</AEXP_CatPersian.lifeStages.2.label>
+  <AEXP_CatPersian.lifeStages.2.labelPlural>персидские кошки</AEXP_CatPersian.lifeStages.2.labelPlural>
+  <AEXP_CatPersian.lifeStages.2.labelMale>персидский кот</AEXP_CatPersian.lifeStages.2.labelMale>
+  <AEXP_CatPersian.lifeStages.2.labelMalePlural>персидские коты</AEXP_CatPersian.lifeStages.2.labelMalePlural>
+  <AEXP_CatPersian.lifeStages.2.labelFemale>персидская кошка</AEXP_CatPersian.lifeStages.2.labelFemale>
+  <AEXP_CatPersian.lifeStages.2.labelFemalePlural>персидские кошки</AEXP_CatPersian.lifeStages.2.labelFemalePlural>
+  <AEXP_CatPersian.labelMale>персидский кот</AEXP_CatPersian.labelMale>
+  <AEXP_CatPersian.labelMalePlural>персидские коты</AEXP_CatPersian.labelMalePlural>
+  <AEXP_CatPersian.labelFemale>персидская кошка</AEXP_CatPersian.labelFemale>
+  <AEXP_CatPersian.labelFemalePlural>персидские кошки</AEXP_CatPersian.labelFemalePlural>
+
+
+  <!-- CatSiamese -->
+
+  <AEXP_CatSiamese.label>сиамская кошка</AEXP_CatSiamese.label>
+  <AEXP_CatSiamese.labelPlural>сиамские кошки</AEXP_CatSiamese.labelPlural>
+  <AEXP_CatSiamese.lifeStages.0.label>сиамский котенок</AEXP_CatSiamese.lifeStages.0.label>
+  <AEXP_CatSiamese.lifeStages.0.labelPlural>сиамские котята</AEXP_CatSiamese.lifeStages.0.labelPlural>
+  <AEXP_CatSiamese.lifeStages.0.labelMale>сиамский котенок</AEXP_CatSiamese.lifeStages.0.labelMale>
+  <AEXP_CatSiamese.lifeStages.0.labelMalePlural>сиамские котята</AEXP_CatSiamese.lifeStages.0.labelMalePlural>
+  <AEXP_CatSiamese.lifeStages.0.labelFemale>сиамский котенок</AEXP_CatSiamese.lifeStages.0.labelFemale>
+  <AEXP_CatSiamese.lifeStages.0.labelFemalePlural>сиамские котята</AEXP_CatSiamese.lifeStages.0.labelFemalePlural>
+  <AEXP_CatSiamese.lifeStages.1.label>молодая сиамская кошка</AEXP_CatSiamese.lifeStages.1.label>
+  <AEXP_CatSiamese.lifeStages.1.labelPlural>молодые сиамские кошки</AEXP_CatSiamese.lifeStages.1.labelPlural>
+  <AEXP_CatSiamese.lifeStages.1.labelMale>молодой сиамский кот</AEXP_CatSiamese.lifeStages.1.labelMale>
+  <AEXP_CatSiamese.lifeStages.1.labelMalePlural>молодые сиамские коты</AEXP_CatSiamese.lifeStages.1.labelMalePlural>
+  <AEXP_CatSiamese.lifeStages.1.labelFemale>молодая сиамская кошка</AEXP_CatSiamese.lifeStages.1.labelFemale>
+  <AEXP_CatSiamese.lifeStages.1.labelFemalePlural>молодые сиамские кошки</AEXP_CatSiamese.lifeStages.1.labelFemalePlural>
+  <AEXP_CatSiamese.lifeStages.2.label>сиамская кошка</AEXP_CatSiamese.lifeStages.2.label>
+  <AEXP_CatSiamese.lifeStages.2.labelPlural>сиамские кошки</AEXP_CatSiamese.lifeStages.2.labelPlural>
+  <AEXP_CatSiamese.lifeStages.2.labelMale>сиамский кот</AEXP_CatSiamese.lifeStages.2.labelMale>
+  <AEXP_CatSiamese.lifeStages.2.labelMalePlural>сиамские коты</AEXP_CatSiamese.lifeStages.2.labelMalePlural>
+  <AEXP_CatSiamese.lifeStages.2.labelFemale>сиамская кошка</AEXP_CatSiamese.lifeStages.2.labelFemale>
+  <AEXP_CatSiamese.lifeStages.2.labelFemalePlural>сиамские кошки</AEXP_CatSiamese.lifeStages.2.labelFemalePlural>
+  <AEXP_CatSiamese.labelMale>сиамский кот</AEXP_CatSiamese.labelMale>
+  <AEXP_CatSiamese.labelMalePlural>сиамские коты</AEXP_CatSiamese.labelMalePlural>
+  <AEXP_CatSiamese.labelFemale>сиамская кошка</AEXP_CatSiamese.labelFemale>
+  <AEXP_CatSiamese.labelFemalePlural>сиамские кошки</AEXP_CatSiamese.labelFemalePlural>
+
+
+  <!-- CatSomali -->
+
+  <AEXP_CatSomali.label>сомалийская кошка</AEXP_CatSomali.label>
+  <AEXP_CatSomali.labelPlural>сомалийские кошки</AEXP_CatSomali.labelPlural>
+  <AEXP_CatSomali.lifeStages.0.label>сомалийский котенок</AEXP_CatSomali.lifeStages.0.label>
+  <AEXP_CatSomali.lifeStages.0.labelPlural>сомалийские котята</AEXP_CatSomali.lifeStages.0.labelPlural>
+  <AEXP_CatSomali.lifeStages.0.labelMale>сомалийский котенок</AEXP_CatSomali.lifeStages.0.labelMale>
+  <AEXP_CatSomali.lifeStages.0.labelMalePlural>сомалийские котята</AEXP_CatSomali.lifeStages.0.labelMalePlural>
+  <AEXP_CatSomali.lifeStages.0.labelFemale>сомалийский котенок</AEXP_CatSomali.lifeStages.0.labelFemale>
+  <AEXP_CatSomali.lifeStages.0.labelFemalePlural>сомалийские котята</AEXP_CatSomali.lifeStages.0.labelFemalePlural>
+  <AEXP_CatSomali.lifeStages.1.label>молодая сомалийская кошка</AEXP_CatSomali.lifeStages.1.label>
+  <AEXP_CatSomali.lifeStages.1.labelPlural>молодые сомалийские кошки</AEXP_CatSomali.lifeStages.1.labelPlural>
+  <AEXP_CatSomali.lifeStages.1.labelMale>молодой сомалийский кот</AEXP_CatSomali.lifeStages.1.labelMale>
+  <AEXP_CatSomali.lifeStages.1.labelMalePlural>молодые сомалийские коты</AEXP_CatSomali.lifeStages.1.labelMalePlural>
+  <AEXP_CatSomali.lifeStages.1.labelFemale>молодая сомалийская кошка</AEXP_CatSomali.lifeStages.1.labelFemale>
+  <AEXP_CatSomali.lifeStages.1.labelFemalePlural>молодые сомалийские кошки</AEXP_CatSomali.lifeStages.1.labelFemalePlural>
+  <AEXP_CatSomali.lifeStages.2.label>сомалийская кошка</AEXP_CatSomali.lifeStages.2.label>
+  <AEXP_CatSomali.lifeStages.2.labelPlural>сомалийские кошки</AEXP_CatSomali.lifeStages.2.labelPlural>
+  <AEXP_CatSomali.lifeStages.2.labelMale>сомалийский кот</AEXP_CatSomali.lifeStages.2.labelMale>
+  <AEXP_CatSomali.lifeStages.2.labelMalePlural>сомалийские коты</AEXP_CatSomali.lifeStages.2.labelMalePlural>
+  <AEXP_CatSomali.lifeStages.2.labelFemale>сомалийская кошка</AEXP_CatSomali.lifeStages.2.labelFemale>
+  <AEXP_CatSomali.lifeStages.2.labelFemalePlural>сомалийские кошки</AEXP_CatSomali.lifeStages.2.labelFemalePlural>
+  <AEXP_CatSomali.labelMale>сомалийский кот</AEXP_CatSomali.labelMale>
+  <AEXP_CatSomali.labelMalePlural>сомалийские коты</AEXP_CatSomali.labelMalePlural>
+  <AEXP_CatSomali.labelFemale>сомалийская кошка</AEXP_CatSomali.labelFemale>
+  <AEXP_CatSomali.labelFemalePlural>сомалийские кошки</AEXP_CatSomali.labelFemalePlural>
+
+
+  <!-- CatSphynx -->
+
+  <AEXP_CatSphynx.label>сфинкс</AEXP_CatSphynx.label>
+  <AEXP_CatSphynx.labelPlural>сфинксы</AEXP_CatSphynx.labelPlural>
+  <AEXP_CatSphynx.lifeStages.0.label>котенок сфинкс</AEXP_CatSphynx.lifeStages.0.label>
+  <AEXP_CatSphynx.lifeStages.0.labelPlural>котята сфинксы</AEXP_CatSphynx.lifeStages.0.labelPlural>
+  <AEXP_CatSphynx.lifeStages.0.labelMale>котенок сфинкса</AEXP_CatSphynx.lifeStages.0.labelMale>
+  <AEXP_CatSphynx.lifeStages.0.labelMalePlural>котята сфинкса</AEXP_CatSphynx.lifeStages.0.labelMalePlural>
+  <AEXP_CatSphynx.lifeStages.0.labelFemale>котенок сфинкс</AEXP_CatSphynx.lifeStages.0.labelFemale>
+  <AEXP_CatSphynx.lifeStages.0.labelFemalePlural>котята сфинкс</AEXP_CatSphynx.lifeStages.0.labelFemalePlural>
+  <AEXP_CatSphynx.lifeStages.1.label>молодой сфинкс</AEXP_CatSphynx.lifeStages.1.label>
+  <AEXP_CatSphynx.lifeStages.1.labelPlural>молодые сфинксы</AEXP_CatSphynx.lifeStages.1.labelPlural>
+  <AEXP_CatSphynx.lifeStages.1.labelMale>молодой сфинкс</AEXP_CatSphynx.lifeStages.1.labelMale>
+  <AEXP_CatSphynx.lifeStages.1.labelMalePlural>молодые сфинксы</AEXP_CatSphynx.lifeStages.1.labelMalePlural>
+  <AEXP_CatSphynx.lifeStages.1.labelFemale>молодой сфинкс</AEXP_CatSphynx.lifeStages.1.labelFemale>
+  <AEXP_CatSphynx.lifeStages.1.labelFemalePlural>молодые сфинксы</AEXP_CatSphynx.lifeStages.1.labelFemalePlural>
+  <AEXP_CatSphynx.lifeStages.2.label>сфинкс</AEXP_CatSphynx.lifeStages.2.label>
+  <AEXP_CatSphynx.lifeStages.2.labelPlural>сфинксы</AEXP_CatSphynx.lifeStages.2.labelPlural>
+  <AEXP_CatSphynx.lifeStages.2.labelMale>сфинкс</AEXP_CatSphynx.lifeStages.2.labelMale>
+  <AEXP_CatSphynx.lifeStages.2.labelMalePlural>сфинкс</AEXP_CatSphynx.lifeStages.2.labelMalePlural>
+  <AEXP_CatSphynx.lifeStages.2.labelFemale>сфинкс</AEXP_CatSphynx.lifeStages.2.labelFemale>
+  <AEXP_CatSphynx.lifeStages.2.labelFemalePlural>сфинкс</AEXP_CatSphynx.lifeStages.2.labelFemalePlural>
+  <AEXP_CatSphynx.labelMale>сфинкс</AEXP_CatSphynx.labelMale>
+  <AEXP_CatSphynx.labelMalePlural>сфинксы</AEXP_CatSphynx.labelMalePlural>
+  <AEXP_CatSphynx.labelFemale>сфинкс</AEXP_CatSphynx.labelFemale>
+  <AEXP_CatSphynx.labelFemalePlural>сфинкс</AEXP_CatSphynx.labelFemalePlural>
+
+
+</LanguageData>

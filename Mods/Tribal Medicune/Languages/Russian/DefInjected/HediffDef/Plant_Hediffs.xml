@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shrooms poison -->
+
+  <TM_ShroomsPoison.label>отравление грибами</TM_ShroomsPoison.label>
+  <TM_ShroomsPoison.description>Отравление сырыми грибами. У этого колониста может случиться сердечный приступ.</TM_ShroomsPoison.description>
+  <TM_ShroomsPoison.stages.0.label>Незначительное</TM_ShroomsPoison.stages.0.label>
+  <TM_ShroomsPoison.stages.1.label>Сильное</TM_ShroomsPoison.stages.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_ConsciousnessUpload.label>Разум загружен</ATPP_ConsciousnessUpload.label>
+  <ATPP_ConsciousnessUpload.description>_</ATPP_ConsciousnessUpload.description>
+  <ATPP_ConsciousnessUpload.labelNoun>Загрузка разума</ATPP_ConsciousnessUpload.labelNoun>
+
+  <ATPP_NoHost.label>Хост не подключен</ATPP_NoHost.label>
+  <ATPP_NoHost.description>_</ATPP_NoHost.description>
+  <ATPP_NoHost.labelNoun>Хост не подключен</ATPP_NoHost.labelNoun>
+
+  <ATPP_InRemoteControlMode.label>Режим дистанционного управления включен</ATPP_InRemoteControlMode.label>
+  <ATPP_InRemoteControlMode.description>_</ATPP_InRemoteControlMode.description>
+  <ATPP_InRemoteControlMode.labelNoun>Режим дистанционного управления включен</ATPP_InRemoteControlMode.labelNoun>
+
+  <ATPP_BlankAndroid.label>Пустая нейросеть</ATPP_BlankAndroid.label>
+  <ATPP_BlankAndroid.description>_</ATPP_BlankAndroid.description>
+  <ATPP_BlankAndroid.labelNoun>Пустая нейросеть</ATPP_BlankAndroid.labelNoun>
+
+  <ATPP_RemotelyControlled.label>Дистанционно управляемый</ATPP_RemotelyControlled.label>
+  <ATPP_RemotelyControlled.description>_</ATPP_RemotelyControlled.description>
+  <ATPP_RemotelyControlled.labelNoun>Дистанционно управляемый</ATPP_RemotelyControlled.labelNoun>
+
+  <ATPP_Rusted.label>Ржавый</ATPP_Rusted.label>
+  <ATPP_Rusted.description>_</ATPP_Rusted.description>
+  <ATPP_Rusted.labelNoun>Ржавый</ATPP_Rusted.labelNoun>
+
+  <ATPP_SolarFlareAndroidImpact.label>Солнечная вспышка</ATPP_SolarFlareAndroidImpact.label>
+  <ATPP_SolarFlareAndroidImpact.description>_</ATPP_SolarFlareAndroidImpact.description>
+  <ATPP_SolarFlareAndroidImpact.labelNoun>Солнечная вспышка</ATPP_SolarFlareAndroidImpact.labelNoun>
+
+  <ATPP_LowNetworkSignal.label>Низкий сигнал сети SkyMind</ATPP_LowNetworkSignal.label>
+  <ATPP_LowNetworkSignal.description>_</ATPP_LowNetworkSignal.description>
+  <ATPP_LowNetworkSignal.labelNoun>Низкий сигнал сети SkyMind</ATPP_LowNetworkSignal.labelNoun>
+
+  <ATPP_HediffRXChip.label>RX Нейронный чип</ATPP_HediffRXChip.label>
+  <ATPP_HediffRXChip.description>_</ATPP_HediffRXChip.description>
+  <ATPP_HediffRXChip.labelNoun>Нейронный чип, действующий как персональное реле SkyMind..</ATPP_HediffRXChip.labelNoun>
+
+  <ATPP_HediffVX0Chip.label>RX Нейронный чип </ATPP_HediffVX0Chip.label>
+  <ATPP_HediffVX0Chip.description>_</ATPP_HediffVX0Chip.description>
+  <ATPP_HediffVX0Chip.labelNoun>Нейронный чип для превращения хозяина в биологический суррогат.</ATPP_HediffVX0Chip.labelNoun>
+
+  <ATPP_HediffVX1Chip.label>VX1 Нейронный чип</ATPP_HediffVX1Chip.label>
+  <ATPP_HediffVX1Chip.description>_</ATPP_HediffVX1Chip.description>
+  <ATPP_HediffVX1Chip.labelNoun>Нейронный чип, позволяющий хозяину дистанционно управлять сериями суррогатных андроидов.</ATPP_HediffVX1Chip.labelNoun>
+
+  <ATPP_HediffVX2Chip.label>VX2 Нейронный чип</ATPP_HediffVX2Chip.label>
+  <ATPP_HediffVX2Chip.description>_</ATPP_HediffVX2Chip.description>
+  <ATPP_HediffVX2Chip.labelNoun>Нейронный чип, позволяющий хозяину дистанционно управлять сериями суррогатных андроидов и перезагружать/дублировать их сознание.</ATPP_HediffVX2Chip.labelNoun>
+
+  <ATPP_HediffVX3Chip.label>VX3 Нейронный чип</ATPP_HediffVX3Chip.label>
+  <ATPP_HediffVX3Chip.description>_</ATPP_HediffVX3Chip.description>
+  <ATPP_HediffVX3Chip.labelNoun>Нейронный чип, позволяющий его хозяину удаленно управлять несколькими сериями суррогатных андроидов и перезагружать/дублировать их сознание.</ATPP_HediffVX3Chip.labelNoun>
+
+  <ATPP_DummyHediff.label>Болван</ATPP_DummyHediff.label>
+  <ATPP_DummyHediff.description>_</ATPP_DummyHediff.description>
+  <ATPP_DummyHediff.stages.0.label>Ранний</ATPP_DummyHediff.stages.0.label>
+  <ATPP_DummyHediff.labelNoun>Болван</ATPP_DummyHediff.labelNoun>
+  
+  <ATPP_SurrogateInit.label>Инициализация устройства</ATPP_SurrogateInit.label>
+  <ATPP_SurrogateInit.description>_</ATPP_SurrogateInit.description>
+  <ATPP_SurrogateInit.labelNoun>Инициализация устройства</ATPP_SurrogateInit.labelNoun>
+
+  <ATPP_AssistingMinds.label>Оказание помощи разуму из ядер SkyCloud</ATPP_AssistingMinds.label>
+  <ATPP_AssistingMinds.description>_</ATPP_AssistingMinds.description>
+  <ATPP_AssistingMinds.labelNoun>Оказание помощи разуму из ядер SkyCloud</ATPP_AssistingMinds.labelNoun>
+
+
+</LanguageData>

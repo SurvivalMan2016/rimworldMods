@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_IrishCoffee.label>кофе по-ирландски</VBE_IrishCoffee.label>
+  <VBE_IrishCoffee.description>Виски и кофе тщательно перемешивают, прежде чем добавить сверху сливки. Идеально подходит для тех, кто только что встал с постели и уже хочет в нее вернуться.</VBE_IrishCoffee.description>
+  <VBE_IrishCoffee.ingestible.ingestCommandString>Пить {0}</VBE_IrishCoffee.ingestible.ingestCommandString>
+  <VBE_IrishCoffee.ingestible.ingestReportString>Пьет {0}.</VBE_IrishCoffee.ingestible.ingestReportString>
+
+
+</LanguageData>

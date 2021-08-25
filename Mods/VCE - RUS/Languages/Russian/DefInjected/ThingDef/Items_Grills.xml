@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_SimpleGrill.label>простой гриль</VCE_SimpleGrill.label>
+  <VCE_SimpleGrill.description>Простой гриль, на скорую руку сделанный из нескольких кусков мяса. Очень сытное мясо на гриле позволяет людям долго не чувствовать голода. Заморозка рушит этот эффект.</VCE_SimpleGrill.description>
+
+  <VCE_RuinedSimpleGrill.label>остывший простой гриль</VCE_RuinedSimpleGrill.label>
+  <VCE_RuinedSimpleGrill.description>Простой гриль, на скорую руку сделанный из нескольких кусков мяса. Этот гриль был заморожен и он все еще съедобен, но без особых эффектов. Не даст эффекта "сытости".</VCE_RuinedSimpleGrill.description>
+
+  <VCE_FineGrill.label>вкусный гриль</VCE_FineGrill.label>
+  <VCE_FineGrill.description>Сложный гриль, тщательно собранный из широкого ассортимента ингредиентов. Очень сытное мясо на гриле позволяет людям долго не чувствовать голода. Заморозка рушит этот эффект.</VCE_FineGrill.description>
+
+  <VCE_RuinedFineGrill.label>остывший вкусный гриль</VCE_RuinedFineGrill.label>
+  <VCE_RuinedFineGrill.description>Сложный гриль, тщательно собранный из широкого ассортимента ингредиентов. Этот гриль был заморожен и он все еще съедобен, но без особых эффектов. Не даст эффекта "сытости".</VCE_RuinedFineGrill.description>
+
+  <VCE_LavishGrill.label>шикарный гриль</VCE_LavishGrill.label>
+  <VCE_LavishGrill.description>Шедевр кулинарного искусства. Этот гриль питает тело, разум и душу.. Очень сытное мясо на гриле позволяет людям долго не чувствовать голода. Заморозка рушит этот эффект.</VCE_LavishGrill.description>
+
+  <VCE_RuinedLavishGrill.label>остывший шикарный гриль</VCE_RuinedLavishGrill.label>
+  <VCE_RuinedLavishGrill.description>Шедевр кулинарного искусства. Этот гриль питает тело, разум и душу. Этот гриль был заморожен и он все еще съедобен, но без особых эффектов. Не даст эффекта "сытости".</VCE_RuinedLavishGrill.description>
+
+  <VCE_GourmetGrill.label>изысканный гриль</VCE_GourmetGrill.label>
+  <VCE_GourmetGrill.description>Не просто гриль, а кулинарное произведение искусства - изысканного, продуманного, с эстетически выверенным балансом вкуса и маленькой порцией. Очень сытное мясо на гриле позволяет людям долго не чувствовать голода. Заморозка рушит этот эффект.</VCE_GourmetGrill.description>
+
+  <VCE_RuinedGourmetGrill.label>остывший изысканный гриль</VCE_RuinedGourmetGrill.label>
+  <VCE_RuinedGourmetGrill.description>Не просто гриль, а кулинарное произведение искусства - изысканного, продуманного, с эстетически выверенным балансом вкуса и маленькой порцией. Этот гриль был заморожен и он все еще съедобен, но без особых эффектов. Не даст эффекта "сытости".</VCE_RuinedGourmetGrill.description>
+
+
+</LanguageData>

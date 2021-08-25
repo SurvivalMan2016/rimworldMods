@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Android2Tier.label>Андроид Т2</Android2Tier.label>
+  <Android2Tier.description>Несколько продвинутый андроид, способный почти идеально хранить сознание ИИ и обладающий приемлемым уровнем двигательной моторики. Хороший универсальный андроид, который широко используется в мирах-утопиях для обслуживания и уборки.</Android2Tier.description>
+  <Android2Tier.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>Кожа</Android2Tier.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Android2Tier.tools.0.label>Правый кулак</Android2Tier.tools.0.label>
+  <Android2Tier.tools.1.label>Левый кулак</Android2Tier.tools.1.label>
+  <Android2Tier.tools.2.label>Голова</Android2Tier.tools.2.label>
+
+
+</LanguageData>

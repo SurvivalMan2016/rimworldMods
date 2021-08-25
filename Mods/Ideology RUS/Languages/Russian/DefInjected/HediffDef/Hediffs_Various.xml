@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Biosculpting sickness -->
+  <BiosculptingSickness.label>Биоскульптурная болезнь</BiosculptingSickness.label>
+  <!-- EN: The after-effects of an incomplete biosculpting cycle. It causes nausea, dizziness, and fuzzy thinking. -->
+  <BiosculptingSickness.description>Последствия неполного цикла биоскульптуры. Это вызывает тошноту, головокружение и спутанность сознания.</BiosculptingSickness.description>
+  
+  <!-- EN: blindfolded -->
+  <Blindfold.label>ослеплен</Blindfold.label>
+  <!-- EN: A blindfold is blocking this person's vision. -->
+  <Blindfold.description>Повязка на глазах блокирует зрение этого человека.</Blindfold.description>
+  
+  <!-- EN: neural supercharge -->
+  <NeuralSupercharge.label>разгон нейронов</NeuralSupercharge.label>
+  <!-- EN: An externally-induced increase in sensitivity and synchronicity of neurons. This boosts consciousness and learning rate at the cost of increased hunger. -->
+  <NeuralSupercharge.description>Внешне индуцированное повышение чувствительности и синхронности нейронов. Это повышает сознательность и скорость обучения за счет увеличения голода.</NeuralSupercharge.description>
+  
+  <!-- EN: torture crown -->
+  <TortureCrown.label>терновый венец</TortureCrown.label>
+  <!-- EN: A crown-like headpiece with stubby spikes that poke the head uncomfortably. It is used to put the wearer in pain. -->
+  <TortureCrown.description>Головной убор в виде венца с короткими шипами, которые неприятно впиваются в голову. Он используется для того, чтобы причинить владельцу боль.</TortureCrown.description>
+  
+  <!-- EN: work focus -->
+  <WorkFocus.label>сосредоточенность на работе</WorkFocus.label>
+  <!-- EN: This person was energized by a ritual or event they participated in. The energy means they can now work harder. -->
+  <WorkFocus.description>Этот человек был заряжен энергией от ритуала или события, в котором он участвовал. Энергия означает, что теперь они могут работать усерднее.</WorkFocus.description>
+  
+</LanguageData>

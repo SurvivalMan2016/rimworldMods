@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SewageSludgeComposting.label>компостирование отходов</SewageSludgeComposting.label>
+  <SewageSludgeComposting.description>Правильно переработанные нечистоты становятся твердыми биоотходами, которые немного повышают плодородность почвы, что полезно в суровых условиях с ограниченным пространством для посевов. Биоотходы также значительно повышают плодородность песка, что может сделать его пригодным для земледелия в сочетании с орошением.</SewageSludgeComposting.description>
+
+  <MultiSplitAirCon.label>раздельное кондиционирование</MultiSplitAirCon.label>
+  <MultiSplitAirCon.description>Сооружение сплит-систем кондиционирования со связанными между собой внешними и внутренними элементами и охладителями.</MultiSplitAirCon.description>
+  
+  <Plumbing.label>водопровод</Plumbing.label>
+  <Plumbing.description>Используйте трубы, сантехнику, баки, ветряные насосы и другое оборудование для перекачки и отвода воды.</Plumbing.description>
+
+  <LogBoilers.label>отопление</LogBoilers.label>
+  <LogBoilers.description>Установка дровяных бойлеров, которые могут быть использования для обогрева комнат и размещены рядом с бадьями для обогрева воды.</LogBoilers.description>
+
+  <CentralHeating.label>центральное отопление</CentralHeating.label>
+  <CentralHeating.description>Постройте центральную отопительную систему с помощью радиаторов, баков горячей воды, бойлеров и термостатов.</CentralHeating.description>
+
+  <ModernFixtures.label>современная сантехника</ModernFixtures.label>
+  <ModernFixtures.description>Установка современных видов сантехники, таких как туалет и душ.</ModernFixtures.description>
+
+  <ElectricPumps.label>электронасосы</ElectricPumps.label>
+  <ElectricPumps.description>Установка электрических насосов для перекачки воды под постоянным давлением.</ElectricPumps.description>
+
+  <AdvancedShowers.label>умный душ</AdvancedShowers.label>
+  <AdvancedShowers.description>Установка умных душевых, комфортных и в два раза сокращающих время, необходимое на водные процедуры.</AdvancedShowers.description>
+
+  <AdvancedToilets.label>умные унитазы</AdvancedToilets.label>
+  <AdvancedToilets.description>Установка умных унитазов, комфортных и в два раза более водоэффективных в сравнении с обычными.</AdvancedToilets.description>
+
+  <HotTubs.label>джакузи</HotTubs.label>
+  <HotTubs.description>Установка гидромассажных ванн для гидротерапии, релаксации и удовольствия.</HotTubs.description>
+
+  <LargeWaterPumps.label>промышленный водопровод</LargeWaterPumps.label>
+  <LargeWaterPumps.description>Сооружение насосов и водохранилищ промышленных масштабов.</LargeWaterPumps.description>
+
+  <DeepWells.label>глубинные скважины</DeepWells.label>
+  <DeepWells.description>Бурение глубоких скважин, обеспечивающих доступ к большим объемам подземных вод.</DeepWells.description>
+
+  <WashingMachines.label>стиральные машины</WashingMachines.label>
+  <WashingMachines.description>Установка стиральных машин, отмывающих одежду так хорошо, что никто никогда не догадается, что в ней кто-то умер!</WashingMachines.description>
+
+  <WaterFiltration.label>фильтрация воды</WaterFiltration.label>
+  <WaterFiltration.description>Сооружение фильтрационной установки, очищающей водные запасы и устраняющей риск возникновения болезней.</WaterFiltration.description>
+
+  <HygieneBionics.label>бионическая гигиена</HygieneBionics.label>
+  <HygieneBionics.description>Создание бионики, которая помогает в обработке отходов организма и соблюдении личной гигиены.</HygieneBionics.description>
+
+  <SepticTanks.label>септик</SepticTanks.label>
+  <SepticTanks.description>Сооружение септиков, накапливающих и очищающих нечистоты с умеренной скоростью.</SepticTanks.description>
+
+  <SewageTreatment.label>очистка сточных вод</SewageTreatment.label>
+  <SewageTreatment.description>Сооружение масштабных водоочистных систем, накапливающих и оперативно перерабатывающих большие объемы сточных вод.</SewageTreatment.description>
+
+  <SwimmingPools.label>плавательные бассейны</SwimmingPools.label>
+  <SwimmingPools.description>Установка плавательных бассейнов.</SwimmingPools.description>
+
+  <Irrigation.label>орошение</Irrigation.label>
+  <Irrigation.description>Сооружение спринклерных систем орошения для увеличения плодородности почвы.</Irrigation.description>
+
+  <FireSuppression.label>пожаротушение</FireSuppression.label>
+  <FireSuppression.description>Установка спринклеров, подавляющих огонь при активации.</FireSuppression.description>
+  
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beggars helped -->
+  <CharityFulfilled_Beggars.label>нищие выручены</CharityFulfilled_Beggars.label>
+  
+  <!-- EN: refugees helped -->
+  <CharityFulfilled_HospitalityRefugees.label>беженцы выручены</CharityFulfilled_HospitalityRefugees.label>
+  
+  <!-- EN: noble saved -->
+  <CharityFulfilled_IntroWimp.label>аристократ выручен</CharityFulfilled_IntroWimp.label>
+  
+  <!-- EN: pod refugee saved -->
+  <CharityFulfilled_RefugeePodCrash.label>беженец выручены</CharityFulfilled_RefugeePodCrash.label>
+  
+  <!-- EN: crash survivors helped -->
+  <CharityFulfilled_ShuttleCrashRescue.label>выжившие в катастрофе выручены</CharityFulfilled_ShuttleCrashRescue.label>
+  
+  <!-- EN: desperate joiner accepted -->
+  <CharityFulfilled_ThreatReward_Joiner.label>отчаявшийся новичок принят</CharityFulfilled_ThreatReward_Joiner.label>
+  
+  <!-- EN: wanderer accepted -->
+  <CharityFulfilled_WandererJoins.label>странник принят</CharityFulfilled_WandererJoins.label>
+  
+  <!-- EN: beggars refused -->
+  <CharityRefused_Beggars.label>нищие отвергнуты</CharityRefused_Beggars.label>
+  
+  <!-- EN: beggars betrayed -->
+  <CharityRefused_Beggars_Betrayed.label>нищие преданы</CharityRefused_Beggars_Betrayed.label>
+  
+  <!-- EN: refugees refused -->
+  <CharityRefused_HospitalityRefugees.label>беженцы отвергнуты</CharityRefused_HospitalityRefugees.label>
+  
+  <!-- EN: wimp refused -->
+  <CharityRefused_IntroWimp.label>слабак отвергнут</CharityRefused_IntroWimp.label>
+  
+  <!-- EN: refugee pod crash refused -->
+  <CharityRefused_RefugeePodCrash.label> беженец из разбившейся капсулы отвергнут</CharityRefused_RefugeePodCrash.label>
+  
+  <!-- EN: crash survivors refused -->
+  <CharityRefused_ShuttleCrashRescue.label>выжившие в катастрофе отвергнуты</CharityRefused_ShuttleCrashRescue.label>
+  
+  <!-- EN: joiner refused -->
+  <CharityRefused_ThreatReward_Joiner.label>новичок отвергнут</CharityRefused_ThreatReward_Joiner.label>
+  
+  <!-- EN: wanderer refused -->
+  <CharityRefused_WandererJoins.label>странник отвергнут</CharityRefused_WandererJoins.label>
+  
+</LanguageData>

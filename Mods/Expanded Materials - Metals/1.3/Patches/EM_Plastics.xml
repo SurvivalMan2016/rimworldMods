@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!-- Oil Extractor -->
+	<Operation Class="PatchOperationFindMod">
+	<mods>
+		<li>Expanded Materials - Plastics</li>
+	</mods>
+	<match Class="PatchOperationSequence">
+	<success>Always</success>
+		<operations>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "VMEu_OilExtractor"]/costList</xpath>
+				<value>
+					<costList>
+						<VMEu_Concrete>100</VMEu_Concrete>
+						<Steel>60</Steel>
+						<ComponentIndustrial>6</ComponentIndustrial>
+					</costList>
+				</value>
+			</li>
+		</operations>
+	</match>
+	</Operation>
+
+</Patch>

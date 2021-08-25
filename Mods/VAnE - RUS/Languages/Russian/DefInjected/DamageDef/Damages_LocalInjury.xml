@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAE_PlagueBite.label>чумной укус</VAE_PlagueBite.label>
+  <VAE_PlagueBite.deathMessage>{0} {0_gender ? умер : умерла : умерло} от чумного укуса.</VAE_PlagueBite.deathMessage>
+
+  <VAE_VeryToxicBite.label>крайне ядовитый укус</VAE_VeryToxicBite.label>
+  <VAE_VeryToxicBite.deathMessage>{0} {0_gender ? умер : умерла : умерло} после получения укуса от очень ядовитого существа.</VAE_VeryToxicBite.deathMessage>
+
+  <VAE_ToxicSting.label>кровоточащая рана</VAE_ToxicSting.label>
+  <VAE_ToxicSting.deathMessage>{0} {0_gender ? истек : истекла : истекло} кровью.</VAE_ToxicSting.deathMessage>
+
+  <VAE_UncontrollableBleeding.label>неконтролируемое кровотечение</VAE_UncontrollableBleeding.label>
+  <VAE_UncontrollableBleeding.deathMessage>{0} {0_gender ? истек : истекла : истекло} кровью.</VAE_UncontrollableBleeding.deathMessage>
+
+  <VAE_HulkAttack.label>сокрушающий удар</VAE_HulkAttack.label>
+  <VAE_HulkAttack.deathMessage>{0} {0_gender ? раздавлен : раздавлена : раздавлено} сокрущающим ударом, нанесенным рукой гаргантюа.</VAE_HulkAttack.deathMessage>
+
+  <VAE_HulkDualAttack.label>чудовищный удар</VAE_HulkDualAttack.label>
+  <VAE_HulkDualAttack.deathMessage>{0} {0_gender ? размазан : размазана : размазано} чудовищным ударом гаргантюа, нанесенным обеими руками.</VAE_HulkDualAttack.deathMessage>
+
+  <VAE_CocoonBite.label>помещение в кокон</VAE_CocoonBite.label>
+  <VAE_CocoonBite.deathMessage>{0} {0_gender ? помещен : помещена : помещено} в кокон.</VAE_CocoonBite.deathMessage>
+
+  <VAE_CocoonRanged.label>шелковый снаряд</VAE_CocoonRanged.label>
+  <VAE_CocoonRanged.deathMessage>{0} {0_gender ? задохнулся : задохнулась : задохнулось} от шелковой паутины.</VAE_CocoonRanged.deathMessage>
+
+  <VAE_InfectedMandibles.label>зараженные мандибулы</VAE_InfectedMandibles.label>
+  <VAE_InfectedMandibles.deathMessage>{0} {0_gender ? умер : умерла : умерло} от инфекции.</VAE_InfectedMandibles.deathMessage>
+
+
+</LanguageData>

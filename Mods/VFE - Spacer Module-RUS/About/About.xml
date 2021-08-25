@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Русский язык для "Vanilla Furniture Expanded - Spacer Module"</name>
+	<author>いのしし_3</author>
+	<packageId>Inoshishi3.VFE.SpacerRusPatch</packageId>
+	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=2106394330</url>
+	<modDependencies>
+		<li>
+			<packageId>VanillaExpanded.VFESpacer</packageId>
+			<displayName>Vanilla Furniture Expanded - Spacer Module</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2028381079</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>VanillaExpanded.VFESpacer</li>
+	</loadAfter>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<description>&lt;color=yellow&gt;Перевод на русский язык Vanilla Furniture Expanded - Spacer Module.&lt;/color&gt;
+
+Для того, чтобы русификатор заработал, в меню порядка загрузки модов он должен быть ПОСЛЕ оригинального Vanilla Furniture Expanded - Spacer Module.
+
+~~~~~~
+   [Vanilla Furniture Expanded - Spacer Module]
+   [Русский язык для "Vanilla Furniture Expanded - Spacer Module"]
+~~~~~~
+
+flip-flap
+░░░░░▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░
+░░░▓▓▓▓▓▓▒▒▒▒▒▒▓▓░░░░░░░
+░░▓▓▓▓▒░░▒▒▓▓▒▒▓▓▓▓░░░░░
+░▓▓▓▓▒░░▓▓▓▒▄▓░▒▄▄▄▓░░░░
+▓▓▓▓▓▒░░▒▀▀▀▀▒░▄░▄▒▓▓░░░
+▓▓▓▓▓▒░░▒▒▒▒▒▓▒▀▒▀▒▓▒▓░░
+▓▓▓▓▓▒▒░░░▒▒▒░░▄▀▀▀▄▓▒▓░
+▓▓▓▓▓▓▒▒░░░▒▒▓▀▄▄▄▄▓▒▒▒▓
+░▓█▀▄▒▓▒▒░░░▒▒░░▀▀▀▒▒▒▒░
+░░▓█▒▒▄▒▒▒▒▒▒▒░░▒▒▒▒▒▒▓░
+░░░▓▓▓▓▒▒▒▒▒▒▒▒░░░▒▒▒▓▓░
+░░░░░▓▓▒░░▒▒▒▒▒▒▒▒▒▒▒▓▓░
+░░░░░░▓▒▒░░░░▒▒▒▒▒▒▒▓▓░░</description>
+</ModMetaData>

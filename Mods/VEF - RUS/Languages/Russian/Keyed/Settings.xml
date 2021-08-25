@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- CSG -->
+  <CSGTitle>Генерация случайной структуры:</CSGTitle>
+  <CSGLog>Включить журнал отладки при генерации структуры: </CSGLog>
+
+  <!-- Toggable patches -->
+  <TPTitle>Переключаемые патчи:</TPTitle>
+  <NeedRestart>&lt;b&gt;&lt;color=red&gt;Для применения всех настроек необходим перезапуск&lt;/color&gt;&lt;/b&gt;</NeedRestart>
+  <XPatchFound>{0} патчей найдено</XPatchFound>
+
+  <!-- Faction Discovery -->
+  <FDTitle>Добавление фракций</FDTitle>
+  <NeedToBeInGame>Сначала необходимо загрузить сохранение</NeedToBeInGame>
+  <AskForPopUp>Добавить фракцию</AskForPopUp>
+  <AskForPopUpExplained>Нажмите сюда, если хотите получать запрос на каждую фракцию, которую решите добавить в вашу игру</AskForPopUpExplained>
+  <CanAddXFaction>{0} фракций может быть добавлено к текущему сохранению</CanAddXFaction>
+
+
+</LanguageData>

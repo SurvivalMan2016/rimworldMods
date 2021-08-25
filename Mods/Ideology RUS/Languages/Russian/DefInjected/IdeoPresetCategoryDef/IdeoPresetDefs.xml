@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: classic -->
+  <Classic.label>классический</Classic.label>
+  <!-- EN: Your colonists get a belief system like classic RimWorld. Good for your first few games. -->
+  <Classic.description>Ваши поселенцы получают систему верований, подобную классической RimWorld. Хорошо подходит для начинающих.</Classic.description>
+  <!-- EN: Classic -->
+  <Classic.groupLabel>Классический</Classic.groupLabel>
+  
+  <!-- EN: custom -->
+  <Custom.label>настроенный</Custom.label>
+  <!-- EN: Customize a new ideoligion and control every detail. -->
+  <Custom.description>Настройте новую идеологию и контролируйте каждую деталь.</Custom.description>
+  <!-- EN: Custom -->
+  <Custom.groupLabel>Настроенный</Custom.groupLabel>
+  
+  <!-- EN: intense -->
+  <Intense.label>чрезмерные</Intense.label>
+  <!-- EN: These give your colonists extremely disruptive beliefs. Your game will be very different from traditional RimWorld. -->
+  <Intense.description>Это дает вашим колонистам крайне меняющие игру убеждения. Ваша игра будет сильно отличаться от традиционной RimWorld.</Intense.description>
+  <!-- EN: Presets -->
+  <Intense.groupLabel>Предустановки</Intense.groupLabel>
+  
+  <!-- EN: mild -->
+  <Mild.label>умеренные</Mild.label>
+  <!-- EN: These create classic-like gameplay with a twist. -->
+  <Mild.description>Они создают классический игровой процесс с изюминкой.</Mild.description>
+  <!-- EN: Presets -->
+  <Mild.groupLabel>Предустановки</Mild.groupLabel>
+  
+  <!-- EN: strong -->
+  <Strong.label>сильные</Strong.label>
+  <!-- EN: These give your colonists strong beliefs and support playstyles significantly different from classic RimWorld. -->
+  <Strong.description>Это дает вашим колонистам сильные убеждения и поддерживает стиль игры, значительно отличающийся от классического RimWorld.</Strong.description>
+  <!-- EN: Presets -->
+  <Strong.groupLabel>Предустановки</Strong.groupLabel>
+  
+</LanguageData>

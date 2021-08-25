@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAECaves_Cocoon.label>паучий кокон</VAECaves_Cocoon.label>
+  <VAECaves_Cocoon.description>Паучий кокон. Может содержать добычу. Если кокон не открыть в ближайшее время, то его обитатель наверняка задохнется и погибнет.</VAECaves_Cocoon.description>
+
+  <VAECaves_EmptyCocoon.label>пустой паучий кокон</VAECaves_EmptyCocoon.label>
+  <VAECaves_EmptyCocoon.description>Пустой паучий кокон.</VAECaves_EmptyCocoon.description>
+
+  <VAECaves_SpiderLair.label>паучье гнездо</VAECaves_SpiderLair.label>
+  <VAECaves_SpiderLair.description>Гнездо мерзких пауков.</VAECaves_SpiderLair.description>
+
+  <VAECaves_SpiderEggs.label>паучьи яйца</VAECaves_SpiderEggs.label>
+  <VAECaves_SpiderEggs.description>Яйца, из которых появляются гигантские паучата.</VAECaves_SpiderEggs.description>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Whiskey.label>виски</VBE_Whiskey.label>
+  <VBE_Whiskey.description>Крепкий ликер, полученный из ферментированного зерна. Ароматы бочки, в которой выдерживается напиток, имеют тенденцию проникать в него больше, чем в другие виды алкоголя. Это дает древесный, почти дымный привкус. Простой виски стереотипно ассоциируется с грубым физическим трудом и работягами, благодаря его распространнености среди рабочег класса промышленных миров.</VBE_Whiskey.description>
+  <VBE_Whiskey.tools.0.label>бутылка</VBE_Whiskey.tools.0.label>
+  <VBE_Whiskey.tools.1.label>горлышко</VBE_Whiskey.tools.1.label>
+  <VBE_Whiskey.ingestible.ingestCommandString>Пить {0}</VBE_Whiskey.ingestible.ingestCommandString>
+  <VBE_Whiskey.ingestible.ingestReportString>Пьет {0}.</VBE_Whiskey.ingestible.ingestReportString>
+
+  <VBE_DoubleWhiskey.label>виски двойной выдержки</VBE_DoubleWhiskey.label>
+  <VBE_DoubleWhiskey.description>Результат повторной выдержки виски в неиспользованной или малоиспользованной бочке. Вкус сильнее, а послевкусие заметно уменьшается. Виски двойной выдержки это напиток, обозначающий  благополучие и принадлежность к высшему классу своих потребителей.</VBE_DoubleWhiskey.description>
+  <VBE_DoubleWhiskey.tools.0.label>бутылка</VBE_DoubleWhiskey.tools.0.label>
+  <VBE_DoubleWhiskey.tools.1.label>горлышко</VBE_DoubleWhiskey.tools.1.label>
+  <VBE_DoubleWhiskey.ingestible.ingestCommandString>Пить {0}</VBE_DoubleWhiskey.ingestible.ingestCommandString>
+  <VBE_DoubleWhiskey.ingestible.ingestReportString>Пьет {0}.</VBE_DoubleWhiskey.ingestible.ingestReportString>
+
+
+</LanguageData>

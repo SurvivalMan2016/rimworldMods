@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hyena -->
+
+  <AEXP_Hyena.label>гиена</AEXP_Hyena.label>
+  <AEXP_Hyena.description>Крупное плотоядное животное, похожее на собаку. Чаще всего встречается в степях и пустынях. Смех гиены - распространенный образ в легендах племен. Он сеет страх в долгие пустынные ночи.</AEXP_Hyena.description>
+  <AEXP_Hyena.tools.0.label>левая лапа</AEXP_Hyena.tools.0.label>
+  <AEXP_Hyena.tools.1.label>правая лапа</AEXP_Hyena.tools.1.label>
+  <AEXP_Hyena.tools.2.label>зубы</AEXP_Hyena.tools.2.label>
+  <AEXP_Hyena.tools.3.label>голова</AEXP_Hyena.tools.3.label>
+  <AEXP_Hyena.race.meatLabel>мясо гиены</AEXP_Hyena.race.meatLabel>
+
+
+  <!-- Desert Tortoise -->
+
+  <AEXP_DesertTortoise.label>пустынная черепаха</AEXP_DesertTortoise.label>
+  <AEXP_DesertTortoise.description>Эта бронированная рептилия, обитающая в пустыне, известна своей низкой скоростью передвижения и чрезвычайно твердым куполообразным панцирем, из за чего убить ее непросто. Пустынные черепахи, несмотря на свой небольшой размер, являются отличными боевыми животными и их относительно легко приручить.</AEXP_DesertTortoise.description>
+  <AEXP_DesertTortoise.tools.0.label>клюв</AEXP_DesertTortoise.tools.0.label>
+  <AEXP_DesertTortoise.tools.1.label>голова</AEXP_DesertTortoise.tools.1.label>
+
+
+  <!-- Lion -->
+
+  <AEXP_Lion.label>лев</AEXP_Lion.label>
+  <AEXP_Lion.description>Король животного мира, лев - мускулистая кошка с широкой грудью, короткой головой и выдающейся гривой. Львы - самый крупный из видов кошек, поэтому они превосходно проявляют себя как боевые животные, несмотря на свою дикость.</AEXP_Lion.description>
+  <AEXP_Lion.tools.0.label>левая лапа</AEXP_Lion.tools.0.label>
+  <AEXP_Lion.tools.1.label>правая лапа</AEXP_Lion.tools.1.label>
+  <AEXP_Lion.tools.2.label>зубы</AEXP_Lion.tools.2.label>
+  <AEXP_Lion.tools.3.label>голова</AEXP_Lion.tools.3.label>
+  <AEXP_Lion.race.meatLabel>мясо льва</AEXP_Lion.race.meatLabel>
+
+
+  <!-- Gila Monster -->
+
+  <AEXP_GilaMonster.label>ядозуб</AEXP_GilaMonster.label>
+  <AEXP_GilaMonster.description>Большая, медленно движущаяся ящерица, обитающая в основном в пустыне. Известна своим ядовитым укусом, который вызывает сильное отравление у укушенного. Чужеземцы по сей день верят в сказки, в которых говорится, что эта ящерица - порождение ада и что ее зловонное дыхание смертельно.</AEXP_GilaMonster.description>
+  <AEXP_GilaMonster.tools.0.label>левая лапа</AEXP_GilaMonster.tools.0.label>
+  <AEXP_GilaMonster.tools.1.label>правая лапа</AEXP_GilaMonster.tools.1.label>
+  <AEXP_GilaMonster.tools.2.label>зубы</AEXP_GilaMonster.tools.2.label>
+  <AEXP_GilaMonster.tools.3.label>голова</AEXP_GilaMonster.tools.3.label>
+  <AEXP_GilaMonster.race.meatLabel>мясо ядозуба</AEXP_GilaMonster.race.meatLabel>
+
+
+</LanguageData>

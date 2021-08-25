@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+    <VFEPD_DataConsole.label>консоль данных</VFEPD_DataConsole.label>
+    <VFEPD_DataConsole.description>Расширенная консоль данных, принимающая несколько различных типов форматирования файлов.</VFEPD_DataConsole.description>
+    <VFEPD_DataConveyor.label>передатчик данных</VFEPD_DataConveyor.label>
+    <VFEPD_DataConveyor.description>Большой ящик для кабелей и труб для передачи данных.</VFEPD_DataConveyor.description>
+    <VFEPD_DisplayScreen.label>экран отображения</VFEPD_DisplayScreen.label>
+    <VFEPD_DisplayScreen.description>Большой экран отображения данных.</VFEPD_DisplayScreen.description>
+    <VFEPD_DisplayTable.label>таблица отображения</VFEPD_DisplayTable.label>
+    <VFEPD_DisplayTable.description>Экран большого размера, установленный на большом столе.</VFEPD_DisplayTable.description>
+    <VFEPD_LongCommandConsole.label>длинная командная консоль</VFEPD_LongCommandConsole.label>
+    <VFEPD_LongCommandConsole.description>Длинная консоль с несколькими разными командными модулями.</VFEPD_LongCommandConsole.description>
+    <VFEPD_PlanningScreen.label>экран планирования</VFEPD_PlanningScreen.label>
+    <VFEPD_PlanningScreen.description>Стеклянный экран, идеально подходящий для планирования боевых сценариев.</VFEPD_PlanningScreen.description>
+    <VFEPD_PlanningTable.label>таблица планирования</VFEPD_PlanningTable.label>
+    <VFEPD_PlanningTable.description>Экран планирования большого размера, установленный на большом столе.</VFEPD_PlanningTable.description>
+    <VFEPD_TripleDisplay.label>панель мониторинга с тройным дисплеем</VFEPD_TripleDisplay.label>
+    <VFEPD_TripleDisplay.description>Большая панель управления с несколькими экранами для отображения актуальной информации обо всех выпусках мода.</VFEPD_TripleDisplay.description>
+    <VFEPD_SpacerContainer.label>герметичный контейнер</VFEPD_SpacerContainer.label>
+    <VFEPD_SpacerContainer.description>Коробка среднего размера, тройная запечатанная, защищенная паролем коробка.</VFEPD_SpacerContainer.description>
+    <VFEPD_SpacerContainerLarge.label>большой герметичный контейнер</VFEPD_SpacerContainerLarge.label>
+    <VFEPD_SpacerContainerLarge.description>Большой ящик с тройным уплотнением, защищенный паролем.</VFEPD_SpacerContainerLarge.description>
+    <VFEPD_SpacerContainerStack.label>стопка герметичных контейнеров</VFEPD_SpacerContainerStack.label>
+    <VFEPD_SpacerContainerStack.description>Большая стопка коробок разного размера с тройной запечаткой и паролем.</VFEPD_SpacerContainerStack.description>
+    <VFEPD_SpacerStorage.label>герметичное хранилище</VFEPD_SpacerStorage.label>
+    <VFEPD_SpacerStorage.description>Большое многокамерное усовершенствованное хранилище.</VFEPD_SpacerStorage.description>
+    <VFEPD_SwitchPanel.label>панель управления</VFEPD_SwitchPanel.label>
+    <VFEPD_SwitchPanel.description>Панель среднего размера, содержащая различные рычаги и переключатели.</VFEPD_SwitchPanel.description>
+    <VFEPD_ServerRack.label>серверная стойка</VFEPD_ServerRack.label>
+    <VFEPD_ServerRack.description>Большая серверная стойка, содержащая несколько жестких дисков и современные компьютерные компоненты.</VFEPD_ServerRack.description>
+    <VFEPD_SensorPlatform.label>сенсорная платформа</VFEPD_SensorPlatform.label>
+    <VFEPD_SensorPlatform.description>Небольшая платформа, содержащая множество датчиков.</VFEPD_SensorPlatform.description>
+    <VFEPD_PersonalConsole.label>персональная консоль</VFEPD_PersonalConsole.label>
+    <VFEPD_PersonalConsole.description>Маленькая футуристическая персональная коммуникационная консоль.</VFEPD_PersonalConsole.description>
+
+</LanguageData>
+

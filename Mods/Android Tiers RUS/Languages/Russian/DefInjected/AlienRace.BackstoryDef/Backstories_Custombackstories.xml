@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidPitfighter.title>Гладиатор</AndroidPitfighter.title>
+  <AndroidPitfighter.titleShort>Боец</AndroidPitfighter.titleShort>
+  <AndroidPitfighter.baseDescription>В качестве развлечения среди наемников пленные андроиды объединялись в команды, чтобы сражаться на импровизированной арене на борту корабля. Те, кто выживал, становились весьма популярными на корабле. {PAWN_nameDef} был одним из таких андроидов, прозванным "Богомолом" за его способность легко уклоняться от ударов и специальные имплантаты, которые ему установили члены команды.</AndroidPitfighter.baseDescription>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <M7Mech.label>М7 Механизированная пехота</M7Mech.label>
+  <M7Mech.description>Форма механизированной пехоты, созданная в древние времена в Rimworld. Эти подразделения являются очень сильными, мощными боевыми машинами, но обладают низкой скоростью и ограниченной батареей.</M7Mech.description>
+  <M7Mech.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>Кожа</M7Mech.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <M7Mech.tools.0.label>Правый кулак</M7Mech.tools.0.label>
+  <M7Mech.tools.1.label>Левый кулак</M7Mech.tools.1.label>
+
+
+</LanguageData>

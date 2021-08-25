@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RepairKitAT.label>Комплект обновления</RepairKitAT.label>
+  <RepairKitAT.description>Этот комплект специально создан для помощи в ремонте и модификации андроидов.</RepairKitAT.description>
+
+  <AndroidT1Kit.label>Комплект для Сборки Андроидов</AndroidT1Kit.label>
+  <AndroidT1Kit.description>Этот комплект содержит разобранные части андроида T1, аккуратно разложенные внутри, чтобы устройство можно было более эффективно транспортировать с места на место. В комплекте также есть набор инструкций и инструментов для сборки андроида, причем инструкции настолько ясны и прямолинейны, что даже идиот мог бы это сделать.</AndroidT1Kit.description>
+  <AndroidT1Kit.comps.0.useLabel>Соберите T1 Андроид</AndroidT1Kit.comps.0.useLabel>
+
+  <AndroidT2Kit.label>Расширенный комплект для сборки Анндроидов</AndroidT2Kit.label>
+  <AndroidT2Kit.description>Этот комплект содержит разобранные части андроида T2, аккуратно разложенные внутри, чтобы устройство можно было более эффективно транспортировать с места на место. В комплекте также есть набор инструкций и инструментов для сборки андроида, причем инструкции настолько ясны и прямолинейны, что даже идиот мог бы это сделать.</AndroidT2Kit.description>
+  <AndroidT2Kit.comps.0.useLabel>Соберите T2 Андроид</AndroidT2Kit.comps.0.useLabel>
+
+
+</LanguageData>

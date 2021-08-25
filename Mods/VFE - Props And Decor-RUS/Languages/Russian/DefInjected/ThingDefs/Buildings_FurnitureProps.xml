@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+  <VFEPD_SteelATM.label>стальной банкомат</VFEPD_SteelATM.label>
+  <VFEPD_SteelATM.description>Неработающий автомат по выдаче денег из стали.</VFEPD_SteelATM.description>
+  <VFEPD_PlasteelATM.label>пласталевый банкомат</VFEPD_PlasteelATM.label>
+  <VFEPD_PlasteelATM.description>Неработающий автомат по выдаче денег из пластали.</VFEPD_PlasteelATM.description>
+  <VFEPD_SilverATM.label>серебряный банкомат</VFEPD_SilverATM.label>
+  <VFEPD_SilverATM.description>Неработающий автомат по выдаче денег из серебра.</VFEPD_SilverATM.description>
+  <VFEPD_WoodenATM.label>деревянный банкомат</VFEPD_WoodenATM.label>
+  <VFEPD_WoodenATM.description>Неработающий деревянный автомат для выдачи денег.</VFEPD_WoodenATM.description>
+
+  <VFEPD_SteelBookshelf.label>книжная полка из стали</VFEPD_SteelBookshelf.label>
+  <VFEPD_SteelBookshelf.description>Книжная полка с множеством нечитабельных фолиантов и публикаций.</VFEPD_SteelBookshelf.description>
+  <VFEPD_PlasteelBookshelf.label>книжная полка из пластали</VFEPD_PlasteelBookshelf.label>
+  <VFEPD_PlasteelBookshelf.description>Книжная полка с множеством нечитабельных фолиантов и публикаций.</VFEPD_PlasteelBookshelf.description>
+  <VFEPD_SilverBookshelf.label>книжная полка из серебра</VFEPD_SilverBookshelf.label>
+  <VFEPD_SilverBookshelf.description>Книжная полка с множеством нечитабельных фолиантов и публикаций.</VFEPD_SilverBookshelf.description>
+  <VFEPD_WoodenBookshelf.label>книжная полка из дерева</VFEPD_WoodenBookshelf.label>
+  <VFEPD_WoodenBookshelf.description>Книжная полка с множеством нечитабельных фолиантов и публикаций.</VFEPD_WoodenBookshelf.description>
+
+  <VFEPD_SteelCupboard.label>шкаф из стали</VFEPD_SteelCupboard.label>
+  <VFEPD_SteelCupboard.description>Пустой большой шкаф.</VFEPD_SteelCupboard.description>
+  <VFEPD_PlasteelCupboard.label>шкаф из пластали</VFEPD_PlasteelCupboard.label>
+  <VFEPD_PlasteelCupboard.description>Пустой большой шкаф.</VFEPD_PlasteelCupboard.description>
+  <VFEPD_SilverCupboard.label>шкаф из серебра</VFEPD_SilverCupboard.label>
+  <VFEPD_SilverCupboard.description>Пустой большой шкаф.</VFEPD_SilverCupboard.description>
+  <VFEPD_WoodenCupboard.label>шкаф из дерева</VFEPD_WoodenCupboard.label>
+  <VFEPD_WoodenCupboard.description>Пустой большой шкаф.</VFEPD_WoodenCupboard.description>
+
+  <VFEPD_SteelCupboardDouble.label>двойной шкаф из стали</VFEPD_SteelCupboardDouble.label>
+  <VFEPD_SteelCupboardDouble.description>Пустой большой двойной шкаф.</VFEPD_SteelCupboardDouble.description>
+  <VFEPD_PlasteelCupboardDouble.label>двойной шкаф из пластали</VFEPD_PlasteelCupboardDouble.label>
+  <VFEPD_PlasteelCupboardDouble.description>Пустой большой двойной шкаф.</VFEPD_PlasteelCupboardDouble.description>
+  <VFEPD_SilverCupboardDouble.label>двойной шкаф из серебра</VFEPD_SilverCupboardDouble.label>
+  <VFEPD_SilverCupboardDouble.description>Пустой большой двойной шкаф.</VFEPD_SilverCupboardDouble.description>
+  <VFEPD_WoodenCupboardDouble.label>двойной шкаф из дерева</VFEPD_WoodenCupboardDouble.label>
+  <VFEPD_WoodenCupboardDouble.description>Пустой большой двойной шкаф.</VFEPD_WoodenCupboardDouble.description>
+
+  <VFEPD_SteelCupboardPlates.label>шкаф с тарелками из стали</VFEPD_SteelCupboardPlates.label>
+  <VFEPD_SteelCupboardPlates.description>Пустой большой шкаф с тарелками.</VFEPD_SteelCupboardPlates.description>
+  <VFEPD_PlasteelCupboardPlates.label>шкаф с тарелками из пластали</VFEPD_PlasteelCupboardPlates.label>
+  <VFEPD_PlasteelCupboardPlates.description>Пустой большой шкаф с тарелками.</VFEPD_PlasteelCupboardPlates.description>
+  <VFEPD_SilverCupboardPlates.label>шкаф с тарелками из серебра</VFEPD_SilverCupboardPlates.label>
+  <VFEPD_SilverCupboardPlates.description>Пустой большой шкаф с тарелками.</VFEPD_SilverCupboardPlates.description>
+  <VFEPD_WoodenCupboardPlates.label>шкаф с тарелками из дерева</VFEPD_WoodenCupboardPlates.label>
+  <VFEPD_WoodenCupboardPlates.description>Пустой большой шкаф с тарелками.</VFEPD_WoodenCupboardPlates.description>
+
+  <VFEPD_SteelCupboardNarrow.label>узкий шкаф из стали</VFEPD_SteelCupboardNarrow.label>
+  <VFEPD_SteelCupboardNarrow.description>Большой узкий шкаф</VFEPD_SteelCupboardNarrow.description>
+  <VFEPD_PlasteelCupboardNarrow.label>узкий шкаф из пластали</VFEPD_PlasteelCupboardNarrow.label>
+  <VFEPD_PlasteelCupboardNarrow.description>Большой узкий шкаф</VFEPD_PlasteelCupboardNarrow.description>
+  <VFEPD_SilverCupboardNarrow.label>узкий шкаф из серебра</VFEPD_SilverCupboardNarrow.label>
+  <VFEPD_SilverCupboardNarrow.description>Большой узкий шкаф</VFEPD_SilverCupboardNarrow.description>
+  <VFEPD_WoodenCupboardNarrow.label>узкий шкаф из дерева</VFEPD_WoodenCupboardNarrow.label>
+  <VFEPD_WoodenCupboardNarrow.description>Большой узкий шкаф</VFEPD_WoodenCupboardNarrow.description>
+
+  <VFEPD_SteelTallCabinet.label>высокий шкаф из стали</VFEPD_SteelTallCabinet.label>
+  <VFEPD_SteelTallCabinet.description>Высокий пустой шкаф.</VFEPD_SteelTallCabinet.description>
+  <VFEPD_PlasteelTallCabinet.label>высокий шкаф из пластали</VFEPD_PlasteelTallCabinet.label>
+  <VFEPD_PlasteelTallCabinet.description>Высокий шкаф.</VFEPD_PlasteelTallCabinet.description>
+  <VFEPD_SilverTallCabinet.label>высокий шкаф из серебра</VFEPD_SilverTallCabinet.label>
+  <VFEPD_SilverTallCabinet.description>Высокий шкаф.</VFEPD_SilverTallCabinet.description>
+  <VFEPD_WoodenTallCabinet.label>высокий шкаф из дерева</VFEPD_WoodenTallCabinet.label>
+  <VFEPD_WoodenTallCabinet.description>Высокий шкаф.</VFEPD_WoodenTallCabinet.description>
+
+  <VFEPD_SteelShortCupboard.label>низкий шкаф из стали</VFEPD_SteelShortCupboard.label>
+  <VFEPD_SteelShortCupboard.description>Низкий пустой шкаф.</VFEPD_SteelShortCupboard.description>
+  <VFEPD_PlasteelShortCupboard.label>низкий шкаф из пластали</VFEPD_PlasteelShortCupboard.label>
+  <VFEPD_PlasteelShortCupboard.description>Низкий пустой шкаф.</VFEPD_PlasteelShortCupboard.description>
+  <VFEPD_SilverShortCupboard.label>низкий шкаф из серебра</VFEPD_SilverShortCupboard.label>
+  <VFEPD_SilverShortCupboard.description>Низкий пустой шкаф.</VFEPD_SilverShortCupboard.description>
+  <VFEPD_WoodenShortCupboard.label>низкий шкаф из дерева</VFEPD_WoodenShortCupboard.label>
+  <VFEPD_WoodenShortCupboard.description>Низкий пустой шкаф.</VFEPD_WoodenShortCupboard.description>
+
+  <VFEPD_SteelShortCupboardPlates.label>низкий шкаф с тарелками из стали</VFEPD_SteelShortCupboardPlates.label>
+  <VFEPD_SteelShortCupboardPlates.description>Низкий шкаф с тарелками.</VFEPD_SteelShortCupboardPlates.description>
+  <VFEPD_PlasteelShortCupboardPlates.label>низкий шкаф с тарелками из пластали</VFEPD_PlasteelShortCupboardPlates.label>
+  <VFEPD_PlasteelShortCupboardPlates.description>Низкий шкаф с тарелками.</VFEPD_PlasteelShortCupboardPlates.description>
+  <VFEPD_SilverShortCupboardPlates.label>низкий шкаф с тарелками из серебра</VFEPD_SilverShortCupboardPlates.label>
+  <VFEPD_SilverShortCupboardPlates.description>Низкий шкаф с тарелками.</VFEPD_SilverShortCupboardPlates.description>
+  <VFEPD_WoodenShortCupboardPlates.label>низкий шкаф с тарелками из дерева</VFEPD_WoodenShortCupboardPlates.label>
+  <VFEPD_WoodenShortCupboardPlates.description>Низкий шкаф с тарелками.</VFEPD_WoodenShortCupboardPlates.description>
+
+  <VFEPD_Desk.label>письменный стол</VFEPD_Desk.label>
+  <VFEPD_Desk.description>Большой письменный стол.</VFEPD_Desk.description>
+  <VFEPD_CoffeeTable.label>кофейный столик (2x1)</VFEPD_CoffeeTable.label>
+  <VFEPD_CoffeeTable.description>Кофейный столик.</VFEPD_CoffeeTable.description>
+  <VFEPD_CoffeeTableSmall.label>кофейный столик (1x1)</VFEPD_CoffeeTableSmall.label>
+  <VFEPD_CoffeeTableSmall.description>Небольшой журнальный столик.</VFEPD_CoffeeTableSmall.description>
+  
+  <VFEPD_SteelDivider.label>ширма из стали</VFEPD_SteelDivider.label>
+  <VFEPD_SteelDivider.description>Высокая непроходимая перегородка.</VFEPD_SteelDivider.description>
+  <VFEPD_PlasteelDivider.label>ширма из пластали</VFEPD_PlasteelDivider.label>
+  <VFEPD_PlasteelDivider.description>Высокая непроходимая перегородка.</VFEPD_PlasteelDivider.description>
+  <VFEPD_SilverDivider.label>ширма из серебра</VFEPD_SilverDivider.label>
+  <VFEPD_SilverDivider.description>Высокая непроходимая перегородка.</VFEPD_SilverDivider.description>
+  <VFEPD_WoodenDivider.label>ширма из дерева</VFEPD_WoodenDivider.label>
+  <VFEPD_WoodenDivider.description>Высокая непроходимая перегородка.</VFEPD_WoodenDivider.description>
+
+  <VFEPD_SteelPlankDivider.label>перегородка из стали</VFEPD_SteelPlankDivider.label>
+  <VFEPD_SteelPlankDivider.description>Высокая непроходимая перегородка.</VFEPD_SteelPlankDivider.description>
+  <VFEPD_PlasteelPlankDivider.label>перегородка из пластали</VFEPD_PlasteelPlankDivider.label>
+  <VFEPD_PlasteelPlankDivider.description>Высокая непроходимая перегородка.</VFEPD_PlasteelPlankDivider.description>
+  <VFEPD_SilverPlankDivider.label>перегородка из серебра</VFEPD_SilverPlankDivider.label>
+  <VFEPD_SilverPlankDivider.description>Высокая непроходимая перегородка.</VFEPD_SilverPlankDivider.description>
+  <VFEPD_WoodenPlankDivider.label>перегородка из дерева</VFEPD_WoodenPlankDivider.label>
+  <VFEPD_WoodenPlankDivider.description>Высокая непроходимая перегородка.</VFEPD_WoodenPlankDivider.description>
+
+  <VFEPD_SteelMirror.label>зеркало из стали</VFEPD_SteelMirror.label>
+  <VFEPD_SteelMirror.description>Напольное зеркало.</VFEPD_SteelMirror.description>
+  <VFEPD_PlasteelMirror.label>зеркало из пластали</VFEPD_PlasteelMirror.label>
+  <VFEPD_PlasteelMirror.description>Напольное зеркало.</VFEPD_PlasteelMirror.description>
+  <VFEPD_SilverMirror.label>зеркало из серебра</VFEPD_SilverMirror.label>
+  <VFEPD_SilverMirror.description>Напольное зеркало.</VFEPD_SilverMirror.description>
+  <VFEPD_WoodenMirror.label>зеркало из дерева</VFEPD_WoodenMirror.label>
+  <VFEPD_WoodenMirror.description>Напольное зеркало.</VFEPD_WoodenMirror.description>
+
+  <VFEPD_SteelVendingMachine.label>торговый автомат из стали</VFEPD_SteelVendingMachine.label>
+  <VFEPD_SteelVendingMachine.description>Неработающий торговый автомат.</VFEPD_SteelVendingMachine.description>
+  <VFEPD_PlasteelVendingMachine.label>торговый автомат из пластали</VFEPD_PlasteelVendingMachine.label>
+  <VFEPD_PlasteelVendingMachine.description>Неработающий торговый автомат.</VFEPD_PlasteelVendingMachine.description>
+  <VFEPD_SilverVendingMachine.label>торговый автомат из серебра</VFEPD_SilverVendingMachine.label>
+  <VFEPD_SilverVendingMachine.description>Неработающий торговый автомат.</VFEPD_SilverVendingMachine.description>
+  <VFEPD_WoodenVendingMachine.label>торговый автомат из дерева</VFEPD_WoodenVendingMachine.label>
+  <VFEPD_WoodenVendingMachine.description>Неработающий торговый автомат.</VFEPD_WoodenVendingMachine.description>
+
+  <VFEPD_WashingMachine.label>стиральная машина</VFEPD_WashingMachine.label>
+  <VFEPD_WashingMachine.description>Стиральная машина.</VFEPD_WashingMachine.description>
+  <VFEPD_WarehouseShelfEmpty.label>стеллаж</VFEPD_WarehouseShelfEmpty.label>
+  <VFEPD_WarehouseShelfEmpty.description>Непроходимая пустая складская полка.</VFEPD_WarehouseShelfEmpty.description>
+  <VFEPD_WarehouseShelfBoxes.label>стеллаж с ящиками</VFEPD_WarehouseShelfBoxes.label>
+  <VFEPD_WarehouseShelfBoxes.description>Непроходимая складская полка с ящиками.</VFEPD_WarehouseShelfBoxes.description>
+ 
+</LanguageData>
+

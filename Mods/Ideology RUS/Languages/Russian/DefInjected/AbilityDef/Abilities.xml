@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Animal calm -->
+  <AnimalCalm.label>Угомонить животное</AnimalCalm.label>
+  <!-- EN: Use unique methods of connecting with animals to calm a maddened beast. -->
+  <AnimalCalm.description>Используйте уникальные методы общения с животными, чтобы успокоить обезумевшего зверя.</AnimalCalm.description>
+  <!-- EN: <x>{INITIATOR_labelShort} </x>successfully calmed<x> {RECIPIENT_labelShort}</x>. -->
+  <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>{INITIATOR_labelShort} успешно успокоен {RECIPIENT_labelShort}.</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
+  
+  <!-- EN: berserk trance -->
+  <BerserkTrance.label>транс берсерка</BerserkTrance.label>
+  <!-- EN: The caster fills himself with anger over ideological grievances. This strengthens the body past normal limits, but also means losing control and attacking every enemy nearby in an unstoppable rage. The berserk state will last for 3 hours. -->
+  <BerserkTrance.description>Заклинатель наполняет себя гневом из-за идеологических обид. Это укрепляет тело сверх нормальных пределов, но также означает потерю контроля и атаку на каждого врага поблизости в неудержимой ярости. Состояние берсерка продлится 3 часа.</BerserkTrance.description>
+  
+  <!-- EN: combat command -->
+  <CombatCommand.label>строевой приказ</CombatCommand.label>
+  <!-- EN: Create an aura that boosts the combat skills of everyone nearby. The effect lasts 24 hours and remains attached to the leader for the duration. -->
+  <CombatCommand.description>Создает ауру, которая повышает боевые навыки всех, кто находится поблизости. Эффект длится 24 часа и остается привязанным к лидеру в течение всего времени.</CombatCommand.description>
+  
+  <!-- EN: conversion ritual -->
+  <ConversionRitual.label>ритуал обращения</ConversionRitual.label>
+  <!-- EN: Try to persuade someone to adopt your beliefs. If it goes well, they will lose some certainty in their ideoligion and may convert. If it backfires, they will gain certainty in their old beliefs.\n\nTo start this ritual at a specific place, select a ritual spot or matching altar/ideogram. -->
+  <ConversionRitual.description>Попытайтесь убедить кого-нибудь принять ваши убеждения. Если все пойдет хорошо, они потеряют некоторую уверенность в своей идеологии и могут обратиться. Если это приведет к обратным результатам, они обретут уверенность в своих старых убеждениях.\n\Чтобы начать этот ритуал в определенном месте, выберите ритуальное место или соответствующий алтарь/идеограмму.</ConversionRitual.description>
+  
+  <!-- EN: convert -->
+  <Convert.label>обращение</Convert.label>
+  <!-- EN: Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability. -->
+  <Convert.description>Попытайтесь обратить кого-то в идеологию говорящего. Это снизит уверенность цели в его собственных убеждениях. Снижение уверенности зависит от способности говорящего вести переговоры.</Convert.description>
+  <!-- EN: <x>{INITIATOR_labelShort} </x>failed to convert<x> {RECIPIENT_labelShort}</x>.<x> {RECIPIENT_labelShort}</x> was upset by the attempt, but<x> {RECIPIENT_possessive} </x>certainty fell from<x> {CERTAINTYBEFORE} </x>to<x> {CERTAINTYAFTER}</x>. -->
+  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} не удалось обратить {RECIPIENT_labelShort}. {RECIPIENT_labelShort} {RECIPIENT_gender ? был расстроен : была расстроена} этой попыткой, но {RECIPIENT_possessive} уверенность упала с {CERTAINTYBEFORE} до {CERTAINTYAFTER}.</Convert.comps.CompAbilityEffect_Convert.failMessage>
+  <!-- EN: <x>{INITIATOR_labelShort} </x>has converted<x> {RECIPIENT_labelShort} </x>to<x> {IDEO}</x>. -->
+  <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} {INITIATOR_gender ? обратил : обратила} {RECIPIENT_labelShort} в {IDEO}.</Convert.comps.CompAbilityEffect_Convert.successMessage>
+  
+  <!-- EN: Counsel -->
+  <Counsel.label>Психотерапия</Counsel.label>
+  <!-- EN: Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speaker's social skills and their relationship with the listener. -->
+  <Counsel.description>Предложите человеку психотерапию, чтобы отменить эффект печального воспоминания. Шансы на успех зависят от социальных навыков говорящего и его отношений со слушателем.</Counsel.description>
+  <!-- EN: <x>{INITIATOR_labelShort} </x>botched the attempt to counsel<x> {RECIPIENT_labelShort}</x>.<x> {RECIPIENT_labelShort}</x> has become upset. -->
+  <Counsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort} неудачно {INITIATOR_gender ? попытался : попыталась} проконсультировать {RECIPIENT_labelShort}. {RECIPIENT_labelShort} {RECIPIENT_gender ? расстроился : расстроилась}.</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
+  <!-- EN: <x>{INITIATOR_labelShort} </x>successfully counselled<x> {RECIPIENT_labelShort}</x>, canceling the mood impact of<x> {2}</x>. -->
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort} успешно {INITIATOR_gender ? проконсультировал : проконсультировала} {RECIPIENT_labelShort}, отменяя влияние {2} на настроение.</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
+  <!-- EN: <x>{INITIATOR_labelShort} </x>successfully counselled<x> {RECIPIENT_labelShort}</x>, increasing<x> {RECIPIENT_possessive} </x>mood by<x> {MOODBONUS}</x>. -->
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort} успешно {INITIATOR_gender ? проконсультировал : проконсультировала} {RECIPIENT_labelShort}, повышая {RECIPIENT_possessive} настроение на {MOODBONUS}.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+  
+  <!-- EN: farming command -->
+  <FarmingCommand.label>аграрный приказ</FarmingCommand.label>
+  <!-- EN: Offer guidance on farming techniques, boosting the farming abilities for everyone nearby. The effect remains attached to the caster for 24 hours. -->
+  <FarmingCommand.description>Предложите рекомендации по методам ведения сельского хозяйства, повышая возможности ведения сельского хозяйства для всех, кто находится поблизости. Эффект остается прикрепленным к заклинателю на 24 часа.</FarmingCommand.description>
+  
+  <!-- EN: Immunity drive -->
+  <ImmunityDrive.label>Укрепление иммунитета</ImmunityDrive.label>
+  <!-- EN: Offer moral support that energizes the body, boosting someone's immunity gain for one day. -->
+  <ImmunityDrive.description>Предложите моральную поддержку, которая заряжает организм энергией, повышая чей-то иммунитет на один день.</ImmunityDrive.description>
+  
+  <!-- EN: leader speech -->
+  <LeaderSpeech.label>выступление лидера</LeaderSpeech.label>
+  <!-- EN: Initiate a leader speech. If it goes well, listeners will gain improved mood, respect for the speaker, and possibly new inspirations. If it goes poorly, social damage will occur. -->
+  <LeaderSpeech.description>Начните выступление лидера. Если все пройдет хорошо, у слушателей улучшится настроение, появится уважение к оратору и, возможно, новое вдохновение. Если все пойдет плохо, произойдет социальный упадок.</LeaderSpeech.description>
+  
+  <!-- EN: marksman command -->
+  <MarksmanCommand.label>стрелковый приказ</MarksmanCommand.label>
+  <!-- EN: Call out shots and boost the shooting skills of everyone nearby. The effect remains attached to the caster for 24 hours. -->
+  <MarksmanCommand.description>Командуйте и повышайте навыки стрельбы у всех, кто находится поблизости. Эффект остается прикрепленным к заклинателю на 24 часа.</MarksmanCommand.description>
+  
+  <!-- EN: mining command -->
+  <MiningCommand.label>шахтерский приказ</MiningCommand.label>
+  <!-- EN: Offer guidance on mining techniques, boosting the mining speed for everyone nearby. The effect remains attached to the caster for 24 hours. -->
+  <MiningCommand.description>Предложите рекомендации по методам добычи полезных ископаемых, повысив скорость добычи для всех, кто находится поблизости. Эффект остается прикрепленным к заклинателю на 24 часа.</MiningCommand.description>
+  
+  <!-- EN: preach health -->
+  <PreachHealth.label>проповедь здоровья</PreachHealth.label>
+  <!-- EN: Preach moral strength to a sick or wounded person through the concepts of your ideology. This will improve their rate of wound healing and immunity gain. -->
+  <PreachHealth.description>Проповедуйте моральную силу больному или раненому человеку с помощью концепций вашей идеологии. Это улучшит их скорость заживления ран и укрепит иммунитет.</PreachHealth.description>
+  
+  <!-- EN: production command -->
+  <ProductionCommand.label>производственный приказ</ProductionCommand.label>
+  <!-- EN: Offer guidance on construction techniques, boosting construction and crafting abilities for everyone nearby. The effect remains attached to the caster for 24 hours. -->
+  <ProductionCommand.description>Предложите рекомендации по методам строительства, повышая строительные и ремесленные способности для всех, кто находится поблизости. Эффект остается прикрепленным к заклинателю на 24 часа.</ProductionCommand.description>
+  
+  <!-- EN: reassure -->
+  <Reassure.label>убеждение</Reassure.label>
+  <!-- EN: Increase someone's certainty in their own beliefs. The regained certainty is based on the speaker's negotiation ability. -->
+  <Reassure.description>Повысьте чью-то уверенность в собственных убеждениях. Обретенная уверенность основана на способности говорящего вести переговоры.</Reassure.description>
+  <!-- EN: <x>{INITIATOR_labelShort} </x>has reassured<x> {RECIPIENT_labelShort}</x>, increasing<x> {RECIPIENT_possessive} </x>certainty in<x> {IDEO} </x>from<x> {BEFORECERTAINTY} </x>to<x> {AFTERCERTAINTY}</x>. -->
+  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort} {INITIATOR_gender ? успокоил : успокоила} {RECIPIENT_labelShort}, повысив {RECIPIENT_possessive} уверенность в {IDEO} с {BEFORECERTAINTY} до {AFTERCERTAINTY}.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
+  
+  <!-- EN: research command -->
+  <ResearchCommand.label>научный приказ</ResearchCommand.label>
+  <!-- EN: Provide suggestions and mental support, boosting the research speed of everyone nearby. The effect remains attached to the caster for 24 hours. -->
+  <ResearchCommand.description>Вносите предложения и мысленную поддержку, повышая скорость исследований всех, кто находится поблизости. Эффект остается прикрепленным к заклинателю на 24 часа.</ResearchCommand.description>
+  
+  <!-- EN: trial -->
+  <Trial.label>суд</Trial.label>
+  <!-- EN: Charge someone with a terrible wrongdoing and initiate a trial where they will be either convicted or exonerated. If the target is convicted, they can be freely imprisoned, executed or banished without penalty. The chance of conviction depends on the social abilities of the accuser and accused. -->
+  <Trial.description>Обвините кого-то в ужасном проступке и инициируйте судебное разбирательство, в ходе которого он будет либо осужден, либо оправдан. Если объект осужден, он может быть свободно заключен в тюрьму, казнен или выслан без наказания. Вероятность осуждения зависит от социальных способностей обвинителя и обвиняемого.</Trial.description>
+  
+  <!-- EN: work drive -->
+  <WorkDrive.label>заряд работоспособности</WorkDrive.label>
+  <!-- EN: Call on a person to work harder for some time. -->
+  <WorkDrive.description>Призовите человека какое-то время работать усерднее.</WorkDrive.description>
+  
+</LanguageData>

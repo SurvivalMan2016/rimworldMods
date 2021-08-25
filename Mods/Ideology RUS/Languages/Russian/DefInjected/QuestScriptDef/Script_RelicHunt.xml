@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->You've learned that a relic of [ideo_name] is nearby.\n\nThe [relic_name] is an ancient object venerated by all [ideo_memberNamePlural]. If you could collect it, you could build a great reliquary to make [ideo_memberNamePlural] happy, attract wealthy pilgrims, and bring more people to [ideo_name].</li>
+  -->
+  <RelicHunt.questDescriptionRules.rulesStrings>
+	<li>questDescription->Вы узнали, что рядом находится реликвия [ideo_name].\n\n[relic_name] - древний объект, почитаемый всеми [ideo_memberNamePlural]. Если бы вы могли собрать его, вы могли бы построить великий реликварий, чтобы сделать [ideo_memberNamePlural] счастливым, привлечь богатых паломников и привлечь больше людей в [ideo_name].</li>
+  </RelicHunt.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The [hunt] for the [item]</li>
+    <li>questName->The [item] of [ideo_name]</li>
+    <li>questName->The [itemAdj] [item]</li>
+    <li>hunt->hunt</li>
+    <li>hunt->search</li>
+    <li>hunt->quest</li>
+    <li>item(p=4)->[relic_name]</li>
+    <li>item->relic</li>
+    <li>item->artifact</li>
+    <li>itemAdj->ancient</li>
+    <li>itemAdj->revered</li>
+    <li>itemAdj->venerated</li>
+  -->
+  <RelicHunt.questNameRules.rulesStrings>
+	<li>questName->[hunt] [item]</li>
+    <li>questName->[item] of [ideo_name]</li>
+    <li>questName->[itemAdj] [item]</li>
+    <li>hunt->Охота за</li>
+    <li>hunt->Исследование</li>
+    <li>hunt->Поиск</li>
+    <li>item(p=4)->[relic_name]</li>
+    <li>item->Реликвия</li>
+    <li>item->Артефакт</li>
+    <li>itemAdj->Древний</li>
+    <li>itemAdj->Уважаемый</li>
+    <li>itemAdj->Почитаемый</li>
+  </RelicHunt.questNameRules.rulesStrings>
+  
+</LanguageData>

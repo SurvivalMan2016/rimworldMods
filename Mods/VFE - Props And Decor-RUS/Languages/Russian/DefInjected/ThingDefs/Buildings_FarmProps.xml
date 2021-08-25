@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+  <VFEPD_FoodBox.label>пустые коробки для еды</VFEPD_FoodBox.label>
+  <VFEPD_FoodBox.description>Стопка пустых ящиков для еды.</VFEPD_FoodBox.description>
+  <VFEPD_HayBaleLarge.label>большой стог сена</VFEPD_HayBaleLarge.label>
+  <VFEPD_HayBaleLarge.description>Большой рулон сена.</VFEPD_HayBaleLarge.description>
+  <VFEPD_HayBaleMedium.label>средний стог сена</VFEPD_HayBaleMedium.label>
+  <VFEPD_HayBaleMedium.description>Средний тюк сена.</VFEPD_HayBaleMedium.description>
+  <VFEPD_HayBaleSmall.label>маленький стог сена</VFEPD_HayBaleSmall.label>
+  <VFEPD_HayBaleSmall.description>Маленький стог сена.</VFEPD_HayBaleSmall.description>
+  <VFEPD_Hedge.label>живая изгородь</VFEPD_Hedge.label>
+  <VFEPD_Hedge.description>Естественная изгородь.</VFEPD_Hedge.description>
+  <VFEPD_WoodenLogs.label>деревянные бревна</VFEPD_WoodenLogs.label>
+  <VFEPD_WoodenLogs.description>Небольшая проходимая стопка деревянных бревен.</VFEPD_WoodenLogs.description>
+  <VFEPD_WoodenLogsLarge.label>большие деревянные бревна</VFEPD_WoodenLogsLarge.label>
+  <VFEPD_WoodenLogsLarge.description>Большая непроходимая куча деревянных бревен.</VFEPD_WoodenLogsLarge.description>
+  <VFEPD_WoodenWagon.label>деревянная повозка</VFEPD_WoodenWagon.label>
+  <VFEPD_WoodenWagon.description>Большая повозка для перевозки грузов.</VFEPD_WoodenWagon.description> 
+
+</LanguageData>

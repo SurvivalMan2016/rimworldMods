@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- -Beagle- -->
+
+  <AEXP_Beagle.label>бигль</AEXP_Beagle.label>
+  <AEXP_Beagle.description>Небольшая гончая была выведена в основном для охоты на зайцев. Интеллект и преданностью бигля делают его ценным товарищем на охоте.</AEXP_Beagle.description>
+  <AEXP_Beagle.tools.0.label>левая лапа</AEXP_Beagle.tools.0.label>
+  <AEXP_Beagle.tools.1.label>правая лапа</AEXP_Beagle.tools.1.label>
+  <AEXP_Beagle.tools.2.label>зубы</AEXP_Beagle.tools.2.label>
+  <AEXP_Beagle.tools.3.label>голова</AEXP_Beagle.tools.3.label>
+  <AEXP_Beagle.race.meatLabel>собачатина</AEXP_Beagle.race.meatLabel>
+
+
+  <!-- -Chihuahua- -->
+
+  <AEXP_Chihuahua.label>чихуахуа</AEXP_Chihuahua.label>
+  <AEXP_Chihuahua.description>Самая маленькая собака, чуть больше крысы. Еще в древности они считались реинкарнациями разных божеств и по сей день считаются священными.</AEXP_Chihuahua.description>
+  <AEXP_Chihuahua.tools.0.label>левая лапа</AEXP_Chihuahua.tools.0.label>
+  <AEXP_Chihuahua.tools.1.label>правая лапа</AEXP_Chihuahua.tools.1.label>
+  <AEXP_Chihuahua.tools.2.label>зубки</AEXP_Chihuahua.tools.2.label>
+  <AEXP_Chihuahua.tools.3.label>голова</AEXP_Chihuahua.tools.3.label>
+
+
+  <!-- -Corgi- -->
+
+  <AEXP_Corgi.label>корги</AEXP_Corgi.label>
+  <AEXP_Corgi.description>Корги, которые исторически использовались для выпаса скота, быстро стали популярными в имперских мирах и признаны символом королевской власти.</AEXP_Corgi.description>
+  <AEXP_Corgi.tools.0.label>левая лапа</AEXP_Corgi.tools.0.label>
+  <AEXP_Corgi.tools.1.label>правая лапа</AEXP_Corgi.tools.1.label>
+  <AEXP_Corgi.tools.2.label>зубы</AEXP_Corgi.tools.2.label>
+  <AEXP_Corgi.tools.3.label>голова</AEXP_Corgi.tools.3.label>
+
+
+  <!-- -FrenchBulldog- -->
+
+  <AEXP_FrenchBulldog.label>франзузский бульдог</AEXP_FrenchBulldog.label>
+  <AEXP_FrenchBulldog.description>Первоначально использовавшиеся для травли быков - развлечения, в котором одних животных натравливают на других - эти бульдоги являются яростными противниками и из-за своего небольшого размера они быстры, проворны и смертоносны.</AEXP_FrenchBulldog.description>
+  <AEXP_FrenchBulldog.tools.0.label>левая лапа</AEXP_FrenchBulldog.tools.0.label>
+  <AEXP_FrenchBulldog.tools.1.label>правая лапа</AEXP_FrenchBulldog.tools.1.label>
+  <AEXP_FrenchBulldog.tools.2.label>зубы</AEXP_FrenchBulldog.tools.2.label>
+  <AEXP_FrenchBulldog.tools.3.label>голова</AEXP_FrenchBulldog.tools.3.label>
+
+  <!-- GermanShepherd -->
+
+  <AEXP_GermanShepherd.label>немецкая овчарка</AEXP_GermanShepherd.label>
+  <AEXP_GermanShepherd.description>Большая рабочая собака. Их легко обучить и они хорошо следуют инструкциям. Их часто можно увидеть сопровождающих полицию высокоразвитых миров, а также фермеров захолустья.</AEXP_GermanShepherd.description>
+  <AEXP_GermanShepherd.tools.0.label>левая лапа</AEXP_GermanShepherd.tools.0.label>
+  <AEXP_GermanShepherd.tools.1.label>правая лапа</AEXP_GermanShepherd.tools.1.label>
+  <AEXP_GermanShepherd.tools.2.label>зубы</AEXP_GermanShepherd.tools.2.label>
+  <AEXP_GermanShepherd.tools.3.label>голова</AEXP_GermanShepherd.tools.3.label>
+
+
+  <!-- -GreatDane- -->
+
+  <AEXP_GreatDane.label>датский дог</AEXP_GreatDane.label>
+  <AEXP_GreatDane.description>Датские доги - один из самых крупных видов собак, они величественны, элегантны и сильны.</AEXP_GreatDane.description>
+  <AEXP_GreatDane.tools.0.label>левая лапа</AEXP_GreatDane.tools.0.label>
+  <AEXP_GreatDane.tools.1.label>правая лапа</AEXP_GreatDane.tools.1.label>
+  <AEXP_GreatDane.tools.2.label>зубы</AEXP_GreatDane.tools.2.label>
+  <AEXP_GreatDane.tools.3.label>голова</AEXP_GreatDane.tools.3.label>
+
+
+  <!-- -Poodle- -->
+
+  <AEXP_Poodle.label>пудель</AEXP_Poodle.label>
+  <AEXP_Poodle.description>Большие, избалованные собаки, исторически используемые для охоты на птиц. В настоящее время они в основном проживают в императорских дворцах и королевских садах.</AEXP_Poodle.description>
+  <AEXP_Poodle.tools.0.label>левая лапа</AEXP_Poodle.tools.0.label>
+  <AEXP_Poodle.tools.1.label>правая лапа</AEXP_Poodle.tools.1.label>
+  <AEXP_Poodle.tools.2.label>зубы</AEXP_Poodle.tools.2.label>
+  <AEXP_Poodle.tools.3.label>голова</AEXP_Poodle.tools.3.label>
+
+
+  <!-- -Pug- -->
+
+  <AEXP_Pug.label>мопс</AEXP_Pug.label>
+  <AEXP_Pug.description>Маленькая собака с характерными чертами - морщинистой короткой мордочкой и завитым хвостом. Они известны своей чрезвычайной общительностью и дружелюбием, однако из-за множественных генетических изменений у них очень короткая продолжительность жизни. Но сколько бы они ни жили - мопсы всегда поднимают настроение окружающим.</AEXP_Pug.description>
+  <AEXP_Pug.tools.0.label>левая лапа</AEXP_Pug.tools.0.label>
+  <AEXP_Pug.tools.1.label>правая лапа</AEXP_Pug.tools.1.label>
+  <AEXP_Pug.tools.2.label>зубки</AEXP_Pug.tools.2.label>
+  <AEXP_Pug.tools.3.label>голова</AEXP_Pug.tools.3.label>
+
+
+  <!-- Rottweiler -->
+
+  <AEXP_Rottweiler.label>ротвейлер</AEXP_Rottweiler.label>
+  <AEXP_Rottweiler.description>Крупная домашняя собака и одна из старейших пастушьих пород. Будучи одной из самых трудолюбивых собак, это идельные компаньоны для фермеров и скотоводов.</AEXP_Rottweiler.description>
+  <AEXP_Rottweiler.tools.0.label>левая лапа</AEXP_Rottweiler.tools.0.label>
+  <AEXP_Rottweiler.tools.1.label>правая лапа</AEXP_Rottweiler.tools.1.label>
+  <AEXP_Rottweiler.tools.2.label>зубы</AEXP_Rottweiler.tools.2.label>
+  <AEXP_Rottweiler.tools.3.label>голова</AEXP_Rottweiler.tools.3.label>
+
+
+  <!-- -Shih-Tzu- -->
+
+  <AEXP_Shih-Tzu.label>ши-тцу</AEXP_Shih-Tzu.label>
+  <AEXP_Shih-Tzu.description>У ши-тцу, восточных игрушечных собак, очень длинная и мягкая шерсть. Хотя они и не приносят пользы, людям нравится гладить их.</AEXP_Shih-Tzu.description>
+  <AEXP_Shih-Tzu.tools.0.label>левая лапа</AEXP_Shih-Tzu.tools.0.label>
+  <AEXP_Shih-Tzu.tools.1.label>правая лапа</AEXP_Shih-Tzu.tools.1.label>
+  <AEXP_Shih-Tzu.tools.2.label>зубки</AEXP_Shih-Tzu.tools.2.label>
+  <AEXP_Shih-Tzu.tools.3.label>голова</AEXP_Shih-Tzu.tools.3.label>
+
+
+  <!-- WelshTerrier -->
+
+  <AEXP_WelshTerrier.label>вельштерьер</AEXP_WelshTerrier.label>
+  <AEXP_WelshTerrier.description>Охотничьи собаки, вельштерьеры, идеально подходят для ловли мелких грызунов, лисиц и барсуков. Благодаря своему интеллекту они отлично умеют находить дорогу и всегда могут вернуться домой после того, как сбежали в лес.</AEXP_WelshTerrier.description>
+  <AEXP_WelshTerrier.tools.0.label>левая лапа</AEXP_WelshTerrier.tools.0.label>
+  <AEXP_WelshTerrier.tools.1.label>правая лапа</AEXP_WelshTerrier.tools.1.label>
+  <AEXP_WelshTerrier.tools.2.label>зубы</AEXP_WelshTerrier.tools.2.label>
+  <AEXP_WelshTerrier.tools.3.label>голова</AEXP_WelshTerrier.tools.3.label>
+
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Leader of different ideoligion -->
+  <IdeoLeaderResentmentAbhorrent.label>Лидер другой идеологии</IdeoLeaderResentmentAbhorrent.label>
+  <!-- EN: To accept direction from a<x> {0} </x>is utterly shameful and abhorrent. -->
+  <IdeoLeaderResentmentAbhorrent.stages.0.description>Принимать указания от {0} совершенно постыдно и отвратительно.</IdeoLeaderResentmentAbhorrent.stages.0.description>
+  
+  <!-- EN: Leader of different ideoligion -->
+  <IdeoLeaderResentmentDisapproved.label>Лидер другой идеологии</IdeoLeaderResentmentDisapproved.label>
+  <!-- EN: It's insulting to be ordered around by a<x> {0}</x>. -->
+  <IdeoLeaderResentmentDisapproved.stages.0.description>Оскорбительно, когда тобой командует {0}.</IdeoLeaderResentmentDisapproved.stages.0.description>
+  
+  <!-- EN: Leader of different ideoligion -->
+  <IdeoLeaderResentmentHorrible.label>Лидер другой идеологии</IdeoLeaderResentmentHorrible.label>
+  <!-- EN: It's shameful to be ordered around by a<x> {0}</x>! -->
+  <IdeoLeaderResentmentHorrible.stages.0.description>Стыдно, когда тобой командует {0}!</IdeoLeaderResentmentHorrible.stages.0.description>
+  
+  <!-- EN: Leader of different ideoligion -->
+  <IdeoLeaderResentmentStandard.label>Лидер другой идеологии</IdeoLeaderResentmentStandard.label>
+  <!-- EN: I don't like having a<x> {0} </x>as a leader. -->
+  <IdeoLeaderResentmentStandard.stages.0.description>Мне не нравится {0} в качестве лидера.</IdeoLeaderResentmentStandard.stages.0.description>
+  
+  <!-- EN: Want<x> {ROLE_label} </x>apparel -->
+  <IdeoRoleApparelRequirementNotMet.stages.Want_apparel.label>Хочет {ROLE_label} одежду</IdeoRoleApparelRequirementNotMet.stages.Want_apparel.label>
+  <!-- EN: I want to wear apparel appropriate for my role as<x> {ROLE_labelDef}</x> -->
+  <IdeoRoleApparelRequirementNotMet.stages.Want_apparel.description>Я хочу носить одежду, соответствующую моей роли {ROLE_labelDef}</IdeoRoleApparelRequirementNotMet.stages.Want_apparel.description>
+  
+  <!-- EN: No<x> {ROLE_label}</x> -->
+  <IdeoRoleEmpty.stages.No.label>Нет {ROLE_label}</IdeoRoleEmpty.stages.No.label>
+  <!-- EN: <x>{0}</x>s must have<x> {ROLE_labelIndef}</x>! -->
+  <IdeoRoleEmpty.stages.No.description>{0} должен быть {ROLE_labelIndef}!</IdeoRoleEmpty.stages.No.description>
+  
+  <!-- EN: Lost<x> {ROLE_label} </x>role -->
+  <IdeoRoleLost.stages.Lost_role.label>Потеряна роль {ROLE_label} </IdeoRoleLost.stages.Lost_role.label>
+  <!-- EN: I lost my role as<x> {ROLE_labelDef}</x>. -->
+  <IdeoRoleLost.stages.Lost_role.description>Я больше не {ROLE_labelDef}.</IdeoRoleLost.stages.Lost_role.description>
+  
+</LanguageData>

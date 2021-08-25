@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAECaves_BlindSalamander.label>слепая саламандра</VAECaves_BlindSalamander.label>
+  <VAECaves_BlindSalamander.description>Амфибия, которая в основном или исключительно обитает в пещерах. У некоторых из этих животных развились особые пигментные мутации, благодаря которым они приобретают красивые цвета, на которые приятно смотреть. Многие люди очарованы различными вариациями их цвета и не остановятся ни перед чем, чтобы поймать их всех.\n\nСпециальная механика: существует пять цветовых вариаций окраски с разными общими чертами: обычные красные и черные слепые саламандры, редкие синие и желтые, а также неуловимая оранжевая саламандра. Если вы приручите саламандр всех пяти цветов, ваши колонисты получат бонус к настроению, который будет больше для колонистов, к которым саламандры привязались.</VAECaves_BlindSalamander.description>
+  <VAECaves_BlindSalamander.tools.0.label>левая лапа</VAECaves_BlindSalamander.tools.0.label>
+  <VAECaves_BlindSalamander.tools.1.label>правая лапа</VAECaves_BlindSalamander.tools.1.label>
+  <VAECaves_BlindSalamander.tools.3.label>голова</VAECaves_BlindSalamander.tools.3.label>
+
+
+</LanguageData>

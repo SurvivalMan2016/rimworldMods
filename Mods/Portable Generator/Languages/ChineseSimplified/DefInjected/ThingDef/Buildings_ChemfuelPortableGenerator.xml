@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ChemfuelPortableGenerator.label>便携式发电机</ChemfuelPortableGenerator.label>
+  <ChemfuelPortableGenerator.description>通过消耗化学燃料产生动力。必须定期手工加油。由于体积小，它的效率较低，需要更经常地补充燃料。</ChemfuelPortableGenerator.description>
+  
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Salamander -->
+
+  <VAECaves_EggSalamanderFertilized.label>яйцо слепой саламандры (опл.)</VAECaves_EggSalamanderFertilized.label>
+  <VAECaves_EggSalamanderFertilized.description>Оплодотворенное яйцо слепой саламандры. Если все пойдет хорошо, из него вылупится детеныш слепой саламандры. Его можно съесть сырым, но гораздо лучше приготовить.\n\nСпециальная механика: яйца слепых саламандр очень хрупки и испортятся, если хранить их вне узкого температурного диапазона (5 to 25 ºC).</VAECaves_EggSalamanderFertilized.description>
+
+
+  <!-- Cave Crawler Egg -->
+
+  <VAECaves_CaveCrawlerEggFertilized.label>яйцо пещерного падальщика (опл.)</VAECaves_CaveCrawlerEggFertilized.label>
+  <VAECaves_CaveCrawlerEggFertilized.description>Оплодотворенное яйцо пещерного падальщика. Его можно съесть сырым, но гораздо лучше приготовить. Вообще-то это яйцо насекомого и оно довольно омерзительно... Если все пойдет хорошо, из него вылупится личинка пещерного падальщика.</VAECaves_CaveCrawlerEggFertilized.description>
+
+
+</LanguageData>

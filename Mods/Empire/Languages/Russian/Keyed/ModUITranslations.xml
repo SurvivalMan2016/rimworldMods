@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TheSettlement>Поселение</TheSettlement>
+  <HasBeenFormed> было сформировано</HasBeenFormed>
+  <PlayerColony>Колония Игрока</PlayerColony>
+
+
+  <!-- billFC Class -->
+  <NotEnoughSilverForBill>У вас не хватило серебра, чтобы оплатить неоплаченный счет от</NotEnoughSilverForBill>
+  <ConfiscatedTithes>В ответ они конфисковали ваши товары</ConfiscatedTithes>
+
+  <!-- billWindowFC -->
+  <OutstandingBills>Неоплаченные счета</OutstandingBills>
+  <Name>Имя</Name>
+  <!--<Source>Source</Source>-->
+  <DueDate>Срок</DueDate>
+  <Amount>Колличество</Amount>
+  <HasTithe>Товары</HasTithe>
+  <PayReceiveSilver>Оплата/получение серебра</PayReceiveSilver>
+  <ResolveBill>Отправить сборщика</ResolveBill>
+  <NotEnoughSilverOnMapToPayBill>У вас не хватает серебра на текущей карте, чтобы оплатить счет.</NotEnoughSilverOnMapToPayBill>
+
+  <!-- Manual defense -->
+  <DefendColony>Защитить</DefendColony>
+  <DefendColonyDesc>Защищайте свои расчеты вручную</DefendColonyDesc>
+
+  <!-- createColonyWindowFC -->
+  <SettleANewColony>Новая колония</SettleANewColony>
+  <TravelTime>Время в пути</TravelTime>
+  <InitialCost>Начальная стоимость</InitialCost>
+  <Silver>Серебро</Silver>
+  <BaseProductionStats>Базовые производственные показатели</BaseProductionStats>
+  <Base>Базовый</Base>
+  <Modifier>Модификатор</Modifier>
+  <Final>Финально</Final>
+  <Settle>Установить</Settle>
+  <CaravanOnWay>Караван уже в пути</CaravanOnWay>
+  <CaravanSentToLocation>На место отправлен караван! Они прибудут через</CaravanSentToLocation>
+  <NotEnoughSilverToSettle>У вас недостаточно серебра на текущей карте, чтобы заселить новую колонию.</NotEnoughSilverToSettle>
+
+  <!-- descWindowFC -->
+  <!--<Description>Description</Description>-->
+
+  <!-- eventWindowFC -->
+  <CurrentOngoingEvents>Текущие события</CurrentOngoingEvents>
+  <!--<Location>Location</Location>-->
+  <TimeRemaining>Оставшееся время</TimeRemaining>
+  <NewLand>Новая земля</NewLand>
+
+  <!--factionCustomizeWindowFC -->
+  <CustomizeFaction>Настроить фракцию</CustomizeFaction>
+  <FactionName>Название фракции</FactionName>
+  <FactionTitle>Фракционное название</FactionTitle>
+  <FactionIcon>Значок фракции</FactionIcon>
+  <InvalidFaction>Эта фракция не может управлять империей в одиночку!</InvalidFaction>
+  <ButtonNotAvailable>Эта кнопка пока недоступна</ButtonNotAvailable>
+  <ConfirmChanges>Подтвердить изменения</ConfirmChanges>
+
+  <!-- FactionFC -->
+  <PlayerFaction>Фракция игрока</PlayerFaction>
+  <Bastion>Бастион</Bastion>
+  <Food>Еда</Food>
+  <Weapons>Оружие</Weapons>
+  <!--<Apparel>Apparel</Apparel>-->
+  <Animals>Животные</Animals>
+  <Logging>Дрова</Logging>
+  <Mining>Добыча</Mining>
+  <Researching>Изучение</Researching>
+  <PolicyAlreadyEnacted>Эта политика уже принята</PolicyAlreadyEnacted>
+  <NotEnoughMoneyToEnact>У вас не хватает серебра на текущей карте, чтобы принять эту политику.</NotEnoughMoneyToEnact>
+  <AlreadyPolicyTypeBeingEnacted>Подобная политика уже проводится в жизнь.</AlreadyPolicyTypeBeingEnacted>
+  <AlreadyPolicyInSlot>В этом отделении уже проводится политика.</AlreadyPolicyInSlot>
+  <SettlementTax>Расчетный налог</SettlementTax>
+  <WeekOf>неделя</WeekOf>
+  <TaxesBilled>Налоги выставлены</TaxesBilled>
+  <NoSettlementsToTax>Нет расчетов по налогам</NoSettlementsToTax>
+  <CouldNotFindMapOfCapital>Не смог найти карту столицы</CouldNotFindMapOfCapital>
+  <ResearchGeneratedWaste>Исследовательские баллы, полученные вашей фракцией, были потрачены впустую, так как вы не выбрали исследования.</ResearchGeneratedWaste>
+
+  <!-- FCevent -->
+  <TaxesFrom>Налоги от</TaxesFrom>
+  <HaveBeenDelivered>доставлены</HaveBeenDelivered>
+  <HasBeenConstructedAt>был построен при</HasBeenConstructedAt>
+  <HasBeenEnactedAt>был введён в действие</HasBeenEnactedAt>
+  <EnactedInYourFaction>было введено в действие в вашей фракции</EnactedInYourFaction>
+
+  <!-- listBuildingFC -->
+  <ConstructBuilding>Строить здание</ConstructBuilding>
+  <Cost>Стоимость</Cost>
+  <Effect>Эффект</Effect>
+  <Construct>Построить</Construct>
+  <Info>Информация</Info>
+  <Built>Построен</Built>
+  <Destroy>Уничтожить</Destroy>
+  <Build>Построить</Build>
+  <WillBeConstructedIn>будет построено в</WillBeConstructedIn>
+
+  <!-- listFactionPolicyFC -->
+  <Enact>Принять решение</Enact>
+  <Enacted>Принято</Enacted>
+  <Repeal>Отклонено</Repeal>
+  <WillBeEnactedIn>будет введён в действие</WillBeEnactedIn>
+
+  <!-- listSettlementPolicyFC -->
+  <EnactPolicy>Установить политику</EnactPolicy>
+
+  <!-- listThingFC -->
+  <TitheList>Список товаров</TitheList>
+  <StackCount>Подсчёт запасов</StackCount>
+  <!--<MarketValue>Market Value</MarketValue>-->
+  <FCTotalValue>Общая стоимость</FCTotalValue>
+  <CashSymbol>$</CashSymbol>
+
+  <!-- MainTabWindow_Colony -->
+  <SettlementManager>Менеджер поселений</SettlementManager>
+  <CreateNewColony>Создать новую колонию</CreateNewColony>
+  <SelectTile>Выберите плитку для создания колонии</SelectTile>
+  <SetAsFactionCapital>{0} был установлен в качестве столицы фракции</SetAsFactionCapital>
+  <NoFactionForMilitary>Вы не можете создать армию без фракции!</NoFactionForMilitary>
+  <!--<Faction>Faction</Faction>-->
+  <Colonies>Колонии</Colonies>
+  <Bills>Налоги</Bills>
+  <Events>События</Events>
+  <Settlement>Поселение</Settlement>
+  <Settlements>Поселения</Settlements>
+  <ColonyLevel>Уровень колонии</ColonyLevel>
+  <MilitaryLevel>Mil уровень</MilitaryLevel>
+  <Unrest>Беспорядки</Unrest>
+  <Profit>Прибыль</Profit>
+  <Loyalty>Лояльность</Loyalty>
+  <TotalProduction>Общее производство</TotalProduction>
+  <FactionHappiness>Счастье фракции</FactionHappiness>
+  <FactionLoyalty>Лояльность фракции</FactionLoyalty>
+  <FactionUnrest>Беспорядки фракции</FactionUnrest>
+  <FactionProsperity>Процветание фракции</FactionProsperity>
+
+  <FactionHappinessDesc>Мера общего счастья фракции. Высокий уровень счастья означает, что любой внутренний конфликт в поселении будет склоняться в вашу пользу.</FactionHappinessDesc>
+  <FactionLoyaltyDesc>Мера общей лояльности фракции. Лояльность поселения определяет, насколько оно готово прислушиваться к вам. Высокая лояльность снижает вероятность дезертирства.</FactionLoyaltyDesc>
+  <FactionUnrestDesc>Мера общего волнения фракции. Чем выше уровень волнения, тем больше вероятность возникновения опасных событий внутри вашей фракции. Если этот показатель вырастет слишком высоко, может разрастись восстание в масштабах всей фракции.</FactionUnrestDesc>
+  <FactionProsperityDesc>Показатель общего процветания фракции. Процветание города напрямую зависит от производства ресурсов. 50% процветания = 50% производства. Если процветание понизилось, оно будет медленно накапливаться с течением времени.</FactionProsperityDesc>
+  <Policies-Traits>Политики/Черты</Policies-Traits>
+  <TaxReports>Налоговые отчеты</TaxReports>
+  <TotalFactionProduction>Общее производство ресурса в масштабах всей фракции</TotalFactionProduction>
+  <EstimatedProfit>Расчетная прибыль</EstimatedProfit>
+  <TimeTillTax>Время до налога</TimeTillTax>
+
+  <!-- settlementCustomizationWindowFC -->
+  <CustomizeSettlement>Настроить поселение</CustomizeSettlement>
+  <SettlementName>Имя поселения</SettlementName>
+
+  <Hamlet>селение </Hamlet>
+  <BuildingAlreadyType>Уже есть здание такого типа</BuildingAlreadyType>
+  <NotEnoughSilverConstructBuilding>У вас недостаточно серебра на текущей карте, чтобы построить это здание</NotEnoughSilverConstructBuilding>
+  <BuildingBeingBuiltAlreadyType>Тут уже строится здание такого типа.</BuildingBeingBuiltAlreadyType>
+  <BuildingAlreadyConstructed>Тут уже строится здание</BuildingAlreadyConstructed>
+  <!-- WorldSettlementFC -->
+  <SettlementUnderAttack>Это поселение находится под угрозой</SettlementUnderAttack>
+  <EndingAttack>Завершение атаки...</EndingAttack>
+  <ErrorEndingAttack>Ошибка завершения атаки</ErrorEndingAttack>
+  <ErrorEndingAttackDescription>Возникла проблема с завершением атаки. Скорее всего, карта была удалена неправильно. Пожалуйста, сообщите об этом разработчику, если вы не получили своих колонистов, отправленных для ответной защиты, или ваши военные не выходят из режима ожидания.</ErrorEndingAttackDescription>
+
+  <!-- SettlementUpgradeWindowFC -->
+  <UpgradeSettlement>Улучшение поселения</UpgradeSettlement>
+  <CanBeUpgraded>может быть модернизирован для</CanBeUpgraded>
+  <UpgradeColonyDesc>Модернизация этой колонии увеличит максимальное количество рабочих за базовую стоимость на 3 рабочих. Военный уровень этой колонии также увеличится на 1.</UpgradeColonyDesc>
+  <HasBeenUpgraded>был повышен до уровня</HasBeenUpgraded>
+  <AlreadyMaxLevel>уже имеет максимальный уровень</AlreadyMaxLevel>
+  <NotEnoughSilverUpgrade>На текущей карте не хватает серебра, чтобы оплатить улучшение поселения.</NotEnoughSilverUpgrade>
+  <CannotBeUpgradedPastMax>Это поселение не может быть улучшено до максимального уровня</CannotBeUpgradedPastMax>
+
+
+  <!-- SettlementWindowFC -->
+  <TownLog>Городсокй журнал</TownLog>
+  <UpgradeTown>Улучшить город</UpgradeTown>
+  <GoToLocation>Перейти к месту</GoToLocation>
+  <AssignedWorkers>Назначенные рабочие</AssignedWorkers>
+  <IsTithe>Товары</IsTithe>
+  <ProductionEfficiency>Эффективность производства</ProductionEfficiency>
+  <SettlementProductionOf>Общая расчетная добыча ресурса</SettlementProductionOf>
+  <Workers>Рабочие</Workers>
+  <Located>Расположен в</Located>
+  <LandOf>земля одного из</LandOf>
+
+  <SettlementMilitaryLevel>Военный уровень поселения</SettlementMilitaryLevel>
+  <SettlementHappiness>Счастье поселения</SettlementHappiness>
+  <SettlementLoyalty>Лояльность поселения</SettlementLoyalty>
+  <SettlementUnrest>Беспорядки поселения</SettlementUnrest>
+  <SettlementProsperity>Процветание поселения</SettlementProsperity>
+
+  <SettlementMilitaryLevelDesc>Показатель военного уровня поселений. Военный уровень города напрямую влияет на способность города защищаться, а также атаковать внешние угрозы.</SettlementMilitaryLevelDesc>
+  <SettlementHappinessDesc>Мера общего счастья поселения. Высокий уровень счастья означает, что любой внутренний конфликт в поселении будет склоняться в вашу пользу.</SettlementHappinessDesc>
+  <SettlementLoyaltyDesc>Мера общей лояльности поселения. Лояльность поселения определяет, насколько охотно поселение прислушивается к вам. Высокая лояльность снижает вероятность дезертирства.</SettlementLoyaltyDesc>
+  <SettlementUnrestDesc>Мера общего уровня беспорядков в поселении. Чем выше уровень беспорядков, тем больше вероятность возникновения опасных событий внутри вашего поселения. Если этот показатель будет слишком высоким, может разрастись восстание в масштабах всего поселения.</SettlementUnrestDesc>
+  <SettlementProsperityDesc>Мера общего процветания поселения. Процветание города напрямую зависит от производства ресурсов. 50% процветания = 50% производства. Если процветание повреждено, оно будет медленно накапливаться с течением времени.</SettlementProsperityDesc>
+  <BuildingUpgrades>Улучшения здания</BuildingUpgrades>
+  <AddedInFuture>Это будет дополнено в будущем</AddedInFuture>
+  <Production>Производство</Production>
+  <TaxBase>Налоговая база</TaxBase>
+  <Total>Всего</Total>
+  <Income>Доход</Income>
+  <Upkeep>Содержание</Upkeep>
+  <CostPerWorker>Стоимость на одного работника</CostPerWorker>
+
+  <!--MilitaryCustomizationWindowFC-->
+  <ExportedUnit>Экспортная единица</ExportedUnit>
+  <ExportedSquad>Экспортный отряд</ExportedSquad>
+  <!-- taxReportFactionWindowFC -->
+  <FactionTaxReports>Отчеты по налогам фракций</FactionTaxReports>
+  <Date>Дата</Date>
+  <Tithe>Продукция</Tithe>
+  <!--<Value>Value</Value>-->
+  <View>Посмотреть</View>
+
+
+  <!-- taxWindowFC -->
+  <SettlementTaxCollection>Сбор налога с расчетов</SettlementTaxCollection>
+  <Report>Доклад</Report>
+  <Reports>Доклады</Reports>
+  <GoTo>Перейти к</GoTo>
+  <EstimatedValue>Основное значение</EstimatedValue>
+
+  <!-- settlementWindowFC -->
+  <DeleteSettlement>Удалить поселение</DeleteSettlement>
+  <AreYouSureRemove>Вы уверены?</AreYouSureRemove>
+  <SettlementRemoved>Поселение {0} было удалено.</SettlementRemoved>
+
+
+  <!-- traitWindowFC -->
+  <FactionPoliciesAndTraits>Фракционные политики и черты</FactionPoliciesAndTraits>
+  <TaxLaw>Налоговое право</TaxLaw>
+  <SocialPolicy>Социальная политика</SocialPolicy>
+  <MilitaryPolicy>Военная политика</MilitaryPolicy>
+  <FactionTraits>Черты фракции</FactionTraits>
+  <AddTrait>Добавить черту</AddTrait>
+
+  <!-- overview -->
+  <FCBuildRoads>Строить дороги</FCBuildRoads>
+
+  <!-- ManageExports -->
+  <FCImport>Импорт</FCImport>
+  <FCImported>Импортировано {0}</FCImported>
+  <FCDeleted>Удалено {0}</FCDeleted>
+
+</LanguageData>

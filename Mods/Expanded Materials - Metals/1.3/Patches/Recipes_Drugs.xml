@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef [defName = "GoJuice"] /costList</xpath>
+		<value>
+			<costList>
+			  <Neutroamine>2</Neutroamine>
+			  <VMEu_Lithium>1</VMEu_Lithium>
+			  <Yayo>1</Yayo>
+			</costList>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef [defName = "WakeUp"] /costList</xpath>
+		<value>
+			<costList>
+			  <Neutroamine>2</Neutroamine>
+			  <VMEu_Lithium>2</VMEu_Lithium>
+			</costList>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef [defName = "Shell_HighExplosive"] /costList</xpath>
+		<value>
+			<costList>
+			  <Steel>20</Steel>
+			  <VMEu_Tungsten>5</VMEu_Tungsten>
+			  <Chemfuel>15</Chemfuel>
+			</costList>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef [defName = "Shell_EMP"] /costList</xpath>
+		<value>
+			<costList>
+			  <Steel>25</Steel>
+			  <VMEu_Lithium>10</VMEu_Lithium>
+			</costList>
+		</value>
+	</Operation>
+	
+</Patch>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RGrower -->
+
+  <AndroidSheep.label>Единица фитомайниг</AndroidSheep.label>
+  <AndroidSheep.labelPlural>Единицы фитомайниг</AndroidSheep.labelPlural>
+  <AndroidSheep.labelMale>Единица фитомайниг самец</AndroidSheep.labelMale>
+  <AndroidSheep.labelMalePlural>Единицы фитомайниг самцы</AndroidSheep.labelMalePlural>
+  <AndroidSheep.labelFemale>Единица фитомайниг самка</AndroidSheep.labelFemale>
+  <AndroidSheep.labelFemalePlural>Единицы фитомайниг самки</AndroidSheep.labelFemalePlural>
+
+
+  <!-- RMilker -->
+
+  <AndroidCow.label>N.Solution</AndroidCow.label>
+  <AndroidCow.labelPlural>N.Solution</AndroidCow.labelPlural>
+  <AndroidCow.labelMale>N.Solution самец</AndroidCow.labelMale>
+  <AndroidCow.labelMalePlural>N.Solution самцы</AndroidCow.labelMalePlural>
+  <AndroidCow.labelFemale>N.Solution самка</AndroidCow.labelFemale>
+  <AndroidCow.labelFemalePlural>N.Solution самки</AndroidCow.labelFemalePlural>
+
+</LanguageData>

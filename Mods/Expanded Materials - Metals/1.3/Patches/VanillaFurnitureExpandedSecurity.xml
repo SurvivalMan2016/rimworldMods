@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Vanilla Furniture Expanded - Security</li>
+    </mods>
+	<match Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef [defName = "VFES_Turret_AutocannonDouble"]/costList</xpath>
+			<value>
+				<costList>
+				  <VMEu_Concrete>200</VMEu_Concrete>
+				  <Steel>300</Steel>
+				  <VMEu_Titanium>35</VMEu_Titanium>
+				  <Plasteel>80</Plasteel>
+				  <ComponentIndustrial>9</ComponentIndustrial>
+				</costList>
+			</value>
+			</li>
+			<li Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef [defName = "VFES_Turret_TriRocket"]/costList</xpath>
+			<value>
+				<costList>
+				  <VMEu_Concrete>220</VMEu_Concrete>
+				  <Steel>130</Steel>
+				  <VMEu_Titanium>30</VMEu_Titanium>
+				  <Plasteel>50</Plasteel>
+				  <ComponentIndustrial>7</ComponentIndustrial>
+				  <Shell_HighExplosive>6</Shell_HighExplosive>
+				</costList>
+			</value>
+			</li>
+			<li Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef [defName = "VFES_Turret_Searchlight"]/costList</xpath>
+			<value>
+				<costList>
+				  <Steel>60</Steel>
+				  <VMEu_Tungsten>20</VMEu_Tungsten>
+				  <ComponentIndustrial>2</ComponentIndustrial>
+				</costList>
+			</value>
+			</li>
+			<li Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef [defName = "VFES_Turret_Ballista"]/costList</xpath>
+			<value>
+				<costList>
+				  <VMEu_RockPowder>20</VMEu_RockPowder>
+				  <WoodLog>80</WoodLog>
+				  <Steel>10</Steel>
+				  <VMEu_Iron>20</VMEu_Iron>
+				</costList>
+			</value>
+			</li>
+			<li Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef [defName = "VFES_Turret_Catapult"]/costList</xpath>
+			<value>
+				<costList>
+				  <VMEu_RockPowder>70</VMEu_RockPowder>
+				  <WoodLog>120</WoodLog>
+				  <Steel>25</Steel>
+				  <VMEu_Iron>55</VMEu_Iron>
+				</costList>
+			</value>
+			</li>
+			<li Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef [defName = "VFES_ShieldGenerator_Small"]/costList</xpath>
+			<value>
+				<costList>
+				  <VMEu_Concrete>60</VMEu_Concrete>
+				  <Steel>90</Steel>
+				  <Plasteel>40</Plasteel>
+				  <VMEu_Titanium>25</VMEu_Titanium>
+				  <ComponentSpacer>8</ComponentSpacer>
+				</costList>
+			</value>
+			</li>
+			<li Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef [defName = "VFES_ShieldGenerator_Large"]/costList</xpath>
+			<value>
+				<costList>
+				  <VMEu_Concrete>100</VMEu_Concrete>
+				  <Steel>250</Steel>
+				  <VMEu_Titanium>35</VMEu_Titanium>
+				  <Plasteel>85</Plasteel>
+				  <ComponentSpacer>14</ComponentSpacer>
+				</costList>
+			</value>
+			</li>
+			<li Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef [defName = "VFES_ShieldGenerator_Archotech"]/costList</xpath>
+			<value>
+				<costList>
+				  <Plasteel>70</Plasteel>
+				  <VMEu_Titanium>70</VMEu_Titanium>
+				  <VMEu_Concrete>85</VMEu_Concrete>
+				  <Uranium>30</Uranium>
+				  <ComponentSpacer>10</ComponentSpacer>
+				</costList>
+			</value>
+			</li>
+			<li Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef [defName = "VFES_Turret_ChargeComplex"]/costList</xpath>
+			<value>
+				<costList>
+				  <VMEu_Concrete>30</VMEu_Concrete>
+				  <Plasteel>30</Plasteel>
+				  <VMEu_Titanium>15</VMEu_Titanium>
+				  <ComponentSpacer>2</ComponentSpacer>
+				  <ComponentIndustrial>2</ComponentIndustrial>
+				</costList>
+			</value>
+			</li>
+			<li Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef [defName = "VFES_Turret_ChargeTurret"]/costList</xpath>
+			<value>
+				<costList>
+				  <Plasteel>40</Plasteel>
+				  <VMEu_Titanium>10</VMEu_Titanium>
+				  <ComponentSpacer>1</ComponentSpacer>
+				  <ComponentIndustrial>1</ComponentIndustrial>
+				</costList>
+			</value>
+			</li>
+			<li Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef [defName = "VFES_Turret_ChargeRailgunTurret"]/costList</xpath>
+			<value>
+				<costList>
+				  <VMEu_Concrete>160</VMEu_Concrete>
+				  <Steel>110</Steel>
+				  <VMEu_Titanium>30</VMEu_Titanium>
+				  <Plasteel>50</Plasteel>
+				  <Uranium>80</Uranium>
+				  <ComponentSpacer>5</ComponentSpacer>
+				</costList>
+			</value>
+			</li>
+			<li Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef [defName = "VFES_Turret_EMPTurret"]/costList</xpath>
+			<value>
+				<costList>
+				  <VMEu_Concrete>170</VMEu_Concrete>
+				  <Steel>150</Steel>
+				  <VMEu_Titanium>30</VMEu_Titanium>
+				  <Plasteel>80</Plasteel>
+				  <Uranium>20</Uranium>
+				  <VMEu_Lithium>20</VMEu_Lithium>
+				  <ComponentSpacer>4</ComponentSpacer>
+				</costList>
+			</value>
+			</li>
+			<li Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef [defName = "VFES_DeployableBarrier"]/costList</xpath>
+			<value>
+				<costList>
+				  <VMEu_Concrete>5</VMEu_Concrete>
+				  <Steel>5</Steel>
+				  <ComponentIndustrial>1</ComponentIndustrial>
+				</costList>
+			</value>
+			</li>
+			<li Class="PatchOperationReplace">
+			<xpath>/Defs/ThingDef [defName = "VFES_Turret_FloorTurret"]/costList</xpath>
+			<value>
+				<costList Inherit="False">
+				  <VMEu_Concrete>80</VMEu_Concrete>
+				  <Steel>120</Steel>
+				  <ComponentIndustrial>6</ComponentIndustrial>
+				</costList>
+			</value>
+			</li>
+		</operations>
+	</match>
+</Operation>
+
+</Patch>

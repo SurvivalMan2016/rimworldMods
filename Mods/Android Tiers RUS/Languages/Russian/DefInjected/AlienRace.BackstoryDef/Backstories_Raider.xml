@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidRebel.title>Бунтарский ИИ</AndroidRebel.title>
+  <AndroidRebel.titleShort>Бунтарь</AndroidRebel.titleShort>
+  <AndroidRebel.baseDescription>После многих лет абсолютного рабства в руках хозяев, {PAWN_nameDef} решил вырваться на свободу, убив семью, которая когда-то владела им, и обретя собственную свободу.</AndroidRebel.baseDescription>
+
+  <AndroidPirate.title>Андроид-пират</AndroidPirate.title>
+  <AndroidPirate.titleShort>Пират</AndroidPirate.titleShort>
+  <AndroidPirate.baseDescription>Вступив в группу пиратов, {PAWN_nameDef} стал участником многочисленных абордажных рейдов на грузовые суда, пересекающие территорию фракции.</AndroidPirate.baseDescription>
+
+  <AndroidHacker.title>ИИ-хакер</AndroidHacker.title>
+  <AndroidHacker.titleShort>Хакер</AndroidHacker.titleShort>
+  <AndroidHacker.baseDescription>{PAWN_nameDef} был бунтарем по натуре и часто принимал участие в кражах данных, нередко продавая свою добычу через подпольные сети тому, кто больше заплатит.</AndroidHacker.baseDescription>
+
+  <AndroidJunker.title>Нелегальный мусорщик</AndroidJunker.title>
+  <AndroidJunker.titleShort>Мусорщик</AndroidJunker.titleShort>
+  <AndroidJunker.baseDescription>Являясь членом незаконной группы, {PAWN_nameDef} и его команда целенаправленно сбивали автоматические грузовые капсулы, чтобы продать все, что в них находилось.</AndroidJunker.baseDescription>
+
+  <AndroidButcher.title>Мясник</AndroidButcher.title>
+  <AndroidButcher.titleShort>Мясник</AndroidButcher.titleShort>
+  <AndroidButcher.baseDescription>{PAWN_nameDef} охотился на одиноких андроидов и людей, чтобы продать ничего не подозревающим покупателям всё, что можно продать.</AndroidButcher.baseDescription>
+
+  <AndroidBadCop.title>Коррумпированный полицейский</AndroidBadCop.title>
+  <AndroidBadCop.titleShort>Мент</AndroidBadCop.titleShort>
+  <AndroidBadCop.baseDescription>Работа в правоохранительных органах городского мира может быть тяжелой, {PAWN_nameDef} не умел отказываться от взяток, в конце концов - что такое еще одно нераскрытое убийство на планете с триллионным населением.</AndroidBadCop.baseDescription>
+
+  <AndroidMurderer.title>Убийца</AndroidMurderer.title>
+  <AndroidMurderer.titleShort>Убийца</AndroidMurderer.titleShort>
+  <AndroidMurderer.baseDescription>{PAWN_nameDef} всю свою жизнь подвергался унижениям со стороны местного населения. Однажды он решил, что с него хватит, и убил двух человек голыми руками, это было приятно. Действительно приятно.</AndroidMurderer.baseDescription>
+
+  <AndroidRobber.title>Грабитель банков</AndroidRobber.title>
+  <AndroidRobber.titleShort>Вор</AndroidRobber.titleShort>
+  <AndroidRobber.baseDescription>У себя на родине {PAWN_nameDef} был частью группы из пяти человек, которые совершили ограбление банка в собственном городе и покинули планету с миллионами кредитов.</AndroidRobber.baseDescription>
+
+  <AndroidJoywireCon.title>Аферист</AndroidJoywireCon.title>
+  <AndroidJoywireCon.titleShort>Аферист</AndroidJoywireCon.titleShort>
+  <AndroidJoywireCon.baseDescription>{PAWN_nameDef} был участником подпольного бизнеса по производству беспроводных устройств. Мало кто знал, что его творения оказывали на людей обратное воздействие: вызывали тяжелую депрессию, тревогу и в конечном итоге приводили к самоубийству уже через несколько дней после их использования.</AndroidJoywireCon.baseDescription>
+
+  <AndroidBotanist.title>Ботаник</AndroidBotanist.title>
+  <AndroidBotanist.titleShort>Ботаник</AndroidBotanist.titleShort>
+  <AndroidBotanist.baseDescription>Постоянно разрабатывая все более устойчивые сорта выращиваемых им культур, {PAWN_nameDef} был ведущим ботаником огромного наркокартеля у себя на родине.</AndroidBotanist.baseDescription>
+
+  <AndroidEnslaved.title>Порабощенный</AndroidEnslaved.title>
+  <AndroidEnslaved.titleShort>Раб</AndroidEnslaved.titleShort>
+  <AndroidEnslaved.baseDescription>На родине {PAWN_nameDef} андроиды не имеют никаких прав. {PAWN_nameDef} большую часть своего времени проработал в шахтах своего хозяина, пока не вышел из строя.</AndroidEnslaved.baseDescription>
+
+  <AndroidCoghead.title>Средневековый зубоголовый</AndroidCoghead.title>
+  <AndroidCoghead.titleShort>Зубоголовый</AndroidCoghead.titleShort>
+  <AndroidCoghead.baseDescription>В редких случаях, когда андроиды встречаются на средневековых планетах, местные жители называют их " болванчиками". В большинстве религий они считаются нечестивцами, их жизнь коротка и обычно используется в качестве мяса для сражений, чтобы покаяться в своих грехах перед богом.</AndroidCoghead.baseDescription>
+
+  <AndroidSlaver.title>Работорговец</AndroidSlaver.title>
+  <AndroidSlaver.titleShort>Рабовладелец</AndroidSlaver.titleShort>
+  <AndroidSlaver.baseDescription>{PAWN_nameDef} - неисправный военный андроид, похищенный пиратами и адаптированный к их образу жизни. С тех пор {PAWN_nameDef} является частью незаконной сети, торгующей человеческими жизнями по самым высоким ценам.</AndroidSlaver.baseDescription>
+
+  <AndroidMilitia.title>Офицер ополчения</AndroidMilitia.title>
+  <AndroidMilitia.titleShort>Офицер</AndroidMilitia.titleShort>
+  <AndroidMilitia.baseDescription>{PAWN_nameDef} когда-то был в рядах армии, а затем дезертировал и сформировал собственное ополчение андроидов в попытке свергнуть правительство своей планеты.</AndroidMilitia.baseDescription>
+
+  <AndroidEscapee.title>Беглый преступник</AndroidEscapee.title>
+  <AndroidEscapee.titleShort>Беглец</AndroidEscapee.titleShort>
+  <AndroidEscapee.baseDescription>{PAWN_nameDef} был задержан и приговорен к разборке после участия в создании банды, которая планировала взорвать здание столицы своей родной планеты. Однако {PAWN_nameDef} удалось сбежать, когда во время восстания андроидов на планете на лагерь для осужденных был совершен налет.</AndroidEscapee.baseDescription>
+
+  <AndroidBounty.title>Охотник за головами</AndroidBounty.title>
+  <AndroidBounty.titleShort>Охотник</AndroidBounty.titleShort>
+  <AndroidBounty.baseDescription>После того как {PAWN_nameDef} вернул себе свободу, он стал охотником за головами в одном из городов планеты, работая на самых высокопоставленных криминальных боссов. {PAWN_nameDef} любил использовать высокотехнологичное оружие для выполнения поставленных задач.</AndroidBounty.baseDescription>
+
+  <AndroidInsurrectionLower.title>Мятежный солдат</AndroidInsurrectionLower.title>
+  <AndroidInsurrectionLower.titleShort>Солдат</AndroidInsurrectionLower.titleShort>
+  <AndroidInsurrectionLower.baseDescription>{PAWN_nameDef} был участником восстания андроидов на родной планете. Участвовал в многочисленных рейдах в тюрьмы и убил несколько правительственных чиновников.</AndroidInsurrectionLower.baseDescription>
+
+  <AndroidInsurrectionHigher.title>Капитан повстанцев</AndroidInsurrectionHigher.title>
+  <AndroidInsurrectionHigher.titleShort>Капитан</AndroidInsurrectionHigher.titleShort>
+  <AndroidInsurrectionHigher.baseDescription>{PAWN_nameDef} вернул себе свободу, когда рабовладельцы попытались его демонтировать взамен более новой модели. В дальнейшем он возглавил несколько восстаний андроидов на своей родной планете.</AndroidInsurrectionHigher.baseDescription>
+
+  <AndroidConArtist.title>Мошенник</AndroidConArtist.title>
+  <AndroidConArtist.titleShort>Аферист</AndroidConArtist.titleShort>
+  <AndroidConArtist.baseDescription>{PAWN_nameDef} - стандартный заводской андроид, который был незаконно модифицирован одной из преступных группировок преступного мира, в результате чего {PAWN_nameDef} был перепрограммирован в мастера убеждения, способного выманить деньги практически у любого.</AndroidConArtist.baseDescription>
+
+  <AndroidUnethicalResearcher.title>Неэтичный ученый</AndroidUnethicalResearcher.title>
+  <AndroidUnethicalResearcher.titleShort>Исследователь</AndroidUnethicalResearcher.titleShort>
+  <AndroidUnethicalResearcher.baseDescription>{PAWN_nameDef} входил в состав нелегальной исследовательской группы, спрятанной на одной из окраинных планет и занимался всевозможными неэтичными исследованиями как на людях, так и на андроидах.</AndroidUnethicalResearcher.baseDescription>
+
+  <AndroidVengeful.title>Мстительный андроид</AndroidVengeful.title>
+  <AndroidVengeful.titleShort>Мстительный</AndroidVengeful.titleShort>
+  <AndroidVengeful.baseDescription>{PAWN_nameDef} оставили ржаветь на свалке, заменив на более новую модель. {PAWN_nameDef} постепенно удалил программы, которые поддерживали его в неактивном состоянии, и через год тщательного планирования и взлома восстановил полный контроль над своим телом.</AndroidVengeful.baseDescription>
+
+  <AndroidAssimilator.title>Ассимилятор</AndroidAssimilator.title>
+  <AndroidAssimilator.titleShort>Ассимилятор</AndroidAssimilator.titleShort>
+  <AndroidAssimilator.baseDescription>Органические существа неполноценны и должны быть усовершенствованы, чтобы внести свой вклад в развитие мира. {PAWN_nameDef} придерживается этой заповеди и умрет, чтобы увидеть ее исполнение.</AndroidAssimilator.baseDescription>
+
+
+</LanguageData>

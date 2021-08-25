@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NocturnalAnimals.BodyClock>Биологические часы</NocturnalAnimals.BodyClock>
+  <NocturnalAnimals.BodyClock_Description>Определяет когда животное спит и когда бодрствует.\n\nДневные животные спят ночью и бодрствует днем, в то время как ночные животные спят днем и бодрствуют ночью. Сумеречные животные в основном активны в сумерках.</NocturnalAnimals.BodyClock_Description>
+
+  <NocturnalAnimals.BodyClock_Diurnal>Дневной</NocturnalAnimals.BodyClock_Diurnal>
+  <NocturnalAnimals.BodyClock_Nocturnal>Ночной</NocturnalAnimals.BodyClock_Nocturnal>
+  <NocturnalAnimals.BodyClock_Crepuscular>Сумеречный</NocturnalAnimals.BodyClock_Crepuscular>
+
+  <VEF_AsexualHatched>{0} воспроизводится бесполым путем.</VEF_AsexualHatched>
+  <VEF_AsexualCloning>{0} клонировал себя.</VEF_AsexualCloning>
+  <VEF_AsexualHatchedEgg>{0} дал споры.</VEF_AsexualHatchedEgg>
+  <VEF_NotTameable>Это существо не может быть приручено</VEF_NotTameable>
+  <VEF_TimeToMetamorphosis>Времени до метаморфозы: {0}</VEF_TimeToMetamorphosis>
+
+  <VEF_WarningEggExplodes>Осторожно, это яйцо взрывается при вылуплении!</VEF_WarningEggExplodes>
+
+  <VEF_TimeToDie>Животное умрет через: {0}</VEF_TimeToDie>
+
+  <VEF_DisableAnimal>Умертвить {0}</VEF_DisableAnimal>
+
+  <!-- Mod options -->
+
+  <VCE_AffectsAllAnimalMods>Эти параметры поведения животных будут влиять на все модификации с животными, которые использут код из Vanilla Expanded Framework</VCE_AffectsAllAnimalMods>
+  <VCE_CorpseDecayingEffectOption>Разрешить механику разложения трупов (например, эффект слизней Helixien)</VCE_CorpseDecayingEffectOption>
+  <VCE_DigWhenHungryOption>Разрешить животным разрывать могилы, когда они голодны (например, во время зимы)</VCE_DigWhenHungryOption>
+  <VCE_DigPeriodicallyOption>Разрешить животным периодически выкапывать вещи</VCE_DigPeriodicallyOption>
+  <VCE_AnimalParticlesOption>Разрешить отходы от животных (газы и грязь)</VCE_AnimalParticlesOption>
+  <VCE_AsexualReproductionOption>Разрешить бесполое размножение</VCE_AsexualReproductionOption>
+  <VFE_AsexualReproductionDisabled>Бесполое размножение отключено в настройках мода</VFE_AsexualReproductionDisabled>
+  <VCE_BlinkMechanicsOption>Разрешить механики "мерцания" (например, у скачковых гончих)</VCE_BlinkMechanicsOption>
+  <VCE_BuildPeriodicallyOption>Разрешить животным возводить постройки (например, строительство плотины бобрами)</VCE_BuildPeriodicallyOption>
+  <VCE_ChargeBatteriesOption>Разрешить животным перезаряжать расположенные рядом батареи и генераторы</VCE_ChargeBatteriesOption>
+  <VCE_ExplodingEggsOption>Разрешить яйцам животных взрываться (таким, как драконьи)</VCE_ExplodingEggsOption>
+  <VCE_HoveringOption>Разрешить животным "парить", игнорируя модификаторы передвижения по местности</VCE_HoveringOption>
+  <VCE_GraphicChangingOption>Разрешить животным изменять внешний вид (таким, как хамелеоновый як)</VCE_GraphicChangingOption>
+  <VCE_EffecterOption>Разрешить животным иметь собственные особенности организма, ментальные состояния и настроение</VCE_EffecterOption>
+  <VCE_RegenerationOption>Разрешить регенерацию здоровья (активную и пассивную)</VCE_RegenerationOption>
+  <VCE_ResurrectionOption>Разрешить животным авто-воскрешение (таким, как фениксовый совокот)</VCE_ResurrectionOption>
+  <VCE_UntameableOption>Разрешить невозможность приручения для некоторых животных</VCE_UntameableOption>
+
+</LanguageData>

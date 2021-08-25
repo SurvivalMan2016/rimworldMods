@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_InsertSyrupDesc>Выбрать сироп</VBE_InsertSyrupDesc>
+  <VBE_StartInsertion>Загрузить сироп</VBE_StartInsertion>
+  <VBE_StartInsertionDesc>Загрузить сироп в содовую машину для начала приготовления.</VBE_StartInsertionDesc>
+  <VBE_CancelBringingSyrup>Отменить загрузку сиропа</VBE_CancelBringingSyrup>
+  <VBE_CancelBringingSyrupDesc>Отменить загрузку сиропа в содовую машину.</VBE_CancelBringingSyrupDesc>
+  <VBE_SyrupFailurePower>Содовая испортилась из-за отключения содовой машины от сети.</VBE_SyrupFailurePower>
+
+  <VBE_InsertAmbMustDesc>Выбрать сусло</VBE_InsertAmbMustDesc>
+  <VBE_StartInsertionAmbMust>Загрузить сусло</VBE_StartInsertionAmbMust>
+  <VBE_StartInsertionAmbMustDesc>Загрузить амбрендивое сусло в винокурню амбренди, чтобы начать ферментацию.</VBE_StartInsertionAmbMustDesc>
+  <VBE_CancelBringingAmbMust>Отменить загрузку сусла</VBE_CancelBringingAmbMust>
+  <VBE_CancelBringingAmbMustDesc>Отменить загрузку амбрендивого сусла в винокурню амбренди.</VBE_CancelBringingAmbMustDesc>
+  <VBE_AmbrandyFailurePower>Амбренди испортилось из-за отключения винокурни от сети.</VBE_AmbrandyFailurePower>
+  <VBE_RemoveAmbrandy>Забрать амбренди ({0})</VBE_RemoveAmbrandy>
+  <VBE_RemoveAmbrandyDesc>Забрать амбренди из винокурни. Получится амбренди с качеством ({0})</VBE_RemoveAmbrandyDesc>
+
+  <VBE_InsertMustOrWhiskeyDesc>Выбрать сусло или виски</VBE_InsertMustOrWhiskeyDesc>
+  <VBE_StartInsertionMustOrWhiskey>Загрузить сусло или виски</VBE_StartInsertionMustOrWhiskey>
+  <VBE_StartInsertionMustOrWhiskeyDesc>Загрузить висковое сусло бочку для виски, чтобы начать ферментацию. Или добавить туда виски, чтобы начать процесс двойной выдержки.</VBE_StartInsertionMustOrWhiskeyDesc>
+  <VBE_CancelBringingMustOrWhiskey>Отменить загрузку сусла или виски</VBE_CancelBringingMustOrWhiskey>
+  <VBE_CancelBringingAmbMustDesc>Отменить загрузку сусла или виски в бочку для виски.</VBE_CancelBringingAmbMustDesc>
+
+  <VBE_InsertTequilaMustDesc>Выбрать сусло</VBE_InsertTequilaMustDesc>
+  <VBE_StartInsertionTequilaMust>Загрузить сусло</VBE_StartInsertionTequilaMust>
+  <VBE_StartInsertionTequilaMustDesc>Загрузить текиловое сусло в бочку для текилы, чтобы начать ферментацию.</VBE_StartInsertionTequilaMustDesc>
+  <VBE_CancelBringingTequilaMust>Отменить загрузку сусла</VBE_CancelBringingTequilaMust>
+  <VBE_CancelBringingTequilaMustDesc>Отменить загрузку текиловое сусло в бочку для текилы.</VBE_CancelBringingTequilaMustDesc>
+
+  <VBE_InsertVodkaMustDesc>Выбрать сусло</VBE_InsertVodkaMustDesc>
+  <VBE_StartInsertionVodkaMust>Загрузить сусло</VBE_StartInsertionVodkaMust>
+  <VBE_StartInsertionVodkaMustDesc>Загрузить водочное сусло в самогонный аппарат, чтобы начать ферментацию.</VBE_StartInsertionVodkaMustDesc>
+  <VBE_CancelBringingVodkaMust>Отменить загрузку сусла</VBE_CancelBringingVodkaMust>
+  <VBE_CancelBringingVodkaMustDesc>Отменить загрузку водочного сусла в самогонный аппарат.</VBE_CancelBringingVodkaMustDesc>
+
+  <VBE_InsertGinMushDesc>Выбрать сусло</VBE_InsertGinMushDesc>
+  <VBE_StartInsertionGinMush>Загрузить сусло</VBE_StartInsertionGinMush>
+  <VBE_StartInsertionGinMushDesc>Загрузить джиновое сусло в дистилятор джина чтобы начать процесс ферментации.</VBE_StartInsertionGinMushDesc>
+  <VBE_CancelBringingGinMush>Отменить загрузку сусла</VBE_CancelBringingGinMush>
+  <VBE_CancelBringingGinMushDesc>Отменить загрузку джинового сусла в дистилятор джина.</VBE_CancelBringingGinMushDesc>
+
+
+  <VBE_MushRipening>Созревание сусла</VBE_MushRipening>
+  <VBE_MushCurrentlyFrozen>Это сусло заморожено и будет созревать в амбрендивое сусло</VBE_MushCurrentlyFrozen>
+  <VBE_MushCurrentlyRefrigerated>Это сусло охлаждено и не будет созревать в амбрендивое сусло так быстро, как могло бы (созреет за {0})</VBE_MushCurrentlyRefrigerated>
+  <VBE_MushDryingCorrectly>Это сусло по всем правилам созревает в амбрендиевое сусло (созреет за {0})</VBE_MushDryingCorrectly>
+
+  <VBE_CiderMaturing>Созревание сидра</VBE_CiderMaturing>
+  <VBE_CiderCurrentlyFrozen>Этот неферментированный сидр заморожен и не превратиться в сидр</VBE_CiderCurrentlyFrozen>
+  <VBE_CiderCurrentlyRefrigerated>Этот неферментированный сидр охлажден и не превратится в сидр так быстро, как мог бы (созреет за {0})</VBE_CiderCurrentlyRefrigerated>
+  <VBE_CiderMaturingCorrectly>Этот неферментированный сидр созревает по всем правилам (созреет за {0})</VBE_CiderMaturingCorrectly>
+
+</LanguageData>

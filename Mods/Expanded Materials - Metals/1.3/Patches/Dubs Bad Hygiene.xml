@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<!-- Dubs Bad Hygiene -->
+<Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Dubs Bad Hygiene</li>
+    </mods>
+	<match Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "airPipe"]/costList</xpath>
+				<value>
+					<costList>
+					  <VMEu_Copper>1</VMEu_Copper>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "BurnPit"]/costList</xpath>
+				<value>
+					<costList>
+					  <VMEu_RockPowder>20</VMEu_RockPowder>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "Fountain"]/costList</xpath>
+				<value>
+					<costList>
+					  <VMEu_Lead>5</VMEu_Lead>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "BasinStuff"]/costList</xpath>
+				<value>
+					<costList>
+					  <VMEu_Lead>5</VMEu_Lead>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "KitchenSink"]/costList</xpath>
+				<value>
+					<costList>
+					  <VMEu_Lead>15</VMEu_Lead>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "ToiletStuff"]/costList</xpath>
+				<value>
+					<costList>
+					  <VMEu_Lead>5</VMEu_Lead>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "BathtubStuff"]/costList</xpath>
+				<value>
+					<costList>
+					  <VMEu_Lead>5</VMEu_Lead>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "ShowerStuff"]/costList</xpath>
+				<value>
+					<costList>
+					  <VMEu_Lead>5</VMEu_Lead>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "ShowerSimple"]/costList</xpath>
+				<value>
+					<costList>
+					  <VMEu_Lead>10</VMEu_Lead>
+					  <Steel>5</Steel>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "DeepWaterWellInlet"]/costList</xpath>
+				<value>
+					<costList>
+					  <Steel>80</Steel>
+					  <VMEu_Lead>20</VMEu_Lead>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "WaterTowerS"]/costList</xpath>
+				<value>
+					<costList>
+					  <VMEu_Iron>25</VMEu_Iron>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "WindPump"]/costList</xpath>
+				<value>
+					<costList>
+					  <VMEu_Iron>25</VMEu_Iron>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "PumpingStation"]/costList</xpath>
+				<value>
+					<costList>
+					  <VMEu_Concrete>25</VMEu_Concrete>
+					  <Steel>75</Steel>
+					  <VMEu_Lead>20</VMEu_Lead>
+					  <ComponentIndustrial>3</ComponentIndustrial>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "SewageSepticTank"]/costList</xpath>
+				<value>
+					<costList>
+					  <VMEu_Concrete>100</VMEu_Concrete>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "SewageTreatment"]/costList</xpath>
+				<value>
+					<costList>
+					  <VMEu_Concrete>200</VMEu_Concrete>
+					  <Steel>200</Steel>
+					  <VMEu_StainlessSteel>200</VMEu_StainlessSteel>
+					  <ComponentIndustrial>8</ComponentIndustrial>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "WaterTreatment"]/costList</xpath>
+				<value>
+					<costList>
+					  <VMEu_Concrete>100</VMEu_Concrete>
+					  <Steel>100</Steel>
+					  <VMEu_StainlessSteel>50</VMEu_StainlessSteel>
+					  <ComponentIndustrial>5</ComponentIndustrial>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "LogBoiler"]/costList</xpath>
+				<value>
+					<costList>
+					  <VMEu_Iron>200</VMEu_Iron>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "HotWaterTank"]/costList</xpath>
+				<value>
+					<costList>
+					  <VMEu_Iron>75</VMEu_Iron>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "RadiatorStuffed"]/costList</xpath>
+				<value>
+					<costList>
+					  <VMEu_Copper>15</VMEu_Copper>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "RadiatorLarge"]/costList</xpath>
+				<value>
+					<costList>
+					  <VMEu_Copper>15</VMEu_Copper>
+					</costList>
+				</value>
+			</li>
+			
+			<!-- Custom Patches -->
+			<li Class="PatchOperationAdd">    
+                <xpath>/Defs/ThingDef[defName="PrimitiveWell"]/stuffCategories</xpath>
+                <value>
+                    <li>VMEu_ConcreteStuffCategory</li>
+                </value>
+            </li>             
+            <li Class="PatchOperationAdd">    
+                <xpath>/Defs/ThingDef[defName="sewagePipeStuff"]/stuffCategories</xpath>
+                <value>
+                    <li>VMEu_ConcreteStuffCategory</li>
+                </value>
+            </li>
+            <li Class="PatchOperationAdd">    
+                <xpath>/Defs/ThingDef[defName="WaterTowerS"]/stuffCategories</xpath>
+                <value>
+                    <li>VMEu_ConcreteStuffCategory</li>
+                </value>
+            </li>
+            <li Class="PatchOperationAdd">    
+                <xpath>/Defs/ThingDef[defName="SewageOutlet"]/stuffCategories</xpath>
+                <value>
+                    <li>VMEu_ConcreteStuffCategory</li>
+                </value>
+            </li>
+            <li Class="PatchOperationAdd">    
+                <xpath>/Defs/ThingDef[defName="SewageSepticTank"]/stuffCategories</xpath>
+                <value>
+                    <li>VMEu_ConcreteStuffCategory</li>
+                </value>
+            </li>     
+		</operations>
+	</match>
+</Operation>
+
+</Patch>

@@ -1,0 +1,584 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
+  <AttendedFuneral.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</AttendedFuneral.description>
+  <!-- EN: moral guide present -->
+  <AttendedFuneral.comps.0.label>духовный лидер присутствует</AttendedFuneral.comps.0.label>
+  <!-- EN: participant count -->
+  <AttendedFuneral.comps.1.label>количество участников</AttendedFuneral.comps.1.label>
+  <!-- EN: Terrible -->
+  <AttendedFuneral.outcomeChances.0.label>Ужасно</AttendedFuneral.outcomeChances.0.label>
+  <!-- EN: The<x> {0} </x>was a terrible! Everyone felt insulted for having had to endure it. -->
+  <AttendedFuneral.outcomeChances.0.description> {0} прошло ужасно! Все чувствовали себя оскорбленными за то, что им пришлось это вынести.</AttendedFuneral.outcomeChances.0.description>
+  <!-- EN: Lackluster -->
+  <AttendedFuneral.outcomeChances.1.label>Непримечательно</AttendedFuneral.outcomeChances.1.label>
+  <!-- EN: The<x> {0} </x>was lackluster. The speech was long-winded and failed to resolve any emotions. -->
+  <AttendedFuneral.outcomeChances.1.description> {0} прошло слабовато. Речь была многословной и не смогла выразить никаких эмоций.</AttendedFuneral.outcomeChances.1.description>
+  <!-- EN: Good -->
+  <AttendedFuneral.outcomeChances.2.label>Хорошо</AttendedFuneral.outcomeChances.2.label>
+  <!-- EN: The<x> {0} </x>was good. The speaker's final words provided a path for everyone move on. -->
+  <AttendedFuneral.outcomeChances.2.description> {0} прошло хорошо. Последние слова оратора проложили путь для каждого, чтобы двигаться дальше.</AttendedFuneral.outcomeChances.2.description>
+  <!-- EN: Heartwarming -->
+  <AttendedFuneral.outcomeChances.3.label>Трогательно</AttendedFuneral.outcomeChances.3.label>
+  <!-- EN: The<x> {0} </x>was heartwarming. The speech was captivating and heartfelt, and everyone came away focused on good memories. -->
+  <AttendedFuneral.outcomeChances.3.description> {0} прошло трогательно. Речь была увлекательной и проникновенной, и все ушли, сосредоточившись на хороших воспоминаниях.</AttendedFuneral.outcomeChances.3.description>
+  
+  <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
+  <AttendedFuneralNoCorpse.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</AttendedFuneralNoCorpse.description>
+  <!-- EN: moral guide present -->
+  <AttendedFuneralNoCorpse.comps.0.label>духовный лидер присутствует</AttendedFuneralNoCorpse.comps.0.label>
+  <!-- EN: participant count -->
+  <AttendedFuneralNoCorpse.comps.1.label>количество участников</AttendedFuneralNoCorpse.comps.1.label>
+  <!-- EN: Terrible -->
+  <AttendedFuneralNoCorpse.outcomeChances.0.label>Ужасно</AttendedFuneralNoCorpse.outcomeChances.0.label>
+  <!-- EN: The<x> {0} </x>was a terrible! Everyone felt insulted for having had to endure it. -->
+  <AttendedFuneralNoCorpse.outcomeChances.0.description> {0} прошло ужасно! Все чувствовали себя оскорбленными за то, что им пришлось это вынести.</AttendedFuneralNoCorpse.outcomeChances.0.description>
+  <!-- EN: Lackluster -->
+  <AttendedFuneralNoCorpse.outcomeChances.1.label>Непримечательный</AttendedFuneralNoCorpse.outcomeChances.1.label>
+  <!-- EN: The<x> {0} </x>was lackluster. The speech was long-winded and failed to resolve any emotions. -->
+  <AttendedFuneralNoCorpse.outcomeChances.1.description> {0} прошло слабовато. Речь была многословной и не смогла выразить никаких эмоций.</AttendedFuneralNoCorpse.outcomeChances.1.description>
+  <!-- EN: Good -->
+  <AttendedFuneralNoCorpse.outcomeChances.2.label>Хорошо</AttendedFuneralNoCorpse.outcomeChances.2.label>
+  <!-- EN: The<x> {0} </x>was good. The speaker's final words provided a path for everyone move on. -->
+  <AttendedFuneralNoCorpse.outcomeChances.2.description> {0} прошло хорошо. Последние слова оратора проложили путь для каждого, чтобы двигаться дальше.</AttendedFuneralNoCorpse.outcomeChances.2.description>
+  <!-- EN: Heartwarming -->
+  <AttendedFuneralNoCorpse.outcomeChances.3.label>Трогательно</AttendedFuneralNoCorpse.outcomeChances.3.label>
+  <!-- EN: The<x> {0} </x>was heartwarming. The speech was captivating and heartfelt, and everyone came away focused on good memories. -->
+  <AttendedFuneralNoCorpse.outcomeChances.3.description> {0} прошло трогательно. Речь была увлекательной и проникновенной, и все ушли, сосредоточившись на хороших воспоминаниях.</AttendedFuneralNoCorpse.outcomeChances.3.description>
+  
+  <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
+  <BlindingCeremony.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</BlindingCeremony.description>
+  <!-- EN: moral guide present -->
+  <BlindingCeremony.comps.2.label>духовный лидер присутствует</BlindingCeremony.comps.2.label>
+  <!-- EN: participant count -->
+  <BlindingCeremony.comps.3.label>количество участников</BlindingCeremony.comps.3.label>
+  <!-- EN: started at altar -->
+  <BlindingCeremony.comps.4.label>началось у алтаря</BlindingCeremony.comps.4.label>
+  <!-- EN: an altar -->
+  <BlindingCeremony.comps.4.expectedThingLabelTip>алтарь</BlindingCeremony.comps.4.expectedThingLabelTip>
+  <!-- EN: If the<x> {0} </x>is satisfying, the blinded person might get a psylink upgrade or unlock new psychic powers. -->
+  <BlindingCeremony.extraPredictedOutcomeDescriptions.0>Если {0} удовлетворяет, слепой человек может получить обновление пси-усилителя или разблокировать новые экстрасенсорные способности.</BlindingCeremony.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Terrible -->
+  <BlindingCeremony.outcomeChances.0.label>Ужасно</BlindingCeremony.outcomeChances.0.label>
+  <!-- EN: The<x> {0} </x>was terrible! The speech was stuttering and incoherent. The blinding technique was botched. Everyone was waiting for it to end. -->
+  <BlindingCeremony.outcomeChances.0.description> {0} прошло ужасно! Речь была заикающейся и бессвязной. Техника ослепления была испорчена. Все ждали, когда это закончится.</BlindingCeremony.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <BlindingCeremony.outcomeChances.1.label>Скучно</BlindingCeremony.outcomeChances.1.label>
+  <!-- EN: The<x> {0} </x>was boring. The speech was repetitive and the blinding technique was noticeably flawed. It just didn't feel dignified. -->
+  <BlindingCeremony.outcomeChances.1.description> {0} прошло скучно. Речь была повторяющейся, а техника ослепления была заметно испорчена. Это просто не казалось достойным.</BlindingCeremony.outcomeChances.1.description>
+  <!-- EN: Satisfying -->
+  <BlindingCeremony.outcomeChances.2.label>Удовлетворительно</BlindingCeremony.outcomeChances.2.label>
+  <!-- EN: The<x> {0} </x>was satisfying. The speech felt meaningful, and the blinding technique was precise and dignified. -->
+  <BlindingCeremony.outcomeChances.2.description> {0} прошло удовлетворительно. Речь казалась осмысленной, а техника ослепления была точной и достойной.</BlindingCeremony.outcomeChances.2.description>
+  <!-- EN: The blinded person will get a psylink upgrade or unlock a new psychic power. -->
+  <BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>Ослепленный человек получит обновление пси-усилителя или откроет новую экстрасенсорную силу.</BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Spectacular -->
+  <BlindingCeremony.outcomeChances.3.label>Впечатляюще</BlindingCeremony.outcomeChances.3.label>
+  <!-- EN: The<x> {0} </x>was spectacular! The speech brought everyone to the edge of a frenzy just as the eye came out with a satisfying wet noise. -->
+  <BlindingCeremony.outcomeChances.3.description> {0} прошло впечатляюще! Эта речь привела всех на грань безумия как раз в тот момент, когда глаз вышел с удовлетворительным влажным хлюпаньем.</BlindingCeremony.outcomeChances.3.description>
+  <!-- EN: The blinded person will get a psylink upgrade or unlock a new psychic power. -->
+  <BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>Ослепленный человек получит обновление пси-усилителя или откроет новую экстрасенсорную силу.</BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
+  <CelebratedDate.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</CelebratedDate.description>
+  <!-- EN: leader present -->
+  <CelebratedDate.comps.2.label>лидер присутствует</CelebratedDate.comps.2.label>
+  <!-- EN: participant count -->
+  <CelebratedDate.comps.3.label>количество участников</CelebratedDate.comps.3.label>
+  <!-- EN: started at altar -->
+  <CelebratedDate.comps.4.label>началось у алтаря</CelebratedDate.comps.4.label>
+  <!-- EN: an altar -->
+  <CelebratedDate.comps.4.expectedThingLabelTip>алтарь</CelebratedDate.comps.4.expectedThingLabelTip>
+  <!-- EN: Terrible -->
+  <CelebratedDate.outcomeChances.0.label>Ужасно</CelebratedDate.outcomeChances.0.label>
+  <!-- EN: The<x> {0} </x>was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <CelebratedDate.outcomeChances.0.description> {0} прошло ужасно! Участники выдержали несколько часов напряженной роскошной беседы, сжимая челюсти, ожидая ее окончания.</CelebratedDate.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <CelebratedDate.outcomeChances.1.label>Скучно</CelebratedDate.outcomeChances.1.label>
+  <!-- EN: The<x> {0} </x>was boring. Everyone felt too awkward to open up and laugh. -->
+  <CelebratedDate.outcomeChances.1.description> {0} прошло скучно. Все чувствовали себя слишком неловко, чтобы открыться и рассмеяться.</CelebratedDate.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <CelebratedDate.outcomeChances.2.label>Забавно</CelebratedDate.outcomeChances.2.label>
+  <!-- EN: The<x> {0} </x>was fun. Everyone appreciated the chance to relax and have fun together. -->
+  <CelebratedDate.outcomeChances.2.description> {0} прошло весело. Все оценили возможность расслабиться и весело провести время вместе.</CelebratedDate.outcomeChances.2.description>
+  <!-- EN: Unforgettable -->
+  <CelebratedDate.outcomeChances.3.label>Незабываемо</CelebratedDate.outcomeChances.3.label>
+  <!-- EN: The<x> {0} </x>was unforgettable! Everyone learned about each other and felt like a family. -->
+  <CelebratedDate.outcomeChances.3.description> {0} прошло незабываемо! Все узнали друг о друге и почувствовали себя семьей.</CelebratedDate.outcomeChances.3.description>
+  
+  <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
+  <CelebratedDate_Consumable.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</CelebratedDate_Consumable.description>
+  <!-- EN: participant count -->
+  <CelebratedDate_Consumable.comps.0.label>количество участников</CelebratedDate_Consumable.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <CelebratedDate_Consumable.comps.1.label>внушительность комнаты</CelebratedDate_Consumable.comps.1.label>
+  <!-- EN: If the<x> {0} </x>is satisfying, one participant might gain an inspiration. -->
+  <CelebratedDate_Consumable.extraPredictedOutcomeDescriptions.0>Если {0} удовлетворяет, один участник может получить вдохновение.</CelebratedDate_Consumable.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Terrible -->
+  <CelebratedDate_Consumable.outcomeChances.0.label>Ужасно</CelebratedDate_Consumable.outcomeChances.0.label>
+  <!-- EN: The<x> {0} </x>was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <CelebratedDate_Consumable.outcomeChances.0.description>{0} прошло ужасно! Участники выдержали несколько часов напряженной роскошной беседы, сжимая челюсти, ожидая ее окончания.</CelebratedDate_Consumable.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <CelebratedDate_Consumable.outcomeChances.1.label>Скучно</CelebratedDate_Consumable.outcomeChances.1.label>
+  <!-- EN: The<x> {0} </x>was boring. Everyone felt too awkward to open up and laugh. -->
+  <CelebratedDate_Consumable.outcomeChances.1.description>{0} прошло скучно. Все чувствовали себя слишком неловко, чтобы открыться и рассмеяться.</CelebratedDate_Consumable.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <CelebratedDate_Consumable.outcomeChances.2.label>Забавно</CelebratedDate_Consumable.outcomeChances.2.label>
+  <!-- EN: The<x> {0} </x>was good. Everyone appreciated the chance to relax and have fun together. -->
+  <CelebratedDate_Consumable.outcomeChances.2.description> {0} прошло хорошо. Все оценили возможность расслабиться и весело провести время вместе.</CelebratedDate_Consumable.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
+  <CelebratedDate_Consumable.outcomeChances.2.potentialExtraOutcomeDesc>Вероятность того, что случайный участник получит вдохновение, составляет 5%.</CelebratedDate_Consumable.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <CelebratedDate_Consumable.outcomeChances.3.label>Незабываемо</CelebratedDate_Consumable.outcomeChances.3.label>
+  <!-- EN: The<x> {0} </x>was unforgettable! Everyone learned about each other and felt like a family. -->
+  <CelebratedDate_Consumable.outcomeChances.3.description> {0} прошло незабываемо! Все узнали друг о друге и почувствовали себя семьей.</CelebratedDate_Consumable.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
+  <CelebratedDate_Consumable.outcomeChances.3.potentialExtraOutcomeDesc>Вероятность того, что случайный участник получит вдохновение, составляет 10%.</CelebratedDate_Consumable.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
+  <CelebrationPartyDanceDrum.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</CelebrationPartyDanceDrum.description>
+  <!-- EN: participant count -->
+  <CelebrationPartyDanceDrum.comps.0.label>количество участников</CelebrationPartyDanceDrum.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <CelebrationPartyDanceDrum.comps.1.label>внушительность комнаты</CelebrationPartyDanceDrum.comps.1.label>
+  <!-- EN: played drum count -->
+  <CelebrationPartyDanceDrum.comps.2.label>количество сыгранных барабанов</CelebrationPartyDanceDrum.comps.2.label>
+  <!-- EN: started at campfire -->
+  <CelebrationPartyDanceDrum.comps.3.label>началось у костра</CelebrationPartyDanceDrum.comps.3.label>
+  <!-- EN: a campfire -->
+  <CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>костер</CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>
+  <!-- EN: If the<x> {0} </x>is fun or unforgettable, participants may gain increased work speed for a while. -->
+  <CelebrationPartyDanceDrum.extraPredictedOutcomeDescriptions.0>Если {0} весело или незабываемо, участники могут на некоторое время увеличить скорость работы.</CelebrationPartyDanceDrum.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Terrible -->
+  <CelebrationPartyDanceDrum.outcomeChances.0.label>Ужасно</CelebrationPartyDanceDrum.outcomeChances.0.label>
+  <!-- EN: The<x> {0} </x>was terrible! Awkward conversation, bad jokes, atrocious dancing, and dull music. -->
+  <CelebrationPartyDanceDrum.outcomeChances.0.description> {0} прошло ужасно! Неловкий разговор, плохие шутки, отвратительные танцы и скучная музыка.</CelebrationPartyDanceDrum.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <CelebrationPartyDanceDrum.outcomeChances.1.label>Скучно</CelebrationPartyDanceDrum.outcomeChances.1.label>
+  <!-- EN: The<x> {0} </x>was boring. Bad dancing and so-so music made the whole thing feel like a waste of time. -->
+  <CelebrationPartyDanceDrum.outcomeChances.1.description> {0} прошло скучно. Плохие танцы и такая-то музыка заставляли все это чувствовать себя пустой тратой времени.</CelebrationPartyDanceDrum.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <CelebrationPartyDanceDrum.outcomeChances.2.label>Забавно</CelebrationPartyDanceDrum.outcomeChances.2.label>
+  <!-- EN: The<x> {0} </x>was fun. Everyone enjoyed the break from everyday life and got in some good dancing together. -->
+  <CelebrationPartyDanceDrum.outcomeChances.2.description> {0} прошло весело. Все наслаждались отдыхом от повседневной жизни и хорошо потанцевали вместе.</CelebrationPartyDanceDrum.outcomeChances.2.description>
+  <!-- EN: Everyone felt refreshed after their trance-like dancing experience. Participants will work faster for a while. -->
+  <CelebrationPartyDanceDrum.outcomeChances.2.potentialExtraOutcomeDesc>Все чувствовали себя отдохнувшими после своих танцев, похожих на транс. Участники какое-то время будут работать быстрее.</CelebrationPartyDanceDrum.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <CelebrationPartyDanceDrum.outcomeChances.3.label>Незабываемо</CelebrationPartyDanceDrum.outcomeChances.3.label>
+  <!-- EN: The<x> {0} </x>was unforgettable! The dancers forgot themselves in the music, and the experience brought everyone together. -->
+  <CelebrationPartyDanceDrum.outcomeChances.3.description> {0} прошло незабываемо! Танцоры забыли о себе в музыке, и это событие объединило всех вместе.</CelebrationPartyDanceDrum.outcomeChances.3.description>
+  <!-- EN: Everyone felt refreshed after their trance-like dancing experience. Participants will work faster for a while. -->
+  <CelebrationPartyDanceDrum.outcomeChances.3.potentialExtraOutcomeDesc>Все чувствовали себя отдохнувшими после своих танцев, похожих на транс. Участники какое-то время будут работать быстрее.</CelebrationPartyDanceDrum.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
+  <CelebrationPartyDanceTech.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</CelebrationPartyDanceTech.description>
+  <!-- EN: participant count -->
+  <CelebrationPartyDanceTech.comps.0.label>количество участников</CelebrationPartyDanceTech.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <CelebrationPartyDanceTech.comps.1.label>внушительность комнаты</CelebrationPartyDanceTech.comps.1.label>
+  <!-- EN: active speaker count -->
+  <CelebrationPartyDanceTech.comps.2.label>количество активных выступающих</CelebrationPartyDanceTech.comps.2.label>
+  <!-- EN: started at lightball -->
+  <CelebrationPartyDanceTech.comps.3.label>началось у дискошара</CelebrationPartyDanceTech.comps.3.label>
+  <!-- EN: a lightball -->
+  <CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>дискошар</CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>
+  <!-- EN: If the<x> {0} </x>is fun or unforgettable, participants may gain increased work speed for a while. -->
+  <CelebrationPartyDanceTech.extraPredictedOutcomeDescriptions.0>Если {0} весело или незабываемо, участники могут на некоторое время увеличить скорость работы.</CelebrationPartyDanceTech.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Terrible -->
+  <CelebrationPartyDanceTech.outcomeChances.0.label>Ужасно</CelebrationPartyDanceTech.outcomeChances.0.label>
+  <!-- EN: The<x> {0} </x>was terrible! Awkward conversation, bad jokes, atrocious dancing, and dull music. -->
+  <CelebrationPartyDanceTech.outcomeChances.0.description> {0} прошло ужасно! Неловкий разговор, плохие шутки, отвратительные танцы и скучная музыка.</CelebrationPartyDanceTech.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <CelebrationPartyDanceTech.outcomeChances.1.label>Скучно</CelebrationPartyDanceTech.outcomeChances.1.label>
+  <!-- EN: The<x> {0} </x>was boring. Bad dancing and so-so music made the whole thing feel like a waste of time. -->
+  <CelebrationPartyDanceTech.outcomeChances.1.description> {0} прошло скучно. Плохие танцы и такая-то музыка заставляли все это чувствовать себя пустой тратой времени.</CelebrationPartyDanceTech.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <CelebrationPartyDanceTech.outcomeChances.2.label>Забавно</CelebrationPartyDanceTech.outcomeChances.2.label>
+  <!-- EN: The<x> {0} </x>was fun. Everyone enjoyed the break from everyday life and got in some good dancing together. -->
+  <CelebrationPartyDanceTech.outcomeChances.2.description> {0} прошло весело. Все наслаждались отдыхом от повседневной жизни и хорошо потанцевали вместе.</CelebrationPartyDanceTech.outcomeChances.2.description>
+  <!-- EN: Everyone felt refreshed after their trance-like dancing experience. Participants will work faster for a while. -->
+  <CelebrationPartyDanceTech.outcomeChances.2.potentialExtraOutcomeDesc>Все чувствовали себя отдохнувшими после своих танцев, похожих на транс. Участники какое-то время будут работать быстрее.</CelebrationPartyDanceTech.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <CelebrationPartyDanceTech.outcomeChances.3.label>Незабываемо</CelebrationPartyDanceTech.outcomeChances.3.label>
+  <!-- EN: The<x> {0} </x>was unforgettable! The dancers forgot themselves in the music, and the experience brought everyone together. -->
+  <CelebrationPartyDanceTech.outcomeChances.3.description> {0} прошло незабываемо! Танцоры забыли о себе в музыке, и это событие объединило всех вместе.</CelebrationPartyDanceTech.outcomeChances.3.description>
+  <!-- EN: Everyone felt refreshed after their trance-like dancing experience. Participants will work faster for a while. -->
+  <CelebrationPartyDanceTech.outcomeChances.3.potentialExtraOutcomeDesc>Все чувствовали себя отдохнувшими после своих танцев, похожих на транс. Участники какое-то время будут работать быстрее.</CelebrationPartyDanceTech.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
+  <CelebrationSkyLanterns.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</CelebrationSkyLanterns.description>
+  <!-- EN: participant count -->
+  <CelebrationSkyLanterns.comps.0.label>количество участников</CelebrationSkyLanterns.comps.0.label>
+  <!-- EN: Each participant will make a lantern out of 4 wood. -->
+  <CelebrationSkyLanterns.extraInfoLines.0>Каждый участник сделает фонарик из 4-х досок.</CelebrationSkyLanterns.extraInfoLines.0>
+  <!-- EN: If the<x> {0} </x>is beautiful or unforgettable, the skylanterns might attract a group of friendly visitors. -->
+  <CelebrationSkyLanterns.extraPredictedOutcomeDescriptions.0>Если {0} красив или незабываем, небесные фонарики в небе могут привлечь группу дружелюбных посетителей.</CelebrationSkyLanterns.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Terrible -->
+  <CelebrationSkyLanterns.outcomeChances.0.label>Ужасно</CelebrationSkyLanterns.outcomeChances.0.label>
+  <!-- EN: The<x> {0} </x>was terrible! People kept getting annoyed making the lanterns and they looked like garbage on the wind. -->
+  <CelebrationSkyLanterns.outcomeChances.0.description> {0} прошло ужасно! Люди продолжали раздражаться, делая небесные фонарики, и они выглядели как мусор на ветру.</CelebrationSkyLanterns.outcomeChances.0.description>
+  <!-- EN: Unimpressive -->
+  <CelebrationSkyLanterns.outcomeChances.1.label>Не впечатляет</CelebrationSkyLanterns.outcomeChances.1.label>
+  <!-- EN: The<x> {0} </x>was unimpressive. Lantern-making took too long and it all felt rather pointless. -->
+  <CelebrationSkyLanterns.outcomeChances.1.description> {0} прошло не впечатляюще. Изготовление фонарей заняло слишком много времени, и все это казалось довольно бессмысленным.</CelebrationSkyLanterns.outcomeChances.1.description>
+  <!-- EN: Beautiful -->
+  <CelebrationSkyLanterns.outcomeChances.2.label>Красиво</CelebrationSkyLanterns.outcomeChances.2.label>
+  <!-- EN: The<x> {0} </x>was beautiful. Watching the lanterns drift away made everyone feel at peace. -->
+  <CelebrationSkyLanterns.outcomeChances.2.description> {0} прошло прекрасно. Глядя, как удаляются небесные фонарики, все чувствовали себя умиротворенными.</CelebrationSkyLanterns.outcomeChances.2.description>
+  <!-- EN: The skylanterns lifted high and bright. Friendly visitors might see them and arrive with a gift. -->
+  <CelebrationSkyLanterns.outcomeChances.2.potentialExtraOutcomeDesc>Небесные фонарики поднялись высоко и ярко. Дружелюбные посетители могут увидеть их и прийти с подарком</CelebrationSkyLanterns.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <CelebrationSkyLanterns.outcomeChances.3.label>Незабываемо</CelebrationSkyLanterns.outcomeChances.3.label>
+  <!-- EN: The<x> {0} </x>was unforgettable! Making the lanterns was a time of laughter, and everyone's spirits rose with them. -->
+  <CelebrationSkyLanterns.outcomeChances.3.description> {0} прошло незабываемо! Изготовление фонариков было временем смеха, и настроение у всех поднялось вместе с ними.</CelebrationSkyLanterns.outcomeChances.3.description>
+  <!-- EN: The skylanterns lifted high and bright. Friendly visitors might see them and arrive with a gift. -->
+  <CelebrationSkyLanterns.outcomeChances.3.potentialExtraOutcomeDesc>Небесные фонарики поднялись высоко и ярко. Дружелюбные посетители могут увидеть их и прийти с подарком</CelebrationSkyLanterns.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: The connector will connect to the tree. -->
+  <ConnectToTree.description>Арборист установит связь с деревом.</ConnectToTree.description>
+  <!-- EN: participant count -->
+  <ConnectToTree.comps.0.label>количество участников</ConnectToTree.comps.0.label>
+  <!-- EN: The connector will start with 25-45% connection strength, depending on ritual quality. -->
+  <ConnectToTree.extraPredictedOutcomeDescriptions.0>Связь начнется с прочностью 25-45%, в зависимости от качества ритуала.</ConnectToTree.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Every 2% increase in quality will grow a patch of Gauranlen moss around the tree, beautifying the area. -->
+  <ConnectToTree.extraPredictedOutcomeDescriptions.1>Каждые 2% повышения качества будет расти участок Гауранленского мха вокруг дерева, украшая территорию.</ConnectToTree.extraPredictedOutcomeDescriptions.1>
+  
+  <!-- EN: If it goes well, target's ideoligion certainty will be reduced or they will convert. If it goes badly, they will gain certainty in their old beliefs. -->
+  <Conversion.description>Если все пойдет хорошо, уверенность в идеологии цели снизится, или они обратятся. Если все пойдет плохо, они обретут уверенность в своих старых убеждениях.</Conversion.description>
+  <!-- EN: room impressiveness -->
+  <Conversion.comps.0.label>внушительность комнаты</Conversion.comps.0.label>
+  <!-- EN: participant count -->
+  <Conversion.comps.1.label>количество участников</Conversion.comps.1.label>
+  <!-- EN: <x>{PAWN_labelShort}</x>'s social impact -->
+  <Conversion.comps.2.label>{PAWN_labelShort} общественное влияние</Conversion.comps.2.label>
+  <!-- EN: speaker's social impact -->
+  <Conversion.comps.2.labelAbstract>социальное влияние спикера</Conversion.comps.2.labelAbstract>
+  <!-- EN: <x>{PAWN_labelShort}</x>'s expectations -->
+  <Conversion.comps.3.label>{PAWN_labelShort} ожидание</Conversion.comps.3.label>
+  <!-- EN: convertee's expectations -->
+  <Conversion.comps.3.labelAbstract>ожидания конвертируемого</Conversion.comps.3.labelAbstract>
+  <!-- EN: Terrible -->
+  <Conversion.outcomeChances.0.label>Ужасно</Conversion.outcomeChances.0.label>
+  <!-- EN: The<x> {0} </x>was terrible! From the first word, it was a fruitless back-and-forth argument. It dragged on for a cringe-inducingly long time. -->
+  <Conversion.outcomeChances.0.description> {0} прошло ужасно! С первого слова это был бесплодный спор взад и вперед. Это затянулось на вызывающе долгое время.</Conversion.outcomeChances.0.description>
+  <!-- EN: Ineffective -->
+  <Conversion.outcomeChances.1.label>Неэффективно</Conversion.outcomeChances.1.label>
+  <!-- EN: The<x> {0} </x>was ineffective. Most of the arguments were unclear, and the convertee countered those that made sense. -->
+  <Conversion.outcomeChances.1.description> {0} прошло неумело. Большинство аргументов были неясны, и собеседник опроверг те, которые имели смысл.</Conversion.outcomeChances.1.description>
+  <!-- EN: Effective -->
+  <Conversion.outcomeChances.2.label>Эффективно</Conversion.outcomeChances.2.label>
+  <!-- EN: The<x> {0} </x>was effective. The speech not only delivered solid arguments and visibly swayed the convertee's thoughts, but kept the crowd entertained as well. -->
+  <Conversion.outcomeChances.2.description> {0} прошло эффективно. Речь не только приводила веские аргументы и заметно влияла на мысли собеседника, но и развлекала толпу.</Conversion.outcomeChances.2.description>
+  <!-- EN: Masterful -->
+  <Conversion.outcomeChances.3.label>Мастерски</Conversion.outcomeChances.3.label>
+  <!-- EN: The<x> {0} </x>was masterful! Old beliefs seemed to dissolve effortlessly and inevitably, and our true knowledge was accepted. -->
+  <Conversion.outcomeChances.3.description> {0} прошло мастерски сделан! Старые убеждения, казалось, растворялись легко и неизбежно, и наше истинное знание было принято.</Conversion.outcomeChances.3.description>
+  
+  <!-- EN: The ritual target will be destroyed. -->
+  <DestroyConsumableBuilding.description>Ритуальная цель будет уничтожена.</DestroyConsumableBuilding.description>
+  <!-- EN: participant count -->
+  <DestroyConsumableBuilding.comps.0.label>количество участников</DestroyConsumableBuilding.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <DestroyConsumableBuilding.comps.1.label>внушительность комнаты</DestroyConsumableBuilding.comps.1.label>
+  <!-- EN: Terrible -->
+  <DestroyConsumableBuilding.outcomeChances.0.label>Ужасно</DestroyConsumableBuilding.outcomeChances.0.label>
+  <!-- EN: The<x> {0} </x>was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <DestroyConsumableBuilding.outcomeChances.0.description>{0} прошло ужасно! Участники выдержали несколько часов напряженной роскошной беседы, сжимая челюсти, ожидая ее окончания.</DestroyConsumableBuilding.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <DestroyConsumableBuilding.outcomeChances.1.label>Скучно</DestroyConsumableBuilding.outcomeChances.1.label>
+  <!-- EN: The<x> {0} </x>was boring. Everyone felt too awkward to open up and laugh. -->
+  <DestroyConsumableBuilding.outcomeChances.1.description>{0} прошло скучно. Все чувствовали себя слишком неловко, чтобы открыться и рассмеяться.</DestroyConsumableBuilding.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <DestroyConsumableBuilding.outcomeChances.2.label>Забавно</DestroyConsumableBuilding.outcomeChances.2.label>
+  <!-- EN: The<x> {0} </x>was good. Everyone appreciated the chance to relax and have fun together. -->
+  <DestroyConsumableBuilding.outcomeChances.2.description> {0} прошло хорошо. Все оценили возможность расслабиться и весело провести время вместе.</DestroyConsumableBuilding.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding.outcomeChances.2.potentialExtraOutcomeDesc>Вероятность того, что случайный участник получит вдохновение, составляет 5%.</DestroyConsumableBuilding.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <DestroyConsumableBuilding.outcomeChances.3.label>Незабываемо</DestroyConsumableBuilding.outcomeChances.3.label>
+  <!-- EN: The<x> {0} </x>was unforgettable! Everyone learned about each other and felt like a family. -->
+  <DestroyConsumableBuilding.outcomeChances.3.description> {0} прошло незабываемо! Все узнали друг о друге и почувствовали себя семьей.</DestroyConsumableBuilding.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding.outcomeChances.3.potentialExtraOutcomeDesc>Вероятность того, что случайный участник получит вдохновение, составляет 10%.</DestroyConsumableBuilding.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: The ritual target will be destroyed. -->
+  <DestroyConsumableBuilding_Burnbong.description>Ритуальная цель будет уничтожена.</DestroyConsumableBuilding_Burnbong.description>
+  <!-- EN: participant count -->
+  <DestroyConsumableBuilding_Burnbong.comps.0.label>количество участников</DestroyConsumableBuilding_Burnbong.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <DestroyConsumableBuilding_Burnbong.comps.1.label>внушительность комнаты</DestroyConsumableBuilding_Burnbong.comps.1.label>
+  <!-- EN: Terrible -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>Ужасно</DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>
+  <!-- EN: The<x> {0} </x>was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.0.description>{0} прошло ужасно! Участники выдержали несколько часов напряженной роскошной беседы, сжимая челюсти, ожидая ее окончания.</DestroyConsumableBuilding_Burnbong.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.1.label>Скучно</DestroyConsumableBuilding_Burnbong.outcomeChances.1.label>
+  <!-- EN: The<x> {0} </x>was boring. Everyone felt too awkward to open up and laugh. -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.1.description>{0} прошло скучно. Все чувствовали себя слишком неловко, чтобы открыться и рассмеяться.</DestroyConsumableBuilding_Burnbong.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.label>Забавно</DestroyConsumableBuilding_Burnbong.outcomeChances.2.label>
+  <!-- EN: The<x> {0} </x>was good. Everyone appreciated the chance to relax and have fun together. -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.description> {0} прошло хорошо. Все оценили возможность расслабиться и весело провести время вместе.</DestroyConsumableBuilding_Burnbong.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.potentialExtraOutcomeDesc>Вероятность того, что случайный участник получит вдохновение, составляет 5%.</DestroyConsumableBuilding_Burnbong.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.label>Незабываемо</DestroyConsumableBuilding_Burnbong.outcomeChances.3.label>
+  <!-- EN: The<x> {0} </x>was unforgettable! Everyone learned about each other and felt like a family. -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.description> {0} прошло незабываемо! Все узнали друг о друге и почувствовали себя семьей.</DestroyConsumableBuilding_Burnbong.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.potentialExtraOutcomeDesc>Вероятность того, что случайный участник получит вдохновение, составляет 10%.</DestroyConsumableBuilding_Burnbong.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: The ritual target will be destroyed. -->
+  <DestroyConsumableBuilding_CannibalPlatter.description>Ритуальная цель будет уничтожена.</DestroyConsumableBuilding_CannibalPlatter.description>
+  <!-- EN: participant count -->
+  <DestroyConsumableBuilding_CannibalPlatter.comps.0.label>количество участников</DestroyConsumableBuilding_CannibalPlatter.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <DestroyConsumableBuilding_CannibalPlatter.comps.1.label>внушительность комнаты</DestroyConsumableBuilding_CannibalPlatter.comps.1.label>
+  <!-- EN: Terrible -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>Ужасно</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>
+  <!-- EN: The<x> {0} </x>was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.description>{0} прошло ужасно! Участники выдержали несколько часов напряженной роскошной беседы, сжимая челюсти, ожидая ее окончания.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.label>Скучно</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.label>
+  <!-- EN: The<x> {0} </x>was boring. Everyone felt too awkward to open up and laugh. -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.description>{0} прошло скучно. Все чувствовали себя слишком неловко, чтобы открыться и рассмеяться.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.label>Забавно</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.label>
+  <!-- EN: The<x> {0} </x>was good. Everyone appreciated the chance to relax and have fun together. -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.description> {0} прошло хорошо. Все оценили возможность расслабиться и весело провести время вместе.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.potentialExtraOutcomeDesc>Вероятность того, что случайный участник получит вдохновение, составляет 5%.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.label>Незабываемо</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.label>
+  <!-- EN: The<x> {0} </x>was unforgettable! Everyone learned about each other and felt like a family. -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.description> {0} прошло незабываемо! Все узнали друг о друге и почувствовали себя семьей.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.potentialExtraOutcomeDesc>Вероятность того, что случайный участник получит вдохновение, составляет 10%.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: The ritual target will be destroyed. -->
+  <DestroyConsumableBuilding_ChristmasTree.description>Ритуальная цель будет уничтожена.</DestroyConsumableBuilding_ChristmasTree.description>
+  <!-- EN: participant count -->
+  <DestroyConsumableBuilding_ChristmasTree.comps.0.label>количество участников</DestroyConsumableBuilding_ChristmasTree.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <DestroyConsumableBuilding_ChristmasTree.comps.1.label>внушительность комнаты</DestroyConsumableBuilding_ChristmasTree.comps.1.label>
+  <!-- EN: Terrible -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>Ужасно</DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>
+  <!-- EN: The<x> {0} </x>was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.description>{0} прошло ужасно! Участники выдержали несколько часов напряженной роскошной беседы, сжимая челюсти, ожидая ее окончания.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.label>Скучно</DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.label>
+  <!-- EN: The<x> {0} </x>was boring. Everyone felt too awkward to open up and laugh. -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.description>{0} прошло скучно. Все чувствовали себя слишком неловко, чтобы открыться и рассмеяться.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.label>Забавно</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.label>
+  <!-- EN: The<x> {0} </x>was good. Everyone appreciated the chance to relax and have fun together. -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.description> {0} прошло хорошо. Все оценили возможность расслабиться и весело провести время вместе.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.potentialExtraOutcomeDesc>Вероятность того, что случайный участник получит вдохновение, составляет 5%.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.label>Незабываемо</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.label>
+  <!-- EN: The<x> {0} </x>was unforgettable! Everyone learned about each other and felt like a family. -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.description> {0} прошло незабываемо! Все узнали друг о друге и почувствовали себя семьей.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.potentialExtraOutcomeDesc>Вероятность того, что случайный участник получит вдохновение, составляет 10%.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: The ritual target will be destroyed. -->
+  <DestroyConsumableBuilding_Pyre.description>Ритуальная цель будет уничтожена.</DestroyConsumableBuilding_Pyre.description>
+  <!-- EN: participant count -->
+  <DestroyConsumableBuilding_Pyre.comps.0.label>количество участников</DestroyConsumableBuilding_Pyre.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <DestroyConsumableBuilding_Pyre.comps.1.label>внушительность комнаты</DestroyConsumableBuilding_Pyre.comps.1.label>
+  <!-- EN: Terrible -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.0.label>Ужасно</DestroyConsumableBuilding_Pyre.outcomeChances.0.label>
+  <!-- EN: The<x> {0} </x>was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.0.description>{0} прошло ужасно! Участники выдержали несколько часов напряженной роскошной беседы, сжимая челюсти, ожидая ее окончания.</DestroyConsumableBuilding_Pyre.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.1.label>Скучно</DestroyConsumableBuilding_Pyre.outcomeChances.1.label>
+  <!-- EN: The<x> {0} </x>was boring. Everyone felt too awkward to open up and laugh. -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.1.description>{0} прошло скучно. Все чувствовали себя слишком неловко, чтобы открыться и рассмеяться.</DestroyConsumableBuilding_Pyre.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.2.label>Забавно</DestroyConsumableBuilding_Pyre.outcomeChances.2.label>
+  <!-- EN: The<x> {0} </x>was good. Everyone appreciated the chance to relax and have fun together. -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.2.description> {0} прошло хорошо. Все оценили возможность расслабиться и весело провести время вместе.</DestroyConsumableBuilding_Pyre.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.2.potentialExtraOutcomeDesc>Вероятность того, что случайный участник получит вдохновение, составляет 5%.</DestroyConsumableBuilding_Pyre.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.3.label>Незабываемо</DestroyConsumableBuilding_Pyre.outcomeChances.3.label>
+  <!-- EN: The<x> {0} </x>was unforgettable! Everyone learned about each other and felt like a family. -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.3.description> {0} прошло незабываемо! Все узнали друг о друге и почувствовали себя семьей.</DestroyConsumableBuilding_Pyre.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>Вероятность того, что случайный участник получит вдохновение, составляет 10%.</DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
+  <Execution.description>Наблюдающие за рабами будут подавлены на 100%. В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</Execution.description>
+  <!-- EN: participant count -->
+  <Execution.comps.0.label>количество участников</Execution.comps.0.label>
+  <!-- EN: started at altar or ideogram -->
+  <Execution.comps.1.label>начато с алтаря или идеограммы</Execution.comps.1.label>
+  <!-- EN: an altar or an ideogram -->
+  <Execution.comps.1.expectedThingLabelTip>алтарь или идеограмма</Execution.comps.1.expectedThingLabelTip>
+  <!-- EN: Awkward -->
+  <Execution.outcomeChances.0.label>Неловко</Execution.outcomeChances.0.label>
+  <!-- EN: The<x> {0} </x>was awkward. The speech dragged on and when it came time to strike, the executioner slipped and barely recovered. None of it felt justified. -->
+  <Execution.outcomeChances.0.description> {0} прошло неловко. Речь затянулась, и когда пришло время нанести удар, палач поскользнулся и едва пришел в себя. Ничто из этого не казалось оправданным.</Execution.outcomeChances.0.description>
+  <!-- EN: Satisfying -->
+  <Execution.outcomeChances.1.label>Удовлетворительный</Execution.outcomeChances.1.label>
+  <!-- EN: The<x> {0} </x>was satisfying. Everyone could feel that justice was being upheld. -->
+  <Execution.outcomeChances.1.description> {0} прошло удовлетворительно. Каждый мог чувствовать, что справедливость восторжествовала.</Execution.outcomeChances.1.description>
+  <!-- EN: Spectacular -->
+  <Execution.outcomeChances.2.label>Впечатляющий</Execution.outcomeChances.2.label>
+  <!-- EN: The<x> {0} </x>was spectacular! One smooth strike was all it took, and everyone felt a rush of justice and power. -->
+  <Execution.outcomeChances.2.description> {0} прошло впечатляюще! Одного плавного удара было достаточно, и все почувствовали прилив справедливости и силы.</Execution.outcomeChances.2.description>
+  
+  <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
+  <GladiatorDuel.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</GladiatorDuel.description>
+  <!-- EN: participant count -->
+  <GladiatorDuel.comps.0.label>количество участников</GladiatorDuel.comps.0.label>
+  <!-- EN: leader present -->
+  <GladiatorDuel.comps.1.label>лидер присутствует</GladiatorDuel.comps.1.label>
+  <!-- EN: duelist dies -->
+  <GladiatorDuel.comps.2.label>дуэлянт умирает</GladiatorDuel.comps.2.label>
+  <!-- EN: weapon used -->
+  <GladiatorDuel.comps.3.label>использованное оружие</GladiatorDuel.comps.3.label>
+  <!-- EN: Duelists and viewers will gain melee combat experience. -->
+  <GladiatorDuel.extraPredictedOutcomeDescriptions.0>Дуэлянты и зрители получат опыт ближнего боя.</GladiatorDuel.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Spectators will gain a mood boost and fill their recreation bars. -->
+  <GladiatorDuel.extraPredictedOutcomeDescriptions.1>Зрители получат заряд бодрости и наполнят свои бары отдыха.</GladiatorDuel.extraPredictedOutcomeDescriptions.1>
+  <!-- EN: Terrible -->
+  <GladiatorDuel.outcomeChances.0.label>Ужасно</GladiatorDuel.outcomeChances.0.label>
+  <!-- EN: The duel was terrible! The fighters bumbled around, ineptly avoiding each other in a extended display of cowardice and weakness. Watching it just made people sad. -->
+  <GladiatorDuel.outcomeChances.0.description>Дуэль была ужасной! Бойцы топтались вокруг, неумело избегая друг друга в продолжительном проявлении трусости и слабости. Наблюдая за этим, люди просто грустили.</GladiatorDuel.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <GladiatorDuel.outcomeChances.1.label>Скучно</GladiatorDuel.outcomeChances.1.label>
+  <!-- EN: The duel was boring. The fighters wouldn't commit, so there were no exciting moments. -->
+  <GladiatorDuel.outcomeChances.1.description>Дуэль была скучной. Бойцы не стали бы связываться, так что захватывающих моментов не было.</GladiatorDuel.outcomeChances.1.description>
+  <!-- EN: Good -->
+  <GladiatorDuel.outcomeChances.2.label>Хорошо</GladiatorDuel.outcomeChances.2.label>
+  <!-- EN: The duel was good. The fighters went for blood and showed real heart. -->
+  <GladiatorDuel.outcomeChances.2.description>Дуэль была хорошей. Бойцы пустили кровь и показали настоящее сердце.</GladiatorDuel.outcomeChances.2.description>
+  <!-- EN: Unforgettable -->
+  <GladiatorDuel.outcomeChances.3.label>Незабываемо</GladiatorDuel.outcomeChances.3.label>
+  <!-- EN: The duel was unforgettable! Both fighters gave all they had, and the death showed their dedication. -->
+  <GladiatorDuel.outcomeChances.3.description>Дуэль была незабываемой! Оба бойца отдали все, что у них было, и смерть показала их преданность.</GladiatorDuel.outcomeChances.3.description>
+  
+  <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
+  <Sacrifice.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</Sacrifice.description>
+  <!-- EN: moral guide present -->
+  <Sacrifice.comps.2.label>духовный лидер присутствует</Sacrifice.comps.2.label>
+  <!-- EN: participant count -->
+  <Sacrifice.comps.3.label>количество участников</Sacrifice.comps.3.label>
+  <!-- EN: started at altar -->
+  <Sacrifice.comps.4.label>началось у алтаря</Sacrifice.comps.4.label>
+  <!-- EN: an altar -->
+  <Sacrifice.comps.4.expectedThingLabelTip>алтарь</Sacrifice.comps.4.expectedThingLabelTip>
+  <!-- EN: If the<x> {0} </x>is satisfying, one of the participants might gain an inspiration. -->
+  <Sacrifice.extraPredictedOutcomeDescriptions.0>Если {0} удовлетворяет, один из участников может получить вдохновение.</Sacrifice.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Terrible -->
+  <Sacrifice.outcomeChances.0.label>Ужасно</Sacrifice.outcomeChances.0.label>
+  <!-- EN: The<x> {0} </x>was terrible! The speech was stuttering and incoherent, and the killing technique was botched. The victim took far too long to die - everyone was waiting for it to end. -->
+  <Sacrifice.outcomeChances.0.description> {0} прошло ужасно! Речь была заикающейся и бессвязной, а техника убийства была испорчена. Жертва слишком долго умирала - все ждали, когда это закончится.</Sacrifice.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <Sacrifice.outcomeChances.1.label>Скучно</Sacrifice.outcomeChances.1.label>
+  <!-- EN: The<x> {0} </x>was boring. The speech was repetitive and the killing technique was noticeably flawed. It just didn't feel dignified. -->
+  <Sacrifice.outcomeChances.1.description> {0} прошло скучно. Речь была повторяющейся, а техника убийства была заметно испорчена. Это просто не казалось достойным.</Sacrifice.outcomeChances.1.description>
+  <!-- EN: Satisfying -->
+  <Sacrifice.outcomeChances.2.label>Удовлетворительно</Sacrifice.outcomeChances.2.label>
+  <!-- EN: The<x> {0} </x>was satisfying. The speech felt meaningful, and the killing technique was precise and dignified. -->
+  <Sacrifice.outcomeChances.2.description> {0} прошло удовлетворительно. Речь казалась осмысленной, а техника убийства была точной и достойной.</Sacrifice.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gets an inspiration. -->
+  <Sacrifice.outcomeChances.2.potentialExtraOutcomeDesc>Вероятность того, что случайный участник получит вдохновение, составляет 5%.</Sacrifice.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Spectacular -->
+  <Sacrifice.outcomeChances.3.label>Впечатляюще</Sacrifice.outcomeChances.3.label>
+  <!-- EN: The<x> {0} </x>was spectacular! The speech brought everyone to the edge of a frenzy just as the blade came down perfectly, and the spurting blood was like cleansing waters for the spirit. -->
+  <Sacrifice.outcomeChances.3.description> {0} прошло впечатляюще! Эта речь привела всех на грань безумия как раз в тот момент, когда лезвие опустилось идеально, и хлынувшая кровь была подобна очищающей воде для духа.</Sacrifice.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance that a random participant gets an inspiration. -->
+  <Sacrifice.outcomeChances.3.potentialExtraOutcomeDesc>Вероятность того, что случайный участник получит вдохновение, составляет 10%.</Sacrifice.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
+  <ScarificationCeremony.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</ScarificationCeremony.description>
+  <!-- EN: moral guide present -->
+  <ScarificationCeremony.comps.2.label>духовный лидер присутствует</ScarificationCeremony.comps.2.label>
+  <!-- EN: participant count -->
+  <ScarificationCeremony.comps.3.label>количество участников</ScarificationCeremony.comps.3.label>
+  <!-- EN: started at altar -->
+  <ScarificationCeremony.comps.4.label>началось у алтаря</ScarificationCeremony.comps.4.label>
+  <!-- EN: an altar -->
+  <ScarificationCeremony.comps.4.expectedThingLabelTip>алтарь</ScarificationCeremony.comps.4.expectedThingLabelTip>
+  <!-- EN: Terrible -->
+  <ScarificationCeremony.outcomeChances.0.label>Ужасно</ScarificationCeremony.outcomeChances.0.label>
+  <!-- EN: The<x> {0} </x>was terrible! The speech was stuttering and incoherent, and the scarification technique was botched. Everyone was waiting for it to end. -->
+  <ScarificationCeremony.outcomeChances.0.description> {0} прошло ужасно! Речь была заикающейся и бессвязной, а техника скарификации была испорчена. Все ждали, когда это закончится.</ScarificationCeremony.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <ScarificationCeremony.outcomeChances.1.label>Скучно</ScarificationCeremony.outcomeChances.1.label>
+  <!-- EN: The<x> {0} </x>was boring. The speech was repetitive and the scarification technique was noticeably flawed. It just didn't feel dignified. -->
+  <ScarificationCeremony.outcomeChances.1.description> {0} прошло скучно. Речь была повторяющейся, а техника скарификации была заметно испорчена. Это просто не казалось достойным.</ScarificationCeremony.outcomeChances.1.description>
+  <!-- EN: Satisfying -->
+  <ScarificationCeremony.outcomeChances.2.label>Удовлетворительный</ScarificationCeremony.outcomeChances.2.label>
+  <!-- EN: The<x> {0} </x>was satisfying. The speech felt meaningful, and the scarification technique was precise and dignified. -->
+  <ScarificationCeremony.outcomeChances.2.description> {0} прошло удовлетворительно. Речь казалась осмысленной, а техника скарификации была точной и достойной.</ScarificationCeremony.outcomeChances.2.description>
+  <!-- EN: Spectacular -->
+  <ScarificationCeremony.outcomeChances.3.label>Впечатляюще</ScarificationCeremony.outcomeChances.3.label>
+  <!-- EN: The<x> {0} </x>was spectacular! The speech brought everyone to the edge of a frenzy as the bladeholder artfully rended living flesh. -->
+  <ScarificationCeremony.outcomeChances.3.description> {0} прошло впечатляюще! Эта речь привела всех на грань безумия, когда держатель клинка искусно разорвал живую плоть.</ScarificationCeremony.outcomeChances.3.description>
+  
+  <!-- EN: The trial quality determines the chance that the defendant will be convicted. -->
+  <Trial.description>Качество судебного разбирательства определяет вероятность того, что обвиняемый будет осужден.</Trial.description>
+  <!-- EN: participant count -->
+  <Trial.comps.0.label>количество участников</Trial.comps.0.label>
+  <!-- EN: <x>{PAWN_labelShort}</x>'s negotiation ability -->
+  <Trial.comps.1.label>{PAWN_labelShort} способность к переговорам</Trial.comps.1.label>
+  <!-- EN: Leader's negotiation ability -->
+  <Trial.comps.1.labelAbstract>Способность лидера вести переговоры</Trial.comps.1.labelAbstract>
+  <!-- EN: <x>{PAWN_labelShort}</x>'s negotiation ability -->
+  <Trial.comps.2.label>{PAWN_labelShort} способность к переговорам</Trial.comps.2.label>
+  <!-- EN: Defendant's negotiation ability -->
+  <Trial.comps.2.labelAbstract>Способность ответчика вести переговоры</Trial.comps.2.labelAbstract>
+  <!-- EN: exonerated -->
+  <Trial.outcomeChances.0.label>оправдан</Trial.outcomeChances.0.label>
+  <!-- EN: The prosecutor<x> {PROSECUTOR_labelShort}</x>'s arguments failed to convince anyone.<x> {PAWN_labelShort} </x>was exonerated. -->
+  <Trial.outcomeChances.0.description>Аргументы прокурора {PROSECUTOR_labelShort} никого не убедили. {PAWN_labelShort} был оправдан.</Trial.outcomeChances.0.description>
+  <!-- EN: convicted -->
+  <Trial.outcomeChances.1.label>осужденный</Trial.outcomeChances.1.label>
+  <!-- EN: The prosecution convinced everyone of<x> {PAWN_labelShort}</x>'s guilt.<x> {PAWN_labelShort}</x> was convicted and can now be punished. You may execute or banish<x> {PAWN_objective} </x>and nobody will mind. -->
+  <Trial.outcomeChances.1.description>Обвинение убедило всех в виновности {PAWN_labelShort}. {PAWN_labelShort} был осужден и теперь может быть наказан. Вы можете казнить или изгнать {PAWN_possessive}, и никто не будет возражать.</Trial.outcomeChances.1.description>
+  
+  <!-- EN: The trial quality determines the chance that the defendant will be convicted. -->
+  <TrialMentalState.description>Качество судебного разбирательства определяет вероятность того, что обвиняемый будет осужден.</TrialMentalState.description>
+  <!-- EN: participant count -->
+  <TrialMentalState.comps.0.label>количество участников</TrialMentalState.comps.0.label>
+  <!-- EN: <x>{PAWN_labelShort}</x>'s negotiation ability -->
+  <TrialMentalState.comps.1.label>{PAWN_labelShort} способность к переговорам</TrialMentalState.comps.1.label>
+  <!-- EN: Leader's negotiation ability -->
+  <TrialMentalState.comps.1.labelAbstract>Способность лидера вести переговоры</TrialMentalState.comps.1.labelAbstract>
+  <!-- EN: exonerated -->
+  <TrialMentalState.outcomeChances.0.label>оправдан</TrialMentalState.outcomeChances.0.label>
+  <!-- EN: The prosecutor<x> {PROSECUTOR_labelShort}</x>'s arguments failed to convince anyone.<x> {PAWN_labelShort} </x>was exonerated. -->
+  <TrialMentalState.outcomeChances.0.description>Аргументы прокурора {PROSECUTOR_labelShort} никого не убедили. {PAWN_labelShort} был оправдан.</TrialMentalState.outcomeChances.0.description>
+  <!-- EN: convicted -->
+  <TrialMentalState.outcomeChances.1.label>осужденный</TrialMentalState.outcomeChances.1.label>
+  <!-- EN: The prosecution convinced everyone of<x> {PAWN_labelShort}</x>'s guilt.<x> {PAWN_labelShort}</x> was convicted and can now be punished. You may execute or banish<x> {PAWN_objective} </x>and nobody will mind. -->
+  <TrialMentalState.outcomeChances.1.description>Обвинение убедило всех в виновности {PAWN_labelShort}. {PAWN_labelShort} был осужден и теперь может быть наказан. Вы можете казнить или изгнать {PAWN_possessive}, и никто не будет возражать.</TrialMentalState.outcomeChances.1.description>
+  
+  <!-- Core fix -->
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <AttendedSpeech.description>В зависимости от успешности ритуала, его участники получат бонус к настроению от {MINMOOD} до {MAXMOOD} на {MOODDAYS} дней.</AttendedSpeech.description>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <AttendedSpeech.comps.0.label>социальное влияние {PAWN_labelShort}</AttendedSpeech.comps.0.label>
+  <!-- EN: speaker's social impact -->
+  <AttendedSpeech.comps.0.labelAbstract>социальное влияние говорящего</AttendedSpeech.comps.0.labelAbstract>
+  <!-- EN: participant count -->
+  <AttendedSpeech.comps.1.label>количество участников</AttendedSpeech.comps.1.label>
+  <!-- EN: room impressiveness -->
+  <AttendedSpeech.comps.2.label>впечатление от комнаты</AttendedSpeech.comps.2.label>
+  <!-- EN: Terrible -->
+  <AttendedSpeech.outcomeChances.0.label>ужасно</AttendedSpeech.outcomeChances.0.label>
+  <!-- EN: Uninspiring -->
+  <AttendedSpeech.outcomeChances.1.label>скучно</AttendedSpeech.outcomeChances.1.label>
+  <!-- EN: Encouraging -->
+  <AttendedSpeech.outcomeChances.2.label>обнадёживающе</AttendedSpeech.outcomeChances.2.label>
+  <!-- EN: Inspirational -->
+  <AttendedSpeech.outcomeChances.3.label>вдохновляюще</AttendedSpeech.outcomeChances.3.label>
+  
+</LanguageData>

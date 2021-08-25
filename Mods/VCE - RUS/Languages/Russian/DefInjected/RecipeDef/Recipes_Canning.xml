@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CanMeats.label>консервировать мясо x20</VCE_CanMeats.label>
+  <VCE_CanMeats.description>Надежно сохраняет куски мяса в стальной таре. Консервирование пищевых продуктов продлевает их хранения почти на неопределенный срок.</VCE_CanMeats.description>
+  <VCE_CanMeats.jobString>Консервирует мясо.</VCE_CanMeats.jobString>
+
+  <VCE_CanProduce.label>консервировать овощи x20</VCE_CanProduce.label>
+  <VCE_CanProduce.description>Надежно сохраняет овощи в стальной таре. Консервирование пищевых продуктов продлевает их хранения почти на неопределенный срок.</VCE_CanProduce.description>
+  <VCE_CanProduce.jobString>Консервирует овощи.</VCE_CanProduce.jobString>
+
+  <VCE_CanFruit.label>консервировать фрукты x20</VCE_CanFruit.label>
+  <VCE_CanFruit.description>Надежно сохраняет фрукты в стальной таре. Консервирование пищевых продуктов продлевает их хранения почти на неопределенный срок.\n\nКонсервированные фрукты можно использовать при производстве десертов.</VCE_CanFruit.description>
+  <VCE_CanFruit.jobString>Консервирует фрукты.</VCE_CanFruit.jobString>
+
+  <VCE_CanEggs.label>консервировать яйца x20</VCE_CanEggs.label>
+  <VCE_CanEggs.description>Надежно сохраняет вареные яйца в стальной таре. Консервирование пищевых продуктов продлевает их хранения почти на неопределенный срок.</VCE_CanEggs.description>
+  <VCE_CanEggs.jobString>Консервирует яйца.</VCE_CanEggs.jobString>
+
+</LanguageData>

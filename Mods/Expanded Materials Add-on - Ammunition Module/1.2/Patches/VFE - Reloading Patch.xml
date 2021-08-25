@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Vanilla Weapons Expanded - Heavy</li>
+    </mods>
+	<match Class="PatchOperationFindMod">
+    <mods>
+        <li>Vanilla Weapons Expanded - Heavy - Reloading Patch</li>
+    </mods>
+		<match Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VWE_Gun_Autocannon"]/comps/li [@Class="Reloading.CompProperties_Reloadable"]/AmmoFilter/thingDefs</xpath>
+					<value>
+						<thingDefs>
+							<li>VMEu_HeavyAmmo</li>
+						</thingDefs>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName="VWE_Gun_UraniumSlugRifle"]/comps/li [@Class="Reloading.CompProperties_Reloadable"]/AmmoFilter/thingDefs</xpath>
+					<value>
+						<thingDefs>
+							<li>VMEu_SniperAmmo</li>
+						</thingDefs>
+					</value>
+				</li>
+			</operations>
+		</match>
+		</match>
+</Operation>
+
+</Patch>

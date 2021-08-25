@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: convert -->
+  <Convert.label>обращение</Convert.label>
+  <!-- EN: Wardens will attempt to convert the prisoner to their ideoligion. -->
+  <Convert.description>Надзиратели попытаются обратить заключенного в свою идеологию.</Convert.description>
+  
+  <!-- EN: enslave -->
+  <Enslave.label>порабощение</Enslave.label>
+  <!-- EN: Wardens will threaten the prisoner to reduce their will. Once they have no will left, the warden will enslave them. -->
+  <Enslave.description>Надзиратели будут угрожать заключенному, чтобы ослабить его волю. Как только у них не останется воли, надзиратель порабощает их.</Enslave.description>
+  
+  <!-- EN: reduce will -->
+  <ReduceWill.label>ослабить волю</ReduceWill.label>
+  <!-- EN: Wardens will threaten the prisoner to reduce their will, but won't enslave them. -->
+  <ReduceWill.description>Надзиратели будут угрожать заключенному, чтобы ослабить его волю, но не будут порабощать его.</ReduceWill.description>
+  
+</LanguageData>

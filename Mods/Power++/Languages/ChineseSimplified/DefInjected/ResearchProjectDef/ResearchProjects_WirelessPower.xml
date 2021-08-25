@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ARKPPP_WirelessPowerTheoryResearch.label>无线电力传输理论</ARKPPP_WirelessPowerTheoryResearch.label>
+  <ARKPPP_WirelessPowerTheoryResearch.description>允许你解锁无线电力科技。</ARKPPP_WirelessPowerTheoryResearch.description>
+
+  <ARKPPP_WirelessPowerShortRangeResearch.label>本地无线电网（LWPN）</ARKPPP_WirelessPowerShortRangeResearch.label>
+  <ARKPPP_WirelessPowerShortRangeResearch.description>允许你创建稳定的本地无线电网（LWPN），无需电缆即可连接电气设备。</ARKPPP_WirelessPowerShortRangeResearch.description>
+
+  <ARKPPP_WirelessPowerShortRangePortableResearch.label>便携LWPN发射器</ARKPPP_WirelessPowerShortRangePortableResearch.label>
+  <ARKPPP_WirelessPowerShortRangePortableResearch.description>允许你建造便携LWPN发射器，对于远征和任务地图十分实用。</ARKPPP_WirelessPowerShortRangePortableResearch.description>
+
+  <ARKPPP_WirelessPowerLongRangeResearch.label>远距离无线电网 (WPN)</ARKPPP_WirelessPowerLongRangeResearch.label>
+  <ARKPPP_WirelessPowerLongRangeResearch.description>允许你创建稳定的远距离无线电网 (WPN)。</ARKPPP_WirelessPowerLongRangeResearch.description>
+
+  <ARKPPP_WirelessPowerLongRangeAdvancedResearch.label>先进WPN发射器</ARKPPP_WirelessPowerLongRangeAdvancedResearch.label>
+  <ARKPPP_WirelessPowerLongRangeAdvancedResearch.description>允许你建造先进WPN发射器，一个消耗更少能量并且可以再雷暴中工作的发射器。</ARKPPP_WirelessPowerLongRangeAdvancedResearch.description>
+
+  <ARKPPP_WirelessPowerLongRangePortableReceptorResearch.label>便携WPN接收器</ARKPPP_WirelessPowerLongRangePortableReceptorResearch.label>
+  <ARKPPP_WirelessPowerLongRangePortableReceptorResearch.description>允许你建造便携WPN接收器，对于远征和任务地图十分实用。</ARKPPP_WirelessPowerLongRangePortableReceptorResearch.description>
+
+  <ARKPPP_WirelessPowerLongRangeARES.label>ARES</ARKPPP_WirelessPowerLongRangeARES.label>
+  <ARKPPP_WirelessPowerLongRangeARES.description>允许你将WPN接收器作为武器，一种通过从电网源头瞬间倾泻出所有能量，然后引导成局部的强雷暴。</ARKPPP_WirelessPowerLongRangeARES.description>
+
+  <ARKPPP_WirelessPowerLongRangeARESEMP.label>ARES EMP</ARKPPP_WirelessPowerLongRangeARESEMP.label>
+  <ARKPPP_WirelessPowerLongRangeARESEMP.description>一种另类使用ARES系统的办法，可以产生使其影响范围内所有电力系统烧毁的强大电磁脉冲。</ARKPPP_WirelessPowerLongRangeARESEMP.description>
+
+  <ARKPPP_WirelessPowerLongRangeARES2.label>ARES 2.0</ARKPPP_WirelessPowerLongRangeARES2.label>
+  <ARKPPP_WirelessPowerLongRangeARES2.description>一种改进自ARES系统的武器，显著的提升了雷暴的直径和强度。</ARKPPP_WirelessPowerLongRangeARES2.description>
+
+  <ARKPPP_HackingSatelliteNetwork.label>卫星电力收集网络骇入</ARKPPP_HackingSatelliteNetwork.label>
+  <ARKPPP_HackingSatelliteNetwork.description>允许你解锁卫星电力收集网络相关的科技。</ARKPPP_HackingSatelliteNetwork.description>
+
+  <ARKPPP_HackingSatelliteNetworkSTS.label>卫星导向系统</ARKPPP_HackingSatelliteNetworkSTS.label>
+  <ARKPPP_HackingSatelliteNetworkSTS.description>允许你解锁卫星导向系统，可以直接引导精确到厘米的轨道能量束到远古能量接收器。</ARKPPP_HackingSatelliteNetworkSTS.description>
+
+  <ARKPPP_HackingSatelliteNetworkAD.label>远古能量接收器</ARKPPP_HackingSatelliteNetworkAD.label>
+  <ARKPPP_HackingSatelliteNetworkAD.description>允许你建造巨大的远古能量接收器。</ARKPPP_HackingSatelliteNetworkAD.description>
+
+  <ARKPPP_HackingSatelliteNetworkLens.label>光束渲染镜</ARKPPP_HackingSatelliteNetworkLens.label>
+  <ARKPPP_HackingSatelliteNetworkLens.description>允许你改变能量束的颜色</ARKPPP_HackingSatelliteNetworkLens.description>
+
+  <ARKPPP_HackingSatelliteNetworkADRT.label>远程能量接收器</ARKPPP_HackingSatelliteNetworkADRT.label>
+  <ARKPPP_HackingSatelliteNetworkADRT.description>允许你建造远程连接STS和AD的AD基站。</ARKPPP_HackingSatelliteNetworkADRT.description>
+
+
+</LanguageData>

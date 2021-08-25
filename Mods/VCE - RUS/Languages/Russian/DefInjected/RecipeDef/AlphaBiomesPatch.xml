@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_DeepFryAlienFish.label>обжарить инопланетную рыбу во фритюре x20</VCE_DeepFryAlienFish.label>
+  <VCE_DeepFryAlienFish.description>Обжаривать во фритюре инопланетную рыбу. Жареная во фритюре рыба очень вкусна, но не очень полезна для здоровья.</VCE_DeepFryAlienFish.description>
+  <VCE_DeepFryAlienFish.jobString>Обжаривает инопланетную рыбу во фритюре x20</VCE_DeepFryAlienFish.jobString>
+
+  <VCE_CanAlienFish.label>консервировать инопланетную рыбу x20</VCE_CanAlienFish.label>
+  <VCE_CanAlienFish.description>Надежно сохраняет инопланетную рыбу в стальной таре. Консервирование пищевых продуктов продлевает их хранения почти на неопределенный срок.</VCE_CanAlienFish.description>
+  <VCE_CanAlienFish.jobString>консервирует инопланетную рыбу x20</VCE_CanAlienFish.jobString>
+
+</LanguageData>

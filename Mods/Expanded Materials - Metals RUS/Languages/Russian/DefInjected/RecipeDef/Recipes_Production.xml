@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Make Charcoal -->
+
+  <VMEu_MakeCharcoal.label>Сделать древесный уголь</VMEu_MakeCharcoal.label>
+  <VMEu_MakeCharcoal.description>Сжечь древесину, чтобы получить древесный уголь, это не так хорошо, как каменный уголь, но все же лучше чем ничего.</VMEu_MakeCharcoal.description>
+  <VMEu_MakeCharcoal.jobString>Раздробить камень в порошок.</VMEu_MakeCharcoal.jobString>
+
+
+  <!-- Make Rock Powder -->
+
+  <VMEu_MakeRockPowder.label>Сделать каменный порошок</VMEu_MakeRockPowder.label>
+  <VMEu_MakeRockPowder.description>Раздробить наземные камни, чтобы сделать каменный порошок, полезный материал, устойчивый к огню, используемый обычно для строительства дешевых стен и полов.</VMEu_MakeRockPowder.description>
+  <VMEu_MakeRockPowder.jobString>Раздробить камень в порошок.</VMEu_MakeRockPowder.jobString>
+
+
+  <!-- Make Concrete -->
+
+  <VMEu_MakeConcrete.label>Сделать бетон</VMEu_MakeConcrete.label>
+  <VMEu_MakeConcrete.description>Измельчённый камень, смешанный с железной пылью, огнеупорен. Всё это делает бетон наиболее усточивым материалом.</VMEu_MakeConcrete.description>
+  <VMEu_MakeConcrete.jobString>Сделать бетон.</VMEu_MakeConcrete.jobString>
+
+  <VMEu_MakeBulkConcrete.label>Сделать много бетона</VMEu_MakeBulkConcrete.label>
+  <VMEu_MakeBulkConcrete.description>Измельчённый камень, смешанный с железной пылью, огнеупорен. Всё это делает бетон наиболее усточивым материалом.</VMEu_MakeBulkConcrete.description>
+  <VMEu_MakeBulkConcrete.jobString>Сделать бетон.</VMEu_MakeBulkConcrete.jobString>
+
+  <VMEu_MakeConcreteRockPowder.label>Сделать бетон с добавлением каменного порошка</VMEu_MakeConcreteRockPowder.label>
+  <VMEu_MakeConcreteRockPowder.description>Измельчённый камень, смешанный с железной пылью, огнеупорен. Всё это делает бетон наиболее усточивым материалом.</VMEu_MakeConcreteRockPowder.description>
+  <VMEu_MakeConcreteRockPowder.jobString>Сделать бетон.</VMEu_MakeConcreteRockPowder.jobString>
+
+
+  <!-- Make chemfuel from fossils -->
+
+  <VMEu_MakeChemfuelFromFossil.label>Сделать химтопливо из ископаемых</VMEu_MakeChemfuelFromFossil.label>
+  <VMEu_MakeChemfuelFromFossil.description>Долгий процесс в ходе которого из окаменелостей извлекается огромное количество химтоплива.</VMEu_MakeChemfuelFromFossil.description>
+  <VMEu_MakeChemfuelFromFossil.jobString>Производство химтопливо из ископаемых.</VMEu_MakeChemfuelFromFossil.jobString>
+
+
+  <!-- Dark Oil -->
+
+  <VMEu_MakeDarkOilFromFossil.label>Сделать тёмное масло из ископаемых</VMEu_MakeDarkOilFromFossil.label>
+  <VMEu_MakeDarkOilFromFossil.description>Длительный процесс, предполагающий приготовление окаменелостей с использованием системы медленного испарения для получения наиболее чистого темного масла.</VMEu_MakeDarkOilFromFossil.description>
+  <VMEu_MakeDarkOilFromFossil.jobString>Производство химтоплива из ископаемых.</VMEu_MakeDarkOilFromFossil.jobString>
+
+
+  <!-- Bronze Making -->
+
+  <VMEu_MakeBronze.label>Изготовить бронзу</VMEu_MakeBronze.label>
+  <VMEu_MakeBronze.description>Сплав меди и олова, довольно хороший материал, как для украшений, так и для оружия, также полезен при изготовлении специфических электрических компонентов.</VMEu_MakeBronze.description>
+  <VMEu_MakeBronze.jobString>Выплавка бронзы.</VMEu_MakeBronze.jobString>
+
+
+  <!-- Steel Making -->
+
+  <VMEu_MakeSteel.label>Изготовить сталь</VMEu_MakeSteel.label>
+  <VMEu_MakeSteel.description>Сплав из железа и углерода, сталь более устойчива к ржавчине и прочнее, чем железо.</VMEu_MakeSteel.description>
+  <VMEu_MakeSteel.jobString>Выплавка стали.</VMEu_MakeSteel.jobString>
+
+
+  <!-- Steel Bulk Making -->
+
+  <VMEu_MakeBulkSteel.label>Изготовить много стали</VMEu_MakeBulkSteel.label>
+  <VMEu_MakeBulkSteel.description>Сплав из железа и углерода, сталь более устойчива к ржавчине и прочнее, чем железо.</VMEu_MakeBulkSteel.description>
+  <VMEu_MakeBulkSteel.jobString>Выплавка стали.</VMEu_MakeBulkSteel.jobString>
+
+
+  <!-- Steel with charcoal -->
+
+  <VMEu_MakeSteelCharcoal.label>Изготовить сталь используя древесный уголь</VMEu_MakeSteelCharcoal.label>
+  <VMEu_MakeSteelCharcoal.description>Сплав из железа и углерода, сталь более устойчива к ржавчине и прочнее, чем железо.\n\nПроизводство стали с использованием древесного угля вместо минерального угля. Менее эффективно.</VMEu_MakeSteelCharcoal.description>
+  <VMEu_MakeSteelCharcoal.jobString>Выплавка стали.</VMEu_MakeSteelCharcoal.jobString>
+
+
+  <!-- Stainless Steel Making -->
+
+  <VMEu_MakeStainlessSteel.label>Изготовить нержавеющую сталь</VMEu_MakeStainlessSteel.label>
+  <VMEu_MakeStainlessSteel.description>Сплав специального типа стали путем смешивания с хромом и вольфрамом, эта сталь используется для изготовления медицинских протезов, бионики и синтетических органов.</VMEu_MakeStainlessSteel.description>
+  <VMEu_MakeStainlessSteel.jobString>Выплавка нержавеющей стали.</VMEu_MakeStainlessSteel.jobString>
+
+
+  <!-- Bulk Stainless Steel -->
+
+  <VMEu_MakeBulkStainlessSteel.label>Изготовить много нержавеющей стали</VMEu_MakeBulkStainlessSteel.label>
+  <VMEu_MakeBulkStainlessSteel.description>Сплав специального типа стали путем смешивания с хромом и вольфрамом, эта сталь используется для изготовления медицинских протезов, бионики и синтетических органов.</VMEu_MakeBulkStainlessSteel.description>
+  <VMEu_MakeBulkStainlessSteel.jobString>Выплавка нержавеющей стали.</VMEu_MakeBulkStainlessSteel.jobString>
+
+
+  <!-- Plasteel Making -->
+
+  <VMEu_MakePlasteel.label>Изготовить пласталь</VMEu_MakePlasteel.label>
+  <VMEu_MakePlasteel.description>Сталь, при воздействии чрезвычайно высоких температур и химически закаленная смесью темного масла и нейтроамина, превращается в пласталь.\n\nМатериал получается в конце, при низкой температуре, с использованием высокой концентрации химического взрывчатого вещества, полученного из лития.</VMEu_MakePlasteel.description>
+  <VMEu_MakePlasteel.jobString>Выплавка пластали.</VMEu_MakePlasteel.jobString>
+
+
+</LanguageData>

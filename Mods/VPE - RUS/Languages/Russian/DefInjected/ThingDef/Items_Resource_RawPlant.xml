@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_RawOnion.label>лук</VCE_RawOnion.label>
+  <VCE_RawOnion.description>Съедобная луковица с резким, пикантным вкусом и запахом. Разновидностей лука почти столько же, сколько и его кулинарных применений.</VCE_RawOnion.description>
+
+  <VCE_RawPumpkin.label>тыквы</VCE_RawPumpkin.label>
+  <VCE_RawPumpkin.description>Тыква, технически являющаяся гигантской ягодой, известна тем, что ее легко сеять и собирать.</VCE_RawPumpkin.description>
+
+  <VCE_RawPepper.label>перцы</VCE_RawPepper.label>
+  <VCE_RawPepper.description>Крошечные пряные ярко-красные стручки часто используются в соусах, приправах и порошках. Хотя сам вкус перца мягкий, капсаицин, содержащийся внутри, делает людей зависимыми от его странного острого вкуса. Известно, что животные полностью избегают употребления в пищу этого растения.</VCE_RawPepper.description>
+
+  <VCE_RawPeas.label>горох</VCE_RawPeas.label>
+  <VCE_RawPeas.description>Круглые зеленые семена, надежно спрятанные в мясистый стручок. Горох отличается долгим сроком хранения, если его правильно высушить.</VCE_RawPeas.description>
+
+  <VCE_RawEggplant.label>баклажаны</VCE_RawEggplant.label>
+  <VCE_RawEggplant.description>Продолговатый фиолетовый плод семейства пасленовых. Баклажан редко подают в качестве гарнина, обычно он выполняет роль основного компонента блюда.</VCE_RawEggplant.description>
+
+  <VCE_RawCabbage.label>капуста</VCE_RawCabbage.label>
+  <VCE_RawCabbage.description>Выносливый листовой зеленый овощ, который часто нарезают, чтобы мариновать и тушить.</VCE_RawCabbage.description>
+
+  <VCE_RawBeets.label>свекла</VCE_RawBeets.label>
+  <VCE_RawBeets.description>Овощ, похожий на траву, широко культивируемый как для людей, так и для домашнего скота, обладающий особыми питательными свойствами. Исторически используется в производстве красителей.</VCE_RawBeets.description>
+
+  <VCE_RawTomatoes.label>томаты</VCE_RawTomatoes.label>
+  <VCE_RawTomatoes.description>Сочные и наливные красные плоды, растущие наподобие виноградной лозы. В кулинарии обычно используется в качестве овоща. Тушение позволяет высвободить натуральный сахар и смягчает содержащиеся в томате кислоты.</VCE_RawTomatoes.description>
+
+
+</LanguageData>

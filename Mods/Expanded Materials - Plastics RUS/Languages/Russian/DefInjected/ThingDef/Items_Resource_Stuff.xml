@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Asphalt Mix -->
+
+  <VMEu_AsphaltMix.label>асфальт</VMEu_AsphaltMix.label>
+  <VMEu_AsphaltMix.description>Каменная крошка, смешанная при высоких температурах с нефтью, после переработки, такой густой и легковоспламеняющейя. Асфальт идеально подходит для устройства дорог, и он не так уродлив, как бетон.</VMEu_AsphaltMix.description>
+
+
+  <!-- Polyester Cloth -->
+
+  <VMEu_PolyesterCloth.label>полиэстер</VMEu_PolyesterCloth.label>
+  <VMEu_PolyesterCloth.description>Полиэстер, сотканный из синтетических волокон.</VMEu_PolyesterCloth.description>
+  <VMEu_PolyesterCloth.stuffProps.stuffAdjective>полиэстер</VMEu_PolyesterCloth.stuffProps.stuffAdjective>
+
+
+  <!-- Synthleather -->
+
+  <VMEu_Synthleather_Black.label>кожезаменитель (чёрный)</VMEu_Synthleather_Black.label>
+  <VMEu_Synthleather_Black.description>Синтетический искусственный материал, имитирующий кожу, требует времени для изготовления, и хотя он не так устойчив к физическим нагрузкам, как другие несинтетические кожи, он обладает большой изоляционной способностью и может иметь различные цвета.</VMEu_Synthleather_Black.description>
+  <VMEu_Synthleather_Black.stuffProps.stuffAdjective>искусственная кожа</VMEu_Synthleather_Black.stuffProps.stuffAdjective>
+
+  <VMEu_Synthleather_Brown.label>кожезаменитель (коричневый)</VMEu_Synthleather_Brown.label>
+  <VMEu_Synthleather_Brown.description>Синтетический искусственный материал, имитирующий кожу, требует времени для изготовления, и хотя он не так устойчив к физическим нагрузкам, как другие несинтетические кожи, он обладает большой изоляционной способностью и может иметь различные цвета.</VMEu_Synthleather_Brown.description>
+  <VMEu_Synthleather_Brown.stuffProps.stuffAdjective>искусственная кожа</VMEu_Synthleather_Brown.stuffProps.stuffAdjective>
+
+  <VMEu_Synthleather_Beige.label>кожезаменитель (бежевый)</VMEu_Synthleather_Beige.label>
+  <VMEu_Synthleather_Beige.description>Синтетический искусственный материал, имитирующий кожу, требует времени для изготовления, и хотя он не так устойчив к физическим нагрузкам, как другие несинтетические кожи, он обладает большой изоляционной способностью и может иметь различные цвета.</VMEu_Synthleather_Beige.description>
+  <VMEu_Synthleather_Beige.stuffProps.stuffAdjective>искусственная кожа</VMEu_Synthleather_Beige.stuffProps.stuffAdjective>
+
+  <VMEu_Synthleather_Crimson.label>кожезаменитель (малиновый)</VMEu_Synthleather_Crimson.label>
+  <VMEu_Synthleather_Crimson.description>Синтетический искусственный материал, имитирующий кожу, требует времени для изготовления, и хотя он не так устойчив к физическим нагрузкам, как другие несинтетические кожи, он обладает большой изоляционной способностью и может иметь различные цвета.</VMEu_Synthleather_Crimson.description>
+  <VMEu_Synthleather_Crimson.stuffProps.stuffAdjective>искусственная кожа</VMEu_Synthleather_Crimson.stuffProps.stuffAdjective>
+
+
+  <!-- Cheap Plastic -->
+
+  <VMEu_LiquidPlastic_TierOne.label>жидкий дешёвый пластик</VMEu_LiquidPlastic_TierOne.label>
+  <VMEu_LiquidPlastic_TierOne.description>Горячая, жидкая полимерная основа из нефти и нейтроамина. Самый простой и дешевый из всех материалов на основе нефти.\n\nДолжен быть переработан в пластиковом процессоре, чтобы превратиться в пригодные для дальнейшего использования материалы.</VMEu_LiquidPlastic_TierOne.description>
+
+  <VMEu_PlasticPellets_TierOne.label>дешёвые пластиковые гранулы</VMEu_PlasticPellets_TierOne.label>
+  <VMEu_PlasticPellets_TierOne.description>Пластик промышленного класса, используется для изготовления дешевой мебели и промышленных изделий.</VMEu_PlasticPellets_TierOne.description>
+  <VMEu_PlasticPellets_TierOne.stuffProps.stuffAdjective>пластик</VMEu_PlasticPellets_TierOne.stuffProps.stuffAdjective>
+
+  <VMEu_PlasticPlanks_TierOne.label>дешёвые пластиковые панели</VMEu_PlasticPlanks_TierOne.label>
+  <VMEu_PlasticPlanks_TierOne.description>Пластик промышленного класса, профилированный в плиты, обычно используется для возведения декоративных стен, полов и других конструкций, основная цель которых - красиво выглядеть.</VMEu_PlasticPlanks_TierOne.description>
+  <VMEu_PlasticPlanks_TierOne.stuffProps.stuffAdjective>пластик</VMEu_PlasticPlanks_TierOne.stuffProps.stuffAdjective>
+
+  <VMEu_LiquidPlastic_TierTwo.label>жидкий полимерный пластик</VMEu_LiquidPlastic_TierTwo.label>
+  <VMEu_LiquidPlastic_TierTwo.description>Горячая, жидкая полимерная основа, изготовленная из нефти и пронитамина. Передовой полимерный материал, широко используемый в различных отраслях промышленности.\n\nДолжен быть переработан в пластиковом процессоре, чтобы превратиться в пригодные для дальнейшего использования материалы.</VMEu_LiquidPlastic_TierTwo.description>
+
+  <VMEu_PlasticPellets_TierTwo.label>полимерные пластиковые гранулы</VMEu_PlasticPellets_TierTwo.label>
+  <VMEu_PlasticPellets_TierTwo.description>Передовой полимер промышленного класса, используемый для передовых технических решений. Благодаря химическим свойствам пронитамина, этот материал превосходно заменяет другие материалы промышленного класса, прежде всего сталь.\n\nДругие материалы не могли быть полностью заменены этим полимером, в результате чего изделия получались не такими прочными, как те, что были изготовлены из оригинального материала, однако это гораздо лучше, чем ничего.</VMEu_PlasticPellets_TierTwo.description>
+  <VMEu_PlasticPellets_TierTwo.stuffProps.stuffAdjective>пластик</VMEu_PlasticPellets_TierTwo.stuffProps.stuffAdjective>
+
+
+</LanguageData>

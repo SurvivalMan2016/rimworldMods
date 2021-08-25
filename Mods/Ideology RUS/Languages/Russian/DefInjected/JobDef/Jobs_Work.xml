@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: changing dryad caste of TargetA. -->
+  <ChangeTreeMode.reportString>изменение касты дриад TargetA.</ChangeTreeMode.reportString>
+  
+  <!-- EN: creating cocoon. -->
+  <CreateAndEnterCocoon.reportString>создание кокона.</CreateAndEnterCocoon.reportString>
+  
+  <!-- EN: extracting skull from TargetA. -->
+  <ExtractSkull.reportString>извлечение черепа из TargetA.</ExtractSkull.reportString>
+  
+  <!-- EN: hacking TargetA. -->
+  <Hack.reportString>взлом TargetA.</Hack.reportString>
+  
+  <!-- EN: merging into TargetB. -->
+  <MergeIntoGaumakerPod.reportString>слияние в TargetB.</MergeIntoGaumakerPod.reportString>
+  
+  <!-- EN: planting TargetA. -->
+  <PlantSeed.reportString>посадка TargetA.</PlantSeed.reportString>
+  
+  <!-- EN: converting TargetA. -->
+  <PrisonerConvert.reportString>обращение TargetA.</PrisonerConvert.reportString>
+  
+  <!-- EN: enslaving TargetA. -->
+  <PrisonerEnslave.reportString>порабощение TargetA.</PrisonerEnslave.reportString>
+  
+  <!-- EN: pruning TargetA. -->
+  <PruneGauranlenTree.reportString>обрезка TargetA.</PruneGauranlenTree.reportString>
+  
+  <!-- EN: returning to TargetA. -->
+  <ReturnToGauranlenTree.reportString>возвращаемся к TargetA.</ReturnToGauranlenTree.reportString>
+  
+  <!-- EN: emancipating TargetA. -->
+  <SlaveEmancipation.reportString>освобождение TargetA.</SlaveEmancipation.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <SlaveExecution.reportString>выполнение TargetA.</SlaveExecution.reportString>
+  
+  <!-- EN: suppressing TargetA. -->
+  <SlaveSuppress.reportString>подавление TargetA.</SlaveSuppress.reportString>
+  
+</LanguageData>

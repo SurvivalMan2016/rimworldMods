@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BionicBladder.label>удалитель отходов</BionicBladder.label>
+  <BionicBladder.description>Установленный удалитель отходов.</BionicBladder.description>
+  <BionicBladder.labelNoun>удалитель отходов</BionicBladder.labelNoun>
+
+  <HygieneEnhancer.label>усилитель гигиены</HygieneEnhancer.label>
+  <HygieneEnhancer.description>Установленный усилитель гигиены.</HygieneEnhancer.description>
+  <HygieneEnhancer.labelNoun>усилитель гигиены</HygieneEnhancer.labelNoun>
+
+
+</LanguageData>

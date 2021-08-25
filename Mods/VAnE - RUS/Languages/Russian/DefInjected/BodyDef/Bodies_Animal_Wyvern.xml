@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAE_WyvernBody.label>тело виверны</VAE_WyvernBody.label>
+  <VAE_WyvernBody.corePart.parts.1.customLabel>левое крыло</VAE_WyvernBody.corePart.parts.1.customLabel>
+  <VAE_WyvernBody.corePart.parts.2.customLabel>правое крыло</VAE_WyvernBody.corePart.parts.2.customLabel>
+  <VAE_WyvernBody.corePart.parts.6.customLabel>левое легкое</VAE_WyvernBody.corePart.parts.6.customLabel>
+  <VAE_WyvernBody.corePart.parts.7.customLabel>правое легкое</VAE_WyvernBody.corePart.parts.7.customLabel>
+  <VAE_WyvernBody.corePart.parts.8.customLabel>левая почка</VAE_WyvernBody.corePart.parts.8.customLabel>
+  <VAE_WyvernBody.corePart.parts.9.customLabel>правая почка</VAE_WyvernBody.corePart.parts.9.customLabel>
+  <VAE_WyvernBody.corePart.parts.11.parts.0.parts.1.customLabel>левый глаз</VAE_WyvernBody.corePart.parts.11.parts.0.parts.1.customLabel>
+  <VAE_WyvernBody.corePart.parts.11.parts.0.parts.2.customLabel>правый глаз</VAE_WyvernBody.corePart.parts.11.parts.0.parts.2.customLabel>
+  <VAE_WyvernBody.corePart.parts.11.parts.0.parts.3.customLabel>левое ухо</VAE_WyvernBody.corePart.parts.11.parts.0.parts.3.customLabel>
+  <VAE_WyvernBody.corePart.parts.11.parts.0.parts.4.customLabel>правое ухо</VAE_WyvernBody.corePart.parts.11.parts.0.parts.4.customLabel>
+  <VAE_WyvernBody.corePart.parts.12.customLabel>левая лапа</VAE_WyvernBody.corePart.parts.12.customLabel>
+  <VAE_WyvernBody.corePart.parts.12.parts.0.customLabel>когти слева</VAE_WyvernBody.corePart.parts.12.parts.0.customLabel>
+  <VAE_WyvernBody.corePart.parts.13.customLabel>правая лапа</VAE_WyvernBody.corePart.parts.13.customLabel>
+  <VAE_WyvernBody.corePart.parts.13.parts.0.customLabel>когти справа</VAE_WyvernBody.corePart.parts.13.parts.0.customLabel>
+
+
+</LanguageData>

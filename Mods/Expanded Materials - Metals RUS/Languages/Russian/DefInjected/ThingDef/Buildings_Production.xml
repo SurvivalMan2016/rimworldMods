@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Smelter -->
+
+  <VMEu_MetalSmelter.label>Сталелитейная печь</VMEu_MetalSmelter.label>
+  <VMEu_MetalSmelter.description>Большая каменная конструкция</VMEu_MetalSmelter.description>
+
+
+  <!-- Advanced Smelter -->
+
+  <VMEu_AdvancedSmelter.label>Продвинутая сталелитейная печь</VMEu_AdvancedSmelter.label>
+  <VMEu_AdvancedSmelter.description>Большая сталелитейная печь, оснащенная передовыми технологиями для расчета необходимых материалов и тепла для производства самых сложных металлов.\n\nОна требует большого количества электричества для работы, плюс дополнительного расхода топлива.</VMEu_AdvancedSmelter.description>
+
+
+</LanguageData>

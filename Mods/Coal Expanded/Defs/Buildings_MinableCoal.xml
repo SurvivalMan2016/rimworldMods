@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!--================================ Coal Ore ======================================-->
+	
+  <ThingDef ParentName="RockBase">
+    <defName>MineableCoal</defName>
+    <label>coal ore</label>
+    <description>Rock containing chunks of coal.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <color>(114,114,114)</color>
+      <colorTwo>(30,30,30)</colorTwo>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>1500</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>Coal</mineableThing>
+      <mineableYield>40</mineableYield>
+      <mineableScatterCommonality>0.75</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>15~20</mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+
+</Defs> 

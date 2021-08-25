@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <!-- Rattlesnake -->
+
+  <AEXP_EggRattlesnakeUnfertilized.label>яйцо гремучей змеи (неопл.)</AEXP_EggRattlesnakeUnfertilized.label>
+  <AEXP_EggRattlesnakeUnfertilized.description>Неоплодотворенное яйцо гремучей змеи. Его можно съесть сырым, но гораздо лучше приготовить.</AEXP_EggRattlesnakeUnfertilized.description>
+
+  <AEXP_EggRattlesnakeFertilized.label>яйцо гремучей змеи (опл.)</AEXP_EggRattlesnakeFertilized.label>
+  <AEXP_EggRattlesnakeFertilized.description>Оплодотворенное яйцо гремучей змеи. Если все пойдет хорошо, из него вылупится гремучий змееныш. Его можно съесть сырым, но гораздо лучше приготовить.</AEXP_EggRattlesnakeFertilized.description>
+
+<!-- 
+  <WoolCamel.label>шерсть бактриана</WoolCamel.label>
+  <WoolCamel.description>Шерсть двугорбого верблюда. Хорошо изолирует от жары.</WoolCamel.description>
+-->
+
+</LanguageData>

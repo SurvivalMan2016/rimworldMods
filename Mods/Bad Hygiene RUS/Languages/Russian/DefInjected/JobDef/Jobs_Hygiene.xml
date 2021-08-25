@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TriggerFireSprinkler.reportString>активирует TargetA</TriggerFireSprinkler.reportString>
+  <emptySeptictank.reportString>опорожняет TargetA</emptySeptictank.reportString>
+  <emptyLatrine.reportString>опорожнение TargetA</emptyLatrine.reportString>
+
+
+  <!-- <JobDef>
+    <defName>LoadFridge</defName>
+    <driverClass>DubsBadHygiene.JobDriver_LoadFridge</driverClass>
+    <reportString>loading TargetA.</reportString>
+    <suspendable>false</suspendable>
+  </JobDef> -->
+
+  <LoadWashing.reportString>наполняет TargetA</LoadWashing.reportString>
+  <UnloadWashing.reportString>выгружает TargetA</UnloadWashing.reportString>
+  <LoadComposter.reportString>наполняет TargetA</LoadComposter.reportString>
+  <UnloadComposter.reportString>забирает компост из TargetA</UnloadComposter.reportString>
+  <RemoveSewage.reportString>убмрает нечистоты</RemoveSewage.reportString>
+  <WatchWashingMachine.reportString>наблюдает за циклом отжима</WatchWashingMachine.reportString>
+  <DBHDrinkFromGround.reportString>пьет воду</DBHDrinkFromGround.reportString>
+  <DBHDrinkFromBasin.reportString>пьет воду из TargetA</DBHDrinkFromBasin.reportString>
+  <DBHPackWaterBottle.reportString>наполняет водой бутылку из TargetA</DBHPackWaterBottle.reportString>
+  <DBHStockpileWaterBottles.reportString>забирает воду из TargetA</DBHStockpileWaterBottles.reportString>
+  <UseToilet.reportString>использует TargetA</UseToilet.reportString>
+  <haveWildPoo.reportString>справляет нужду на свежем воздухе</haveWildPoo.reportString>
+  <useWashBucket.reportString>моется, используя TargetA</useWashBucket.reportString>
+  <washAtCell.reportString>моется</washAtCell.reportString>
+  <washHands.reportString>моет руки</washHands.reportString>
+  <washPatient.reportString>моет TargetA</washPatient.reportString>
+  <DBHAdministerFluids.reportString>приносит воду для TargetB</DBHAdministerFluids.reportString>
+  <RefillTub.reportString>наполняет бадью</RefillTub.reportString>
+  <RefillWater.reportString>наполняет водой</RefillWater.reportString>
+  <cleanBedpan.reportString>выносит утку</cleanBedpan.reportString>
+  <clearBlockage.reportString>прочищает TargetA</clearBlockage.reportString>
+  <TipOverSewage.reportString>опрокидывает TargetA</TipOverSewage.reportString>
+  <DrainWaterTankJob.reportString>опустошает TargetA</DrainWaterTankJob.reportString>
+  <PlaceFertilizer.reportString>удобряет почву</PlaceFertilizer.reportString>
+
+
+</LanguageData>

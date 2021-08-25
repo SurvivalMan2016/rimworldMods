@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Android1Tier.label>Андроид Т1</Android1Tier.label>
+  <Android1Tier.description>Простая, насколько это возможно, разумная робототехника. Эта конструкция представляет собой голый скелет, состоящий из множества компонентов, необходимых для создания полной автономной функциональности. Очевидно, что это не лучший продукт, но он хорошо работает, если это необходимо.</Android1Tier.description>
+  <Android1Tier.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>Кожа</Android1Tier.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Android1Tier.tools.0.label>Правый кулак</Android1Tier.tools.0.label>
+  <Android1Tier.tools.1.label>Левый кулак</Android1Tier.tools.1.label>
+  <Android1Tier.tools.2.label>Голова</Android1Tier.tools.2.label>
+
+
+</LanguageData>

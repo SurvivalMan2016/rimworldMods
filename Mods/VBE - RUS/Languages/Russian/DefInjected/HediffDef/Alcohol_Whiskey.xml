@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_WhiskeyHigh.label>употребление виски</VBE_WhiskeyHigh.label>
+  <VBE_WhiskeyHigh.description>Употребил виски. Увеличивает скорость работы на 15%.</VBE_WhiskeyHigh.description>
+  <VBE_WhiskeyHigh.labelNoun>выпил виски</VBE_WhiskeyHigh.labelNoun>
+
+  <VBE_DoubleWhiskeyHigh.label>употребление выдержанного виски</VBE_DoubleWhiskeyHigh.label>
+  <VBE_DoubleWhiskeyHigh.description>Употребление выдержанного виски. Увеличивает скорость работы на 20% и торговые цены на 20%.</VBE_DoubleWhiskeyHigh.description>
+  <VBE_DoubleWhiskeyHigh.labelNoun>выпил выдержанного виски</VBE_DoubleWhiskeyHigh.labelNoun>
+
+
+</LanguageData>

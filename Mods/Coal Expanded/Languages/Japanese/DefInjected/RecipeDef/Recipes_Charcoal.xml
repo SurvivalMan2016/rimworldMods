@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_CharcoalFromWood.label>木材から木炭を作る。</Make_CharcoalFromWood.label>
+  <Make_CharcoalFromWood.description>木材を焼成して木炭を作成します。</Make_CharcoalFromWood.description>
+  <Make_CharcoalFromWood.jobString>木材を木炭に焼成中。</Make_CharcoalFromWood.jobString>
+
+  <Make_CoalFromStone.label>石材から石炭を作る。</Make_CoalFromStone.label>
+  <Make_CoalFromStone.description>石材から炭素成分を特殊な方法で抽出・精錬して石炭を作成します。</Make_CoalFromStone.description>
+  <Make_CoalFromStone.jobString>石材を石炭に精錬中。</Make_CoalFromStone.jobString>
+
+
+  <!-- Coal only into chemfuel recipe -->
+
+  <Make_ChemfuelFromCoal.label>石炭から液化燃料を作る。</Make_ChemfuelFromCoal.label>
+  <Make_ChemfuelFromCoal.description>石炭を破砕・精製することで液化燃料を作成します。</Make_ChemfuelFromCoal.description>
+  <Make_ChemfuelFromCoal.jobString>石炭から液化燃料を精製中。</Make_ChemfuelFromCoal.jobString>
+
+
+</LanguageData>

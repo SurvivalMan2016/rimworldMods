@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_CiderHigh.label>употребление сидра</VBE_CiderHigh.label>
+  <VBE_CiderHigh.labelNoun>выпил сидра</VBE_CiderHigh.labelNoun>
+  <VBE_CiderHigh.description>Употребление сидра. Делает колониста счастливым, но снижает его возможности. Не вызывает алкогольную зависимость. Невозможно опьянеть с помощью сидра выше определенного предела.</VBE_CiderHigh.description>
+
+  <VBE_CiderAsIngredient.label>выпил коктейль на основе сидра</VBE_CiderAsIngredient.label>
+  <VBE_CiderAsIngredient.description>Этот колонист выпил коктейль, в состав которого входил сидр. Многие хвалят его за предполагаемые антиоксидантные свойства. Немного помогает с выводом токсинов из организма.</VBE_CiderAsIngredient.description>
+
+
+
+</LanguageData>

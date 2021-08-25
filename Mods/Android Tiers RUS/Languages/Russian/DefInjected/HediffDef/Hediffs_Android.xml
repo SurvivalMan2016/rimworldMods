@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <ShutdownAndroid.label>Списанный</ShutdownAndroid.label>
+  <ShutdownAndroid.description>ИИ-ядро отключается и стирается.</ShutdownAndroid.description>
+
+  <RebootingSequenceAT.label>Перезагрузка</RebootingSequenceAT.label>
+  <RebootingSequenceAT.description>Последовательность перезагрузки активна в ядре AI.</RebootingSequenceAT.description>
+  <RebootingSequenceAT.stages.0.label>100%</RebootingSequenceAT.stages.0.label>
+  <RebootingSequenceAT.stages.1.label>75%</RebootingSequenceAT.stages.1.label>
+  <RebootingSequenceAT.stages.2.label>50%</RebootingSequenceAT.stages.2.label>
+  <RebootingSequenceAT.stages.3.label>25%</RebootingSequenceAT.stages.3.label>
+  <RebootingSequenceAT.stages.4.label>0%</RebootingSequenceAT.stages.4.label>
+
+  <NoFreeWillAT.label>Бесчувственный</NoFreeWillAT.label>
+  <NoFreeWillAT.description>Изменения в секторах морали и эмоциональной реакции ядра ИИ, приводящие к совершенно нейтральному настроению и отсутствию высших функций.</NoFreeWillAT.description>
+  <NoFreeWillAT.labelNoun>Бесчувственный</NoFreeWillAT.labelNoun>
+
+  <FreshReprogramming.label>Недавно перепрограммированный</FreshReprogramming.label>
+  <FreshReprogramming.description>Недавно перепрограммированое ИИ ядро. Компиляция и автокоррекция всего нового программного обеспечения может привести к снижению возможностей.</FreshReprogramming.description>
+
+  <OverclockedAndroid.label>Разогнанный</OverclockedAndroid.label>
+  <OverclockedAndroid.description>Ускорение обработки секторов ядра ИИ андроида, что привело к более быстрому вычислению функций, но также увеличило нагрузку на аппаратное обеспечение.</OverclockedAndroid.description>
+  <OverclockedAndroid.labelNoun>Разогнать ядро ИИ</OverclockedAndroid.labelNoun>
+
+  <BatteryChargeMech.label>Батарея</BatteryChargeMech.label>
+  <BatteryChargeMech.description>Остаток времени работы аккумулятора до выключения</BatteryChargeMech.description>
+  <BatteryChargeMech.stages.0.label>Пустой</BatteryChargeMech.stages.0.label>
+  <BatteryChargeMech.stages.1.label>Критический</BatteryChargeMech.stages.1.label>
+  <BatteryChargeMech.stages.2.label>Малый</BatteryChargeMech.stages.2.label>
+  <BatteryChargeMech.stages.3.label>Средний</BatteryChargeMech.stages.3.label>
+  <BatteryChargeMech.stages.4.label>Высокий уровень</BatteryChargeMech.stages.4.label>
+  <BatteryChargeMech.stages.5.label>Полный</BatteryChargeMech.stages.5.label>
+
+  <AndroidCoolantLoss.label>Потеря охлаждающей жидкости</AndroidCoolantLoss.label>
+  <AndroidCoolantLoss.description>Потеря охлаждающей жидкости во внутренних трубопроводах, что приводит к снижению охлаждающей способности и перегреву внутренних деталей.</AndroidCoolantLoss.description>
+  <AndroidCoolantLoss.stages.0.label>Начальная</AndroidCoolantLoss.stages.0.label>
+  <AndroidCoolantLoss.stages.1.label>Малая</AndroidCoolantLoss.stages.1.label>
+  <AndroidCoolantLoss.stages.2.label>Средняя</AndroidCoolantLoss.stages.2.label>
+  <AndroidCoolantLoss.stages.3.label>Серьезная</AndroidCoolantLoss.stages.3.label>
+  <AndroidCoolantLoss.stages.4.label>Экстремальная</AndroidCoolantLoss.stages.4.label>
+
+  <AndroidOverheating.label>Перегрев</AndroidOverheating.label>
+  <AndroidOverheating.description>_</AndroidOverheating.description>
+  <AndroidOverheating.stages.0.label>Начальная</AndroidOverheating.stages.0.label>
+  <AndroidOverheating.stages.1.label>Малая</AndroidOverheating.stages.1.label>
+  <AndroidOverheating.stages.2.label>Среднее</AndroidOverheating.stages.2.label>
+  <AndroidOverheating.stages.3.label>Серьезное</AndroidOverheating.stages.3.label>
+  <AndroidOverheating.stages.4.label>Экстремальное</AndroidOverheating.stages.4.label>
+
+  <AndroidFreezing.label>Замерзание</AndroidFreezing.label>
+  <AndroidFreezing.description>_</AndroidFreezing.description>
+  <AndroidFreezing.stages.0.label>Начальное</AndroidFreezing.stages.0.label>
+  <AndroidFreezing.stages.1.label>Малое</AndroidFreezing.stages.1.label>
+  <AndroidFreezing.stages.2.label>Среднее</AndroidFreezing.stages.2.label>
+  <AndroidFreezing.stages.3.label>Серьезное</AndroidFreezing.stages.3.label>
+  <AndroidFreezing.stages.4.label>Экстремальное</AndroidFreezing.stages.4.label>
+
+
+  <!-- Plating -->
+
+  <PlatingSteel.label>Стальное покрытие</PlatingSteel.label>
+  <PlatingSteel.description>Покрытие каркаса стальным покрытием.</PlatingSteel.description>
+  <PlatingSteel.labelNoun>Базовое стальное покрытие</PlatingSteel.labelNoun>
+
+  <PlatingPlasteel.label>Пласталевое покрытие</PlatingPlasteel.label>
+  <PlatingPlasteel.description>Покрытие каркаса пластальным покрытием.</PlatingPlasteel.description>
+  <PlatingPlasteel.labelNoun>Прочное пласталевое покрытие</PlatingPlasteel.labelNoun>
+
+  <PlatingComposite.label>Композитное покрытие</PlatingComposite.label>
+  <PlatingComposite.description>Покрытие каркаса композитным покрытием.</PlatingComposite.description>
+  <PlatingComposite.labelNoun>Высокопрочное композитное покрытие</PlatingComposite.labelNoun>
+
+
+  <!-- Utility -->
+
+  <MiningArm_AT.label>Шахтерская рука</MiningArm_AT.label>
+  <MiningArm_AT.description>Установленная шахтерская рука.</MiningArm_AT.description>
+  <MiningArm_AT.comps.0.tools.0.label>Дрель</MiningArm_AT.comps.0.tools.0.label>
+  <MiningArm_AT.labelNoun>Шахтерская рука</MiningArm_AT.labelNoun>
+
+
+  <!-- Others -->
+
+  <HydraulicFrame.label>Гидравлический каркас</HydraulicFrame.label>
+  <HydraulicFrame.description>Установленный гидравлический каркас.</HydraulicFrame.description>
+  <HydraulicFrame.labelNoun>Гидравлический каркас</HydraulicFrame.labelNoun>
+
+  <HydraulicLeg.label>Гидравлическая нога</HydraulicLeg.label>
+  <HydraulicLeg.description>Установленная гидравлическая нога.</HydraulicLeg.description>
+  <HydraulicLeg.labelNoun>Гидравлическая нога</HydraulicLeg.labelNoun>
+
+  <HydraulicArm.label>Гидравлическая рука</HydraulicArm.label>
+  <HydraulicArm.description>Установленная гидравлическая рука.</HydraulicArm.description>
+  <HydraulicArm.comps.0.tools.0.label>Кулак</HydraulicArm.comps.0.tools.0.label>
+  <HydraulicArm.labelNoun>Гидравлическая рука</HydraulicArm.labelNoun>
+
+  <MakeshiftRLeg.label>Самодельная сменная нога</MakeshiftRLeg.label>
+  <MakeshiftRLeg.description>Установленная самодельная сменная нога.</MakeshiftRLeg.description>
+  <MakeshiftRLeg.labelNoun>Самодельная сменная нога</MakeshiftRLeg.labelNoun>
+
+  <MakeshiftRArm.label>Самодельная сменная рука</MakeshiftRArm.label>
+  <MakeshiftRArm.description>Установленная самодельная сменная рука.</MakeshiftRArm.description>
+  <MakeshiftRArm.comps.0.tools.0.label>Кулак</MakeshiftRArm.comps.0.tools.0.label>
+  <MakeshiftRArm.labelNoun>Самодельная сменная рука</MakeshiftRArm.labelNoun>
+
+  <BRArm.label>Базовая сменная рука</BRArm.label>
+  <BRArm.description>Установленная базовая сменная рука.</BRArm.description>
+  <BRArm.comps.0.tools.0.label>Кулак</BRArm.comps.0.tools.0.label>
+  <BRArm.labelNoun>Базовая сменная рука</BRArm.labelNoun>
+
+  <BRLeg.label>Базовая сменная нога</BRLeg.label>
+  <BRLeg.description>Установленная basic replacement leg.</BRLeg.description>
+  <BRLeg.labelNoun>Базовая сменная нога</BRLeg.labelNoun>
+
+  <BLReceptor.label>Примитивный датчик освещенности</BLReceptor.label>
+  <BLReceptor.description>Установленный примитивный датчик освещенности.</BLReceptor.description>
+  <BLReceptor.labelNoun>Примитивный датчик освещенности</BLReceptor.labelNoun>
+
+  <BHeatsink.label>Примитивный радиатор</BHeatsink.label>
+  <BHeatsink.description>Установленный примитивный радиатор.</BHeatsink.description>
+  <BHeatsink.labelNoun>Примитивный радиатор</BHeatsink.labelNoun>
+
+  <BCoolantPump.label>Примитивный насос охлаждающей жидкости</BCoolantPump.label>
+  <BCoolantPump.description>Установленный примитивный насос охлаждающей жидкости.</BCoolantPump.description>
+  <BCoolantPump.labelNoun>Примитивный насос охлаждающей жидкости</BCoolantPump.labelNoun>
+
+  <BBattery.label>Примитивный аккумуляторный блок</BBattery.label>
+  <BBattery.description>Установленный примитивный аккумуляторный блок.</BBattery.description>
+  <BBattery.labelNoun>Примитивный аккумуляторный блок</BBattery.labelNoun>
+
+  <BMStorage.label>Примитивное хранилище механитов</BMStorage.label>
+  <BMStorage.description>Установленное примитивное хранилище механитов.</BMStorage.description>
+  <BMStorage.labelNoun>Примитивное хранилище механитов</BMStorage.labelNoun>
+
+  <BTransformer.label>Примитивный биореактор</BTransformer.label>
+  <BTransformer.description>Установленный примитивный биореактор.</BTransformer.description>
+  <BTransformer.labelNoun>Примитивный биореактор</BTransformer.labelNoun>
+
+  <BVAdapter.label>Примитивный преобразователь энергии</BVAdapter.label>
+  <BVAdapter.description>Установленный примитивный преобразователь энергии.</BVAdapter.description>
+  <BVAdapter.labelNoun>Примитивный преобразователь энергии</BVAdapter.labelNoun>
+
+  <BasicRearCounterweight.label>Базовый противовес</BasicRearCounterweight.label>
+  <BasicRearCounterweight.description>Установленный базовый противовес.</BasicRearCounterweight.description>
+  <BasicRearCounterweight.labelNoun>Базовый противовес</BasicRearCounterweight.labelNoun>
+
+  <CrudeJawAndroid.label>Примитивная челюсть</CrudeJawAndroid.label>
+  <CrudeJawAndroid.description>Установленная примитивная челюсть.</CrudeJawAndroid.description>
+  <CrudeJawAndroid.comps.0.tools.0.label>челюсть</CrudeJawAndroid.comps.0.tools.0.label>
+  <CrudeJawAndroid.labelNoun>Примитивная челюсть</CrudeJawAndroid.labelNoun>
+
+
+  <!-- Advanced -->
+
+  <ARArm.label>Силовая рука</ARArm.label>
+  <ARArm.description>Установленная силовая рука.</ARArm.description>
+  <ARArm.comps.0.tools.0.label>кулак</ARArm.comps.0.tools.0.label>
+  <ARArm.labelNoun>Силовая рука</ARArm.labelNoun>
+
+  <ARLeg.label>Силовая нога</ARLeg.label>
+  <ARLeg.description>Установленная силовая нога.</ARLeg.description>
+  <ARLeg.labelNoun>Силовая нога</ARLeg.labelNoun>
+
+  <ALReceptor.label>Усовершенствованный датчик освещенности</ALReceptor.label>
+  <ALReceptor.description>Установленный усовершенствованный датчик освещенности.</ALReceptor.description>
+  <ALReceptor.labelNoun>Усовершенствованный датчик освещенности</ALReceptor.labelNoun>
+
+  <AHeatsink.label>Усовершенствованный радиатор</AHeatsink.label>
+  <AHeatsink.description>Установленный усовершенствованный радиатор.</AHeatsink.description>
+  <AHeatsink.labelNoun>Усовершенствованный радиатор</AHeatsink.labelNoun>
+
+  <ACoolantPump.label>Усовершенствованный насос охлаждающей жидкости</ACoolantPump.label>
+  <ACoolantPump.description>Установленный усовершенствованный насос охлаждающей жидкости.</ACoolantPump.description>
+  <ACoolantPump.labelNoun>Усовершенствованный насос охлаждающей жидкости</ACoolantPump.labelNoun>
+
+  <ABattery.label>Усовершенствованный аккумуляторный блок</ABattery.label>
+  <ABattery.description>Установленный усовершенствованный аккумуляторный блок.</ABattery.description>
+  <ABattery.labelNoun>Усовершенствованный аккумуляторный блок</ABattery.labelNoun>
+
+  <AMStorage.label>Усовершенствованное хранилище механитов</AMStorage.label>
+  <AMStorage.description>Установленное усовершенствованное хранилище механитов.</AMStorage.description>
+  <AMStorage.labelNoun>Усовершенствованное хранилище механитов</AMStorage.labelNoun>
+
+  <ATransformer.label>Усовершенствованный биореактор</ATransformer.label>
+  <ATransformer.description>Установленный усовершенствованный биореактор.</ATransformer.description>
+  <ATransformer.labelNoun>Усовершенствованный биореактор</ATransformer.labelNoun>
+
+  <AVAdapter.label>Усовершенствованный преобразователь энергии</AVAdapter.label>
+  <AVAdapter.description>Установленный усовершенствованный преобразователь энергии.</AVAdapter.description>
+  <AVAdapter.labelNoun>Усовершенствованный преобразователь энергии</AVAdapter.labelNoun>
+
+  <AdvRearCounterweight.label>Усовершенствованный противовес</AdvRearCounterweight.label>
+  <AdvRearCounterweight.description>Установленный усовершенствованный противовес.</AdvRearCounterweight.description>
+  <AdvRearCounterweight.labelNoun>Усовершенствованный противовес</AdvRearCounterweight.labelNoun>
+
+  <AdvJawAndroid.label>Кибернетическая челюсть</AdvJawAndroid.label>
+  <AdvJawAndroid.description>Установленная кибернетическая челюсть.</AdvJawAndroid.description>
+  <AdvJawAndroid.comps.0.tools.0.label>челюсть</AdvJawAndroid.comps.0.tools.0.label>
+  <AdvJawAndroid.labelNoun>Кибернетическая челюсть</AdvJawAndroid.labelNoun>
+
+
+  <!-- Implants -->
+
+  <PositronMind.label>Позитронная обмотка</PositronMind.label>
+  <PositronMind.description>Установленная позитронная обмотка.</PositronMind.description>
+  <PositronMind.labelNoun>Позитронная обмотка</PositronMind.labelNoun>
+
+  <SoldierMind.label>Военный имплантат</SoldierMind.label>
+  <SoldierMind.description>Установленный военный имплантат.</SoldierMind.description>
+  <SoldierMind.labelNoun>Военный имплантат</SoldierMind.labelNoun>
+
+  <BuilderMind.label>Строительный имплант</BuilderMind.label>
+  <BuilderMind.description>Установленный строительный имплант.</BuilderMind.description>
+  <BuilderMind.labelNoun>Строительный имплант</BuilderMind.labelNoun>
+
+  <SurgeonMind.label>Медицинский имплант</SurgeonMind.label>
+  <SurgeonMind.description>Установленный медицинский имплант.</SurgeonMind.description>
+  <SurgeonMind.labelNoun>Медицинский имплант</SurgeonMind.labelNoun>
+
+  <SpeedMind.label>Нейронные сети</SpeedMind.label>
+  <SpeedMind.description>Установленные нейронные сети.</SpeedMind.description>
+  <SpeedMind.labelNoun>Нейронные сети</SpeedMind.labelNoun>
+
+  <GeoMind.label>Геологический имплантат</GeoMind.label>
+  <GeoMind.description>Установленный геологический имплантат.</GeoMind.description>
+  <GeoMind.labelNoun>Геологический имплантат</GeoMind.labelNoun>
+
+  <MechanicMind.label>Инженерный имплантат</MechanicMind.label>
+  <MechanicMind.description>Установленный инженерный имплантат.</MechanicMind.description>
+  <MechanicMind.labelNoun>Инженерный имплантат</MechanicMind.labelNoun>
+
+  <CookingMind.label>Кулинарный имплантат</CookingMind.label>
+  <CookingMind.description>Установленный кулинарный имплантат.</CookingMind.description>
+  <CookingMind.labelNoun>Кулинарный имплантат</CookingMind.labelNoun>
+
+  <CharismaMind.label>Имплант харизмы</CharismaMind.label>
+  <CharismaMind.description>Установленный имплант харизмы.</CharismaMind.description>
+  <CharismaMind.labelNoun>Имплант харизмы</CharismaMind.labelNoun>
+
+  <NegotiatorMind.label>Имплант переговорщика</NegotiatorMind.label>
+  <NegotiatorMind.description>Установленный имплант переговорщика.</NegotiatorMind.description>
+  <NegotiatorMind.labelNoun>Имплант переговорщика</NegotiatorMind.labelNoun>
+
+  <ZoologyMind.label>Зоологический имплантат</ZoologyMind.label>
+  <ZoologyMind.description>Установленный зоологический имплантат.</ZoologyMind.description>
+  <ZoologyMind.labelNoun>Зоологический имплантат</ZoologyMind.labelNoun>
+
+  <AgriculturalMind.label>Сельскохозяйственный имплантат</AgriculturalMind.label>
+  <AgriculturalMind.description>Установленный сельскохозяйственный имплантат.</AgriculturalMind.description>
+  <AgriculturalMind.labelNoun>Сельскохозяйственный имплантат</AgriculturalMind.labelNoun>
+
+  <UnskilledMind.label>Основной трудовой чип</UnskilledMind.label>
+  <UnskilledMind.description>Установленный основной трудовой чип.</UnskilledMind.description>
+  <UnskilledMind.labelNoun>Основной трудовой чип</UnskilledMind.labelNoun>
+
+
+  <!-- secret -->
+
+  <AR2Arm.label>Кибернетическая рука</AR2Arm.label>
+  <AR2Arm.description>Установленная кибернетическая рука.</AR2Arm.description>
+  <AR2Arm.comps.0.tools.0.label>кулак</AR2Arm.comps.0.tools.0.label>
+  <AR2Arm.labelNoun>Кибернетическая рука</AR2Arm.labelNoun>
+
+  <AR2Leg.label>Кибернетическая нога</AR2Leg.label>
+  <AR2Leg.description>Установленная кибернетическая нога.</AR2Leg.description>
+  <AR2Leg.labelNoun>Кибернетическая нога</AR2Leg.labelNoun>
+
+  <AL2Receptor.label>Архотех датчик освещенности</AL2Receptor.label>
+  <AL2Receptor.description>Установленный архотех датчик освещенности.</AL2Receptor.description>
+  <AL2Receptor.labelNoun>Архотех датчик освещенности</AL2Receptor.labelNoun>
+
+  <A2Heatsink.label>Архотех радиатор</A2Heatsink.label>
+  <A2Heatsink.description>Установленный архотех радиатор.</A2Heatsink.description>
+  <A2Heatsink.labelNoun>Архотех радиатор</A2Heatsink.labelNoun>
+
+  <A2CoolantPump.label>Архотех насос охлаждающей жидкости</A2CoolantPump.label>
+  <A2CoolantPump.description>Установленный архотех насос охлаждающей жидкости.</A2CoolantPump.description>
+  <A2CoolantPump.labelNoun>Архотех насос охлаждающей жидкости</A2CoolantPump.labelNoun>
+
+  <A2Battery.label>Архотех аккумуляторный блок</A2Battery.label>
+  <A2Battery.description>Установленный архотех аккумуляторный блок.</A2Battery.description>
+  <A2Battery.labelNoun>Архотех аккумуляторный блок</A2Battery.labelNoun>
+
+  <A2MStorage.label>Архотех хранилище механитов</A2MStorage.label>
+  <A2MStorage.description>Установленное архотех хранилище механитов.</A2MStorage.description>
+  <A2MStorage.labelNoun>Архотех хранилище механитов</A2MStorage.labelNoun>
+
+  <A2Transformer.label>Архотех биореактор</A2Transformer.label>
+  <A2Transformer.description>Установленный архотех биореактор.</A2Transformer.description>
+  <A2Transformer.labelNoun>Архотех биореактор</A2Transformer.labelNoun>
+
+  <A2VAdapter.label>Архотех преобразователь энергии</A2VAdapter.label>
+  <A2VAdapter.description>Установленный архотех преобразователь энергии.</A2VAdapter.description>
+  <A2VAdapter.labelNoun>Архотех преобразователь энергии</A2VAdapter.labelNoun>
+
+  <HearingSensorCrude.label>Примитивный датчик слуха</HearingSensorCrude.label>
+  <HearingSensorCrude.description>Установленный примитивный датчик слуха.</HearingSensorCrude.description>
+  <HearingSensorCrude.labelNoun>Примитивный датчик слуха</HearingSensorCrude.labelNoun>
+
+  <HearingSensorAdv.label>Усовершенствованный датчик слуха</HearingSensorAdv.label>
+  <HearingSensorAdv.description>Установленный усовершенствованный датчик слуха.</HearingSensorAdv.description>
+  <HearingSensorAdv.labelNoun>Усовершенствованный датчик слуха</HearingSensorAdv.labelNoun>
+
+  <HearingSensorArch.label>Архотех датчик слуха</HearingSensorArch.label>
+  <HearingSensorArch.description>Установленный архотех датчик слуха.</HearingSensorArch.description>
+  <HearingSensorArch.labelNoun>Архотех датчик слуха</HearingSensorArch.labelNoun>
+
+  <SmellSensorAdv.label>Усовершенствованный датчик запаха</SmellSensorAdv.label>
+  <SmellSensorAdv.description>Установленный усовершенствованный датчик запаха.</SmellSensorAdv.description>
+  <SmellSensorAdv.labelNoun>Усовершенствованный датчик запаха</SmellSensorAdv.labelNoun>
+
+  <SmellingSensorCrude.label>Примитивный датчик запаха</SmellingSensorCrude.label>
+  <SmellingSensorCrude.description>Установленный примитивный датчик запаха.</SmellingSensorCrude.description>
+  <SmellingSensorCrude.labelNoun>Примитивный датчик запаха</SmellingSensorCrude.labelNoun>
+
+  <SmellingSensorArch.label>Архотех датчик запаха</SmellingSensorArch.label>
+  <SmellingSensorArch.description>Установленный архотех датчик запаха.</SmellingSensorArch.description>
+  <SmellingSensorArch.labelNoun>Архотех датчик запаха</SmellingSensorArch.labelNoun>
+
+  <EvolvingMind.label>Развивающийся ИИ</EvolvingMind.label>
+  <EvolvingMind.description>Установленный развивающийся ИИ.</EvolvingMind.description>
+  <EvolvingMind.stages.0.label>5%</EvolvingMind.stages.0.label>
+  <EvolvingMind.stages.1.label>10%</EvolvingMind.stages.1.label>
+  <EvolvingMind.stages.2.label>20%</EvolvingMind.stages.2.label>
+  <EvolvingMind.stages.3.label>30%</EvolvingMind.stages.3.label>
+  <EvolvingMind.stages.4.label>40%</EvolvingMind.stages.4.label>
+  <EvolvingMind.stages.5.label>50%</EvolvingMind.stages.5.label>
+  <EvolvingMind.stages.6.label>60%</EvolvingMind.stages.6.label>
+  <EvolvingMind.stages.7.label>70%</EvolvingMind.stages.7.label>
+  <EvolvingMind.stages.8.label>80%</EvolvingMind.stages.8.label>
+  <EvolvingMind.stages.9.label>Максимум</EvolvingMind.stages.9.label>
+  <EvolvingMind.labelNoun>Развивающийся ИИ</EvolvingMind.labelNoun>
+  
+  <AndroidTiers_EmotionlessCard.label>Отключенные социальные взаимодействия</AndroidTiers_EmotionlessCard.label>
+  <AndroidTiers_EmotionlessCard.description>_</AndroidTiers_EmotionlessCard.description>
+  <AndroidTiers_EmotionlessCard.labelNoun>Отключенные социальные взаимодействия</AndroidTiers_EmotionlessCard.labelNoun>
+
+
+</LanguageData>

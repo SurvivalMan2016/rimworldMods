@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Russian Language For Android Tiers</name>	
+  <author>VSK</author>
+  <packageId>AndroidTiers.RusLang.By.VSK</packageId>
+  <url>https://steamcommunity.com/sharedfiles/filedetails/?id=1386412863</url>
+	
+	<supportedVersions>
+		<li>1.2</li>
+		<li>1.3</li>
+	</supportedVersions>
+
+  <description><![CDATA[
+  <color=#FF004D>Перевод на русский язык мода Android Tiers.</color>
+  
+  Для того, чтобы русификатор работал корректно,
+  в меню порядка загрузки модов
+  он должен быть ПОСЛЕ оригинального Android Tiers.
+  
+  <color=#15FF00>Ниже ссылка на оригинальный мод Android Tiers</color>
+
+  
+  <color=#00B8FF>Версия перевода:</color> <color=#FFD800>1.1e</color>
+  ]]>
+  </description>
+
+  <modDependencies>
+    <li>
+      <packageId>Atlas.AndroidTiers</packageId>
+      <displayName>Android tiers</displayName>
+	  <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1386412863</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+
+  <loadAfter>
+	<li>Atlas.AndroidTiers</li>
+  </loadAfter>
+  
+<!--   <loadBefore>
+	<li>Atlas.AndroidTiers</li>
+  </loadBefore> 00B8FF-->
+
+
+</ModMetaData>

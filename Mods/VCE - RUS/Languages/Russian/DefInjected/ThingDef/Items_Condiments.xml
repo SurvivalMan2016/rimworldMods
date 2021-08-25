@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_AgaveNectar.label>нектар агавы</VCE_AgaveNectar.label>
+  <VCE_AgaveNectar.description>Тонкий и полусладкий нектар, известный своими лечебными и противовоспалительными свойствами. Менее вреден, чем сахар, но высокое содержание фруктозы может быть вредным при постоянном употреблении.</VCE_AgaveNectar.description>
+
+  <VCE_RawSugar.label>сахар</VCE_RawSugar.label>
+  <VCE_RawSugar.description>Простой кристалический тростниковый сахар придает сладость продуктам. Хотя сахар приятен на вкус, он не так полезен для почек и может быстро вызвать диабет, если употреблять его в больших количествах. Сахар легко превращается организмом в энергию, что приводит к ее кратковременному приливу.</VCE_RawSugar.description>
+
+  <VCE_RawSpices.label>специи</VCE_RawSpices.label>
+  <VCE_RawSpices.description>Разнообразные аромтные и острые специи добавят пикантности вкусу и бодрости вашей походке.</VCE_RawSpices.description>
+
+  <VCE_Salt.label>соль</VCE_Salt.label>
+  <VCE_Salt.description>Каменная соль, как и поваренная соль, усиливает вкусовые качества ингредиентов, если добавить ее при готовке. Постоянное употребление может вызвать повышенное артериальное давление.</VCE_Salt.description>
+
+  <VCE_Mayo.label>майонез</VCE_Mayo.label>
+  <VCE_Mayo.description>Густая эмульсия из яиц, масла и трав. Майонез, хотя и вреден для здоровья, придает пище приятный запах и крайне калорийный.</VCE_Mayo.description>
+
+  <VCE_InsectJellyPreserves.label>варенье из желе насекомых</VCE_InsectJellyPreserves.label>
+  <VCE_InsectJellyPreserves.description>Нарезанное и подслащенное желе насекомых, запечатаное в банку. Очень насыщенный, сладкий и удивительно полезный продукт.</VCE_InsectJellyPreserves.description>
+
+  <VCE_SmokeleafButter.label>масло с дымолистом</VCE_SmokeleafButter.label>
+  <VCE_SmokeleafButter.description>Загустевшая и жирная субстанция, получается путем сбивания молока в очень густые сливки, смешивания с соком дымолиста и последующим застыванием. Очень вредно для здоровья.</VCE_SmokeleafButter.description>
+
+  <VCE_ChocolateSyrup.label>шоколадный сироп</VCE_ChocolateSyrup.label>
+  <VCE_ChocolateSyrup.description>Смесь какао, воды и сахара, образующая горько-сладкий текучий сироп, который идеально подходит для покрытия десертов. Хотя шоколадный сироп вреден для здоровья, он все же лучше, чем чистый сахар.</VCE_ChocolateSyrup.description>
+
+  <VCE_DigestibleResurrectorNanites.label>съедобные воскрешающие наниты</VCE_DigestibleResurrectorNanites.label>
+  <VCE_DigestibleResurrectorNanites.description>Высокотехнологичная смесь с развитого мира, которую небезопасно употреблять напрямую из-за горького вкуса и вероятности легкого внутрижелудочного кровотечения. Однако при правильном приготовлении в пищу эти эффект необъяснимым образом сводятся на нет. Употребившие эту "приправу" будут немедленно воскрешены после смерти.</VCE_DigestibleResurrectorNanites.description>
+
+</LanguageData>

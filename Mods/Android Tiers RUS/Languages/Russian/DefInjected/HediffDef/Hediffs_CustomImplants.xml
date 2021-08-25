@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Backstory_PitFighterUpgrade.label>Шахтерская перчатка</Backstory_PitFighterUpgrade.label>
+  <Backstory_PitFighterUpgrade.description>Установленная перчатка.</Backstory_PitFighterUpgrade.description>
+  <Backstory_PitFighterUpgrade.comps.0.tools.0.label>кулак</Backstory_PitFighterUpgrade.comps.0.tools.0.label>
+  <Backstory_PitFighterUpgrade.labelNoun>шахтерская перчатка</Backstory_PitFighterUpgrade.labelNoun>
+
+  <Backstory_TranscendantAssimilatorUpgrade.label>Плазменная перчатка</Backstory_TranscendantAssimilatorUpgrade.label>
+  <Backstory_TranscendantAssimilatorUpgrade.description>Установленная перчатка.</Backstory_TranscendantAssimilatorUpgrade.description>
+  <Backstory_TranscendantAssimilatorUpgrade.comps.0.tools.0.label>клинок</Backstory_TranscendantAssimilatorUpgrade.comps.0.tools.0.label>
+  <Backstory_TranscendantAssimilatorUpgrade.labelNoun>плазменная перчатка</Backstory_TranscendantAssimilatorUpgrade.labelNoun>
+
+  <Backstory_HighCouncilUpgrade.label>Квантовая обработка</Backstory_HighCouncilUpgrade.label>
+  <Backstory_HighCouncilUpgrade.description>Установленный квантовый разум.</Backstory_HighCouncilUpgrade.description>
+  <Backstory_HighCouncilUpgrade.labelNoun>квантовый разум</Backstory_HighCouncilUpgrade.labelNoun>
+
+
+</LanguageData>

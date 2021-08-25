@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_Ketchup.label>приготовить кетчуп</VCE_Ketchup.label>
+  <VCE_Ketchup.description>Сделать кетчуп из томатов. Густой соус из тушеных томатов, соленый и острый, со сладким послевкусием. Идеально подходит для мясных и жареных блюд.</VCE_Ketchup.description>
+  <VCE_Ketchup.jobString>Готовит кетчуп.</VCE_Ketchup.jobString>
+
+  <VCE_HotSauce.label>приготовить острый соус</VCE_HotSauce.label>
+  <VCE_HotSauce.description>Сделать острый соус из перца. Острый соус, приготовленный из тушеного перца и других специй. Хотя такие острые соусы вредят организму поначалу, они, как известно, притупляют боль и согревают вскоре после употребления.</VCE_HotSauce.description>
+  <VCE_HotSauce.jobString>Готовит острый соус.</VCE_HotSauce.jobString>
+
+
+</LanguageData>

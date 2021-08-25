@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Unspecified -->
+
+  <Framework.label>Каркас</Framework.label>
+  <MechanicalThorax.label>Грудная клетка</MechanicalThorax.label>
+  <LeftHand.label>Левая рука</LeftHand.label>
+  <RightHand.label>Правая рука</RightHand.label>
+  <MechanicalNeck.label>Шея</MechanicalNeck.label>
+  <MechanicalHead.label>Голова</MechanicalHead.label>
+  <VoiceSynthesizer.label>Голосовой синтезатор</VoiceSynthesizer.label>
+  <LeftSightSensor.label>Левый глаз</LeftSightSensor.label>
+  <RightSightSensor.label>Правый глаз</RightSightSensor.label>
+  <LeftHearingSensor.label>Левое ухо</LeftHearingSensor.label>
+  <RightHearingSensor.label>Правое ухо</RightHearingSensor.label>
+  <SmellSensor.label>Датчик запаха</SmellSensor.label>
+  <LeftMechanicalShoulder.label>Левое плечо</LeftMechanicalShoulder.label>
+  <LeftMechanicalArm.label>Левая рука</LeftMechanicalArm.label>
+  <LeftMechanicalHand.label>Левая кисть</LeftMechanicalHand.label>
+  <LeftHandMechanicalPinky.label>Левый мизинец</LeftHandMechanicalPinky.label>
+  <LeftHandMechanicalMiddleFinger.label>Левый средний палец</LeftHandMechanicalMiddleFinger.label>
+  <LeftHandMechanicalIndexFinger.label>Левый указательный палец</LeftHandMechanicalIndexFinger.label>
+  <LeftHandMechanicalThumb.label>Большой палец левой руки</LeftHandMechanicalThumb.label>
+  <RightMechanicalShoulder.label>Правое плечо</RightMechanicalShoulder.label>
+  <RightMechanicalArm.label>Правая рука</RightMechanicalArm.label>
+  <RightMechanicalHand.label>Правая кисть</RightMechanicalHand.label>
+  <RightHandMechanicalPinky.label>Правый мизинец</RightHandMechanicalPinky.label>
+  <RightHandMechanicalMiddleFinger.label>Правый средний палец</RightHandMechanicalMiddleFinger.label>
+  <RightHandMechanicalIndexFinger.label>Правый указательный палец</RightHandMechanicalIndexFinger.label>
+  <RightHandMechanicalThumb.label>Правый большой палец</RightHandMechanicalThumb.label>
+  <LeftMechanicalLeg.label>Левая нога</LeftMechanicalLeg.label>
+  <LeftMechanicalFoot.label>Левая ступня</LeftMechanicalFoot.label>
+  <RightMechanicalLeg.label>Правая нога</RightMechanicalLeg.label>
+  <RightMechanicalFoot.label>Правая ступня</RightMechanicalFoot.label>
+  <ArtificialBrain.label>Искусственный мозг</ArtificialBrain.label>
+
+
+  <!-- Doggo -->
+
+  <FrontLeftMechanicalLeg.label>Передняя левая нога</FrontLeftMechanicalLeg.label>
+  <FrontLeftMechanicalPaw.label>Передняя левая лапа</FrontLeftMechanicalPaw.label>
+  <FrontRightMechanicalLeg.label>Передняя правая нога</FrontRightMechanicalLeg.label>
+  <FrontRightMechanicalPaw.label>Передняя правая лапа</FrontRightMechanicalPaw.label>
+  <RearRightMechanicalLeg.label>Задняя правая нога</RearRightMechanicalLeg.label>
+  <RearRightMechanicalPaw.label>Задняя правая лапа</RearRightMechanicalPaw.label>
+  <RearLeftMechanicalLeg.label>Задняя левая нога</RearLeftMechanicalLeg.label>
+  <RearLeftMechanicalPaw.label>Задняя левая лапа</RearLeftMechanicalPaw.label>
+  <CounterWeightTail.label>Задний противовес</CounterWeightTail.label>
+  <CyberneticAnimalJaw.label>Гидравлическая челюсть</CyberneticAnimalJaw.label>
+  <MechanicalChassis.label>Шасси</MechanicalChassis.label>
+  <LeftWingBlade.label>Левое крыло</LeftWingBlade.label>
+  <RightWingBlade.label>Правое крыло</RightWingBlade.label>
+  <PropellerBladeMicro.label>Лопасть пропеллера</PropellerBladeMicro.label>
+  <CounterWeightTop.label>Небольшой противовес</CounterWeightTop.label>
+
+
+</LanguageData>

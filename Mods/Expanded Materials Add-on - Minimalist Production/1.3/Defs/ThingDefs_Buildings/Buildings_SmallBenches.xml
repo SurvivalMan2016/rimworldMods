@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Small Butchering Table -->
+ <ThingDef ParentName="BenchBase">
+    <defName>MP_SmallButchering</defName>
+    <label>маленький мясной стол</label>
+    <description>Небольшой стол для разделки мертвых существ на куски сырого мяса. Из-за небольшого пространства на разделку уходит немного больше времени, но это не влияет на количество урожая.</description>
+    <thingClass>Building_WorkTable</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Production/Butchering</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(2.15,1.4)</drawSize>
+	  <drawOffset>(0,0,-0.1)</drawOffset>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <castEdgeShadows>true</castEdgeShadows>
+    <staticSunShadowHeight>0.20</staticSunShadowHeight>
+    <costStuffCount>55</costStuffCount>
+    <stuffCategories>
+      <li>VMEu_PlasticStuffCategory</li>
+    </stuffCategories>
+    <altitudeLayer>Building</altitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <useHitPoints>True</useHitPoints>
+    <statBases>
+      <WorkToBuild>2000</WorkToBuild>
+      <MaxHitPoints>180</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <Cleanliness>-12</Cleanliness>
+	    <WorkTableWorkSpeedFactor>0.85</WorkTableWorkSpeedFactor>
+    </statBases>
+    <size>(2,1)</size>
+    <designationCategory>Production</designationCategory>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(1,0,-1)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+    <recipes>
+      <li>ButcherCorpseFlesh</li>
+      <li>Make_Kibble</li>
+    </recipes>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+	<researchPrerequisites>
+      <li>MP_MinimalistProduction</li>
+    </researchPrerequisites>
+    <comps>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+        </linkableFacilities>
+      </li>
+    </comps>
+    <designationHotKey>Misc3</designationHotKey>
+    <placeWorkers>
+      <li>PlaceWorker_ShowFacilitiesConnections</li>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+    </placeWorkers>
+	<modExtensions>
+        <li Class="RecipeInheritance.ThingDefExtension">
+            <inheritRecipesFrom>
+                <li>ButcherSpot</li>
+                <li>TableButcher</li>
+            </inheritRecipesFrom>
+            <!-- <allowedProductFilter> -->
+                <!-- <categories> -->
+                    <!-- <li>Manufactured</li> -->
+                <!-- </categories> -->
+            <!-- </allowedProductFilter> -->
+        </li>
+    </modExtensions>
+  </ThingDef>
+
+<!-- Small Sculpting Table -->
+<ThingDef ParentName="BenchBase">
+    <defName>MP_SmallStoneworkerTable</defName>
+    <label>небольшой стол каменщика</label>
+    <description>Небольшой и дешевый верстак, оборудованный для работы с камнями. Его можно использовать как для обработки камня, так и для лепки.</description>
+    <thingClass>Building_WorkTable</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Production/Stonecutter</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>(2.15,1.4)</drawSize>
+	  <drawOffset>(0,0,-0.1)</drawOffset>
+      <shadowData>
+        <volume>(2.9, 0.3, 0.5)</volume>
+        <offset>(0, 0, 0)</offset>
+      </shadowData>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <costList>
+      <Steel>10</Steel>
+    </costList>
+    <stuffCategories>
+      <li>VMEu_PlasticStuffCategory</li>
+    </stuffCategories>
+    <costStuffCount>50</costStuffCount>
+    <altitudeLayer>Building</altitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <useHitPoints>True</useHitPoints>
+    <statBases>
+      <WorkToBuild>2500</WorkToBuild>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <Cleanliness>-2</Cleanliness>
+      <WorkTableWorkSpeedFactor>0.9</WorkTableWorkSpeedFactor>
+    </statBases>
+    <size>(2,1)</size>
+    <designationCategory>Production</designationCategory>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(1,0,-1)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+	<researchPrerequisites>
+      <li>MP_MinimalistProduction</li>
+    </researchPrerequisites>
+    <comps>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+        </linkableFacilities>
+      </li>
+    </comps>
+    <designationHotKey>Misc2</designationHotKey>
+    <placeWorkers>
+      <li>PlaceWorker_ShowFacilitiesConnections</li>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+    </placeWorkers>
+	<modExtensions>
+        <li Class="RecipeInheritance.ThingDefExtension">
+            <inheritRecipesFrom>
+                <li>TableStonecutter</li>
+                <li>TableSculpting</li>
+            </inheritRecipesFrom>
+            <!-- <allowedProductFilter> -->
+                <!-- <categories> -->
+                    <!-- <li>Manufactured</li> -->
+                <!-- </categories> -->
+            <!-- </allowedProductFilter> -->
+        </li>
+    </modExtensions>
+  </ThingDef>
+  
+  <!-- Small Stove -->
+  <ThingDef ParentName="BenchBase">
+    <defName>MP_SmallStove</defName>
+    <label>маленькая плита</label>
+    <description>Небольшая электрическая плита с приставной столешницей для приготовления еды.</description>
+    <thingClass>Building_WorkTable_HeatPush</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Production/Stove</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(2.15,1.4)</drawSize>
+	  <drawOffset>(0,0,-0.1)</drawOffset>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <castEdgeShadows>true</castEdgeShadows>
+    <staticSunShadowHeight>0.20</staticSunShadowHeight>
+    <costList>
+      <Steel>20</Steel>
+      <ComponentIndustrial>2</ComponentIndustrial>
+    </costList>
+	<stuffCategories>
+      <li>VMEu_PlasticStuffCategory</li>
+    </stuffCategories>
+    <costStuffCount>35</costStuffCount>
+    <altitudeLayer>Building</altitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <useHitPoints>True</useHitPoints>
+    <statBases>
+      <WorkToBuild>2000</WorkToBuild>
+      <MaxHitPoints>180</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <WorkTableWorkSpeedFactor>0.9</WorkTableWorkSpeedFactor>
+    </statBases>
+    <size>(2,1)</size>
+    <designationCategory>Production</designationCategory>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(1,0,-1)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+    <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <shortCircuitInRain>true</shortCircuitInRain>
+        <basePowerConsumption>260</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Flickable"/>
+      <li Class="CompProperties_Breakdownable"/>
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusherPowered</compClass>
+        <heatPerSecond>3</heatPerSecond>
+      </li>
+    </comps>
+    <building>
+      <isMealSource>true</isMealSource>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+      <heatPerTickWhileWorking>0.10</heatPerTickWhileWorking>
+    </building>
+	<researchPrerequisites>
+      <li>MP_MinimalistProduction</li>
+    </researchPrerequisites>
+    <designationHotKey>Misc8</designationHotKey>
+    <placeWorkers>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+    </placeWorkers>
+	<modExtensions>
+        <li Class="RecipeInheritance.ThingDefExtension">
+            <inheritRecipesFrom>
+                <li>ElectricStove</li>
+                <li>FueledStove</li>
+            </inheritRecipesFrom>
+            <!-- <allowedProductFilter> -->
+                <!-- <categories> -->
+                    <!-- <li>Manufactured</li> -->
+                <!-- </categories> -->
+            <!-- </allowedProductFilter> -->
+        </li>
+    </modExtensions>
+  </ThingDef>
+  
+  <!-- Small Tailoring Table -->
+<ThingDef ParentName="BenchBase">
+    <defName>MP_SmallTailoringTable</defName>
+    <label>небольшая скамейка для пошива</label>
+    <description>Небольшой верстак, оборудованный для пошива одежды.</description>
+    <thingClass>Building_WorkTable</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Production/Tailoring</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(2.15,1.4)</drawSize>
+	  <drawOffset>(0,0,-0.1)</drawOffset>
+      <shaderType>CutoutComplex</shaderType>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <castEdgeShadows>true</castEdgeShadows>
+    <staticSunShadowHeight>0.20</staticSunShadowHeight>
+	<costList>
+      <ComponentIndustrial>2</ComponentIndustrial>
+    </costList>
+    <costStuffCount>50</costStuffCount>
+    <stuffCategories>
+      <li>VMEu_PlasticStuffCategory</li>
+    </stuffCategories>
+    <altitudeLayer>Building</altitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <useHitPoints>True</useHitPoints>
+    <statBases>
+      <WorkToBuild>2000</WorkToBuild>
+      <MaxHitPoints>180</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <WorkTableWorkSpeedFactor>0.95</WorkTableWorkSpeedFactor>
+    </statBases>
+    <size>(2,1)</size>
+    <designationCategory>Production</designationCategory>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(1,0,-1)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+	  <unpoweredWorkTableWorkSpeedFactor>0.6</unpoweredWorkTableWorkSpeedFactor>
+    </building>
+	<researchPrerequisites>
+      <li>MP_MinimalistProduction</li>
+    </researchPrerequisites>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <shortCircuitInRain>true</shortCircuitInRain>
+        <basePowerConsumption>100</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Flickable"/>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+        </linkableFacilities>
+      </li>
+      <li Class="CompProperties_Breakdownable"/>
+    </comps>
+    <placeWorkers>
+      <li>PlaceWorker_ShowFacilitiesConnections</li>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+    </placeWorkers>
+	<modExtensions>
+        <li Class="RecipeInheritance.ThingDefExtension">
+            <inheritRecipesFrom>
+                <li>HandTailoringBench</li>
+                <li>ElectricTailoringBench</li>
+            </inheritRecipesFrom>
+            <!-- <allowedProductFilter> -->
+                <!-- <categories> -->
+                    <!-- <li>Manufactured</li> -->
+                <!-- </categories> -->
+            <!-- </allowedProductFilter> -->
+        </li>
+    </modExtensions>
+  </ThingDef>
+  
+  <!-- Small smithy -->
+  <ThingDef ParentName="BenchBase">
+    <defName>MP_SmallSmithy</defName>
+    <label>небольшая электрическая кузница</label>
+    <description>Небольшая электрическая станция для изготовления немеханического оружия и инструментов.</description>
+    <thingClass>Building_WorkTable</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Production/Smithy</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(2.15,1.4)</drawSize>
+	  <drawOffset>(0,0,-0.1)</drawOffset>
+      <shadowData>
+        <volume>(2.8, 0.35, 0.59)</volume>
+        <offset>(0, 0, 0.08)</offset>
+      </shadowData>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <costList>
+      <Steel>50</Steel>
+      <ComponentIndustrial>3</ComponentIndustrial>
+    </costList>
+	<costStuffCount>40</costStuffCount>
+    <stuffCategories>
+      <li>VMEu_PlasticStuffCategory</li>
+    </stuffCategories>
+    <altitudeLayer>Building</altitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <useHitPoints>True</useHitPoints>
+    <statBases>
+      <WorkToBuild>3000</WorkToBuild>
+      <MaxHitPoints>180</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <Cleanliness>-1</Cleanliness>
+      <WorkTableWorkSpeedFactor>0.9</WorkTableWorkSpeedFactor>
+    </statBases>
+    <size>(2,1)</size>
+    <designationCategory>Production</designationCategory>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(1,0,-1)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+    <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+	<researchPrerequisites>
+      <li>MP_MinimalistProduction</li>
+    </researchPrerequisites>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <shortCircuitInRain>true</shortCircuitInRain>
+        <basePowerConsumption>180</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Flickable"/>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+        </linkableFacilities>
+      </li>
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusherPowered</compClass>
+        <heatPerSecond>2</heatPerSecond>
+      </li>
+    </comps>
+    <placeWorkers>
+      <li>PlaceWorker_ShowFacilitiesConnections</li>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+    </placeWorkers>
+	<modExtensions>
+        <li Class="RecipeInheritance.ThingDefExtension">
+            <inheritRecipesFrom>
+                <li>FueledSmithy</li>
+                <li>ElectricSmithy</li>
+            </inheritRecipesFrom>
+            <!-- <allowedProductFilter> -->
+                <!-- <categories> -->
+                    <!-- <li>Manufactured</li> -->
+                <!-- </categories> -->
+            <!-- </allowedProductFilter> -->
+        </li>
+    </modExtensions>
+  </ThingDef>
+  
+  <!-- Small Machining Table -->
+  <ThingDef ParentName="BenchBase">
+    <defName>MP_SmallMachiningTable</defName>
+    <label>небольшой многоцелевой рабочий стол</label>
+    <description>Небольшая, хорошо оборудованная рабочая станция для сборки простого и сложного оборудования требует современных материалов.</description>
+    <thingClass>Building_WorkTable</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Production/Machining</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(2.15,1.4)</drawSize>
+	  <drawOffset>(0,0,-0.1)</drawOffset>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <castEdgeShadows>true</castEdgeShadows>
+    <staticSunShadowHeight>0.20</staticSunShadowHeight>
+    <costList>
+      <Steel>20</Steel>
+      <VMEu_CarbonFiber>35</VMEu_CarbonFiber>
+      <ComponentIndustrial>6</ComponentIndustrial>
+    </costList>
+	<costStuffCount>50</costStuffCount>
+    <stuffCategories>
+      <li>VMEu_PlasticStuffCategory</li>
+    </stuffCategories>
+    <altitudeLayer>Building</altitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <useHitPoints>True</useHitPoints>
+    <statBases>
+      <WorkToBuild>3000</WorkToBuild>
+      <MaxHitPoints>180</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <Cleanliness>-1</Cleanliness>
+      <WorkTableWorkSpeedFactor>0.96</WorkTableWorkSpeedFactor>
+    </statBases>
+    <size>(2,1)</size>
+    <designationCategory>Production</designationCategory>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(1,0,-1)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+    <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <shortCircuitInRain>true</shortCircuitInRain>
+        <basePowerConsumption>300</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Flickable"/>
+      <li Class="CompProperties_Glower">
+        <glowRadius>5</glowRadius>
+        <glowColor>(99,191,170,0)</glowColor>
+      </li>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+        </linkableFacilities>
+      </li>
+      <li Class="CompProperties_Breakdownable"/>
+    </comps>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+	<researchPrerequisites>
+      <li>MP_MinimalistProduction</li>
+    </researchPrerequisites>
+    <designationHotKey>Misc7</designationHotKey>
+    <placeWorkers>
+      <li>PlaceWorker_ShowFacilitiesConnections</li>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+    </placeWorkers>
+	<modExtensions>
+        <li Class="RecipeInheritance.ThingDefExtension">
+            <inheritRecipesFrom>
+                <li>TableMachining</li>
+                <li>FabricationBench</li>
+            </inheritRecipesFrom>
+            <!-- <allowedProductFilter> -->
+                <!-- <categories> -->
+                    <!-- <li>Manufactured</li> -->
+                <!-- </categories> -->
+            <!-- </allowedProductFilter> -->
+        </li>
+    </modExtensions>
+  </ThingDef>
+  
+  <!-- Small Brewery -->
+  <ThingDef ParentName="BenchBase">
+    <defName>MP_SmallBrewery</defName>
+    <label>маленькая пивоварня</label>
+    <description>Небольшая рабочая станция со всем оборудованием, необходимым для производства алкогольных напитков.</description>
+    <thingClass>Building_WorkTable</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Production/Brewery</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(2.15,1.4)</drawSize>
+	  <drawOffset>(0,0,-0.1)</drawOffset>
+      <shadowData>
+        <volume>(2.8, 0.3, 0.54)</volume>
+        <offset>(0, 0, -0.18)</offset>
+      </shadowData>
+      <damageData>
+        <rect>(0.3,0,2.7,1)</rect>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <costList>
+      <Steel>10</Steel>
+    </costList>
+	<costStuffCount>50</costStuffCount>
+    <stuffCategories>
+      <li>VMEu_PlasticStuffCategory</li>
+    </stuffCategories>
+    <altitudeLayer>Building</altitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <useHitPoints>True</useHitPoints>
+    <statBases>
+      <WorkToBuild>2000</WorkToBuild>
+      <MaxHitPoints>180</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <WorkTableWorkSpeedFactor>0.9</WorkTableWorkSpeedFactor>
+    </statBases>
+    <size>(2,1)</size>
+    <designationCategory>Production</designationCategory>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(1,0,-1)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+	<researchPrerequisites>
+      <li>MP_MinimalistProduction</li>
+    </researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+    </placeWorkers>
+	<modExtensions>
+        <li Class="RecipeInheritance.ThingDefExtension">
+            <inheritRecipesFrom>
+                <li>Brewery</li>
+            </inheritRecipesFrom>
+            <!-- <allowedProductFilter> -->
+                <!-- <categories> -->
+                    <!-- <li>Manufactured</li> -->
+                <!-- </categories> -->
+            <!-- </allowedProductFilter> -->
+        </li>
+    </modExtensions>
+  </ThingDef>
+  
+  <!-- Small Drug Lab -->
+  <ThingDef ParentName="BenchBase">
+    <defName>MP_SmallDrugLab</defName>
+    <label>небольшая фармацевтическая лаборатория</label>
+    <description>Небольшой верстак, оборудованный емкостями, нагревателями и измерительными приборами для производства различных лекарств. Работает без питания на более низкой скорости.</description>
+    <thingClass>Building_WorkTable</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Production/DrugLab</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>(2.15,1.4)</drawSize>
+	  <drawOffset>(0,0,-0.1)</drawOffset>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <castEdgeShadows>true</castEdgeShadows>
+    <staticSunShadowHeight>0.20</staticSunShadowHeight>
+    <costStuffCount>50</costStuffCount>
+    <stuffCategories>
+      <li>VMEu_PlasticStuffCategory</li>
+    </stuffCategories>
+    <costList>
+      <Steel>40</Steel>
+      <ComponentIndustrial>5</ComponentIndustrial>
+    </costList>
+    <altitudeLayer>Building</altitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <useHitPoints>True</useHitPoints>
+    <statBases>
+      <WorkToBuild>3500</WorkToBuild>
+      <MaxHitPoints>120</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <WorkTableWorkSpeedFactor>0.88</WorkTableWorkSpeedFactor>
+    </statBases>
+    <size>(2,1)</size>
+    <designationCategory>Production</designationCategory>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(1,0,-1)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+    <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+	  <unpoweredWorkTableWorkSpeedFactor>0.6</unpoweredWorkTableWorkSpeedFactor>
+    </building>
+	<researchPrerequisites>
+      <li>MP_MinimalistProduction</li>
+    </researchPrerequisites>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <shortCircuitInRain>true</shortCircuitInRain>
+        <basePowerConsumption>260</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Flickable"/>
+      <li Class="CompProperties_Glower">
+        <glowRadius>2</glowRadius>
+        <glowColor>(80,154,171,0)</glowColor>
+      </li>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+        </linkableFacilities>
+      </li>
+      <li Class="CompProperties_Breakdownable"/>
+    </comps>
+    <placeWorkers>
+      <li>PlaceWorker_ShowFacilitiesConnections</li>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+    </placeWorkers>
+	<modExtensions>
+        <li Class="RecipeInheritance.ThingDefExtension">
+            <inheritRecipesFrom>
+                <li>DrugLab</li>
+            </inheritRecipesFrom>
+            <!-- <allowedProductFilter> -->
+                <!-- <categories> -->
+                    <!-- <li>Manufactured</li> -->
+                <!-- </categories> -->
+            <!-- </allowedProductFilter> -->
+        </li>
+    </modExtensions>
+  </ThingDef>
+  
+  <!-- Small Research Bench -->
+  <!-- <ThingDef ParentName="BenchBase">
+    <defName>MP_SmallResearchBench</defName>
+    <label>небольшая исследовательская скамья</label>
+    <description>Компактный, но высококачественный исследовательский стенд, оснащенный передовыми инструментами, открывает доступ к исследовательским проектам, для которых требуется только высокотехнологичный исследовательский стенд, но для любого проекта, требующего использования мультианализатора, все равно потребуется надлежащий высокотехнологичный стенд, чтобы его можно было разблокировать.</description>
+    <thingClass>Building_ResearchBench</thingClass>
+    <size>(3,2)</size>
+    <thingCategories Inherit="false" />
+    <stuffCategories>
+      <li>VMEu_PlasticStuffCategory</li>
+    </stuffCategories>
+    <costStuffCount>110</costStuffCount>
+    <costList>
+      <Steel>40</Steel>
+      <ComponentIndustrial>4</ComponentIndustrial>
+    </costList>
+    <graphicData>
+      <texPath>Things/Building/Production/MP_Research</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>(5,4)</drawSize>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <castEdgeShadows>true</castEdgeShadows>
+    <staticSunShadowHeight>0.20</staticSunShadowHeight>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <WorkToBuild>3200</WorkToBuild>
+      <Flammability>1.0</Flammability>
+      <ResearchSpeedFactor>1.0</ResearchSpeedFactor>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>200</basePowerConsumption>
+        <shortCircuitInRain>true</shortCircuitInRain>
+      </li>
+      <li Class="CompProperties_Flickable"/>
+    </comps>
+    <fillPercent>0.5</fillPercent>
+    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <hasInteractionCell>true</hasInteractionCell>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <designationCategory>Production</designationCategory>
+    <surfaceType>Item</surfaceType>
+    <designationHotKey>Misc4</designationHotKey>
+    <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+    <placeWorkers>
+      <li>PlaceWorker_ShowFacilitiesConnections</li>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+    </placeWorkers>
+    <researchPrerequisites>
+      <li>MP_MinimalistProduction</li>
+    </researchPrerequisites>
+  </ThingDef> -->
+  
+</Defs>

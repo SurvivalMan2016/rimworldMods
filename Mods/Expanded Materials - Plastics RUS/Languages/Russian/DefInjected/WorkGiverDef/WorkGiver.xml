@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VMEu_DoBillsSimpleWeaver.label>плетение синтетических волокон</VMEu_DoBillsSimpleWeaver.label>
+  <VMEu_DoBillsSimpleWeaver.verb>работать</VMEu_DoBillsSimpleWeaver.verb>
+  <VMEu_DoBillsSimpleWeaver.gerund>работать на</VMEu_DoBillsSimpleWeaver.gerund>
+
+  <VMEu_DoBillsSynthWeaver.label>плетение синтетических волокон</VMEu_DoBillsSynthWeaver.label>
+  <VMEu_DoBillsSynthWeaver.verb>работать</VMEu_DoBillsSynthWeaver.verb>
+  <VMEu_DoBillsSynthWeaver.gerund>работать на</VMEu_DoBillsSynthWeaver.gerund>
+
+  <VMEu_DoBillsOilDistiller.label>перегонка нефти</VMEu_DoBillsOilDistiller.label>
+  <VMEu_DoBillsOilDistiller.verb>перегонять</VMEu_DoBillsOilDistiller.verb>
+  <VMEu_DoBillsOilDistiller.gerund>перегнать на</VMEu_DoBillsOilDistiller.gerund>
+
+
+</LanguageData>

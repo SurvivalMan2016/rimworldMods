@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fungal gravel -->
+  <FungalGravel.label>грибной грунт</FungalGravel.label>
+  <!-- EN: A spreadable form of gravel for growing fungal crops underground. It must be placed under overhead mountain so the dank coolness of the depths can nourish the fungal spores. -->
+  <FungalGravel.description>Распространенная форма грунта для выращивания грибных культур под землей. Он должен быть помещен под вершиной горы, чтобы сырая прохлада глубин могла питать споры грибов.</FungalGravel.description>
+  
+</LanguageData>

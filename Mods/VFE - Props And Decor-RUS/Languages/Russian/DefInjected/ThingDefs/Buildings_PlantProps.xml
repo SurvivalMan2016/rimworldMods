@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+    <VFEPD_Glowstool.label>декор. светящийся гриб</VFEPD_Glowstool.label>
+    <VFEPD_Glowstool.description>Поддельный маленький коричневый гриб, обычно встречающийся в пещерах. Пахнет старой грязной тряпкой, вытащенной из желудка гниющего муффало, но в приготовлении он удивительно хорош.</VFEPD_Glowstool.description>
+
+    <VFEPD_Agarilux.label>декор. агарилакс</VFEPD_Agarilux.label>
+    <VFEPD_Agarilux.description>Поддельный огромный фиолетовый гриб. Его размер и светящиеся выступы делают этот гриб красивым.</VFEPD_Agarilux.description>
+
+    <VFEPD_Bryolux.label>декор. бриолакс</VFEPD_Bryolux.label>
+    <VFEPD_Bryolux.description>Поддельный синий мох, обычно встречающийся в глубоких темных пещерах. Он липкий, с запутанными волокнами, что замедляет ходьбу по нему.</VFEPD_Bryolux.description>
+
+    <VFEPD_Rose.label>декор. роза</VFEPD_Rose.label>
+    <VFEPD_Rose.description>Поддельный красивый культивируемый цветок, роза была символом любви с древнейших времен Земли.</VFEPD_Rose.description>
+
+    <VFEPD_Daylily.label>декор. лилейник</VFEPD_Daylily.label>
+    <VFEPD_Daylily.description>Искусственный искусственный цветок с широкими лепестками и коротким сроком жизни. Лилейники очень красивы, но их нужно часто пересаживать.</VFEPD_Daylily.description>
+
+    <VFEPD_Rice.label>декор. рис</VFEPD_Rice.label>
+    <VFEPD_Rice.description>Поддельная, короткая, быстрорастущая культура, дающая небольшие съедобные зерна. Его отличные питательные свойства и простота выращивания сделали его экономическим ядром многих великих цивилизаций.</VFEPD_Rice.description>
+
+    <VFEPD_Potato.label>декор. картофель</VFEPD_Potato.label>
+    <VFEPD_Potato.description>Поддельный, очень питательный клубень. Картофель хорошо растет даже на довольно бедной почве и образует восхитительный хрустящий внешний слой при жарке в масле.</VFEPD_Potato.description>
+
+    <VFEPD_Corn.label>декор. кукуруза</VFEPD_Corn.label>
+    <VFEPD_Corn.description>Поддельное высокозернистое растение, которое дает початки мягких съедобных семян. Хотя кукуруза растет долго, она дает много еды по сравнению с другими культурами. Урожайная кукуруза долго портится.</VFEPD_Corn.description>
+
+    <VFEPD_Strawberry.label>декор. клубника</VFEPD_Strawberry.label>
+    <VFEPD_Strawberry.description>Поддельное низкое кустарниковое растение, которое дает хрупкую, но восхитительную клубнику. Хотя соотношение калорий к калорийности здесь не такое продуктивное, как у других культур, клубника вкусна даже в сыром виде.</VFEPD_Strawberry.description>
+
+    <VFEPD_Haygrass.label>декор. сенотрава</VFEPD_Haygrass.label>
+    <VFEPD_Haygrass.description>Поддельная смесь богатых питательными веществами трав, которые дают большое количество сена. Сено съедобно для животных, но не для человека.</VFEPD_Haygrass.description>
+
+    <VFEPD_Cotton.label>декор. хлопок</VFEPD_Cotton.label>
+    <VFEPD_Cotton.description>Искусственный урожай среднего размера, из которого получаются тонкие белые хлопковые волокна. Из них делают ткань.</VFEPD_Cotton.description>
+
+    <VFEPD_Devilstrand.label>декор. дьявлонитник</VFEPD_Devilstrand.label>
+    <VFEPD_Devilstrand.description>Этот хрупкий гриб был генетически модифицирован для производства шелковой сети, которую трудно разорвать, и которая мягкая на ощупь. Хотя гриб растет очень долго, только экзотические сверхтехнологичные ткани превосходят его дьявольские волокна. Некоторые говорят, что его называют дьявольской прядью из-за красного цвета. Другие считают, что своим названием он обязан своей жадности, которую внушает людям.</VFEPD_Devilstrand.description>
+
+    <VFEPD_Healroot.label>декор. целебный корень</VFEPD_Healroot.label>
+    <VFEPD_Healroot.description>Поддельное, медленнорастущее растение, которое при сборе дает лекарственные травы. Посев и сбор лугового корня - очень трудоемкие задачи из-за его нежных побегов. Healroot веками селекционно разводили поселенцы. Иногда ее еще называют «рука целителя». от людей племени - прозвище, которое он получил за свои пять основных лечебных достоинств.</VFEPD_Healroot.description>
+
+    <VFEPD_Hops.label>декор. хмель</VFEPD_Hops.label>
+    <VFEPD_Hops.description>Искусственно цветущая культура, из которой вырастает хмель - важный ингредиент пива.</VFEPD_Hops.description>
+
+    <VFEPD_Smokeleaf.label>декор. дымолист</VFEPD_Smokeleaf.label>
+    <VFEPD_Smokeleaf.description>Поддельная листовая культура, выращенная из-за психологического воздействия химических веществ в ее листьях. Из листьев дымчатого листа можно сделать суставы в месте изготовления. Smokeleaf расслабляет пользователя, но снижает мотивацию и может вызвать привыкание.</VFEPD_Smokeleaf.description>
+
+    <VFEPD_Psychoid.label>декор. психолист</VFEPD_Psychoid.label>
+    <VFEPD_Psychoid.description>Поддельное листовое растение, вырабатывающее химическое соединение психит. Первоначально разработанный как защитный механизм для защиты от травоядных животных путем чрезмерной стимуляции и отравления, психотропный препарат может быть извлечен и переработан в различные формы для рекреационного использования. Это вызывает привыкание.</VFEPD_Psychoid.description>
+
+    <VFEPD_GrassShort.label>декор. трава</VFEPD_GrassShort.label>
+    <VFEPD_GrassShort.description>Поддельная дикая трава. Растет везде, где мало света и минимально плодородная почва.</VFEPD_GrassShort.description>
+
+    <VFEPD_GrassLong.label>декор. высокая трава</VFEPD_GrassLong.label>
+    <VFEPD_GrassLong.description>Подделка дикой высокой травы. Замедляет любого, кто движется по нему.</VFEPD_GrassLong.description>
+
+    <VFEPD_Agave.label>декор. агава</VFEPD_Agave.label>
+    <VFEPD_Agave.description>Поддельное крупнолистное пустынное растение со съедобными цветами и стеблями.</VFEPD_Agave.description>
+
+    <VFEPD_PincushionCactus.label>декор. маленький кактус</VFEPD_PincushionCactus.label>
+    <VFEPD_PincushionCactus.description>Поддельный короткий кактус. Он назван так потому, что напоминает подушечку для иголок.</VFEPD_PincushionCactus.description>
+
+    <!-- кустарники  -->
+
+    <VFEPD_Bush.label>декор. куст</VFEPD_Bush.label>
+    <VFEPD_Bush.description>Искусственный невысокий кустарник. Обычно не разговаривает.</VFEPD_Bush.description>
+
+    <VFEPD_Brambles.label>декор. ежевика</VFEPD_Brambles.label>
+    <VFEPD_Brambles.description>Искусственные, спутанные, колючие, древесные побеги, покрытые листьями. Ежевика растет гроздьями и замедляют любого, кто движется по кустарнику.</VFEPD_Brambles.description>
+
+    <VFEPD_BerryBush.label>декор. ягодный куст</VFEPD_BerryBush.label>
+    <VFEPD_BerryBush.description>Поддельное густое дикое растение, дающее вкусные ягоды. Ягоды можно варить, но их тоже можно есть даже в сыром виде.</VFEPD_BerryBush.description>
+
+    <VFEPD_Alocasia.label>декор. алоказия</VFEPD_Alocasia.label>
+    <VFEPD_Alocasia.description>Поддельное тропическое растение. Его чрезвычайно широкие листья - общепризнанный символ тропических лесов.</VFEPD_Alocasia.description>
+
+    <VFEPD_Clivia.label>декор. кливия</VFEPD_Clivia.label>    
+    <VFEPD_Clivia.description>Необычное растение с высокими красивыми цветами. Некоторые называют это кустовая лилия.</VFEPD_Clivia.description>
+
+    <VFEPD_Rafflesia.label>декор. раффлезия</VFEPD_Rafflesia.label>
+    <VFEPD_Rafflesia.description>Редкий гигантский цветок, который можно найти глубоко в дымящихся джунглях. Можно подумать, что гигантский цветок красив, но этот выглядит и пахнет гниющей плотью.</VFEPD_Rafflesia.description> 
+
+    <!-- деревья  -->
+
+    <VFEPD_BurnedTree.label>декор. сгоревшее дерево</VFEPD_BurnedTree.label>
+    <VFEPD_BurnedTree.description>Поддельный сожженный пень. Это уродливо, и из него нельзя получить древесину.</VFEPD_BurnedTree.description>
+
+    <VFEPD_WillowTree.label>декор. ива</VFEPD_WillowTree.label>
+    <VFEPD_WillowTree.description>Искусственные ивы, одно из самых быстрорастущих теневых деревьев, создают красивый, покрытый листвой полог. Это не дает много полезной древесины.</VFEPD_WillowTree.description>
+
+    <VFEPD_CypressTree.label>декор. кипарис</VFEPD_CypressTree.label>
+    <VFEPD_CypressTree.description>Поддельное высокое хвойное дерево, часто встречающееся на болотах.</VFEPD_CypressTree.description>
+
+    <VFEPD_MapleTree.label>декор. клен</VFEPD_MapleTree.label>
+    <VFEPD_MapleTree.description>Поддельное обычное дерево среднего размера, легко идентифицируемое по его отчетливому трехконечному листу.</VFEPD_MapleTree.description>
+
+    <VFEPD_Chokevine.label>декор. плющ</VFEPD_Chokevine.label>
+    <VFEPD_Chokevine.description>Поддельные, спутанные массы шнуровидных колючих лоз, огромными массами извивающихся по земле.</VFEPD_Chokevine.description>
+
+    <VFEPD_OakTree.label>декор. дуб</VFEPD_OakTree.label>
+    <VFEPD_OakTree.description>Поддельное дерево твердых пород. Дубу требуется много времени, чтобы вырасти, но его древесина настолько прочна, что слово «дуб» используется как метафора силы во многих культурах.</VFEPD_OakTree.description>
+
+    <VFEPD_PoplarTree.label>декор. тополь</VFEPD_PoplarTree.label>
+    <VFEPD_PoplarTree.description>Поддельное хвойное дерево, которое растет очень быстро. К сожалению, его древесина непрочная и поэтому дает меньше полезного материала, чем деревья твердых пород.</VFEPD_PoplarTree.description>
+
+    <VFEPD_PineTree.label>декор. сосна</VFEPD_PineTree.label>
+    <VFEPD_PineTree.description>Искусственное большое хвойное дерево, покрытое колючими шишками. Он растет в характерной конической форме.</VFEPD_PineTree.description>
+
+    <VFEPD_BirchTree.label>декор. береза​​</VFEPD_BirchTree.label>
+    <VFEPD_BirchTree.description>Поддельное дерево умеренного биома, известное своей тонкой белой корой, похожей на бумагу.</VFEPD_BirchTree.description>
+
+    <VFEPD_TeakTree.label>декор. тик</VFEPD_TeakTree.label>
+    <VFEPD_TeakTree.description>Поддельное, исключительно прочное дерево лиственных пород, которое растет в теплом климате. Поскольку тиковое дерево очень прочное и водостойкое, в древние времена из него формировали киль деревянных парусных кораблей.</VFEPD_TeakTree.description>
+
+    <VFEPD_CecropiaTree.label>декор. цекропия</VFEPD_CecropiaTree.label>
+    <VFEPD_CecropiaTree.description>Одно из самых распространенных деревьев тропических лесов. Цекропия растет очень быстро, но дает мало пригодной для использования древесины.</VFEPD_CecropiaTree.description>
+
+    <VFEPD_PalmTree.label>декор. пальма</VFEPD_PalmTree.label>
+    <VFEPD_PalmTree.description>Поддельное тропическое дерево с высоким голым стволом, увенчанным пучком очень широких листьев. К сожалению, этот сорт не дает съедобных кокосов.</VFEPD_PalmTree.description>
+
+    <VFEPD_BambooTree.label>декор. бамбук</VFEPD_BambooTree.label>
+    <VFEPD_BambooTree.description>Поддельное, быстрорастущее древовидное растение, которое растет в густых рощах. Из бамбука можно получить древесный материал. Само растение некрасивое.</VFEPD_BambooTree.description>
+
+    <VFEPD_DragoTree.label>декор. драконово дерево</VFEPD_DragoTree.label>
+    <VFEPD_DragoTree.description>Подделка, выносливое дерево в пустыне, увенчанное толстыми заостренными листьями.</VFEPD_DragoTree.description>
+
+    <VFEPD_SaguaroCactus.label>декор. кактус</VFEPD_SaguaroCactus.label>
+    <VFEPD_SaguaroCactus.description>Поддельный большой кактус, произрастающий в засушливой среде Земли. Хотя это и не дерево, из него образуется небольшое количество волокнистого материала, который можно использовать как дерево.</VFEPD_SaguaroCactus.description>
+
+</LanguageData>
+

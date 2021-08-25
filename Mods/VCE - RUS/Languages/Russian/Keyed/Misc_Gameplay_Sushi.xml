@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_InsertSoybeansDesc>Ферментация</VCE_InsertSoybeansDesc>
+
+  <VCE_StartSoybeanInsertion>Добавить соевые бобы</VCE_StartSoybeanInsertion>
+  <VCE_StartSoybeanInsertionDesc>Принести и добавить соевые бобы в ферментатор для старта ферментации.</VCE_StartSoybeanInsertionDesc>
+
+  <VCE_CancelBringingSoybeans>Отменить добавление соевых бобов</VCE_CancelBringingSoybeans>
+  <VCE_CancelBringingSoybeansDesc>Отменяет переноску соевых бобов в ферментатор.</VCE_CancelBringingSoybeansDesc>
+
+  <VCE_RemoveSoySauce>Забрать соевый соус ({0})</VCE_RemoveSoySauce>
+  <VCE_RemoveSoySauceDesc>Забрать соевый соус из ферментатора. Соус будет готов с качеством ({0})</VCE_RemoveSoySauceDesc>
+
+
+</LanguageData>

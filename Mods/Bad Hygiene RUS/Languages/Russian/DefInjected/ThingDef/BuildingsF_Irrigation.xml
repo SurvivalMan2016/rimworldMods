@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Irrigation -->
+
+  <IrrigationSprinkler.label>ирригационный спринклер</IrrigationSprinkler.label>
+  <IrrigationSprinkler.description>Поливает окружающую зону каждое утро увеличивая плодородность почву в течение дня. Требует больших объемов воды из водонапорных башен для орошения.</IrrigationSprinkler.description>
+  <IrrigationSprinkler_Blueprint.label>ирригационный спринклер (проект)</IrrigationSprinkler_Blueprint.label>
+  <IrrigationSprinkler_Blueprint_Install.label>ирригационный спринклер (проект)</IrrigationSprinkler_Blueprint_Install.label>
+  <IrrigationSprinkler_Frame.label>ирригационный спринклер (в процессе сборки)</IrrigationSprinkler_Frame.label>
+  <IrrigationSprinkler_Frame.description>Поливает окружающую зону каждое утро увеличивая плодородность почву в течение дня. Требует больших объемов воды из водонапорных башен для орошения.</IrrigationSprinkler_Frame.description>
+
+  <FireSprinkler.label>пожарный спринклер</FireSprinkler.label>
+  <FireSprinkler.description>Активируется при возгорании или высокой температуре. Подавляет пламя струями воды.</FireSprinkler.description>
+  <FireSprinkler.comps.2.useLabel>Активировать пожарный спринклер</FireSprinkler.comps.2.useLabel>
+  <FireSprinkler_Blueprint.label>пожарный спринклер (проект)</FireSprinkler_Blueprint.label>
+  <FireSprinkler_Blueprint_Install.label>пожарный спринклер (проект)</FireSprinkler_Blueprint_Install.label>
+  <FireSprinkler_Frame.label>пожарный спринклер (в процессе сборки)</FireSprinkler_Frame.label>
+  <FireSprinkler_Frame.description>Активируется при возгорании или высокой температуре. Подавляет пламя струями воды.</FireSprinkler_Frame.description>
+
+  <BiosolidsComposter.label>компост</BiosolidsComposter.label>
+  <BiosolidsComposter.description>Компост, перерабатывающий нечистоты в удобрение, увеличивающее плодородность почвы.</BiosolidsComposter.description>
+  <BiosolidsComposter_Blueprint.label>компост (проект)</BiosolidsComposter_Blueprint.label>
+  <BiosolidsComposter_Blueprint_Install.label>компост (проект)</BiosolidsComposter_Blueprint_Install.label>
+  <BiosolidsComposter_Frame.label>компост (в процессе сборки)</BiosolidsComposter_Frame.label>
+  <BiosolidsComposter_Frame.description>Компост, перерабатывающий нечистоты в удобрение, увеличивающее плодородность почвы.</BiosolidsComposter_Frame.description>
+
+</LanguageData>

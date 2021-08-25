@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_HotCoffeeHigh.label>употребление горячего кофе</VBE_HotCoffeeHigh.label>
+  <VBE_HotCoffeeHigh.description>Кофеин, который содержится в кофе, усваивается организмом и увеличивает раздражительность нервной системы, подавляя позывы ко сну, а также очищая разум. Увеличивает скорость обучения на 15% и снижает усталость на 15%. Горячий кофе помогает при переохлаждении, а холодный при тепловом ударе.</VBE_HotCoffeeHigh.description>
+  <VBE_HotCoffeeHigh.labelNoun>выпил кофе</VBE_HotCoffeeHigh.labelNoun>
+
+  <VBE_IcedCoffeeHigh.label>употребление холодного кофе</VBE_IcedCoffeeHigh.label>
+  <VBE_IcedCoffeeHigh.description>Кофеин, который содержится в кофе, усваивается организмом и увеличивает раздражительность нервной системы, подавляя позывы ко сну, а также очищая разум. Увеличивает скорость обучения на 15% и снижает усталость на 15%. Горячий кофе помогает при переохлаждении, а холодный при тепловом ударе.</VBE_IcedCoffeeHigh.description>
+  <VBE_IcedCoffeeHigh.labelNoun>выпил кофе</VBE_IcedCoffeeHigh.labelNoun>
+
+
+  <!-- Caffeine Addiction -->
+
+  <VBE_CaffeineTolerance.label>толерантность к кофеину</VBE_CaffeineTolerance.label>
+  <VBE_CaffeineTolerance.description>Повышенная толерантность к кофеину. Чем выше толератность, тем больше кофеина требуется для достижения эффекта на нервную систему.</VBE_CaffeineTolerance.description>
+
+  <VBE_CaffeineAddiction.label>зависимость от кофеина</VBE_CaffeineAddiction.label>
+  <VBE_CaffeineAddiction.description>Химическая зависимость от кофеина. Длительное употребление кофеина вызвало неврологические адаптации организма на клеточном уровне, и мозг уже не может нормально функионировать без этого вещества.
+\nБез регулярного употребления кофеина начнутся симптомы ломки. Однако длительное воздержание вынудит мозг вернуться обратно к нормальному состоянию, избавившись от зависимости.</VBE_CaffeineAddiction.description>
+  <VBE_CaffeineAddiction.stages.1.label>ломка</VBE_CaffeineAddiction.stages.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Camel -->
+
+  <AEXP_Camel.label>бактриан</AEXP_Camel.label>
+  <AEXP_Camel.description>Бактриан или двугорбый верблюд это крупное наземное млекопитающее, приспособоленное к засушливым условиям. Приобретенные с древних времен его шерсть и кожа исключительно хорошо защищают от жаркой пустыни, а его молоко весьма питательно. Его можно использовать как вьючное животное, но из-за двух горбов кататься на нем крайне неудобно.\n\nБлагодаря запасам воды в его больших горбах и извлечению влаги из собственного дыхания на выдохе, бактриан может неделями обходиться без питья.</AEXP_Camel.description>
+  <AEXP_Camel.tools.0.label>левое копыто</AEXP_Camel.tools.0.label>
+  <AEXP_Camel.tools.1.label>правое копыто</AEXP_Camel.tools.1.label>
+  <AEXP_Camel.tools.2.label>зубы</AEXP_Camel.tools.2.label>
+  <AEXP_Camel.tools.3.label>голова</AEXP_Camel.tools.3.label>
+  <AEXP_Camel.race.meatLabel>мясо бактриана</AEXP_Camel.race.meatLabel>
+
+
+  <!-- Rattlesnake -->
+
+  <AEXP_Rattlesnake.label>гремучая змея</AEXP_Rattlesnake.label>
+  <AEXP_Rattlesnake.description>Очень ядовитая змея, получившая свое название от погремушки на конце хвоста. Звук, издаваемый погремушкой, является предупреждением для любых хищников, однако, если это не срабатывает, ядовитые клыки гремучей змеи проводят чрезвычайно болезненный токсин.</AEXP_Rattlesnake.description>
+  <AEXP_Rattlesnake.tools.0.label>ядовитые клыки</AEXP_Rattlesnake.tools.0.label>
+  <AEXP_Rattlesnake.tools.1.label>голова</AEXP_Rattlesnake.tools.1.label>
+
+
+  <!-- Megascorpion -->
+
+  <AEXP_Megascorpion.label>гигантский скорпион</AEXP_Megascorpion.label>
+  <AEXP_Megascorpion.description>Гигантский скорпион, созданный с помощью генной инженерии. Когда-то созданный, как идеальный инструмент для убийства, он нечасто возвращается в свою естественную среду обитания - в пустыню. Очень сильный яд в его жале помогает ему ловить добычу гораздо крупнее себя. Будучи эусоциальным существом, мегаскорпион не может воспроизводиться в одиночку.</AEXP_Megascorpion.description>
+  <AEXP_Megascorpion.tools.0.label>жало</AEXP_Megascorpion.tools.0.label>
+  <AEXP_Megascorpion.tools.1.label>мандибулы</AEXP_Megascorpion.tools.1.label>
+  <AEXP_Megascorpion.tools.2.label>голова</AEXP_Megascorpion.tools.2.label>
+
+
+</LanguageData>

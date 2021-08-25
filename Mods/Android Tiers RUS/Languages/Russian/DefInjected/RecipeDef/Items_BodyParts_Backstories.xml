@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pit fighter backstory -->
+
+  <InstallBackstory_PitFighterUpgradeItem.label>Установите шахтёрскую перчатку</InstallBackstory_PitFighterUpgradeItem.label>
+  <InstallBackstory_PitFighterUpgradeItem.description>Будет установлена шахтёрская перчатка.</InstallBackstory_PitFighterUpgradeItem.description>
+  <InstallBackstory_PitFighterUpgradeItem.jobString>Установка шахтёрской перчатки.</InstallBackstory_PitFighterUpgradeItem.jobString>
+
+
+  <!-- Archotech high council -->
+
+  <InstallBackstory_HighCouncilUpgradeItem.label>Установите квантовый разум</InstallBackstory_HighCouncilUpgradeItem.label>
+  <InstallBackstory_HighCouncilUpgradeItem.description>Будет установлен квантовый разум.</InstallBackstory_HighCouncilUpgradeItem.description>
+  <InstallBackstory_HighCouncilUpgradeItem.jobString>Установка квантового разума.</InstallBackstory_HighCouncilUpgradeItem.jobString>
+
+  <InstallBackstory_TranscendantAssimilatorUpgradeItem.label>Установите плазменную перчатку</InstallBackstory_TranscendantAssimilatorUpgradeItem.label>
+  <InstallBackstory_TranscendantAssimilatorUpgradeItem.description>Будет установлена плазменная перчатка.</InstallBackstory_TranscendantAssimilatorUpgradeItem.description>
+  <InstallBackstory_TranscendantAssimilatorUpgradeItem.jobString>Установка плазменной перчатки.</InstallBackstory_TranscendantAssimilatorUpgradeItem.jobString>
+
+
+</LanguageData>

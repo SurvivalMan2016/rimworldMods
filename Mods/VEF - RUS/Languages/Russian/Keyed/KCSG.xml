@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <KCSG.Add>Добавить</KCSG.Add>
+  <KCSG.Remove>Удалить</KCSG.Remove>
+  <KCSG.SpawnNearCenter>Разместить около центра</KCSG.SpawnNearCenter>
+  <KCSG.AllowFoggedPosition>Разрешить размещение в случайной точке</KCSG.AllowFoggedPosition>
+  <KCSG.SpawnPartOfEnnemyFaction>Разместить, как часть вражеской фракции</KCSG.SpawnPartOfEnnemyFaction>
+
+</LanguageData>

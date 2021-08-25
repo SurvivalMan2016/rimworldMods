@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mech Related Surgeries -->
+
+  <ShutdownAndroid.label>Выключение путем разделения коры головного мозга.</ShutdownAndroid.label>
+  <ShutdownAndroid.description>Отключить андроида, разорвав связь между мозгом и телом.</ShutdownAndroid.description>
+  <ShutdownAndroid.jobString>Shutting down android.</ShutdownAndroid.jobString>
+
+
+  <!-- Reprogramming surgeries -->
+
+  <ReprogramTraitsAndroidSimple.label>Перепрограммировать простого андроида</ReprogramTraitsAndroidSimple.label>
+  <ReprogramTraitsAndroidSimple.description>Эта операция полезна для мгновенного и легкого набора простых заключенных андроидов, перепрограммируя их основные функции таким образом, чтобы они теперь работали на колонию, а не против нее; однако существует очень высокий шанс повреждения памяти при неудаче..</ReprogramTraitsAndroidSimple.description>
+  <ReprogramTraitsAndroidSimple.jobString>Reprogramming android.</ReprogramTraitsAndroidSimple.jobString>
+
+  <ReprogramTraitsAndroidAdv.label>Перепрограммировать продвинутого андроида</ReprogramTraitsAndroidAdv.label>
+  <ReprogramTraitsAndroidAdv.description>Эта операция полезна для мгновенного и легкого набора продвинутых заключенных андроидов, перепрограммируя их основные функции таким образом, чтобы они теперь работали на колонию, а не против нее; однако существует очень высокий шанс повреждения памяти при неудаче..</ReprogramTraitsAndroidAdv.description>
+  <ReprogramTraitsAndroidAdv.jobString>Reprogramming android.</ReprogramTraitsAndroidAdv.jobString>
+
+  <RemoveAndroidSentience.label>Удалить волю</RemoveAndroidSentience.label>
+  <RemoveAndroidSentience.description>Просто добавив файрвол между логической и эмоциональной сторонами этого ИИ Андроида. Он навсегда блокирует их способность чувствовать эмоции или эмпатию, удаляя любую личность или волю к самому себе, которая у них когда-то была; вместо этого андроид переводит их в состояние постоянного транса, подчиняясь всем инструкциям, которые им даются..</RemoveAndroidSentience.description>
+  <RemoveAndroidSentience.jobString>Reprogramming android.</RemoveAndroidSentience.jobString>
+
+  <RerollAndroidTraits.label>Измененить личность</RerollAndroidTraits.label>
+  <RerollAndroidTraits.description>Эта операция перепрограммирует личность этого андроида, чтобы изменить ее на другой набор черт. Давая им другой набор из 3 черт, которые могут быть или не быть подходящими для Андроида.</RerollAndroidTraits.description>
+  <RerollAndroidTraits.jobString>Reprogramming android.</RerollAndroidTraits.jobString>
+
+  <OverclockAndroid.label>Разогнать андроида</OverclockAndroid.label>
+  <OverclockAndroid.description>Обойти несколько мер безопасности в искусственном сознании андроида,позволяя выполнять гораздо больше операций в секунду. Значительное увеличение рабочего процесса, но также и порога перерыва в умственном развитии, а также высокая вероятность повреждения памяти..</OverclockAndroid.description>
+  <OverclockAndroid.jobString>Overclocking android.</OverclockAndroid.jobString>
+
+  <RemoveBodyPartAndroid.label>Убрать деталь</RemoveBodyPartAndroid.label>
+  <RemoveBodyPartAndroid.description>Убрать деталь.</RemoveBodyPartAndroid.description>
+  <RemoveBodyPartAndroid.jobString>Removing body part.</RemoveBodyPartAndroid.jobString>
+
+  <InstallBasicPlating.label>Установить стальное покрытие</InstallBasicPlating.label>
+  <InstallBasicPlating.description>Полностью заменяет раму этого андроида стальными пластинами,несколько повышая устойчивость к повреждениям.</InstallBasicPlating.description>
+  <InstallBasicPlating.jobString>Installing armour plating.</InstallBasicPlating.jobString>
+
+  <InstallAdvPlating.label>Установить пласталевое покрытие</InstallAdvPlating.label>
+  <InstallAdvPlating.description>Полностью заменяет раму этого андроида пластинами из пластали,существенно повышая устойчивость к повреждениям.</InstallAdvPlating.description>
+  <InstallAdvPlating.jobString>Installing armour plating.</InstallAdvPlating.jobString>
+
+  <InstallAdv2Plating.label>Установить композитное покрытие</InstallAdv2Plating.label>
+  <InstallAdv2Plating.description>Полностью заменяет каркас этого андроида композитными пластинами, значительно увеличивая устойчивость к повреждениям..</InstallAdv2Plating.description>
+  <InstallAdv2Plating.jobString>Installing armour plating.</InstallAdv2Plating.jobString>
+
+
+  <!-- Makeshift -->
+
+  <InstallMakeshiftReplacementLeg.label>Установить самодельную сменную ногу</InstallMakeshiftReplacementLeg.label>
+  <InstallMakeshiftReplacementLeg.description>Установка самодельную сменную ногу.</InstallMakeshiftReplacementLeg.description>
+  <InstallMakeshiftReplacementLeg.jobString>Installing makeshift replacement leg.</InstallMakeshiftReplacementLeg.jobString>
+
+  <InstallMakeshiftReplacementArm.label>Установить самодельную сменную руку</InstallMakeshiftReplacementArm.label>
+  <InstallMakeshiftReplacementArm.description>Установка самодельной сменной руки.</InstallMakeshiftReplacementArm.description>
+  <InstallMakeshiftReplacementArm.jobString>Installing makeshift replacement arm.</InstallMakeshiftReplacementArm.jobString>
+
+  <InstallDrill_ATArm.label>Установить шахтерскую руку</InstallDrill_ATArm.label>
+  <InstallDrill_ATArm.description>Установка шахтерской руки.</InstallDrill_ATArm.description>
+  <InstallDrill_ATArm.jobString>Installing mining arm.</InstallDrill_ATArm.jobString>
+
+  <InstallHydraulicFrame.label>Установить гидравлическую раму</InstallHydraulicFrame.label>
+  <InstallHydraulicFrame.description>Полностью улучшает раму этого андроида с помощью эргономично размещенных гидравлических насосов.</InstallHydraulicFrame.description>
+  <InstallHydraulicFrame.jobString>Installing armour plating.</InstallHydraulicFrame.jobString>
+
+  <InstallHydraulicReplacementLeg.label>Установить гидравлическую ногу</InstallHydraulicReplacementLeg.label>
+  <InstallHydraulicReplacementLeg.description>Установка гидравлическую ногу.</InstallHydraulicReplacementLeg.description>
+  <InstallHydraulicReplacementLeg.jobString>Installing hydraulic leg.</InstallHydraulicReplacementLeg.jobString>
+
+  <InstallHydraulicReplacementArm.label>Установить гидравлическую руку</InstallHydraulicReplacementArm.label>
+  <InstallHydraulicReplacementArm.description>Установка гидравлической руки.</InstallHydraulicReplacementArm.description>
+  <InstallHydraulicReplacementArm.jobString>Installing hydraulic arm.</InstallHydraulicReplacementArm.jobString>
+
+  <InstallBasicReplacementLeg.label>Установить базовую сменную ногу</InstallBasicReplacementLeg.label>
+  <InstallBasicReplacementLeg.description>Установка простой замены ноги.</InstallBasicReplacementLeg.description>
+  <InstallBasicReplacementLeg.jobString>Installing basic replacement leg.</InstallBasicReplacementLeg.jobString>
+
+  <InstallBasicReplacementArm.label>Установить базовую сменную руку</InstallBasicReplacementArm.label>
+  <InstallBasicReplacementArm.description>Установка простой замены руки.</InstallBasicReplacementArm.description>
+  <InstallBasicReplacementArm.jobString>Installing basic replacement arm.</InstallBasicReplacementArm.jobString>
+
+  <InstallLightReceivingDiode.label>Установить примитивный датчик освещенности</InstallLightReceivingDiode.label>
+  <InstallLightReceivingDiode.description>Установка примитивного датчика освещенности.</InstallLightReceivingDiode.description>
+  <InstallLightReceivingDiode.jobString>Installing crude датчик освещенности.</InstallLightReceivingDiode.jobString>
+
+  <InstallCrudeHeatsink.label>Установить примитивный радиатор</InstallCrudeHeatsink.label>
+  <InstallCrudeHeatsink.description>Установка примитивного радиатора.</InstallCrudeHeatsink.description>
+  <InstallCrudeHeatsink.jobString>Installing crude радиатор.</InstallCrudeHeatsink.jobString>
+
+  <InstallFlimsyCoolantPump.label>Установить примитивный насос охлаждающей жидкости</InstallFlimsyCoolantPump.label>
+  <InstallFlimsyCoolantPump.description>Установка примитивного насоса охлаждающей жидкости.</InstallFlimsyCoolantPump.description>
+  <InstallFlimsyCoolantPump.jobString>Installing crude насос охлаждающей жидкости.</InstallFlimsyCoolantPump.jobString>
+
+  <InstallSmallBatteryPack.label>Установить примитивный аккумуляторный блок</InstallSmallBatteryPack.label>
+  <InstallSmallBatteryPack.description>Установка примитивного аккумуляторного блока.</InstallSmallBatteryPack.description>
+  <InstallSmallBatteryPack.jobString>Установка примитивного аккумуляторного блока.</InstallSmallBatteryPack.jobString>
+
+  <InstallTubeSealantTank.label>Установить примитивное хранилище механитов</InstallTubeSealantTank.label>
+  <InstallTubeSealantTank.description>Установка примитивного хранилища механитов.</InstallTubeSealantTank.description>
+  <InstallTubeSealantTank.jobString>Installing crude хранилище механитов.</InstallTubeSealantTank.jobString>
+
+  <InstallLowPowerTransformer.label>Установить примитивный биореактор</InstallLowPowerTransformer.label>
+  <InstallLowPowerTransformer.description>Установка примитивного биореактора.</InstallLowPowerTransformer.description>
+  <InstallLowPowerTransformer.jobString>Installing crude биореактор.</InstallLowPowerTransformer.jobString>
+
+  <InstallBasicDCConverter.label>Установить примитивный преобразователь энергии</InstallBasicDCConverter.label>
+  <InstallBasicDCConverter.description>Установка примитивного преобразователя энергии.</InstallBasicDCConverter.description>
+  <InstallBasicDCConverter.jobString>Installing crude преобразователь энергии.</InstallBasicDCConverter.jobString>
+
+
+  <!-- Advanced -->
+
+  <InstallAdvancedReplacementLeg.label>Установить силовую ногу</InstallAdvancedReplacementLeg.label>
+  <InstallAdvancedReplacementLeg.description>Установка силовой ноги.</InstallAdvancedReplacementLeg.description>
+  <InstallAdvancedReplacementLeg.jobString>Installing high power leg.</InstallAdvancedReplacementLeg.jobString>
+
+  <InstallAdvancedReplacementArm.label>Установить силовую руку</InstallAdvancedReplacementArm.label>
+  <InstallAdvancedReplacementArm.description>Установка силовой руки.</InstallAdvancedReplacementArm.description>
+  <InstallAdvancedReplacementArm.jobString>Installing high power arm.</InstallAdvancedReplacementArm.jobString>
+
+  <InstallMultiSpectrumEye.label>Установить усовершенствованный датчик освещенности</InstallMultiSpectrumEye.label>
+  <InstallMultiSpectrumEye.description>Установка усовершенствованного датчика освещенности.</InstallMultiSpectrumEye.description>
+  <InstallMultiSpectrumEye.jobString>Installing advanced датчик освещенности.</InstallMultiSpectrumEye.jobString>
+
+  <InstallMultiLayerHeatsink.label>Установить усовершенствованный радиатор</InstallMultiLayerHeatsink.label>
+  <InstallMultiLayerHeatsink.description>Установка усовершенствованного радиатора.</InstallMultiLayerHeatsink.description>
+  <InstallMultiLayerHeatsink.jobString>Installing advanced радиатор.</InstallMultiLayerHeatsink.jobString>
+
+  <InstallAdvancedCoolantInjector.label>Установить усовершенствованный насос охлаждающей жидкости</InstallAdvancedCoolantInjector.label>
+  <InstallAdvancedCoolantInjector.description>Установка усовершенствованного насоса охлаждающей жидкости.</InstallAdvancedCoolantInjector.description>
+  <InstallAdvancedCoolantInjector.jobString>Installing advanced насос охлаждающей жидкости.</InstallAdvancedCoolantInjector.jobString>
+
+  <InstallNanowireBattery.label>Установить усовершенствованный аккумуляторный блок</InstallNanowireBattery.label>
+  <InstallNanowireBattery.description>Установка усовершенствованного аккумуляторного блока.</InstallNanowireBattery.description>
+  <InstallNanowireBattery.jobString>Installing advanced аккумуляторный блок.</InstallNanowireBattery.jobString>
+
+  <InstallNaniteStorageDevice.label>Установить усовершенствованный хранилище механитов</InstallNaniteStorageDevice.label>
+  <InstallNaniteStorageDevice.description>Установка усовершенствованного хранилища механитов.</InstallNaniteStorageDevice.description>
+  <InstallNaniteStorageDevice.jobString>Installing advanced хранилище механитов.</InstallNaniteStorageDevice.jobString>
+
+  <InstallHighPowerTransformer.label>Установить усовершенствованный биореактор</InstallHighPowerTransformer.label>
+  <InstallHighPowerTransformer.description>Установка усовершенствованного биореактора.</InstallHighPowerTransformer.description>
+  <InstallHighPowerTransformer.jobString>Installing advanced биореактор.</InstallHighPowerTransformer.jobString>
+
+  <InstallHighPowerConverter.label>Установить усовершенствованный преобразователь энергии</InstallHighPowerConverter.label>
+  <InstallHighPowerConverter.description>Установка усовершенствованного преобразователя энергии.</InstallHighPowerConverter.description>
+  <InstallHighPowerConverter.jobString>Installing advanced преобразователь энергии.</InstallHighPowerConverter.jobString>
+
+  <InstallAdvRearCounterweight.label>Установить усовершенствованный противовес</InstallAdvRearCounterweight.label>
+  <InstallAdvRearCounterweight.description>установка гироскопического противовеса.</InstallAdvRearCounterweight.description>
+  <InstallAdvRearCounterweight.jobString>Installing gyroscopic counterweight.</InstallAdvRearCounterweight.jobString>
+
+  <InstallBasicRearCounterweight.label>Установить базовый противовес</InstallBasicRearCounterweight.label>
+  <InstallBasicRearCounterweight.description>Установка базового бротивовеса.</InstallBasicRearCounterweight.description>
+  <InstallBasicRearCounterweight.jobString>Installing basic counterweight.</InstallBasicRearCounterweight.jobString>
+
+  <InstallCrudeJawAndroid.label>Установить примитивную челюсть</InstallCrudeJawAndroid.label>
+  <InstallCrudeJawAndroid.description>Установка примитивной челюсти.</InstallCrudeJawAndroid.description>
+  <InstallCrudeJawAndroid.jobString>Installing crude jaw.</InstallCrudeJawAndroid.jobString>
+
+  <InstallAdvJawAndroid.label>Установить кибернетическую челюсть</InstallAdvJawAndroid.label>
+  <InstallAdvJawAndroid.description>Установка кибернетической челюсти.</InstallAdvJawAndroid.description>
+  <InstallAdvJawAndroid.jobString>Installing cybernetic jaw.</InstallAdvJawAndroid.jobString>
+
+  <InstallPositronMindImplant.label>Выполнить позитронную обмотку</InstallPositronMindImplant.label>
+  <InstallPositronMindImplant.description>Объединяет искусственный электронный разум этого андроида с позитронными способностями.</InstallPositronMindImplant.description>
+  <InstallPositronMindImplant.jobString>Rewiring android.</InstallPositronMindImplant.jobString>
+
+  <InstallSoldierMindImplant.label>Вживить военный имплантат</InstallSoldierMindImplant.label>
+  <InstallSoldierMindImplant.description>Процесс вживления военного имплантата.</InstallSoldierMindImplant.description>
+  <InstallSoldierMindImplant.jobString>Implanting upgrade.</InstallSoldierMindImplant.jobString>
+
+  <InstallBuilderMindImplant.label>Вживить строительный имплант</InstallBuilderMindImplant.label>
+  <InstallBuilderMindImplant.description>Процесс вживления строительного импланта.</InstallBuilderMindImplant.description>
+  <InstallBuilderMindImplant.jobString>Implanting upgrade.</InstallBuilderMindImplant.jobString>
+
+  <InstallSurgeonMindImplant.label>Вживить медицинский имплант</InstallSurgeonMindImplant.label>
+  <InstallSurgeonMindImplant.description>Процесс вживления медицинского импланта.</InstallSurgeonMindImplant.description>
+  <InstallSurgeonMindImplant.jobString>Implanting upgrade.</InstallSurgeonMindImplant.jobString>
+
+  <InstallSpeedMindImplant.label>Вживить нейронные сети</InstallSpeedMindImplant.label>
+  <InstallSpeedMindImplant.description>Процесс вживления нейронных сетей.</InstallSpeedMindImplant.description>
+  <InstallSpeedMindImplant.jobString>Implanting upgrade.</InstallSpeedMindImplant.jobString>
+
+  <InstallGeoMindImplant.label>Вживить геологический имплантат</InstallGeoMindImplant.label>
+  <InstallGeoMindImplant.description>Процесс вживления геологического имплантата.</InstallGeoMindImplant.description>
+  <InstallGeoMindImplant.jobString>Implanting upgrade.</InstallGeoMindImplant.jobString>
+
+  <InstallMechanicMindImplant.label>Вживить инженерный имплантат</InstallMechanicMindImplant.label>
+  <InstallMechanicMindImplant.description>Процесс вживления инженерного имплантата.</InstallMechanicMindImplant.description>
+  <InstallMechanicMindImplant.jobString>Implanting upgrade.</InstallMechanicMindImplant.jobString>
+
+  <InstallCookingMindImplant.label>Вживить кулинарный имплантат</InstallCookingMindImplant.label>
+  <InstallCookingMindImplant.description>Процесс вживления кулинарного имплантата.</InstallCookingMindImplant.description>
+  <InstallCookingMindImplant.jobString>Implanting upgrade.</InstallCookingMindImplant.jobString>
+
+  <InstallCharismaMindImplant.label>Вживить имплант харизмы</InstallCharismaMindImplant.label>
+  <InstallCharismaMindImplant.description>Процесс вживления импланта харизмы.</InstallCharismaMindImplant.description>
+  <InstallCharismaMindImplant.jobString>Implanting upgrade.</InstallCharismaMindImplant.jobString>
+
+  <InstallNegotiationMindImplant.label>Вживить имплант переговорщика</InstallNegotiationMindImplant.label>
+  <InstallNegotiationMindImplant.description>Процесс вживления импланта переговорщика.</InstallNegotiationMindImplant.description>
+  <InstallNegotiationMindImplant.jobString>Implanting upgrade.</InstallNegotiationMindImplant.jobString>
+
+  <InstallAnimalMindImplant.label>Вживить зоологический имплантат</InstallAnimalMindImplant.label>
+  <InstallAnimalMindImplant.description>Процесс вживления зоологического имплантата.</InstallAnimalMindImplant.description>
+  <InstallAnimalMindImplant.jobString>Implanting upgrade.</InstallAnimalMindImplant.jobString>
+
+  <InstallFarmingMindImplant.label>Вживить сельскохозяйственный имплантат</InstallFarmingMindImplant.label>
+  <InstallFarmingMindImplant.description>Процесс вживления сельскохозяйственного имплантата.</InstallFarmingMindImplant.description>
+  <InstallFarmingMindImplant.jobString>Implanting upgrade.</InstallFarmingMindImplant.jobString>
+
+  <InstallUnskilledMindImplant.label>Имплантировать основной трудовой чип</InstallUnskilledMindImplant.label>
+  <InstallUnskilledMindImplant.description>Вживление основного трудового чипа.</InstallUnskilledMindImplant.description>
+  <InstallUnskilledMindImplant.jobString>Implanting upgrade.</InstallUnskilledMindImplant.jobString>
+
+
+  <!-- Secret -->
+
+  <InstallEvolvingMindImplant.label>Инициировать развитие ИИ</InstallEvolvingMindImplant.label>
+  <InstallEvolvingMindImplant.description>Начать эволюцию ИИ андроида.</InstallEvolvingMindImplant.description>
+  <InstallEvolvingMindImplant.jobString>Rewiring android.</InstallEvolvingMindImplant.jobString>
+
+  <InstallCyberReplacementLeg.label>Установить кибернетическую ногу</InstallCyberReplacementLeg.label>
+  <InstallCyberReplacementLeg.description>Установка кибернетической ноги.</InstallCyberReplacementLeg.description>
+  <InstallCyberReplacementLeg.jobString>Installing Cybernetic leg.</InstallCyberReplacementLeg.jobString>
+
+  <InstallCyberReplacementArm.label>Установить кибернетическую руку</InstallCyberReplacementArm.label>
+  <InstallCyberReplacementArm.description>Установка кибернетической руки.</InstallCyberReplacementArm.description>
+  <InstallCyberReplacementArm.jobString>Installing Cybernetic arm.</InstallCyberReplacementArm.jobString>
+
+  <InstallMDEye.label>Установить архотех датчик освещенности</InstallMDEye.label>
+  <InstallMDEye.description>Установка архотех датчика освещенности.</InstallMDEye.description>
+  <InstallMDEye.jobString>Installing архотех датчик освещенности.</InstallMDEye.jobString>
+
+  <InstallSecretHeatsink.label>Установить архотех радиатор</InstallSecretHeatsink.label>
+  <InstallSecretHeatsink.description>Установка архотех радиатора.</InstallSecretHeatsink.description>
+  <InstallSecretHeatsink.jobString>Installing архотех радиатор.</InstallSecretHeatsink.jobString>
+
+  <InstallSecretCoolantPump.label>Установить архотех насос охлаждающей жидкости</InstallSecretCoolantPump.label>
+  <InstallSecretCoolantPump.description>Установка архотех насоса охлаждающей жидкости.</InstallSecretCoolantPump.description>
+  <InstallSecretCoolantPump.jobString>Installing архотех coolant pumpr.</InstallSecretCoolantPump.jobString>
+
+  <InstallSecretBatteryPack.label>Установить архотех аккумуляторный блок</InstallSecretBatteryPack.label>
+  <InstallSecretBatteryPack.description>Установка архотех аккумуляторного блока.</InstallSecretBatteryPack.description>
+  <InstallSecretBatteryPack.jobString>Installing архотех аккумуляторный блок.</InstallSecretBatteryPack.jobString>
+
+  <InstallArchotechNanites.label>Установить архотех хранилище механитов</InstallArchotechNanites.label>
+  <InstallArchotechNanites.description>Установка архотех хранилища механитов.</InstallArchotechNanites.description>
+  <InstallArchotechNanites.jobString>Installing архотех хранилище механитов.</InstallArchotechNanites.jobString>
+
+  <InstallMolecularDecomposer.label>Установить архотех биореактор</InstallMolecularDecomposer.label>
+  <InstallMolecularDecomposer.description>Установка архотех биореактора.</InstallMolecularDecomposer.description>
+  <InstallMolecularDecomposer.jobString>Installing архотех биореактор.</InstallMolecularDecomposer.jobString>
+
+  <InstallQuantumConverter.label>Установить архотех преобразователь энергии</InstallQuantumConverter.label>
+  <InstallQuantumConverter.description>Установка архотех преобразователь энергии.</InstallQuantumConverter.description>
+  <InstallQuantumConverter.jobString>Installing архотех преобразователь энергии.</InstallQuantumConverter.jobString>
+
+  <InstallCrudeHearingS.label>Установить примитивный датчик слуха</InstallCrudeHearingS.label>
+  <InstallCrudeHearingS.description>Установка примитивного датчика слуха.</InstallCrudeHearingS.description>
+  <InstallCrudeHearingS.jobString>Installing crude hearing sensor.</InstallCrudeHearingS.jobString>
+
+  <InstallArchHearingS.label>Установить архотех датчик слуха</InstallArchHearingS.label>
+  <InstallArchHearingS.description>Установка архотех датчика слуха.</InstallArchHearingS.description>
+  <InstallArchHearingS.jobString>Installing архотех hearing sensor.</InstallArchHearingS.jobString>
+
+  <InstallAdvHearingS.label>Установить усовершенствованный датчик слуха</InstallAdvHearingS.label>
+  <InstallAdvHearingS.description>Установка усовершенствованного датчика слуха.</InstallAdvHearingS.description>
+  <InstallAdvHearingS.jobString>Installing advanced hearing sensor.</InstallAdvHearingS.jobString>
+
+  <InstallSmellingAdvS.label>Установить усовершенствованный датчик запаха</InstallSmellingAdvS.label>
+  <InstallSmellingAdvS.description>Установка усовершенствованного датчика запаха.</InstallSmellingAdvS.description>
+  <InstallSmellingAdvS.jobString>Installing advanced smelling sensor.</InstallSmellingAdvS.jobString>
+
+  <InstallCrudeSmellingS.label>Установить примитивный датчик запаха</InstallCrudeSmellingS.label>
+  <InstallCrudeSmellingS.description>Установка примитивного датчика запаха.</InstallCrudeSmellingS.description>
+  <InstallCrudeSmellingS.jobString>Installing crude smelling sensor.</InstallCrudeSmellingS.jobString>
+
+  <InstallArchSmellingS.label>Установить архотех датчик запаха</InstallArchSmellingS.label>
+  <InstallArchSmellingS.description>Установка архотех датчика запаха.</InstallArchSmellingS.description>
+  <InstallArchSmellingS.jobString>Installing архотех smelling sensor.</InstallArchSmellingS.jobString>
+
+
+</LanguageData>

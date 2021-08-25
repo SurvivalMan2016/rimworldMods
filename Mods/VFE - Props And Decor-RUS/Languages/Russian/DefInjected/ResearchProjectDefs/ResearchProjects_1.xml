@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <IndustrialProps.label>индустриальные декорации</IndustrialProps.label>
+  <IndustrialProps.description>Открывает доступ к декорациям промышленной эпохи.</IndustrialProps.description>
+
+  <VehicleProps.label>транспортные декорации</VehicleProps.label>
+  <VehicleProps.description>Открывает доступ к транспортным декорациям.</VehicleProps.description>
+
+  <PlantProps.label>садовые декорации</PlantProps.label>
+  <PlantProps.description>Открывает доступ декоративным растениям и деревьям.</PlantProps.description>
+
+  <MedievalProps.label>средневековые декорации</MedievalProps.label>
+  <MedievalProps.description>Открывает доступ к некоторым декорациям средневековья.</MedievalProps.description>
+
+  <FarmProps.label>фермерские декорации</FarmProps.label>
+  <FarmProps.description>Открывает доступ к фермерским декорациям.</FarmProps.description>
+
+  <PowerProps.label>электрические декорации</PowerProps.label>
+  <PowerProps.description>Открывает ряд генераторов и других електроприборов.</PowerProps.description>
+
+  <KitchenProps.label>кухонные декорации</KitchenProps.label>
+  <KitchenProps.description>Открывает доступ к кухонным декорациям.</KitchenProps.description>
+
+  <DecalsProps.label>напольные декорации</DecalsProps.label>
+  <DecalsProps.description>Открывает доступ к различным декоративным покрытиям.</DecalsProps.description>
+
+  <FurnitureProps.label>мебельные декорации</FurnitureProps.label>
+  <FurnitureProps.description>Открывает еще больше разнообразной декоративной мебели.</FurnitureProps.description>
+
+  <SpaceshipProps.label>декоративные корабли</SpaceshipProps.label>
+  <SpaceshipProps.description>Позволяет строить муляжи летательных аппаратов</SpaceshipProps.description>
+
+  <SpacerProps.label>космические декорации</SpacerProps.label>
+  <SpacerProps.description>Открывает доступ к декорациям для космических кораблей.</SpacerProps.description>
+  
+</LanguageData>
+
+

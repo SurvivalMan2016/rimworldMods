@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Muskox -->
+
+  <AEXP_Muskox.label>овцебык</AEXP_Muskox.label>
+  <AEXP_Muskox.description>Овцебыки это массивные млекопитающие, похожие на буйволов, которые бродят по тундре в поисках корней, мхов и лишайников, чтобы употребить их. Будучи родственным муффало, овцебыки могут использоваться как вьючные животные. Они известны своей толстой шерстью и резким запахом, которые идет от самцов во время сезонного гона. От этого запаха и произошло их второе название - мускусный бык.</AEXP_Muskox.description>
+  <AEXP_Muskox.tools.0.label>голова</AEXP_Muskox.tools.0.label>
+  <AEXP_Muskox.tools.1.label>левое копыто</AEXP_Muskox.tools.1.label>
+  <AEXP_Muskox.tools.2.label>правое копыто</AEXP_Muskox.tools.2.label>
+  <AEXP_Muskox.tools.3.label>зубы</AEXP_Muskox.tools.3.label>
+  <AEXP_Muskox.race.meatLabel>мясо овцебыка</AEXP_Muskox.race.meatLabel>
+
+  <!-- Moose -->
+
+  <AEXP_Moose.label>лось</AEXP_Moose.label>
+  <AEXP_Moose.description>Самый большой и тяжелый представитель семейства оленьих, хорошо приспособленный к жизни в холодном климате. Его легко идентифицировать по размеру рогов и длинным тонким ногам. Его нельзя навьючить, но можно доить. В отличие от большинства других видов оленей, лоси не образуют стада и являются одиночными животными. Несмотря на свою малоподвижность и флегматичность, они могут стать агрессивными и двигаться очень быстро, если их рассердить или напугать.</AEXP_Moose.description>
+  <AEXP_Moose.tools.0.label>левое копыто</AEXP_Moose.tools.0.label>
+  <AEXP_Moose.tools.1.label>правое копыто</AEXP_Moose.tools.1.label>
+  <AEXP_Moose.tools.2.label>рога</AEXP_Moose.tools.2.label>
+  <AEXP_Moose.tools.3.label>голова</AEXP_Moose.tools.3.label>
+  <AEXP_Moose.race.meatLabel>мясо лося</AEXP_Moose.race.meatLabel>
+
+  <!-- Megawolverine -->
+
+  <AEXP_MegaWolverine.label>гигантская росомаха</AEXP_MegaWolverine.label>
+  <AEXP_MegaWolverine.description>Гигантский хищник, измененный генной-инженерией. Имеет массивные лапы, которыми разрывает добычу. Густой мех позволяет ему пережить самый холодный климат, в то время как сила позволяет ему охотиться ради пищи даже на самых крупных млекопитающих.</AEXP_MegaWolverine.description>
+  <AEXP_MegaWolverine.tools.0.label>левая лапа</AEXP_MegaWolverine.tools.0.label>
+  <AEXP_MegaWolverine.tools.1.label>правая лапа</AEXP_MegaWolverine.tools.1.label>
+  <AEXP_MegaWolverine.tools.2.label>зубы</AEXP_MegaWolverine.tools.2.label>
+  <AEXP_MegaWolverine.tools.3.label>голова</AEXP_MegaWolverine.tools.3.label>
+  <AEXP_MegaWolverine.race.meatLabel>мясо гигантской росомахи</AEXP_MegaWolverine.race.meatLabel>
+
+  <!-- Porcupine -->
+
+  <AEXP_Porcupine.label>дикобраз</AEXP_Porcupine.label>
+  <AEXP_Porcupine.description>Крупный грызун с шерстью из острых перьев, защищающих его от хищников.</AEXP_Porcupine.description>
+  <AEXP_Porcupine.tools.0.label>левая лапа</AEXP_Porcupine.tools.0.label>
+  <AEXP_Porcupine.tools.1.label>правая лапа</AEXP_Porcupine.tools.1.label>
+  <AEXP_Porcupine.tools.2.label>зубы</AEXP_Porcupine.tools.2.label>
+  <AEXP_Porcupine.tools.3.label>голова</AEXP_Porcupine.tools.3.label>
+  <AEXP_Porcupine.race.meatLabel>мясо дикобраза</AEXP_Porcupine.race.meatLabel>
+
+</LanguageData>

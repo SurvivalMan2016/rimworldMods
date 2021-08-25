@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_HotCoffee.label>кофе</VBE_HotCoffee.label>
+  <VBE_HotCoffee.description>Теплый и горький напиток, в который обычно добавляют молоко и сахар. Фаворит среди студентов и офисных работников. Все благодаря высокому содержанию кофеина и приятному аромату.</VBE_HotCoffee.description>
+  <VBE_HotCoffee.ingestible.ingestCommandString>Пить {0}</VBE_HotCoffee.ingestible.ingestCommandString>
+  <VBE_HotCoffee.ingestible.ingestReportString>Пьет {0}.</VBE_HotCoffee.ingestible.ingestReportString>
+
+  <VBE_IceCoffee.label>кофе со льдом</VBE_IceCoffee.label>
+  <VBE_IceCoffee.description>Охлажденный с помощью льда кофе. Многие предпочитают охлажденный кофе в теплом климате; у него сглаживается горькость вкуса и появлется заметный, хотя и легкий ореховый привкус. Как и его теплый аналог. он в равной степени распространен среди студентов и профессионалов.</VBE_IceCoffee.description>
+  <VBE_IceCoffee.ingestible.ingestCommandString>Пить {0}</VBE_IceCoffee.ingestible.ingestCommandString>
+  <VBE_IceCoffee.ingestible.ingestReportString>Пьет {0}.</VBE_IceCoffee.ingestible.ingestReportString>
+
+</LanguageData>

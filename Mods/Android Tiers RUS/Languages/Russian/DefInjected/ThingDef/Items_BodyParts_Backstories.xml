@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pit fighter backstory -->
+
+  <Backstory_PitFighterUpgradeItem.label>Шахтёрская перчатка</Backstory_PitFighterUpgradeItem.label>
+  <Backstory_PitFighterUpgradeItem.description>Небольшой изготовленный на заказ ручной имплантат, состоящий из трех гидравлических шипов и тяжелой металлической пластины, покрывающей верхнюю часть кисти. Дано этому андроиду показать свою популярность в качестве пит-бойца.</Backstory_PitFighterUpgradeItem.description>
+
+
+  <!-- Archotech high council -->
+
+  <Backstory_HighCouncilUpgradeItem.label>Квантовый разум</Backstory_HighCouncilUpgradeItem.label>
+  <Backstory_HighCouncilUpgradeItem.description>Чрезвычайно чуждое полное обновление искусственного разума, которое предположительно позволяет пользователю читать нейронные паттерны разума говорящего через своего рода квантовое туннелирование. Позволяя пользователю знать, что скажет говорящий, прежде чем он даже подумает об этом.</Backstory_HighCouncilUpgradeItem.description>
+
+  <Backstory_TranscendantAssimilatorUpgradeItem.label>Плазменная перчатка</Backstory_TranscendantAssimilatorUpgradeItem.label>
+  <Backstory_TranscendantAssimilatorUpgradeItem.description>Два постоянно вытянутых клинка, прикрепленных к предплечью с общим весом большинства мужчин, при активации - клинки раскаляются добела, превращая окружающий воздух в плазму. Технология, используемая в этом устройстве, никогда не была замечена раньше.</Backstory_TranscendantAssimilatorUpgradeItem.description>
+
+
+</LanguageData>

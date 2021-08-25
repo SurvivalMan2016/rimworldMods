@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<RecipeDef>
+		<defName>Make_CharcoalFromWood</defName>
+		<label>make charcoal from wood</label>
+		<description>Make a batch of charcoal by burning wood.</description>
+		<jobString>Burning wood into charcoal.</jobString>
+		<effectWorking>Cremate</effectWorking>
+		<soundWorking>Recipe_Cremate</soundWorking>
+		<workAmount>2000</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>WoodLog</li>
+					</thingDefs>
+				</filter>
+				<count>50</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>WoodLog</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<Charcoal>100</Charcoal>
+		</products>
+	</RecipeDef>
+
+  <RecipeDef>
+    <defName>Make_CoalFromStone</defName>
+    <label>smelt coal from stone</label>
+    <description>Make a bit of coal by smelting stone.</description>
+    <jobString>Smelting stone into coal.</jobString>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
+    <workAmount>2800</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>StoneBlocks</li>
+          </categories>
+        </filter>
+        <count>15</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>StoneBlocks</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <Coal>5</Coal>
+    </products>
+  </RecipeDef>
+
+	<!-- Coal only into chemfuel recipe -->
+	<RecipeDef>
+	  <defName>Make_ChemfuelFromCoal</defName>
+	  <label>make chemfuel from coal</label>
+	  <description>Make a batch of chemfuel by crushing, grinding, and extracting it from coal.</description>
+	  <jobString>Refining chemfuel from coal.</jobString>
+	  <effectWorking>Cremate</effectWorking>
+	  <soundWorking>Recipe_Cremate</soundWorking>
+	  <workAmount>1400</workAmount>
+	  <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+	  <ingredients>
+	    <li>
+	      <filter>
+	        <thingDefs>
+	          <li>Coal</li>
+	        </thingDefs>
+	      </filter>
+	      <count>20</count>
+	    </li>
+	  </ingredients>
+	  <fixedIngredientFilter>
+	    <thingDefs>
+	      <li>Coal</li>
+	    </thingDefs>
+	  </fixedIngredientFilter>
+	  <products>
+	    <Chemfuel>15</Chemfuel>
+	  </products>
+	</RecipeDef>
+
+</Defs>

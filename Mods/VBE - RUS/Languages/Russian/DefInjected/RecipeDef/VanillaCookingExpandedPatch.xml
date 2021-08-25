@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_MakeLuciferiumPowder.label>сделать порошок люциферия</VBE_MakeLuciferiumPowder.label>
+  <VBE_MakeLuciferiumPowder.description>Сделать очень мелкодисперсный порошок из люциферия. Обычно напитки с добавлением люциферия подают в барах, которые посещают богатые и влиятельные люди.</VBE_MakeLuciferiumPowder.description>
+  <VBE_MakeLuciferiumPowder.jobString>делает порошок люциферия.</VBE_MakeLuciferiumPowder.jobString>
+
+  <VBE_MakeWakeUpPowder.label>сделать порошок бодрина</VBE_MakeWakeUpPowder.label>
+  <VBE_MakeWakeUpPowder.description>Сделать измельченный порошок из бодрина, добавляемый в напиток для придания бодрости. Порошок удивительно сладкий и иногда используется в качестве замены сахара в десертах или утреннем эпрессо.</VBE_MakeWakeUpPowder.description>
+  <VBE_MakeWakeUpPowder.jobString>делает порошок бодрина.</VBE_MakeWakeUpPowder.jobString>
+
+  <VBE_MakeGoJuiceStock.label>сделать бульон из Go-сока</VBE_MakeGoJuiceStock.label>
+  <VBE_MakeGoJuiceStock.description>Сделать желатинизированный кубик из Go-сока, из которого можно сделать бульон, усваиваемый желудком. Его можно использовать в любой еде, но чаще всего такой бульон добавляют в супы или применяют в качестве загустителя в коктейлях.</VBE_MakeGoJuiceStock.description>
+  <VBE_MakeGoJuiceStock.jobString>делает бульон из Go-сока.</VBE_MakeGoJuiceStock.jobString>
+
+  <VBE_MakeSodaSyrupBulk.label>сделать сахарный сироп для содовой</VBE_MakeSodaSyrupBulk.label>
+  <VBE_MakeSodaSyrupBulk.description>Сделать содовый сироп, смешав натуральный фруктовый сок с сахаром. Так будет намного эффективнее, чем при использовании кукурузного сиропа.</VBE_MakeSodaSyrupBulk.description>
+  <VBE_MakeSodaSyrupBulk.jobString>Делает сахарный сироп для содовой.</VBE_MakeSodaSyrupBulk.jobString>
+
+  <VBE_MakeWhiskeyMashFromFlour.label>сделать висковую смесь из муки</VBE_MakeWhiskeyMashFromFlour.label>
+  <VBE_MakeWhiskeyMashFromFlour.description>Сделать крахмалистую и жидкую смесь, с встречающимися тут и там кусочками мякоти. Будьте готовы к ожиданию, когда виски выдержится.</VBE_MakeWhiskeyMashFromFlour.description>
+  <VBE_MakeWhiskeyMashFromFlour.jobString>Делает висковую смесь из муки.</VBE_MakeWhiskeyMashFromFlour.jobString>
+
+  <VBE_MakeCocktailGourmet.label>приготовить изысканный коктейль</VBE_MakeCocktailGourmet.label>
+  <VBE_MakeCocktailGourmet.description>Приготовить настоящее чудо миксологии. В этом коктейле учтены все факторы: темература стекла, выбор инструмента для смешивания, тип гарнира, точно рассчитанные вкус и консистенция.</VBE_MakeCocktailGourmet.description>
+  <VBE_MakeCocktailGourmet.jobString>Готовит изысканный коктейль.</VBE_MakeCocktailGourmet.jobString>
+
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Kombucha.label>комбуча</VBE_Kombucha.label>
+  <VBE_Kombucha.description>Ферментированный чай из дрожжей. После ферментации получается кисло-сладкий вкус, иногда происходит естественная газация. Такой напиток считается полезным для здоровья, хотя некоторые относятся к этому скептично.</VBE_Kombucha.description>
+  <VBE_Kombucha.ingestible.ingestCommandString>Пить {0}</VBE_Kombucha.ingestible.ingestCommandString>
+  <VBE_Kombucha.ingestible.ingestReportString>Пьет {0}.</VBE_Kombucha.ingestible.ingestReportString>
+
+
+</LanguageData>

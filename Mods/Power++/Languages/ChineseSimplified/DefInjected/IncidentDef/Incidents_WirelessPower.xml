@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ARKPPP_UnsecureWPN.label>无担保的WPN</ARKPPP_UnsecureWPN.label>
+  <ARKPPP_SupernovaDisturbance.label>超新星干扰</ARKPPP_SupernovaDisturbance.label>
+  <ARKPPP_WPNInterruption.label>WPN中断</ARKPPP_WPNInterruption.label>
+  <ARKPPP_MechanoidWarship.label>机械战舰</ARKPPP_MechanoidWarship.label>
+  <ARKPPP_STSHackFail.label>骇入STS失败</ARKPPP_STSHackFail.label>
+  <ARKPPP_DamagedSatellite.label>危险的卫星</ARKPPP_DamagedSatellite.label>
+
+
+</LanguageData>

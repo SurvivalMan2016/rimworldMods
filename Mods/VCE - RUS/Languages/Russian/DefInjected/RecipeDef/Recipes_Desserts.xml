@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CookDessertSimple.label>приготовить простой десерт</VCE_CookDessertSimple.label>
+  <VCE_CookDessertSimple.description>Готовить простой десерт, на скорую руку сделанный из нескольких фруктов и других ингредиентов.</VCE_CookDessertSimple.description>
+  <VCE_CookDessertSimple.jobString>Готовит простой десерт.</VCE_CookDessertSimple.jobString>
+
+  <VCE_CookDessertSimpleBulk.label>приготовить простой десерт x4</VCE_CookDessertSimpleBulk.label>
+  <VCE_CookDessertSimpleBulk.description>Готовить четыре порции простого десерта, на скорую руку сделанный из нескольких фруктов и других ингредиентов.</VCE_CookDessertSimpleBulk.description>
+  <VCE_CookDessertSimpleBulk.jobString>Готовит простой десерт x4.</VCE_CookDessertSimpleBulk.jobString>
+
+  <VCE_CookDessertFine.label>приготовить вкусный десерт</VCE_CookDessertFine.label>
+  <VCE_CookDessertFine.description>Готовить сложный десерт, тщательно собранный из широкого ассортимента ингредиентов.</VCE_CookDessertFine.description>
+  <VCE_CookDessertFine.jobString>Готовит вкусный десерт.</VCE_CookDessertFine.jobString>
+
+  <VCE_CookDessertFineBulk.label>приготовить вкусный десерт x4</VCE_CookDessertFineBulk.label>
+  <VCE_CookDessertFineBulk.description>Готовить 4 порции сложного десерта, тщательно собранного из широкого ассортимента ингредиентов.</VCE_CookDessertFineBulk.description>
+  <VCE_CookDessertFineBulk.jobString>Готовит вкусный десерт x4.</VCE_CookDessertFineBulk.jobString>
+
+  <VCE_CookDessertLavish.label>приготовить шикарный десерт</VCE_CookDessertLavish.label>
+  <VCE_CookDessertLavish.description>Готовить шедевр кулинарного искусства. Этот десерт питает тело, разум и душу.</VCE_CookDessertLavish.description>
+  <VCE_CookDessertLavish.jobString>Готовит шикарный десерт.</VCE_CookDessertLavish.jobString>
+
+  <VCE_CookDessertLavishBulk.label>приготовить шикарный десерт x4</VCE_CookDessertLavishBulk.label>
+  <VCE_CookDessertLavishBulk.description>Готовить 4 порции шедевра кулинарного искусства. Этот десерт питает тело, разум и душу.</VCE_CookDessertLavishBulk.description>
+  <VCE_CookDessertLavishBulk.jobString>Готовит шикартный десерт x4.</VCE_CookDessertLavishBulk.jobString>
+
+  <VCE_CookDessertGourmet.label>приготовить изысканный десерт</VCE_CookDessertGourmet.label>
+  <VCE_CookDessertGourmet.description>Готовить не просто десерт, а кулинарное произведение искусства - изысканное, продуманное, с эстетически выверенным балансом вкуса и маленькой порцией.</VCE_CookDessertGourmet.description>
+  <VCE_CookDessertGourmet.jobString>Готовит изысканный десерт.</VCE_CookDessertGourmet.jobString>
+
+
+</LanguageData>

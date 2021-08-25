@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidMuff.label>M.U.F.F</AndroidMuff.label>
+  <AndroidMuff.description>Это роботизированное устройство было создано по образу и подобию муффало, обитающих в этом мире, с исключительной прочностью и терморегуляцией, намного превосходящей их биологических сородичей.</AndroidMuff.description>
+  <AndroidMuff.tools.0.label>голова</AndroidMuff.tools.0.label>
+
+  <AndroidChicken.label>Единица Химпроцесс</AndroidChicken.label>
+  <AndroidChicken.description>Небольшой механизм, потребляющий близлежащие биологические вещества и перерабатывающий их в полуфабрикаты. Используется для производства химического топлива и нейтроамина.</AndroidChicken.description>
+  <AndroidChicken.tools.0.label>голова</AndroidChicken.tools.0.label>
+
+
+</LanguageData>

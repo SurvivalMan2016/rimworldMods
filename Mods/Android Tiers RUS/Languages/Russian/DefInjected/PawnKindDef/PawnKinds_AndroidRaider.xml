@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidT1RaiderFactionSpecific.label>Андроид-рейдер Т1</AndroidT1RaiderFactionSpecific.label>
+  <AndroidT1RaiderFactionSpecific.labelPlural>Рейдеры андроиды</AndroidT1RaiderFactionSpecific.labelPlural>
+  <AndroidT1RaiderFactionSpecific.labelMale>Т1 Андроид рейдер мужчина</AndroidT1RaiderFactionSpecific.labelMale>
+  <AndroidT1RaiderFactionSpecific.labelMalePlural>Мужчины рейдеры андроиды</AndroidT1RaiderFactionSpecific.labelMalePlural>
+  <AndroidT1RaiderFactionSpecific.labelFemale>Т1 Андроид рейдер женщина</AndroidT1RaiderFactionSpecific.labelFemale>
+  <AndroidT1RaiderFactionSpecific.labelFemalePlural>Женщины-рейдеры андроиды</AndroidT1RaiderFactionSpecific.labelFemalePlural>
+
+  <AndroidT1SlaveFactionSpecific.label>Т1 Андроид Раб</AndroidT1SlaveFactionSpecific.label>
+  <AndroidT1SlaveFactionSpecific.labelPlural>Порабощённый андроид</AndroidT1SlaveFactionSpecific.labelPlural>
+  <AndroidT1SlaveFactionSpecific.labelMale>Т1 Андроид Раб мужчина</AndroidT1SlaveFactionSpecific.labelMale>
+  <AndroidT1SlaveFactionSpecific.labelMalePlural>Мужской порабощённый андроид</AndroidT1SlaveFactionSpecific.labelMalePlural>
+  <AndroidT1SlaveFactionSpecific.labelFemale>Т1 Андроид Раб женщина</AndroidT1SlaveFactionSpecific.labelFemale>
+  <AndroidT1SlaveFactionSpecific.labelFemalePlural>Порабощённая андроидка</AndroidT1SlaveFactionSpecific.labelFemalePlural>
+
+  <AndroidT2RaiderFactionSpecific.label>Андроид-рейдер Т2</AndroidT2RaiderFactionSpecific.label>
+  <AndroidT2RaiderFactionSpecific.labelPlural>Рейдеры андроиды</AndroidT2RaiderFactionSpecific.labelPlural>
+  <AndroidT2RaiderFactionSpecific.labelMale>Т2 Андроид рейдер мужчина</AndroidT2RaiderFactionSpecific.labelMale>
+  <AndroidT2RaiderFactionSpecific.labelMalePlural>Мужчины рейдеры андроиды</AndroidT2RaiderFactionSpecific.labelMalePlural>
+  <AndroidT2RaiderFactionSpecific.labelFemale>Т2 Андроид рейдер женщина</AndroidT2RaiderFactionSpecific.labelFemale>
+  <AndroidT2RaiderFactionSpecific.labelFemalePlural>Женщины-рейдеры андроиды</AndroidT2RaiderFactionSpecific.labelFemalePlural>
+
+  <AndroidT3RaiderFactionSpecific.label>Андроид-рейдер Т3</AndroidT3RaiderFactionSpecific.label>
+  <AndroidT3RaiderFactionSpecific.labelPlural>Рейдеры андроиды</AndroidT3RaiderFactionSpecific.labelPlural>
+  <AndroidT3RaiderFactionSpecific.labelMale>Т3 Андроид рейдер мужчина</AndroidT3RaiderFactionSpecific.labelMale>
+  <AndroidT3RaiderFactionSpecific.labelMalePlural>Мужчины рейдеры андроиды</AndroidT3RaiderFactionSpecific.labelMalePlural>
+  <AndroidT3RaiderFactionSpecific.labelFemale>Т3 Андроид рейдер женщина</AndroidT3RaiderFactionSpecific.labelFemale>
+  <AndroidT3RaiderFactionSpecific.labelFemalePlural>Женщины-рейдеры андроиды</AndroidT3RaiderFactionSpecific.labelFemalePlural>
+
+  <AndroidT4RaiderFactionSpecific.label>Андроид-рейдер Т4</AndroidT4RaiderFactionSpecific.label>
+  <AndroidT4RaiderFactionSpecific.labelPlural>Рейдеры андроиды</AndroidT4RaiderFactionSpecific.labelPlural>
+  <AndroidT4RaiderFactionSpecific.labelMale>Т4 Андроид рейдер мужчина</AndroidT4RaiderFactionSpecific.labelMale>
+  <AndroidT4RaiderFactionSpecific.labelMalePlural>Мужчины рейдеры андроиды</AndroidT4RaiderFactionSpecific.labelMalePlural>
+  <AndroidT4RaiderFactionSpecific.labelFemale>Т4 Андроид рейдер женщина</AndroidT4RaiderFactionSpecific.labelFemale>
+  <AndroidT4RaiderFactionSpecific.labelFemalePlural>Женщины-рейдеры андроиды</AndroidT4RaiderFactionSpecific.labelFemalePlural>
+
+
+</LanguageData>

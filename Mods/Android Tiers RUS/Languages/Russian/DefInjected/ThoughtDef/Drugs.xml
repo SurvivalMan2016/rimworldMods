@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- HediffAndroid -->
+
+  <RegenHumanoid_Thought.stages.0.label>Моно-мазь скрытая</RegenHumanoid_Thought.stages.0.label>
+  <RegenHumanoid_Thought.stages.0.description>Не должно появиться.</RegenHumanoid_Thought.stages.0.description>
+  <RegenHumanoid_Thought.stages.1.label>Моно-Мазь (Слабая)</RegenHumanoid_Thought.stages.1.label>
+  <RegenHumanoid_Thought.stages.1.description>У меня повсюду булавки и иголки. Это просто ошеломляет.</RegenHumanoid_Thought.stages.1.description>
+  <RegenHumanoid_Thought.stages.2.label>Моно-Мазь (Средняя)</RegenHumanoid_Thought.stages.2.label>
+  <RegenHumanoid_Thought.stages.2.description>Мое тело кажется медленным, и небольшая боль пробегает по моим конечностям.</RegenHumanoid_Thought.stages.2.description>
+  <RegenHumanoid_Thought.stages.3.label>Моно-Мазь (Сильная)</RegenHumanoid_Thought.stages.3.label>
+  <RegenHumanoid_Thought.stages.3.description>Мои руки кажутся тяжелыми и вялыми, как будто что-то высасывает всю мою энергию.</RegenHumanoid_Thought.stages.3.description>
+  <RegenHumanoid_Thought.stages.4.label>Моно-Мазь (Пиковая)</RegenHumanoid_Thought.stages.4.label>
+  <RegenHumanoid_Thought.stages.4.description>У меня болят вены и кружится голова. Это очень больно.</RegenHumanoid_Thought.stages.4.description>
+
+
+</LanguageData>

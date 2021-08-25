@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_MintPlant.label>куст мяты</VBE_MintPlant.label>
+  <VBE_MintPlant.description>Растение с мелкими зелеными листьями. Листья мяты известны своим охлаждающим эффектом для рта, а также тем, что легко впитываются в чай или деликатно украшают блюдо. Цветет в помещении и в горшках, при этом имеет приятный вид.</VBE_MintPlant.description>
+
+  <VBE_MintLeaves.label>листья мяты</VBE_MintLeaves.label>
+  <VBE_MintLeaves.description>Листья мяты известны своим охлаждающим эффектом для рта, а также тем, что легко впитываются в чай или деликатно украшают блюдо. Мята довольно быстро пропадает.</VBE_MintLeaves.description>
+
+  <VBE_MintCoffee.label>мятный кофе</VBE_MintCoffee.label>
+  <VBE_MintCoffee.description>Горький эспрессо, смешанный со сливками или молоком, а затем с мятным сиропом. Украшен мятой. Прохладный и бархатистый кофе сменяется еще более прохладным и успокаивающим послевкусием, не говоря уж о свежем запахе изо рта.</VBE_MintCoffee.description>
+  <VBE_MintCoffee.ingestible.ingestCommandString>Пить {0}</VBE_MintCoffee.ingestible.ingestCommandString>
+  <VBE_MintCoffee.ingestible.ingestReportString>Пьет {0}.</VBE_MintCoffee.ingestible.ingestReportString>
+
+  <VBE_DalgonaCoffee.label>кофе дальгона</VBE_DalgonaCoffee.label>
+  <VBE_DalgonaCoffee.description>Модный и новый напиток в мире кофе. По слухам родом из далеких миров паровых машин. Кофейные гранулы смешиваются с сахаром, образуя густую сладкую пену. Перед употреблением пена распределяется по сильно охлажденному молоку. Возможно это идеальный напиток, чтобы пить его во время учебы или чтения.</VBE_DalgonaCoffee.description>
+  <VBE_DalgonaCoffee.ingestible.ingestCommandString>Пить {0}</VBE_DalgonaCoffee.ingestible.ingestCommandString>
+  <VBE_DalgonaCoffee.ingestible.ingestReportString>Пьет {0}.</VBE_DalgonaCoffee.ingestible.ingestReportString>
+
+  <VBE_GreenTea.label>зеленый чай</VBE_GreenTea.label>
+  <VBE_GreenTea.description>Легкий цитрусовый зеленый чай с сахаром. Имеет маслянистый, почти ореховый вкус.</VBE_GreenTea.description>
+  <VBE_GreenTea.ingestible.ingestCommandString>Пить {0}</VBE_GreenTea.ingestible.ingestCommandString>
+  <VBE_GreenTea.ingestible.ingestReportString>Пьет {0}.</VBE_GreenTea.ingestible.ingestReportString>
+ 
+  <VBE_MintTea.label>чай с мятой</VBE_MintTea.label>
+  <VBE_MintTea.description>Листья черного чая смешанные с листьями мяты. Украшается также листьями мяты. Делает дыхание удивительно свежим.</VBE_MintTea.description>
+  <VBE_MintTea.ingestible.ingestCommandString>Пить {0}</VBE_MintTea.ingestible.ingestCommandString>
+  <VBE_MintTea.ingestible.ingestReportString>Пьет {0}.</VBE_MintTea.ingestible.ingestReportString>
+
+  <VBE_MasalaChai.label>чай масала</VBE_MasalaChai.label>
+  <VBE_MasalaChai.description>Плесневый, теплый, почти древесный чай, приготовленный из простых чайных листьев и сложных специй. Утверждается, что помогает против высокого холестерина.</VBE_MasalaChai.description>
+  <VBE_MasalaChai.ingestible.ingestCommandString>Пить {0}</VBE_MasalaChai.ingestible.ingestCommandString>
+  <VBE_MasalaChai.ingestible.ingestReportString>Пьет {0}.</VBE_MasalaChai.ingestible.ingestReportString>
+
+  <VBE_NoonChai.label>кашмирский чай</VBE_NoonChai.label>
+  <VBE_NoonChai.description>Древний кашмирский чай, в котором смешиваются чайные листья, щепотка соли и пищевой соды, в результате чего получается поразительный розовый напиток, которые считается не только вкусным, но и полезным для организма. Очень эффективен против высокого кровяного давления.</VBE_NoonChai.description>
+  <VBE_NoonChai.ingestible.ingestCommandString>Пить {0}</VBE_NoonChai.ingestible.ingestCommandString>
+  <VBE_NoonChai.ingestible.ingestReportString>Пьет {0}.</VBE_NoonChai.ingestible.ingestReportString>
+
+
+</LanguageData>

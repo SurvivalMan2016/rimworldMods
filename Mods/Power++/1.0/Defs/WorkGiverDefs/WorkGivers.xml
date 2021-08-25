@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <WorkGiverDef>
+    <defName>ARKPPP_FlickWireless</defName>
+    <label>flick wireless switches</label>
+    <giverClass>aRandomKiwi.PPP.WorkGiver_FlickWireless</giverClass>
+    <workType>BasicWorker</workType>
+    <verb>flick wireless switch on</verb>
+    <gerund>flicking wireless switch on</gerund>
+    <canBeDoneWhileDrafted>true</canBeDoneWhileDrafted>
+    <priorityInType>500</priorityInType>
+  </WorkGiverDef>
+</Defs>

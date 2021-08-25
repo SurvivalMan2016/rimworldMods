@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<!-- TURRETS USE AMMUNITION -->
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "Turret_MiniTurret"]/comps/li/fuelFilter</xpath>
+		<value>
+			<fuelFilter><thingDefs><li>VMEu_IndustrialAmmo</li></thingDefs></fuelFilter>
+		</value>
+	</Operation>
+	<!-- Cost efficiency -->
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "Turret_MiniTurret"]/comps/li/fuelMultiplier</xpath>
+		<value>
+			<fuelMultiplier>0.25</fuelMultiplier>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "Turret_Autocannon"]/comps/li/fuelFilter</xpath>
+		<value>
+			<fuelFilter><thingDefs><li>VMEu_HeavyAmmo</li></thingDefs></fuelFilter>
+		</value>
+	</Operation>
+	<!-- Cost efficiency -->
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "Turret_Autocannon"]/comps/li/fuelMultiplier</xpath>
+		<value>
+			<fuelMultiplier>0.25</fuelMultiplier>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "Turret_Sniper"]/comps/li/fuelFilter</xpath>
+		<value>
+			<fuelFilter><thingDefs><li>VMEu_SniperAmmo</li></thingDefs></fuelFilter>
+		</value>
+	</Operation>
+	<!-- Cost efficiency -->
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "Turret_Sniper"]/comps/li/fuelMultiplier</xpath>
+		<value>
+			<fuelMultiplier>0.1</fuelMultiplier>
+		</value>
+	</Operation>
+
+<Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Vanilla Furniture Expanded - Security</li>
+    </mods>
+	<match Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "VFES_Turret_ChargeComplex"]/comps/li/fuelFilter</xpath>
+				<value>
+					<fuelFilter><thingDefs><li>VMEu_ChargueAmmo</li></thingDefs></fuelFilter>
+				</value>
+			</li>
+			<!-- Cost efficiency -->
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "VFES_Turret_ChargeComplex"]/comps/li/fuelMultiplier</xpath>
+				<value>
+					<fuelMultiplier>5</fuelMultiplier>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "VFES_Turret_HMGComplex"]/comps/li/fuelFilter</xpath>
+				<value>
+					<fuelFilter><thingDefs><li>VMEu_HeavyAmmo</li></thingDefs></fuelFilter>
+				</value>
+			</li>
+			<!-- Cost efficiency -->
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "VFES_Turret_HMGComplex"]/comps/li/fuelMultiplier</xpath>
+				<value>
+					<fuelMultiplier>4</fuelMultiplier>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "VFES_Turret_AutocannonDouble"]/comps/li/fuelFilter</xpath>
+				<value>
+					<fuelFilter><thingDefs><li>VMEu_HeavyAmmo</li></thingDefs></fuelFilter>
+				</value>
+			</li>
+			<!-- Cost efficiency -->
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "VFES_Turret_AutocannonDouble"]/comps/li/fuelMultiplier</xpath>
+				<value>
+					<fuelMultiplier>0.2</fuelMultiplier>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "VFES_Turret_SentryGun"]/comps/li/fuelFilter</xpath>
+				<value>
+					<fuelFilter><thingDefs><li>VMEu_IndustrialAmmo</li></thingDefs></fuelFilter>
+				</value>
+			</li>
+			<!-- Cost efficiency -->
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "VFES_Turret_SentryGun"]/comps/li/fuelMultiplier</xpath>
+				<value>
+					<fuelMultiplier>0.3</fuelMultiplier>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "VFES_Turret_MilitaryTurret"]/comps/li/fuelFilter</xpath>
+				<value>
+					<fuelFilter><thingDefs><li>VMEu_IndustrialAmmo</li></thingDefs></fuelFilter>
+				</value>
+			</li>
+			<!-- Cost efficiency -->
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "VFES_Turret_MilitaryTurret"]/comps/li/fuelMultiplier</xpath>
+				<value>
+					<fuelMultiplier>0.75</fuelMultiplier>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "VFES_Turret_ChargeTurret"]/comps/li/fuelFilter</xpath>
+				<value>
+					<fuelFilter><thingDefs><li>VMEu_ChargueAmmo</li></thingDefs></fuelFilter>
+				</value>
+			</li>
+			<!-- Cost efficiency -->
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "VFES_Turret_ChargeTurret"]/comps/li/fuelMultiplier</xpath>
+				<value>
+					<fuelMultiplier>0.45</fuelMultiplier>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "VFES_Turret_ChargeRailgunTurret"]/comps/li/fuelFilter</xpath>
+				<value>
+					<fuelFilter><thingDefs><li>VMEu_ChargueAmmo</li></thingDefs></fuelFilter>
+				</value>
+			</li>
+			<!-- Cost efficiency -->
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "VFES_Turret_ChargeRailgunTurret"]/comps/li/fuelMultiplier</xpath>
+				<value>
+					<fuelMultiplier>0.1</fuelMultiplier>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "VFES_Turret_EMPTurret"]/comps/li/fuelFilter</xpath>
+				<value>
+					<fuelFilter><thingDefs><li>VMEu_EMPAmmo</li></thingDefs></fuelFilter>
+				</value>
+			</li>
+			<!-- Cost efficiency -->
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "VFES_Turret_EMPTurret"]/comps/li/fuelMultiplier</xpath>
+				<value>
+					<fuelMultiplier>0.1</fuelMultiplier>
+				</value>
+			</li>
+		</operations>
+	</match>
+</Operation>
+
+<Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Vanilla Factions Expanded - Settlers</li>
+    </mods>
+	<match Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "Turret_GatlingGun"]/comps/li/fuelFilter</xpath>
+				<value>
+					<fuelFilter><thingDefs><li>VMEu_IndustrialAmmo</li></thingDefs></fuelFilter>
+				</value>
+			</li>
+			<!-- Cost efficiency -->
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "Turret_GatlingGun"]/comps/li/fuelMultiplier</xpath>
+				<value>
+					<fuelMultiplier>0.5</fuelMultiplier>
+				</value>
+			</li>
+		</operations>
+	</match>
+</Operation>
+</Patch>

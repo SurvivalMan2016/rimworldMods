@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Red Panda -->
+
+  <AEXP_RedPanda.label>красная панда</AEXP_RedPanda.label>
+  <AEXP_RedPanda.description>Красная панда - небольшое млекопитающее, немного больше домашней кошки, с телом, похожим на медведя, и густым рыжеватым мехом. Живот и конечности черного цвета, а по бокам головы и над маленькими глазками есть белые отметины. Красные панды умелые и ловкие животные, которые преимущественно держаться на деревьях. Это одиночное животное, в основном активное от зактаа до рассвета. Красная панда может быть ласковой, если ее правильно приручить.</AEXP_RedPanda.description>
+  <AEXP_RedPanda.tools.0.label>левая лапка</AEXP_RedPanda.tools.0.label>
+  <AEXP_RedPanda.tools.1.label>правая лапка</AEXP_RedPanda.tools.1.label>
+  <AEXP_RedPanda.tools.2.label>зубы</AEXP_RedPanda.tools.2.label>
+  <AEXP_RedPanda.tools.3.label>голова</AEXP_RedPanda.tools.3.label>
+  <AEXP_RedPanda.race.meatLabel>мясо красной панды</AEXP_RedPanda.race.meatLabel>
+
+
+  <!-- Badger -->
+
+  <AEXP_Badger.label>барсук</AEXP_Badger.label>
+  <AEXP_Badger.description>Барсуки это небольшие ночные млекопитающие с плоским клиновидным телом, широкими лапами с длинными когтями и жесткой шерстью. У барсуков сильные лапы и острые когти, которые помогают им рыть норы и находить пищу под землей. Они всеядны и их диета состоит в основном из дождевых червей, насекомых, личинок и мелких животных, таких как ежи и кролики.</AEXP_Badger.description>
+  <AEXP_Badger.tools.0.label>левая лапа</AEXP_Badger.tools.0.label>
+  <AEXP_Badger.tools.1.label>правая лапа</AEXP_Badger.tools.1.label>
+  <AEXP_Badger.tools.2.label>зубы</AEXP_Badger.tools.2.label>
+  <AEXP_Badger.tools.3.label>голова</AEXP_Badger.tools.3.label>
+  <AEXP_Badger.race.meatLabel>мясо барсука</AEXP_Badger.race.meatLabel>
+
+
+  <!-- Wild Goose -->
+
+  <AEXP_WildGoose.label>дикий гусь</AEXP_WildGoose.label>
+  <AEXP_WildGoose.description>Не одомашненный серый гусь. По сравнению со своими одомашненными собратьями, которых отбирали в течение тысяч лет до получения большего размера. Дикие гуси не откладывают так много яиц и они известны своим агрессивным поведением. Сдаваться - не их стратегия.</AEXP_WildGoose.description>
+  <AEXP_WildGoose.tools.0.label>когти</AEXP_WildGoose.tools.0.label>
+  <AEXP_WildGoose.tools.1.label>клюв</AEXP_WildGoose.tools.1.label>
+  <AEXP_WildGoose.tools.2.label>голова</AEXP_WildGoose.tools.2.label>
+
+
+  <!-- Beaver -->
+
+  <AEXP_Beaver.label>бобер</AEXP_Beaver.label>
+  <AEXP_Beaver.description>Крупный полуводный грызун с плоским лопаткообразным хвостом и перепончатыми задними лапами. Бобры известны своими врожденными строительными навыками, строя свои дома или "хатки" из прутьев, веток, камней и грязи в озерах, ручьях и дельтах рек. Бобры хорошо известны тем, что строят плотины через ручьи и, в образованных с их помощью искуственных прудах, домики.</AEXP_Beaver.description>
+  <AEXP_Beaver.tools.0.label>левая лапка</AEXP_Beaver.tools.0.label>
+  <AEXP_Beaver.tools.1.label>правая лапка</AEXP_Beaver.tools.1.label>
+  <AEXP_Beaver.tools.2.label>зубы</AEXP_Beaver.tools.2.label>
+  <AEXP_Beaver.tools.3.label>голова</AEXP_Beaver.tools.3.label>
+
+
+  <!-- Hedgehog -->
+
+  <AEXP_Hedgehog.label>еж</AEXP_Hedgehog.label>
+  <AEXP_Hedgehog.description>Ежи - миниатюрные млекопитающие с конусообразными лицами, короткими ногами и телами, покрытыми иглами. Похожи на дикобраза. В случае опасности еж сворачивается в клубок, так что иглы покрывают всю площадь его нежного тела и защищают животное от хищников.</AEXP_Hedgehog.description>
+  <AEXP_Hedgehog.tools.0.label>левая лапка</AEXP_Hedgehog.tools.0.label>
+  <AEXP_Hedgehog.tools.1.label>правая лапка</AEXP_Hedgehog.tools.1.label>
+  <AEXP_Hedgehog.tools.2.label>зубы</AEXP_Hedgehog.tools.2.label>
+  <AEXP_Hedgehog.tools.3.label>голова</AEXP_Hedgehog.tools.3.label>
+  <AEXP_Hedgehog.race.meatLabel>мясо ежа</AEXP_Hedgehog.race.meatLabel>
+
+
+</LanguageData>

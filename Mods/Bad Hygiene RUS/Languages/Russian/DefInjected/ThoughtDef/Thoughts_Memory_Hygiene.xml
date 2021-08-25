@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DrankCleanWater.stages.0.label>освежился</DrankCleanWater.stages.0.label>
+  <DrankCleanWater.stages.0.description>Выпил освежающей чистой воды. Класс!</DrankCleanWater.stages.0.description>
+
+  <DrankDirtyWater.stages.0.label>выпил грязной воды</DrankDirtyWater.stages.0.label>
+  <DrankDirtyWater.stages.0.description>Выпил бутылку загрязненной воды. Фу!</DrankDirtyWater.stages.0.description>
+
+  <DrankUrine.stages.0.label>выпил мочу</DrankUrine.stages.0.label>
+  <DrankUrine.stages.0.description>Пришлось выпить собственную мочу, чтобы выжить.</DrankUrine.stages.0.description>
+
+  <WashPrivacy.stages.0.label>смущен</WashPrivacy.stages.0.label>
+  <WashPrivacy.stages.0.description>Кто-то видел как я моюсь и я переживаю из-за этого.</WashPrivacy.stages.0.description>
+
+  <ToiletPrivacy.stages.0.label>смущен</ToiletPrivacy.stages.0.label>
+  <ToiletPrivacy.stages.0.description>Кто-то застал меня на унитазе!</ToiletPrivacy.stages.0.description>
+
+  <SoiledSelf.stages.0.label>наделал в штаны</SoiledSelf.stages.0.label>
+  <SoiledSelf.stages.0.description>Больше нельзя было сдерживать это, поэтому мне пришлось наделать в штаны.</SoiledSelf.stages.0.description> 
+  
+  <HotShower.stages.0.label>горячий душ</HotShower.stages.0.label>
+  <HotShower.stages.0.description>Я принял приятный горячий душ.</HotShower.stages.0.description>
+
+  <HeatedPool.stages.0.label>бассейн с подогревом</HeatedPool.stages.0.label>
+  <HeatedPool.stages.0.description>Бассейн с подогревом очень расслабляет.</HeatedPool.stages.0.description>
+
+  <HotBath.stages.0.label>горячая ванна</HotBath.stages.0.label>
+  <HotBath.stages.0.description>Я принял приятную горячую ванну. Кайф!</HotBath.stages.0.description>
+
+  <ColdBath.stages.0.label>холодная ванна</ColdBath.stages.0.label>
+  <ColdBath.stages.0.description>Я приятно освежился в холодной ванной.</ColdBath.stages.0.description>
+
+  <ColdShower.stages.0.label>холодный душ</ColdShower.stages.0.label>
+  <ColdShower.stages.0.description>Я приятно освежился в холодном душе.</ColdShower.stages.0.description>
+
+  <ColdWater.stages.0.label>холодная вода</ColdWater.stages.0.label>
+  <ColdWater.stages.0.description>Нет горячей воды!</ColdWater.stages.0.description>
+
+  <tookDump.stages.0.label>облегчение</tookDump.stages.0.label>
+  <tookDump.stages.0.description>Аааах, так-то лучше.</tookDump.stages.0.description>
+
+  <openDefecation.stages.0.label>справил нужду на улице</openDefecation.stages.0.label>
+  <openDefecation.stages.0.description>Пришлось облегчиться на улице.</openDefecation.stages.0.description>
+
+  <UsedPrivateBathroom.stages.0.label>ужасная ванная</UsedPrivateBathroom.stages.0.label>
+  <UsedPrivateBathroom.stages.0.description>Моя ванная ужасна. Я не в восторге.</UsedPrivateBathroom.stages.0.description>
+  <UsedPrivateBathroom.stages.2.label>достойная ванная</UsedPrivateBathroom.stages.2.label>
+  <UsedPrivateBathroom.stages.2.description>У меня достойная ванная. Это здорово.</UsedPrivateBathroom.stages.2.description>
+  <UsedPrivateBathroom.stages.3.label>хорошая ванная</UsedPrivateBathroom.stages.3.label>
+  <UsedPrivateBathroom.stages.3.description>Моя ванная хороша. Мне нравится.</UsedPrivateBathroom.stages.3.description>
+  <UsedPrivateBathroom.stages.4.label>прекрасная ванная</UsedPrivateBathroom.stages.4.label>
+  <UsedPrivateBathroom.stages.4.description>Моя ванная прекрасна. Я обожаю ее!</UsedPrivateBathroom.stages.4.description>
+  <UsedPrivateBathroom.stages.5.label>впечатляющая ванная</UsedPrivateBathroom.stages.5.label>
+  <UsedPrivateBathroom.stages.5.description>Моя ванная очень впечатляет. Прекрасное место!</UsedPrivateBathroom.stages.5.description>
+  <UsedPrivateBathroom.stages.6.label>замечательная ванная</UsedPrivateBathroom.stages.6.label>
+  <UsedPrivateBathroom.stages.6.description>Моя ванная замечательна. Это самое лучшее место!</UsedPrivateBathroom.stages.6.description>
+  <UsedPrivateBathroom.stages.7.label>восхитительная ванная</UsedPrivateBathroom.stages.7.label>
+  <UsedPrivateBathroom.stages.7.description>Моя ванная восхитительна. Лучше не найти!</UsedPrivateBathroom.stages.7.description>
+  <UsedPrivateBathroom.stages.8.label>великолепная ванная</UsedPrivateBathroom.stages.8.label>
+  <UsedPrivateBathroom.stages.8.description>Моя ванная это самое лучшее место которое только можно представить. Это чудесно!</UsedPrivateBathroom.stages.8.description>
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- DesertTortoise -->
+
+  <AEXP_EggDesertTortoiseUnfertilized.label>яйцо пустынной черепахи (неопл.)</AEXP_EggDesertTortoiseUnfertilized.label>
+  <AEXP_EggDesertTortoiseUnfertilized.description>Неоплодотворенное яйцо пустынной черепахи. Его можно съесть сырым, но гораздо лучше приготовить.</AEXP_EggDesertTortoiseUnfertilized.description>
+
+  <AEXP_EggDesertTortoiseFertilized.label>яйцо пустынной черепахи (опл.)</AEXP_EggDesertTortoiseFertilized.label>
+  <AEXP_EggDesertTortoiseFertilized.description>Оплодотворенное яйцо пустынной черепахи. Если все пойдет хорошо, из него вылупится пустынная черепашка. Его можно съесть сырым, но гораздо лучше приготовить.</AEXP_EggDesertTortoiseFertilized.description>
+
+
+  <!-- Gila Monster -->
+
+  <AEXP_EggGilaMonsterUnfertilized.label>яйцо ядозуба (неопл.)</AEXP_EggGilaMonsterUnfertilized.label>
+  <AEXP_EggGilaMonsterUnfertilized.description>Неоплодотворенное яйцо ядозуба. Его можно съесть сырым, но гораздо лучше приготовить.</AEXP_EggGilaMonsterUnfertilized.description>
+
+  <AEXP_EggGilaMonsterFertilized.label>яйцо ядозуба (опл.)</AEXP_EggGilaMonsterFertilized.label>
+  <AEXP_EggGilaMonsterFertilized.description>Оплодотворенное яйцо ядозуба. Если все пойдет хорошо, из него вылупится детеныш ядозуба. Его можно съесть сырым, но гораздо лучше приготовить.</AEXP_EggGilaMonsterFertilized.description>
+
+</LanguageData>

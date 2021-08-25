@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <ThingDef ParentName="MoteBase">
+    <defName>ARKPPP_Mote_PBEYellow</defName>
+    <graphicData>
+      <texPath>Mote/PBEYellow</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <drawOffscreen>true</drawOffscreen>
+    <mote>
+      <fadeInTime>0.5</fadeInTime>
+      <solidTime>9999999999</solidTime>
+      <fadeOutTime>0.0</fadeOutTime>
+    </mote>
+  </ThingDef>
+  
+   <ThingDef ParentName="MoteBase">
+    <defName>ARKPPP_Mote_PBEYellowEnd</defName>
+    <graphicData>
+      <texPath>Mote/PBEYellow</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <drawOffscreen>true</drawOffscreen>
+    <mote>
+      <fadeInTime>0.0</fadeInTime>
+      <solidTime>1.0</solidTime>
+      <fadeOutTime>1.0</fadeOutTime>
+    </mote>
+  </ThingDef>
+  
+  
+    <ThingDef ParentName="MoteBase">
+    <defName>ARKPPP_Mote_PBERed</defName>
+    <graphicData>
+      <texPath>Mote/PBERed</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <drawOffscreen>true</drawOffscreen>
+    <mote>
+      <fadeInTime>0.5</fadeInTime>
+      <solidTime>9999999999</solidTime>
+      <fadeOutTime>0.0</fadeOutTime>
+    </mote>
+  </ThingDef>
+  
+   <ThingDef ParentName="MoteBase">
+    <defName>ARKPPP_Mote_PBERedEnd</defName>
+    <graphicData>
+      <texPath>Mote/PBERed</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <drawOffscreen>true</drawOffscreen>
+    <mote>
+      <fadeInTime>0.0</fadeInTime>
+      <solidTime>1.0</solidTime>
+      <fadeOutTime>1.0</fadeOutTime>
+    </mote>
+  </ThingDef>
+  
+  
+  
+    <ThingDef ParentName="MoteBase">
+    <defName>ARKPPP_Mote_PBEBlue</defName>
+    <graphicData>
+      <texPath>Mote/PBEBlue</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <drawOffscreen>true</drawOffscreen>
+    <mote>
+      <fadeInTime>0.5</fadeInTime>
+      <solidTime>9999999999</solidTime>
+      <fadeOutTime>0.0</fadeOutTime>
+    </mote>
+  </ThingDef>
+  
+   <ThingDef ParentName="MoteBase">
+    <defName>ARKPPP_Mote_PBEBlueEnd</defName>
+    <graphicData>
+      <texPath>Mote/PBEBlue</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <drawOffscreen>true</drawOffscreen>
+    <mote>
+      <fadeInTime>0.0</fadeInTime>
+      <solidTime>1.0</solidTime>
+      <fadeOutTime>1.0</fadeOutTime>
+    </mote>
+  </ThingDef>
+  
+  
+    <ThingDef ParentName="MoteBase">
+    <defName>ARKPPP_Mote_PBEGreen</defName>
+    <graphicData>
+      <texPath>Mote/PBEGreen</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <drawOffscreen>true</drawOffscreen>
+    <mote>
+      <fadeInTime>0.5</fadeInTime>
+      <solidTime>9999999999</solidTime>
+      <fadeOutTime>0.0</fadeOutTime>
+    </mote>
+  </ThingDef>
+  
+   <ThingDef ParentName="MoteBase">
+    <defName>ARKPPP_Mote_PBEGreenEnd</defName>
+    <graphicData>
+      <texPath>Mote/PBEGreen</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <drawOffscreen>true</drawOffscreen>
+    <mote>
+      <fadeInTime>0.0</fadeInTime>
+      <solidTime>1.0</solidTime>
+      <fadeOutTime>1.0</fadeOutTime>
+    </mote>
+  </ThingDef>
+  
+  
+    <ThingDef ParentName="MoteBase">
+    <defName>ARKPPP_Mote_PBEPurple</defName>
+    <graphicData>
+      <texPath>Mote/PBEPurple</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <drawOffscreen>true</drawOffscreen>
+    <mote>
+      <fadeInTime>0.5</fadeInTime>
+      <solidTime>9999999999</solidTime>
+      <fadeOutTime>0.0</fadeOutTime>
+    </mote>
+  </ThingDef>
+  
+   <ThingDef ParentName="MoteBase">
+    <defName>ARKPPP_Mote_PBEPurpleEnd</defName>
+    <graphicData>
+      <texPath>Mote/PBEPurple</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <drawOffscreen>true</drawOffscreen>
+    <mote>
+      <fadeInTime>0.0</fadeInTime>
+      <solidTime>1.0</solidTime>
+      <fadeOutTime>1.0</fadeOutTime>
+    </mote>
+  </ThingDef>
+</Defs>

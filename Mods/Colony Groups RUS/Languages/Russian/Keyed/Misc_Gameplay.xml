@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TG.GroupInfoTooltip>{0} 
+ЛКМ: развернуть значки пешек
+2х ЛКМ: выберите всех колонистов.
+ПКМ: меню группы</TG.GroupInfoTooltip>
+  <TG.Rally>Копия</TG.Rally>
+  <TG.Work>Работа</TG.Work>
+  <TG.Orders>Заказы</TG.Orders>
+  <TG.Manage>Управлять</TG.Manage>
+  <TG.Group>Группа</TG.Group>
+  <TG.Colony>Колония</TG.Colony>
+  <TG.TaskForce>Оперативная группа</TG.TaskForce>
+  <TG.Caravan>Караван</TG.Caravan>
+  <TG.Diplomacy>Дипломатия</TG.Diplomacy>
+
+  <TG.GetToWork>Принимайтесь за работу</TG.GetToWork>
+  <TG.TakeABreak>Сделайте перерыв</TG.TakeABreak>
+  <TG.ChowHall>Чау-Холл</TG.ChowHall>
+  <TG.SocialRelax>Социальное расслабление</TG.SocialRelax>
+  <TG.HaveSomeFun>Развлекайся</TG.HaveSomeFun>
+  <TG.Clean>Чистый</TG.Clean>
+  <TG.Haul>Тянуть</TG.Haul>
+  <TG.VisitMedical>Посетите Медицинский</TG.VisitMedical>
+
+  <TG.Rename>Переименовать</TG.Rename>
+  <TG.Icon>Иконки</TG.Icon>
+  <TG.SortGroup>Сортировать группу</TG.SortGroup>
+
+  <TG.Disband>Расформировать</TG.Disband>
+  <TG.DisbandPawn>Пешка</TG.DisbandPawn>
+  <TG.DisbandGroup>Группа</TG.DisbandGroup>
+
+  <TG.LookBusy>Выглядеть занятым</TG.LookBusy>
+
+  <TG.ShowAllColonists>Показать всех колонистов</TG.ShowAllColonists>
+  <TG.DisplayFood>Показать еду</TG.DisplayFood>
+  <TG.DisplayRest>Подставка под дисплей</TG.DisplayRest>
+  <TG.DisplayHealth>Отображение рабспособности</TG.DisplayHealth>
+  <TG.DisplayWeapons>Показать оружие</TG.DisplayWeapons>
+  <TG.DisplayColorBars>Цветные полосы настроения</TG.DisplayColorBars>
+  <TG.DisplayBreakRiskOverlay>Прерывание риска наложения</TG.DisplayBreakRiskOverlay>
+  <TG.HidePawnsWhenOffMap>Скрыть пешки с карты</TG.HidePawnsWhenOffMap>
+  <TG.HideGroups>Скрыть группы</TG.HideGroups>
+  <TG.HideCreateGroup>Скрыть Создать группу</TG.HideCreateGroup>
+  <TG.HideCreateGroupDesc>Создать группу &amp; Меню опций можно найти в Назначить меню /настройки мода.</TG.HideCreateGroupDesc>
+  <TG.ColonistBarPositionY>Положение столбика колониста (Y)</TG.ColonistBarPositionY>
+  <TG.ColonistBarPositionX>Положение шкалы колонистов (X)</TG.ColonistBarPositionX>
+  <TG.ColonistBarSpacing>Расстояние между столбиками колонистов (X)</TG.ColonistBarSpacing>
+  <TG.ColonistBarSpacingY>Расстояние между столбиками колонистов (Y)</TG.ColonistBarSpacingY>
+  <TG.GroupRowCount>Количество строк в группе</TG.GroupRowCount>
+  <TG.OverallPawnDisplayScale>Общий масштаб отображения пешек: </TG.OverallPawnDisplayScale>
+  <TG.ColonyGroupScale>Масштаб группы колоний</TG.ColonyGroupScale>
+  <TG.GroupScale>Групповая шкала</TG.GroupScale>
+  <TG.PawnNeedsSize>Масштаб персанажа</TG.PawnNeedsSize>
+  <TG.WeaponOverlayPlacement>Размещение оружия</TG.WeaponOverlayPlacement>
+  <TG.ColorBarModeLabel>Предустановка цветовой шкалы настроения:</TG.ColorBarModeLabel>
+  <TG.ColorBarModeDefault>По умолчанию</TG.ColorBarModeDefault>
+  <TG.ColorBarModeExtended>Расширенный</TG.ColorBarModeExtended>
+  <TG.DisableLabelBackground>Отключить фон ярлыка (для повышения производительности)</TG.DisableLabelBackground>
+
+  <TG.Attack>Атака</TG.Attack>
+  <TG.Regroup>Перегруппировать</TG.Regroup>
+  <TG.BattleStations>Боевые станции</TG.BattleStations>
+  <TG.Set>Набор</TG.Set>
+  <TG.Clear>Убрать</TG.Clear>
+  <TG.Send>Отправить</TG.Send>
+  <TG.Unload>Разгрузить</TG.Unload>
+
+  <TG.Formation>Формирование</TG.Formation>
+  <TG.Medical>Медицинский</TG.Medical>
+  <TG.FireAtWill>Огонь по желанию</TG.FireAtWill>
+  <TG.Strongest>Сильнейший</TG.Strongest>
+  <TG.Weakest>Самый слабый</TG.Weakest>
+  <TG.PursueFleeing>Преследовать убегающих</TG.PursueFleeing>
+
+  <TG.Management>Управление</TG.Management>
+  <TG.Okay>Хорошо</TG.Okay>
+  <TG.Sad>Грустный</TG.Sad>
+  <TG.Happy>Счастливый</TG.Happy>
+
+  <TG.ReportToMedical>Сообщите в больничку</TG.ReportToMedical>
+  <TG.RescueFallen>Спасать раненых</TG.RescueFallen>
+  <TG.TendWounded>Ухаживать за ранеными</TG.TendWounded>
+  <TG.TakeFive>Дай пять</TG.TakeFive>
+
+  <TG.CreateGroupTooltip>Сформируйте группу с выбранными колонистами</TG.CreateGroupTooltip>
+  <TG.OptionsGearTooltip>Откройте меню параметров</TG.OptionsGearTooltip>
+  <TG.LookBusyTooltip>Скажите группе проработать любую задачу</TG.LookBusyTooltip>
+
+
+  <TG.WorkTaskTooltipConstruction>Строить</TG.WorkTaskTooltipConstruction>
+  <TG.WorkTaskTooltipCraft>Создавать</TG.WorkTaskTooltipCraft>
+  <TG.WorkTaskTooltipHaul>Переноска</TG.WorkTaskTooltipHaul>
+  <TG.WorkTaskTooltipClean>Уборка</TG.WorkTaskTooltipClean>
+  <TG.WorkTaskTooltipHunt>Охота</TG.WorkTaskTooltipHunt>
+  <TG.WorkTaskTooltipCook>Готовка</TG.WorkTaskTooltipCook>
+  <TG.WorkTaskTooltipMine>Шахтёр</TG.WorkTaskTooltipMine>
+  <TG.WorkTaskTooltipChopWood>Рубить дрова</TG.WorkTaskTooltipChopWood>
+  <TG.WorkTaskTooltipFarm>Фермер</TG.WorkTaskTooltipFarm>
+  <TG.WorkTaskTooltipClearSnow>Уборка снега</TG.WorkTaskTooltipClearSnow>
+  <TG.WorkTaskTooltipWarden>Надзиратель</TG.WorkTaskTooltipWarden>
+  <TG.WorkTaskTooltipArt>Художник</TG.WorkTaskTooltipArt>
+  <TG.WorkTaskTooltipTailor>Портной</TG.WorkTaskTooltipTailor>
+  <TG.WorkTaskTooltipSmith>Кузнец</TG.WorkTaskTooltipSmith>
+  <TG.WorkTaskTooltipHandle>Ручка</TG.WorkTaskTooltipHandle>
+  <TG.WorkTaskTooltipFireExtinguish>Пожаротушение</TG.WorkTaskTooltipFireExtinguish>
+  <TG.WorkTaskTooltipResearch>Исследовать</TG.WorkTaskTooltipResearch>
+  <TG.WorkTaskTooltipResearchMenu>Меню исследований</TG.WorkTaskTooltipResearchMenu>
+
+
+  <TG.ForcedLaborTooltip>
+ПКМ, чтобы установить приоритет
+-ПКМ x2 = Рабский труд</TG.ForcedLaborTooltip>
+
+  <TG.TakeFiveTooltip>Сделайте перерыв
+
+-Скажите группе отдохнуть от работы</TG.TakeFiveTooltip>
+
+
+  <TG.ChowHallToolTip>Время перекусить
+
+-Скажите группе пойти поесть</TG.ChowHallToolTip>
+
+
+  <TG.SleepTooltip>Отбой
+
+-Скажите группе, чтобы она ложилась спать</TG.SleepTooltip>
+
+
+
+
+
+
+
+
+
+  <TG.RallyToolTip>Копия
+
+Выбрать и создать черновик всей группы</TG.RallyToolTip>
+  <TG.ShootersToolTip>Количество стрелков в группе
+-Нажмите, чтобы выбрать</TG.ShootersToolTip>
+  <TG.MeleeToolTip>Количество рукопашных в группе
+-Нажмите, чтобы выбрать</TG.MeleeToolTip>
+  <TG.ShowHideTooltip>Показать / скрыть групповые пешки на верхней панели</TG.ShowHideTooltip>
+  <TG.AddColonistTooltip>Добавить выбранных колонистов в группу</TG.AddColonistTooltip>
+  <TG.RegroupTooltip>Перегруппируйтесь по выбору лидера.
+Командир отряда - первая пешка в группе</TG.RegroupTooltip>
+  <TG.BattleStationsTooltip>Отправить группу на боевые позиции</TG.BattleStationsTooltip>
+  <TG.BattleStationsSetTooltip>Установите боевые позиции</TG.BattleStationsSetTooltip>
+  <TG.BattleStationsClearTooltip>Очистить боевые позиции</TG.BattleStationsClearTooltip>
+  <TG.FireAtWillTooltip>Боевой режим по умолчанию</TG.FireAtWillTooltip>
+  <TG.StrongestTooltip>Цель - самый сильный враг</TG.StrongestTooltip>
+  <TG.WeakestTooltip>Цель - самый слабый враг</TG.WeakestTooltip>
+  <TG.PursueFleeingTooltip>Преследовать убегающих врагов</TG.PursueFleeingTooltip>
+  <TG.ReportToMedicalTooltip>Отправить раненых в больничку</TG.ReportToMedicalTooltip>
+  <TG.RescueDownedTooltip>Спасайте раненых</TG.RescueDownedTooltip>
+  <TG.TendWoundedTooltip>Уход за ранеными колонистами</TG.TendWoundedTooltip>
+  <TG.ArmorTooltip>Средний рейтинг групповой брони</TG.ArmorTooltip>
+  <TG.DPSTooltip>Средний групповой ДПС</TG.DPSTooltip>
+
+
+  <TG.MiddlePawnCountToolTip>Количество боеспособных пешек</TG.MiddlePawnCountToolTip>
+  <TG.RankTooltip>Средний боевой ранг в группе</TG.RankTooltip>
+  <TG.UpgradeWeaponTooltip>Скажите группе обновить оружие, если оно доступно
+
+-Пешки будут обновляться только до своего текущего типа оружия; Дальний бой / Ближний бой</TG.UpgradeWeaponTooltip>
+  <TG.UpgradeArmorTooltip>Скажите группе обновить броню, если она доступна</TG.UpgradeArmorTooltip>
+  <TG.TakeBuffTooltip>Скажите группе взять боевые наркотики в инвентарь</TG.TakeBuffTooltip>
+
+  <TG.MoodIconTooltip>Общее настроение</TG.MoodIconTooltip>
+  <TG.HealthIconTooltip>Общее самочувствие</TG.HealthIconTooltip>
+  <TG.RestIconTooltip>Общий отдых</TG.RestIconTooltip>
+  <TG.HungerIconTooltip>Overall Hunger</TG.HungerIconTooltip>
+
+  <TG.GroupHideOptionsTooltip>Скрыть группу колоний до наведения указателя мыши</TG.GroupHideOptionsTooltip>
+  <TG.HideGroupPawnDotsOptionsTooltip>Скрыть отображение групповых пешек</TG.HideGroupPawnDotsOptionsTooltip>
+  <TG.HideGroupHealthAlertOverlayOptionsTooltip>Скрыть наложение предупреждений о работоспособности группы</TG.HideGroupHealthAlertOverlayOptionsTooltip>
+  <TG.HideWeaponOverlayOptionsTooltip>Скрыть наложение группового оружия</TG.HideWeaponOverlayOptionsTooltip>
+  <TG.BanishPawnTooltip>Исключить выбранную пешку(и) из группы</TG.BanishPawnTooltip>
+  <TG.HidePawnGroupOptionsTooltip>Переместить группу в подгруппы</TG.HidePawnGroupOptionsTooltip>
+  <TG.WeaponModeShowDrafted>Составлен</TG.WeaponModeShowDrafted>
+  <TG.WeaponModeShowAlways>Всегда</TG.WeaponModeShowAlways>
+
+  <TG.GroupAreaTooltip>Политика области также будет применяться к новым пешкам.
+-Вы должны выбрать новую политику ПОСЛЕ установки этого флажка</TG.GroupAreaTooltip>
+  <TG.GroupOutfitTooltip>Политика в отношении экипировки также будет применяться к новым пешкам.
+-Вы должны выбрать новую политику ПОСЛЕ установки этого флажка</TG.GroupOutfitTooltip>
+  <TG.GroupDrugsTooltip>Политика в отношении наркотиков также будет применяться к новым пешкам.
+-Вы должны выбрать новую политику ПОСЛЕ установки этого флажка</TG.GroupDrugsTooltip>
+  <TG.GroupFoodTooltip>Продовольственная политика также будет применяться к новым пешкам.
+-Вы должны выбрать новую политику ПОСЛЕ установки этого флажка</TG.GroupFoodTooltip>
+  <TG.PresetMenuOverlayOptionsTooltip>Открыть меню предустановок</TG.PresetMenuOverlayOptionsTooltip>
+  <TG.PresetLabel>Предустановка</TG.PresetLabel>
+  <TG.GroupsLabel>Предустановки</TG.GroupsLabel>
+  <TG.CreateNew>Создать новое</TG.CreateNew>
+  <TG.CreateNewTooltip>Создать новую предустановку
+-Предустановки будут сохраняться только при сохранении текущей игровой сессии.</TG.CreateNewTooltip>
+  <TG.TrashCanTooltip>Удалить предустановку</TG.TrashCanTooltip>
+  <TG.SavePresetTooltip>Перезаписать предустановку</TG.SavePresetTooltip>
+  <TG.ActivatePresetTooltip>Активировать предустановку
+-Несколько предустановок могут быть активны одновременно.</TG.ActivatePresetTooltip>
+  <TG.DisactivatePresetTooltip>Деактивировать предустановку</TG.DisactivatePresetTooltip>
+  <TG.CreateNewPreset>Создавать</TG.CreateNewPreset>
+  <TG.RemovePreset>Удалить предустановку</TG.RemovePreset>
+  <TG.SavePreset>Сохранить предустановку</TG.SavePreset>
+
+  <TG.PresetWorkPrioritiesTooltip>Приоритеты работы: </TG.PresetWorkPrioritiesTooltip>
+  <TG.PresetActiveWorkStatesTooltip>Принудительная работа гласит: </TG.PresetActiveWorkStatesTooltip>
+  <TG.PresetAreaTooltip>Принудительная работа гласит: </TG.PresetAreaTooltip>
+  <TG.PresetDrugPolicyTooltip>Лекарственная политика: </TG.PresetDrugPolicyTooltip>
+  <TG.PresetFoodPolicyTooltip>Продовольственная политика: </TG.PresetFoodPolicyTooltip>
+  <TG.PresetOutfitPolicyTooltip>Политика в отношении экипировки: </TG.PresetOutfitPolicyTooltip>
+  <TG.Inactive>Неактивный</TG.Inactive>
+  <TG.Active>Активный</TG.Active>
+  <TG.ForcedLabor>Принудительный труд</TG.ForcedLabor>
+  <TG.Temporary>Временный</TG.Temporary>
+
+  <TG.Apply>Apply</TG.Apply>
+  <TG.ResetGroupTitle>Сбросить группу</TG.ResetGroupTitle>
+  <TG.ResetGroupTooltip>Сбросить группу</TG.ResetGroupTooltip>
+
+  <TG.TravelSupplies>Товары для путешествий</TG.TravelSupplies>
+  <TG.Bedrolls>Постель</TG.Bedrolls>
+
+  <TG.CaptureTooltip>Захватить всех поверженных врагов</TG.CaptureTooltip>
+  <TG.ExecuteTooltip>Казнить всех поверженных врагов</TG.ExecuteTooltip>
+  <TG.Name>Имя</TG.Name>
+
+  <TG.PrisonerMenuTooltip>Меню заключенных</TG.PrisonerMenuTooltip>
+  <TG.AnimalMenuTooltip>Меню Животных</TG.AnimalMenuTooltip>
+  <TG.GuestMenuTooltip>Меню Гостей</TG.GuestMenuTooltip>
+  <TG.SlaveMenuTooltip>Меню Рабов
+	Ctrl-S, что-бы открыть в игре</TG.SlaveMenuTooltip>
+  <TG.Prisoners>Заключенные</TG.Prisoners>
+  <TG.Animals>Животные</TG.Animals>
+  <TG.Guests>Гостей</TG.Guests>
+  <TG.Slaves>Рабы</TG.Slaves>
+
+  <TG.ColorBarModeDefaultTooltip>3 слойная шкала настроения</TG.ColorBarModeDefaultTooltip>
+  <TG.ColorBarModeExtendedTooltip>5 слойная шкала настроения</TG.ColorBarModeExtendedTooltip>
+
+  <TG.Pawn>Пешка</TG.Pawn>
+  <TG.Box>Коробка</TG.Box>
+  
+  <TG.ResetToDefault>Восстановление значений по умолчанию</TG.ResetToDefault>
+	<TG.ResetPawnView>Сбросить просмотр пешки</TG.ResetPawnView>
+
+	<TG.WorkTypeLeftClickToApply>ЛКМ, чтобы применить</TG.WorkTypeLeftClickToApply>
+	<TG.WorkTypeForcedLabor>Принудительный труд</TG.WorkTypeForcedLabor>
+	<TG.WorkTypeSlaveLabor>Рабский труд</TG.WorkTypeSlaveLabor>
+	<TG.GroupWorkPrioritiesReset>Сбросить приоритеты работы
+Зеленая рамка = групповое переопределение
+СКМ на зеленом квадрате для сброса
+	</TG.GroupWorkPrioritiesReset>
+	
+	<TG.GroupColorTooltip>Назначьте групповой цвет одежды для пешек. Они пойдут на парикмахерские и перекрасят свою одежду соответствующим образом.</TG.GroupColorTooltip>
+	<TG.SetIdeologyColor>Установить цвет идеологии</TG.SetIdeologyColor>
+	<TG.SetPawnFavoritesColor>Установить цвет фаворитов пешек</TG.SetPawnFavoritesColor>
+	<TG.ClearGroupColor>Очистить цвет группы</TG.ClearGroupColor>
+	
+	<TG.All>Все</TG.All>
+	<TG.Torso>Торс</TG.Torso>
+	<TG.Legs>Ноги</TG.Legs>
+	<TG.Hands>Руки</TG.Hands>
+	<TG.Head>Голова</TG.Head>
+	<TG.Feet>Стопы</TG.Feet>
+	<TG.Hair>Волосы</TG.Hair>
+	<TG.HealthBarWidth>Размер шкалы здоровья</TG.HealthBarWidth>
+	<TG.AutoDisbandTooltip>Автоматическое расформирование
+Если выбрано, группа не будет
+автоматическое расформирование, когда есть
+в группе больше нет пешек.
+</TG.AutoDisbandTooltip>
+	<TG.WeaponSizeScale>Размер оружия</TG.WeaponSizeScale>
+	<TG.ModSettingsText>Параметры для групп колоний можно найти в игре, используя значок шестеренки, расположенный под кнопкой «Создать группу».</TG.ModSettingsText>
+	<TG.PawnRowCount>Количество пешек: </TG.PawnRowCount>
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidMuff.label>Единица M.U.F.F</AndroidMuff.label>
+  <AndroidMuff.labelPlural>Единицы M.U.F.F</AndroidMuff.labelPlural>
+  <AndroidMuff.labelMale>Единица M.U.F.F самец</AndroidMuff.labelMale>
+  <AndroidMuff.labelMalePlural>Единицы M.U.F.F самцы</AndroidMuff.labelMalePlural>
+  <AndroidMuff.labelFemale>Единица M.U.F.F самка</AndroidMuff.labelFemale>
+  <AndroidMuff.labelFemalePlural>Единицы M.U.F.F самки</AndroidMuff.labelFemalePlural>
+
+  <AndroidChicken.label>Единица химпроцесс</AndroidChicken.label>
+  <AndroidChicken.labelPlural>Единицы химпроцесс</AndroidChicken.labelPlural>
+  <AndroidChicken.labelMale>Единица химпроцесс самец</AndroidChicken.labelMale>
+  <AndroidChicken.labelMalePlural>Единицы химпроцесс самцы</AndroidChicken.labelMalePlural>
+  <AndroidChicken.labelFemale>Единица химпроцесс самка</AndroidChicken.labelFemale>
+  <AndroidChicken.labelFemalePlural>Единицы химпроцесс самки</AndroidChicken.labelFemalePlural>
+
+
+</LanguageData>

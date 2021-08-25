@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_SodaFountain.label>содовая машина</VBE_SodaFountain.label>
+  <VBE_SodaFountain.description>Универсальная установка для производства соды. Сироп тщательно смешивают с водой, газируют, а затем глубоко охлаждают перед розливом в стерелизованные бутылки.</VBE_SodaFountain.description>
+
+  <VBE_AmbrandyDistillery.label>винокурня амбренди</VBE_AmbrandyDistillery.label>
+  <VBE_AmbrandyDistillery.description>Позолоченная винокурня очень тонкой работы, предназначенная для выдержки амброзиевого сусла до получения напитка.</VBE_AmbrandyDistillery.description>
+
+  <VBE_WhiskeyCask.label>бочка для виски</VBE_WhiskeyCask.label>
+  <VBE_WhiskeyCask.description>Огромная бочка, предназначенная для одновременной выдержки большого количества виски. Смесь приобретает натуральный древесный аромат, поскольку сама бочка впитывает часть жидкости в процессе ферментации. Попадание солнечного света в бочку может замедлить брожение или даже испортить всю партию.</VBE_WhiskeyCask.description>
+
+  <VBE_TequilaBarrel.label>бочка для текилы</VBE_TequilaBarrel.label>
+  <VBE_TequilaBarrel.description>Небольшой комбинированный перегонный аппарат и ферментер, идеально подходящий для хранения за прилавком в теплом салоне, но не очень хорошо работающий в дождь.</VBE_TequilaBarrel.description>
+
+  <VBE_VodkaDrum.label>самогонный аппарат</VBE_VodkaDrum.label>
+  <VBE_VodkaDrum.description>Дешевый контейнер, предназначенный для хранения воды, доработанный до герметичности, чтобы осуществлять брожение в течение небольшого времени.</VBE_VodkaDrum.description>
+
+  <VBE_GinStill.label>дистилятор джина</VBE_GinStill.label>
+  <VBE_GinStill.description>Полностью металлическое дистиляционное устройство, предназначенное для очистки и ферментации джина до получения напитка. Металлический дизайн дает возможность регулировать выдержку в широком диапазоне температур и условий.</VBE_GinStill.description>
+
+
+</LanguageData>

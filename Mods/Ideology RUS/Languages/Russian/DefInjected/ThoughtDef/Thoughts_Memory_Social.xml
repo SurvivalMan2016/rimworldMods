@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: failed consolation by<x> {0}</x> -->
+  <CounselFailed.stages.failed_consolation_by.label>неудачное утешение {0}</CounselFailed.stages.failed_consolation_by.label>
+  <!-- EN: Somehow, that attempt at helping made things even worse. -->
+  <CounselFailed.stages.failed_consolation_by.description>Так или иначе, эта попытка помочь сделала все еще хуже.</CounselFailed.stages.failed_consolation_by.description>
+  
+  <!-- EN: counselled by<x> {0}</x> -->
+  <Counselled.stages.counselled_by.label>Проконсультирован {0}</Counselled.stages.counselled_by.label>
+  <!-- EN: I received counseling about something that's been bothering me. -->
+  <Counselled.stages.counselled_by.description>Меня проконсультировали по поводу того, что меня беспокоит.</Counselled.stages.counselled_by.description>
+  
+  <!-- EN: counselled by<x> {0}</x> -->
+  <Counselled_MoodBoost.stages.counselled_by.label>по совету {0}</Counselled_MoodBoost.stages.counselled_by.label>
+  <!-- EN: I received counseling from someone. It felt nice to be listened to. -->
+  <Counselled_MoodBoost.stages.counselled_by.description>Я получил психотерапию от одного человека. Было приятно, когда тебя слушали.</Counselled_MoodBoost.stages.counselled_by.description>
+  
+  <!-- EN: failed to convert<x> {0}</x> -->
+  <FailedConvertAbilityInitiator.stages.failed_to_convert.label>не удалось обратить {0}</FailedConvertAbilityInitiator.stages.failed_to_convert.label>
+  <!-- EN: I tried to convert someone and it didn't work out. Awkward. -->
+  <FailedConvertAbilityInitiator.stages.failed_to_convert.description>Я пытался обратить кого-то в свою веру, но у меня ничего не вышло. Неловко.</FailedConvertAbilityInitiator.stages.failed_to_convert.description>
+  
+  <!-- EN: <x>{0} </x>tried to convert me -->
+  <FailedConvertAbilityRecipient.stages.tried_to_convert_me.label>{0} пытался обратить меня в свою веру</FailedConvertAbilityRecipient.stages.tried_to_convert_me.label>
+  <!-- EN: Someone tried to convert me. I wish they'd just leave me alone. -->
+  <FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>Кто-то пытался обратить меня в свою веру. Я бы хотел, чтобы они просто оставили меня в покое.</FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>
+  
+  <!-- EN: tended by<x> {0}</x> -->
+  <TendedByMedicalSpecialist.stages.tended_by.label>ухаживал за {0}</TendedByMedicalSpecialist.stages.tended_by.label>
+  <!-- EN: I received medical aid from one who carries the special healer status of my ideoligion. -->
+  <TendedByMedicalSpecialist.stages.tended_by.description>Я получил медицинскую помощь от того, кто обладает особым статусом целителя моей идеологии.</TendedByMedicalSpecialist.stages.tended_by.description>
+  
+  <!-- EN: will diminished -->
+  <WillDiminished.stages.will_diminished.label>будет уменьшаться</WillDiminished.stages.will_diminished.label>
+  
+</LanguageData>

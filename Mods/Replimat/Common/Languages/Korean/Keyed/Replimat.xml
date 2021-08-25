@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Replicated Meal -->
+	<ReplicatedMeal>복제한 식사</ReplicatedMeal>
+
+	<!-- EN: Feedstock stored {0} / {1} L -->
+	<FeedstockStored>저장한 원료 {0} / {1} L</FeedstockStored>
+
+	<!-- EN: Total feedstock stored {0} / {1} L -->
+	<TotalFeedstockStored>저장한 원료 총량 {0} / {1} L</TotalFeedstockStored>
+
+	<!-- EN: Replimat Spill -->
+	<LetterLabelReplimatSpill>레플리매트 누출</LetterLabelReplimatSpill>
+
+	<!-- EN: A {0} has malfunctioned, spilling nutrient feedstock everywhere -->
+	<LetterTextReplimatSpill>{0}이 오작동해 영양 원료를 여기저기 누출하고 있습니다.</LetterTextReplimatSpill>
+
+	<!-- EN: Replimat Malfunction -->
+	<LetterLabelReplimatMalfunctionKibble>레플리매트 오작동</LetterLabelReplimatMalfunctionKibble>
+
+	<!-- EN: A {0} has malfunctioned, producing large quantities of animal feed -->
+	<LetterTextReplimatMalfunctionKibble>{0}이 오작동해 대량의 동물 먹이를 생산하고 있습니다.</LetterTextReplimatMalfunctionKibble>
+
+	<!-- EN: Requires connection to Replimat Computer -->
+	<NotConnectedToComputer>레플리매트 컴퓨터와 연결 필요</NotConnectedToComputer>
+
+	<!-- EN: Insufficient Feedstock -->
+	<NotEnoughFeedstock>재료 부족</NotEnoughFeedstock>
+
+	<!-- EN: Empty -->
+	<CorpseRecyclerEmpty>비어 있음</CorpseRecyclerEmpty>
+
+	<!-- EN: Remaining mass : {0} / {1} kg -->
+	<CorpseRecyclerMassRemaining>남은 질량: {0} / {1} kg</CorpseRecyclerMassRemaining>
+
+	<!-- EN: Not empty -->
+	<CorpseRecyclerNotEmpty>비어 있지 않음</CorpseRecyclerNotEmpty>
+
+	<!-- EN: Need non-dessicated humanoid corpse -->
+	<CorpseRecyclerNeedValidCorpse>백골화하지 않은 인간형의 시체가 필요합니다.</CorpseRecyclerNeedValidCorpse>
+
+	<!-- EN: Corpses -->
+	<TabCorpseFilters>시체</TabCorpseFilters>
+
+	<!-- EN: Batch Survival Meals -->
+	<BatchMakeSurvivalMeals>보존 식량 복제</BatchMakeSurvivalMeals>
+
+	<!-- EN: Replicate a batch of Packaged Survival Meals for use in caravans or emergencies -->
+	<BatchMakeSurvivalMeals_Desc>상단에서나 비상시에 사용할 보존 식량을 복제합니다.</BatchMakeSurvivalMeals_Desc>
+
+	<!-- EN: Can not batch replicate survival meals : Terminal has insufficient feedstock, or is not connected to Computer and Feedstock tanks -->
+	<MessageCannotBatchMakeSurvivalMeals>보존 식량을 복제할 수 없습니다: 재료가 부족하거나 터미널이 컴퓨터와 재료 탱크에 연결되어 있지 않습니다.</MessageCannotBatchMakeSurvivalMeals>
+
+	<!-- EN: Make {0} Packaged Survival Meals\n(Max allowed : {1}) -->
+	<SetSurvivalMealBatchSize>{0}개의 보존 식량을 생산\n(최대: {1})</SetSurvivalMealBatchSize>
+
+	<!-- EN: Replimat -->
+	<Replimat_SettingsCategory_Heading>레플리매트</Replimat_SettingsCategory_Heading>
+
+	<!-- EN: General -->
+	<Replimat_Settings_HeaderGeneral>일반</Replimat_Settings_HeaderGeneral>
+
+	<!-- EN: Incidents -->
+	<Replimat_Settings_HeaderIncidents>사건</Replimat_Settings_HeaderIncidents>
+
+	<!-- EN: Prioritize food quality -->
+	<Replimat_Settings_PrioritizeFoodQuality_Title>식품 품질을 우선</Replimat_Settings_PrioritizeFoodQuality_Title>
+
+	<!-- EN: By default, pawns will replicate meals at the highest quality allowed by their current food restriction policy\n\nDisabling this allows pawns to replicate any random meal within their food restriction policy irrespective of quality -->
+	<Replimat_Settings_PrioritizeFoodQuality_Desc>기본적으로, 폰들은 현재 식량 정책으로 허용한 최고 품질의 음식을 복제합니다.\n\n이를 해제하면 식량 정책에서 허용된 아무 음식이나 복제할 것입니다.</Replimat_Settings_PrioritizeFoodQuality_Desc>
+
+	<!-- EN: Replimat Hopper refill threshold -->
+	<Replimat_Settings_HopperRefillThresholdPercent_Title>레플리매트 호퍼 보충 임계치</Replimat_Settings_HopperRefillThresholdPercent_Title>
+
+	<!-- EN: Sets the threshold at which the Replimat Hopper will be restocked with raw food -->
+	<Replimat_Settings_HopperRefillThresholdPercent_Desc>레플리매트 호퍼에 재료를 보충할 임계치를 설정합니다.</Replimat_Settings_HopperRefillThresholdPercent_Desc>
+
+	<!-- EN: Enable Spills -->
+	<Replimat_Settings_EnableIncidentSpill_Title>누출 활성화</Replimat_Settings_EnableIncidentSpill_Title>
+
+	<!-- EN: Allows any Terminal or Animal Feeder to have a small chance of malfunctioning and spilling feedstock -->
+	<Replimat_Settings_EnableIncidentSpill_Desc>단말기나 동물 급양기가 낮은 확률로 오작동 및 누출을 일으킬 수 있도록 허용</Replimat_Settings_EnableIncidentSpill_Desc>
+
+	<!-- EN: Enable Kibble Malfunctions -->
+	<Replimat_Settings_EnableIncidentKibble_Title>사료 오작동 활성화</Replimat_Settings_EnableIncidentKibble_Title>
+
+	<!-- EN: Allows any Terminal to have a small chance of malfunctioning and replicating large amounts of Kibble on its own accord -->
+	<Replimat_Settings_EnableIncidentKibble_Desc>단말기가 낮은 확률로 오작동하여 대량의 동물 사료를 제멋대로 생산하도록 허용</Replimat_Settings_EnableIncidentKibble_Desc>
+
+	<!-- EN: Power consumption (Active) -->
+	<Replimat_Stat_ActiveModePowerConsumption_Label>전력 소비량(활성)</Replimat_Stat_ActiveModePowerConsumption_Label>
+
+	<!-- EN: The amount of power this building will draw from the power grid while actively running -->
+	<Replimat_Stat_ActiveModePowerConsumption_Desc>이 건물이 활성화된 동안 사용할 전력</Replimat_Stat_ActiveModePowerConsumption_Desc>
+
+</LanguageData>

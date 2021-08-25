@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_MakeCoffeeFast.label>сварить кофе эспрессо</VBE_MakeCoffeeFast.label>
+  <VBE_MakeCoffeeFast.description>Сварить теплый и горький напиток, в который обычно добавляют молоко и сахар. Фаворит среди студентов и офисных работников по всей галактике. Все благодаря высокому содержанию кофеина и приятному аромату. Приготовление кофе в кофемашине происходит намного быстрее, чем на плите.</VBE_MakeCoffeeFast.description>
+  <VBE_MakeCoffeeFast.jobString>Варит кофе эспрессо.</VBE_MakeCoffeeFast.jobString>
+
+  <VBE_ReheatCoffee.label>разогреть холодный кофе</VBE_ReheatCoffee.label>
+  <VBE_ReheatCoffee.description>Эта кофемашина имеет небольшой нагреватель, предназначенный для разогрева остывшего кофе.</VBE_ReheatCoffee.description>
+  <VBE_ReheatCoffee.jobString>Разогревает холодный кофе.</VBE_ReheatCoffee.jobString>
+
+  <VBE_BrewIrishCoffee.label>сварить кофе по-ирландски</VBE_BrewIrishCoffee.label>
+  <VBE_BrewIrishCoffee.description>Сварить напиток из кофе, с добавлением виски. Тщательно перемешать, прежде чем добавить сверху сливки. Идеально подходит для тех, кто только что встал с постели и уже хочет в нее вернуться.</VBE_BrewIrishCoffee.description>
+  <VBE_BrewIrishCoffee.jobString>Варит кофе по-ирландски.</VBE_BrewIrishCoffee.jobString>
+
+  <VBE_BrewLatteCoffee.label>сварить кофе латте</VBE_BrewLatteCoffee.label>
+  <VBE_BrewLatteCoffee.description>Прежде чем разливать по чашкам и подавать на стол, необходимо приготовить крепкий эспрессо и смешать его со свежим молоком, чтобы уменьшить горечь. Латте имеет репутацию напитка, предназначенного для искушенных людей.</VBE_BrewLatteCoffee.description>
+  <VBE_BrewLatteCoffee.jobString>Варит кофе латте.</VBE_BrewLatteCoffee.jobString>
+
+  <VBE_BrewMochaCoffee.label>сварить кофе мокко</VBE_BrewMochaCoffee.label>
+  <VBE_BrewMochaCoffee.description>Сварить кофе, смешанный со сладким и вкусным шоколадом. Его приятно пить. Снобы утверждают, что мокко - это скорее десерт, чем настоящий кофейный напиток.</VBE_BrewMochaCoffee.description>
+  <VBE_BrewMochaCoffee.jobString>Варить кофе мокко.</VBE_BrewMochaCoffee.jobString>
+
+  <VBE_BrewCannibalCoffee.label>сварить каннибальский кофе</VBE_BrewCannibalCoffee.label>
+  <VBE_BrewCannibalCoffee.description>Сварить напиток для....очень особенного...любителя кофе.</VBE_BrewCannibalCoffee.description>
+  <VBE_BrewCannibalCoffee.jobString>Варит каннибальский кофе.</VBE_BrewCannibalCoffee.jobString>
+
+</LanguageData>

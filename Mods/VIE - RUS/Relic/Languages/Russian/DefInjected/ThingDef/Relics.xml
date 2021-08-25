@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Concrete relics -->
+
+  <VIE_RelicInertAmulet.label>амулет</VIE_RelicInertAmulet.label>
+  <VIE_RelicInertAmulet.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertAmulet.description>
+
+  <VIE_RelicInertAntlers.label>рога</VIE_RelicInertAntlers.label>
+  <VIE_RelicInertAntlers.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertAntlers.description>
+
+  <VIE_RelicInertApple.label>сфера</VIE_RelicInertApple.label>
+  <VIE_RelicInertApple.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertApple.description>
+
+  <VIE_RelicInertAxeHead.label>головка топора</VIE_RelicInertAxeHead.label>
+  <VIE_RelicInertAxeHead.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertAxeHead.description>
+
+  <VIE_RelicInertBone.label>кость</VIE_RelicInertBone.label>
+  <VIE_RelicInertBone.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertBone.description>
+
+  <VIE_RelicInertBook.label>книга</VIE_RelicInertBook.label>
+  <VIE_RelicInertBook.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertBook.description>
+
+  <VIE_RelicInertBottle.label>бутылка</VIE_RelicInertBottle.label>
+  <VIE_RelicInertBottle.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertBottle.description>
+
+  <VIE_RelicInertBowl.label>миска</VIE_RelicInertBowl.label>
+  <VIE_RelicInertBowl.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertBowl.description>
+
+  <VIE_RelicInertBracelet.label>браслет</VIE_RelicInertBracelet.label>
+  <VIE_RelicInertBracelet.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertBracelet.description>
+
+  <VIE_RelicInertBrokenMask.label>сломанная маска</VIE_RelicInertBrokenMask.label>
+  <VIE_RelicInertBrokenMask.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertBrokenMask.description>
+
+  <VIE_RelicInertBrokenSpear.label>сломанное копьё</VIE_RelicInertBrokenSpear.label>
+  <VIE_RelicInertBrokenSpear.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertBrokenSpear.description>
+
+  <VIE_RelicInertBucket.label>ведро</VIE_RelicInertBucket.label>
+  <VIE_RelicInertBucket.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertBucket.description>
+
+  <VIE_RelicInertCeremonialMask.label>церемониальная маска</VIE_RelicInertCeremonialMask.label>
+  <VIE_RelicInertCeremonialMask.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertCeremonialMask.description>
+
+  <VIE_RelicInertChain.label>цепь</VIE_RelicInertChain.label>
+  <VIE_RelicInertChain.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertChain.description>
+
+  <VIE_RelicInertEngine.label>двигатель</VIE_RelicInertEngine.label>
+  <VIE_RelicInertEngine.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertEngine.description>
+
+  <VIE_RelicInertEngram.label>энграмма</VIE_RelicInertEngram.label>
+  <VIE_RelicInertEngram.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertEngram.description>
+
+  <VIE_RelicInertFossil.label>окаменелость</VIE_RelicInertFossil.label>
+  <VIE_RelicInertFossil.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertFossil.description>
+
+  <VIE_RelicInertGauntlet.label>перчатка</VIE_RelicInertGauntlet.label>
+  <VIE_RelicInertGauntlet.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertGauntlet.description>
+
+  <VIE_RelicInertHorn.label>рог</VIE_RelicInertHorn.label>
+  <VIE_RelicInertHorn.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertHorn.description>
+
+  <VIE_RelicInertIdol.label>идол</VIE_RelicInertIdol.label>
+  <VIE_RelicInertIdol.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertIdol.description>
+
+  <VIE_RelicInertImplant.label>имплант</VIE_RelicInertImplant.label>
+  <VIE_RelicInertImplant.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertImplant.description>
+
+  <VIE_RelicInertInsectSkull.label>череп инсектоида</VIE_RelicInertInsectSkull.label>
+  <VIE_RelicInertInsectSkull.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertInsectSkull.description>
+
+  <VIE_RelicInertMechanoidHead.label>голова механоида</VIE_RelicInertMechanoidHead.label>
+  <VIE_RelicInertMechanoidHead.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertMechanoidHead.description>
+
+  <VIE_RelicInertMedallion.label>медальон</VIE_RelicInertMedallion.label>
+  <VIE_RelicInertMedallion.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertMedallion.description>
+
+  <VIE_RelicInertMug.label>чашка</VIE_RelicInertMug.label>
+  <VIE_RelicInertMug.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertMug.description>
+
+  <VIE_RelicInertPlate.label>металлолом</VIE_RelicInertPlate.label>
+  <VIE_RelicInertPlate.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertPlate.description>
+
+  <VIE_RelicInertPolishedRock.label>блестящий камень</VIE_RelicInertPolishedRock.label>
+  <VIE_RelicInertPolishedRock.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertPolishedRock.description>
+
+  <VIE_RelicInertPyramid.label>пирамидка</VIE_RelicInertPyramid.label>
+  <VIE_RelicInertPyramid.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertPyramid.description>
+  
+  <VIE_RelicInertRing.label>кольцо</VIE_RelicInertRing.label>
+  <VIE_RelicInertRing.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertRing.description>
+
+  <VIE_RelicInertScroll.label>свиток</VIE_RelicInertScroll.label>
+  <VIE_RelicInertScroll.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertScroll.description>
+
+  <VIE_RelicInertShroud.label>саван</VIE_RelicInertShroud.label>
+  <VIE_RelicInertShroud.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertShroud.description>
+
+  <VIE_RelicInertSkull.label>череп</VIE_RelicInertSkull.label>
+  <VIE_RelicInertSkull.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertSkull.description>
+
+  <VIE_RelicInertStack.label>память полушарий</VIE_RelicInertStack.label>
+  <VIE_RelicInertStack.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertStack.description>
+
+  <VIE_RelicInertStatuette.label>статуэтка</VIE_RelicInertStatuette.label>
+  <VIE_RelicInertStatuette.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertStatuette.description>
+
+  <VIE_RelicInertSword.label>сломанный меч</VIE_RelicInertSword.label>
+  <VIE_RelicInertSword.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertSword.description>
+
+  <VIE_RelicInertTools.label>инструменты</VIE_RelicInertTools.label>
+  <VIE_RelicInertTools.description>Объект, имеющий идеологическую значимость.</VIE_RelicInertTools.description>
+
+</LanguageData>

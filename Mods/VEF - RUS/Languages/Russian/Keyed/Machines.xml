@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEMechForceRecharge>Принудительная перезарядка</VFEMechForceRecharge>
+  <VFEMechForceRechargeDesc>Приказать машине вернуться на платформу для перезарядки, вне зависимости от текущего уровня заряда батареи.</VFEMechForceRechargeDesc>
+  <VFEMechAttachTurret>Установить турель</VFEMechAttachTurret>
+  <VFEMechAttachTurretDesc>Построить турель на этой мобильной платформе. Потребуется колонист для оставки ресурсов, равных стоимости строительства стандартной турели.</VFEMechAttachTurretDesc>
+  <VFEMechMachineDied>Машина уничтожена</VFEMechMachineDied>
+  <VFEMechMachineDiedDesc>Одна из ваших машин была уничтожена! Вы можете разобрать ее остатки на верстаке. Чтобы построить замену, одному из ваших колонистов нужно доставить на платформу следующие ресурсы:\n\n{0}</VFEMechMachineDiedDesc>
+  <VFEMechNoResources>Недостаточно ресурсов</VFEMechNoResources>
+  <VFEMechNoTurret>Нет активных мобильных турелей</VFEMechNoTurret>
+  <VFEMechReconstruct>Необходимо для восстановления машины:</VFEMechReconstruct>
+  <VFEMechTurretResources>Необходимо для создания турели:</VFEMechTurretResources>
+  <VFEMechLowerRange>Уменьшить радиус</VFEMechLowerRange>
+  <VFEMechLowerRangeDesc>Уменьшить количество клеток, на которые может передвигаться эта машина.</VFEMechLowerRangeDesc>
+  <VFEMechRaiseRange>Увеличить радиус</VFEMechRaiseRange>
+  <VFEMechRaiseRangeDesc>Увеличить количество клеток, на которые может передвигаться эта машина.</VFEMechRaiseRangeDesc>
+  <VFEMechStopMachine>Остановить машину</VFEMechStopMachine>
+  <VFEMechStopMachineDesc>Остановить продвижение этой машины и вынудить ее вернуться на базу.</VFEMechStopMachineDesc>
+  <VFEMechStartMachine>Запустить машину</VFEMechStartMachine>
+  <VFEMechStartMachineDesc>Запустить эту машину.</VFEMechStartMachineDesc>
+  <VFEMechMachineHitObstacle>Машина наткнулась на препятствие!</VFEMechMachineHitObstacle>
+  <VFEMechSetArea>Установить область</VFEMechSetArea>
+  <VFEMechSetAreaDesc>Установить разрешенную область для всех машин, привязанных к этой платформе.</VFEMechSetAreaDesc>
+
+</LanguageData>

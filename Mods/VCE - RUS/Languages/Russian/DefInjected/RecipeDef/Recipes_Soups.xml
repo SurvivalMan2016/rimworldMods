@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CookSoupSimple.label>приготовить простой суп</VCE_CookSoupSimple.label>
+  <VCE_CookSoupSimple.description>Готовить простой сырой суп, на скорую руку сделанный из нескольких ингредиентов.</VCE_CookSoupSimple.description>
+  <VCE_CookSoupSimple.jobString>Готовит простой суп.</VCE_CookSoupSimple.jobString>
+
+  <VCE_CookSoupFine.label>приготовить вкусный суп</VCE_CookSoupFine.label>
+  <VCE_CookSoupFine.description>Готовить сложный сырой суп, тщательно собранный из широкого ассортимента ингредиентов.</VCE_CookSoupFine.description>
+  <VCE_CookSoupFine.jobString>Готовит вкусный суп.</VCE_CookSoupFine.jobString>
+
+  <VCE_CookSoupLavish.label>приготовить шикарный суп</VCE_CookSoupLavish.label>
+  <VCE_CookSoupLavish.description>Готовить шикарный сырой суп. Шедевр кулинарного искусства, этот суп питает тело, разум и душу.</VCE_CookSoupLavish.description>
+  <VCE_CookSoupLavish.jobString>Готовит шикарный суп.</VCE_CookSoupLavish.jobString>
+
+  <VCE_CookSoupGourmet.label>приготовить изысканный суп</VCE_CookSoupGourmet.label>
+  <VCE_CookSoupGourmet.description>Готовить сырой суп для гурманов. Кулинарное произведение искусства - изысканное, продуманное, с эстетически выверенным балансом вкуса и маленькой порцией.</VCE_CookSoupGourmet.description>
+  <VCE_CookSoupGourmet.jobString>Готовит изысканный суп.</VCE_CookSoupGourmet.jobString>
+
+
+</LanguageData>

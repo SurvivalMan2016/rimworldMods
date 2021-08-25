@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Русский язык для "Vanilla Furniture Expanded - Medical Module"</name>
+	<author>いのしし_3</author>
+	<packageId>Inoshishi3.VFE.MedicalRusPatch</packageId>
+	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=2106394330</url>
+	<modDependencies>
+		<li>
+			<packageId>VanillaExpanded.VFEMedical</packageId>
+			<displayName>Vanilla Furniture Expanded - Medical Module</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1718191613</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>VanillaExpanded.VFEMedical</li>
+	</loadAfter>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<description>&lt;color=yellow&gt;Перевод на русский язык Vanilla Furniture Expanded - Medical Module.&lt;/color&gt;
+
+Для того, чтобы русификатор заработал, в меню порядка загрузки модов он должен быть ПОСЛЕ оригинального Vanilla Furniture Expanded - Medical Module.
+
+~~~~~~
+   [Vanilla Furniture Expanded - Medical Module]
+   [Русский язык для "Vanilla Furniture Expanded - Medical Module"]
+~~~~~~
+
+flip-flap
+░░░░░▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░
+░░░▓▓▓▓▓▓▒▒▒▒▒▒▓▓░░░░░░░
+░░▓▓▓▓▒░░▒▒▓▓▒▒▓▓▓▓░░░░░
+░▓▓▓▓▒░░▓▓▓▒▄▓░▒▄▄▄▓░░░░
+▓▓▓▓▓▒░░▒▀▀▀▀▒░▄░▄▒▓▓░░░
+▓▓▓▓▓▒░░▒▒▒▒▒▓▒▀▒▀▒▓▒▓░░
+▓▓▓▓▓▒▒░░░▒▒▒░░▄▀▀▀▄▓▒▓░
+▓▓▓▓▓▓▒▒░░░▒▒▓▀▄▄▄▄▓▒▒▒▓
+░▓█▀▄▒▓▒▒░░░▒▒░░▀▀▀▒▒▒▒░
+░░▓█▒▒▄▒▒▒▒▒▒▒░░▒▒▒▒▒▒▓░
+░░░▓▓▓▓▒▒▒▒▒▒▒▒░░░▒▒▒▓▓░
+░░░░░▓▓▒░░▒▒▒▒▒▒▒▒▒▒▒▓▓░
+░░░░░░▓▒▒░░░░▒▒▒▒▒▒▒▓▓░░</description>
+</ModMetaData>

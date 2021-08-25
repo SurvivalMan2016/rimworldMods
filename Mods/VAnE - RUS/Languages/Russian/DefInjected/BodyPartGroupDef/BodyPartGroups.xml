@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AEXP_RearLeftClaws.label>задние левые когти</AEXP_RearLeftClaws.label>
+  <AEXP_RearLeftClaws.labelShort>когти</AEXP_RearLeftClaws.labelShort>
+
+  <AEXP_RearRightClaws.label>задние правые когти</AEXP_RearRightClaws.label>
+  <AEXP_RearRightClaws.labelShort>когти</AEXP_RearRightClaws.labelShort>
+
+  <AEXP_RearLeftSpur.label>задняя левая шпора</AEXP_RearLeftSpur.label>
+  <AEXP_RearLeftSpur.labelShort>шпора</AEXP_RearLeftSpur.labelShort>
+
+  <AEXP_RearRightSpur.label>задняя правая шпора</AEXP_RearRightSpur.label>
+  <AEXP_RearRightSpur.labelShort>шпора</AEXP_RearRightSpur.labelShort>
+
+
+</LanguageData>

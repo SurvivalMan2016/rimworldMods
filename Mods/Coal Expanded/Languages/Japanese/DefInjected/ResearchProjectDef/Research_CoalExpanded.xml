@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Research_NECCoalProduction.label>石炭生産技術</Research_NECCoalProduction.label>
+  <Research_NECCoalProduction.description>石炭・木炭の生産方法とそれらで動く特殊な設備を研究します。</Research_NECCoalProduction.description>
+
+  <Research_NECCoalPowergen.label>火力発電(石炭)</Research_NECCoalPowergen.label>
+  <Research_NECCoalPowergen.description>あなたのコロニーで使用できる石炭・木炭で発電する発電機の技術を研究します。</Research_NECCoalPowergen.description>
+
+
+</LanguageData>

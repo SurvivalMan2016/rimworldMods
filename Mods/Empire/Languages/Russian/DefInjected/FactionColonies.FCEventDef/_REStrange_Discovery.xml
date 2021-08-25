@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Basic def stuff -->
+
+  <strangeDiscovery_0.label>Странное открытие</strangeDiscovery_0.label>
+
+
+  <!-- If successful -->
+
+  <strangeDiscovery_1-1.label>Странное открытие</strangeDiscovery_1-1.label>
+
+
+  <!-- If failure w/ security -->
+
+  <strangeDiscovery_1-2.label>Странное открытие</strangeDiscovery_1-2.label>
+
+
+  <!-- If failure w/o security -->
+
+  <strangeDiscovery_1-3.label>Странное открытие</strangeDiscovery_1-3.label>
+
+
+  <!-- If successful -->
+
+  <strangeDiscovery_2-1.label>Странное открытие</strangeDiscovery_2-1.label>
+
+
+  <!-- If failure w/ security -->
+
+  <strangeDiscovery_2-2.label>Странное открытие</strangeDiscovery_2-2.label>
+
+
+  <!-- If failure w/o security -->
+
+  <strangeDiscovery_2-3.label>Странное открытие</strangeDiscovery_2-3.label>
+
+
+</LanguageData>

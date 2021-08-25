@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_DrankSoda.label>выпил содовой</VBE_DrankSoda.label>
+  <VBE_DrankSoda.description>Резко увеличивает сахар в крови, вызывая кратковременный всплеск энергии. Увеличивает манипуляцию на 10%. Действует 5 часов.</VBE_DrankSoda.description>
+
+  <VBE_DrankTea.label>выпил чаю</VBE_DrankTea.label>
+  <VBE_DrankTea.description>Танины, содержащиеся в чае и усваивающеся в процессе метаболизма, усиливают раздражители в нервной системе, подавляя позывы ко сну, а также укрепляют имунную систему. Увеличивает скорость получения иммунитета на 15% и снижает усталость на 10% на 5 часов.</VBE_DrankTea.description>
+
+  <VBE_TequilaAsIngredient.label>выпил коктейль на основе текилы</VBE_TequilaAsIngredient.label>
+  <VBE_TequilaAsIngredient.description>Этот колонист выпил коктейль, в состав которого входила текила. Увеличивает шанс приручения животного на 15%.</VBE_TequilaAsIngredient.description>
+
+  <VBE_WhiskeyAsIngredient.label>выпил коктейль на основе виски</VBE_WhiskeyAsIngredient.label>
+  <VBE_WhiskeyAsIngredient.description>Этот колонист выпил коктейль, в состав которого входил виски. Дает бонус к точности стрельбы.</VBE_WhiskeyAsIngredient.description>
+
+  <VBE_VodkaAsIngredient.label>выпил коктейль на основе водки</VBE_VodkaAsIngredient.label>
+  <VBE_VodkaAsIngredient.description>Этот колонист выпил коктейль, в состав которого входила водка. Увеличивает шанс уклонения на 20%.</VBE_VodkaAsIngredient.description>
+
+  <VBE_GinAsIngredient.label>выпил коктейль на основе джина</VBE_GinAsIngredient.label>
+  <VBE_GinAsIngredient.description>Этот колонист выпил коктейль, в состав которого входил джин.</VBE_GinAsIngredient.description>
+
+  <VBE_AmbrandyAsIngredient.label>выпил коктейль на основе амбренди</VBE_AmbrandyAsIngredient.label>
+  <VBE_AmbrandyAsIngredient.description>Этот колонист выпил коктейль, в состав которого входил амбренди.</VBE_AmbrandyAsIngredient.description>
+
+  <VBE_RBMeadAsIngredient.label>выпил коктейль на основе медовухи</VBE_RBMeadAsIngredient.label>
+  <VBE_RBMeadAsIngredient.description>Этот колонист выпил коктейль, в состав которого входила медовуха.</VBE_RBMeadAsIngredient.description>
+
+  <VBE_WineAsIngredient.label>выпил коктейль на основе вина</VBE_WineAsIngredient.label>
+  <VBE_WineAsIngredient.description>Этот колонист выпил коктейль, в состав которого входило вино. Ты чудовище.</VBE_WineAsIngredient.description>
+
+  <VBE_ConsumedLuciferiumPowder.label>употребил порошок люциферия (съел блюдо)</VBE_ConsumedLuciferiumPowder.label>
+  <VBE_ConsumedLuciferiumPowder.description>Порошок люциферия это очень мелкодисперсный порошок, изготовленный из люциферия. В таком разбавленном виде препарат не будет способствовать заживлению ран, но зато взбодрит употребившего его.</VBE_ConsumedLuciferiumPowder.description>
+
+  <VBE_ConsumedGoStock.label>употребил бульон из go-сока (съел блюдо)</VBE_ConsumedGoStock.label>
+  <VBE_ConsumedGoStock.description>Бульон Go-сока преставляет из себя желатинизированный кубика Go-сока, который можно переварить, вместо введения в виде инъекции. В таком разбавленном виде препарат не будет блокировать сильную боль, а боевые преимущества будут не так заметны.</VBE_ConsumedGoStock.description>
+
+  <VBE_ConsumedWakeupPowder.label>употребил порошок бодрина (съел блюдо)</VBE_ConsumedWakeupPowder.label>
+  <VBE_ConsumedWakeupPowder.description>Порошок бодрина - это измельченная и порошкообразная субстанция, удивительно сладкая и иногда используемая в качестве замены сахара в десертах или утреннем эспрессо. В таком разбавленном виде препарат не будет сильно стимулировать. Обратите внимание: хотя бодрин в таком виде не вызывает привыкания, он все же влияет (хоть и немного) на вероятность сердечного приступа.</VBE_ConsumedWakeupPowder.description>
+
+
+</LanguageData>

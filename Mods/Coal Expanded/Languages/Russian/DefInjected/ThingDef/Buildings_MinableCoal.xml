@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Coal Ore -->
+
+  <MineableCoal.label>залежи каменного угля</MineableCoal.label>
+  <MineableCoal.description>Порода, богатая каменным углём.</MineableCoal.description>
+
+</LanguageData>

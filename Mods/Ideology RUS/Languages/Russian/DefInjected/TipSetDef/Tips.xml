@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Slaves work slower than normal colonists due to lack of motivation. -->
+  <IdeoligionTips.SlaveWorkEfficiency>Рабы работают медленнее, чем обычные поселенцы, из-за отсутствия мотивации.</IdeoligionTips.SlaveWorkEfficiency>
+  <!-- EN: Terror-inducing buildings affect anyone within a 5-cell radius. -->
+  <IdeoligionTips.TerrorRadius>Наводящие ужас постройки поражают любого в радиусе 5 ячеек.</IdeoligionTips.TerrorRadius>
+  <!-- EN: Sleep accelerators increase colonists' sleep quality, but also increase hunger rate. Consider assigning them more frequent, short naps to prevent starvation during sleep. -->
+  <IdeoligionTips.SleepAcceleratorNaps>Ускорители сна повышают качество сна поселенцев, но также увеличивают уровень голода. Подумайте о том, чтобы назначать им более частый, короткий сон, чтобы предотвратить голодание во время сна.</IdeoligionTips.SleepAcceleratorNaps>
+  
+</LanguageData>

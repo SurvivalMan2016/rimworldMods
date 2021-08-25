@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: berserk trance -->
+  <BerserkTrance.label>транс берсерка</BerserkTrance.label>
+  <!-- EN: Driven by fierce moral certainty and stories of ideoligious grievance, this person has driven him or herself into a rage. Every muscle is at peak performance, but it's hard to shut down the anger. -->
+  <BerserkTrance.description>Движимый яростной моральной уверенностью и историями об идеологических обидах, этот человек привел себя в ярость. Каждая мышца работает на пике, но трудно подавить гнев.</BerserkTrance.description>
+  
+  <!-- EN: combat command -->
+  <CombatCommand.label>строевой приказ</CombatCommand.label>
+  <!-- EN: By encouraging and commanding nearby allies, this person can enhance their focus in combat and thus their battle performance. -->
+  <CombatCommand.description>Поощряя и командуя ближайшими союзниками, этот человек может усилить их сосредоточенность в бою и, следовательно, их боевые характеристики.</CombatCommand.description>
+  
+  <!-- EN: combat command -->
+  <CombatCommandBuff.label>строевой приказ</CombatCommandBuff.label>
+  <!-- EN: Combat abilities are boosted thanks to being near someone who is using the combat command ability. -->
+  <CombatCommandBuff.description>Боевые способности повышаются благодаря тому, что вы находитесь рядом с кем-то, кто использует способность боевого командования.</CombatCommandBuff.description>
+  
+  <!-- EN: farming command -->
+  <FarmingCommand.label>аграрный приказ</FarmingCommand.label>
+  <!-- EN: This person is offering guidance on farming techniques, boosting the farming abilities for everyone nearby. -->
+  <FarmingCommand.description>Этот человек предлагает рекомендации по методам ведения сельского хозяйства, повышая возможности ведения сельского хозяйства для всех, кто находится поблизости.</FarmingCommand.description>
+  
+  <!-- EN: farming command -->
+  <FarmingCommandBuff.label>аграрный приказ</FarmingCommandBuff.label>
+  <!-- EN: This person's farming abilities are boosted thanks to being near someone who is using the farming command ability. -->
+  <FarmingCommandBuff.description>Фермерские способности этого человека повышаются благодаря тому, что он находится рядом с кем-то, кто использует способность управлять фермерством.</FarmingCommandBuff.description>
+  
+  <!-- EN: immunity drive -->
+  <ImmunityDrive.label>Укрепление иммунитета</ImmunityDrive.label>
+  <!-- EN: This person has received moral support of an ideoligious nature. Their mental certainty has energized their body and boosted their immune system. -->
+  <ImmunityDrive.description>Этот человек получил моральную поддержку идеологического характера. Их ментальная уверенность зарядила энергией их тело и укрепила их иммунную систему.</ImmunityDrive.description>
+  
+  <!-- EN: marksman command -->
+  <MarksmanCommand.label>стрелковый приказ</MarksmanCommand.label>
+  <!-- EN: This person is using a special ability to call out shots. Everyone within an effect radius gains shooting bonuses. -->
+  <MarksmanCommand.description>Этот человек использует особую способность командовать. Все, кто находится в радиусе действия эффекта, получают бонусы за стрельбу.</MarksmanCommand.description>
+  
+  <!-- EN: marksman command -->
+  <MarksmanCommandBuff.label>стрелковый приказ</MarksmanCommandBuff.label>
+  <!-- EN: Someone is using the marksman command ability nearby, boosting this person's shooting abilities. -->
+  <MarksmanCommandBuff.description>Кто-то поблизости использует командную способность стрелка, повышая способности этого человека к стрельбе.</MarksmanCommandBuff.description>
+  
+  <!-- EN: mining command -->
+  <MiningCommand.label>шахтерский приказ</MiningCommand.label>
+  <!-- EN: This person is offering guidance on mining techniques, boosting the mining speed for everyone nearby. -->
+  <MiningCommand.description>Этот человек предлагает рекомендации по методам добычи ресурсов, повышая скорость добычи ресурсов для всех, кто находится поблизости.</MiningCommand.description>
+  
+  <!-- EN: mining command -->
+  <MiningCommandBuff.label>шахтерский приказ</MiningCommandBuff.label>
+  <!-- EN: This person's mining speed is boosted thanks to being near someone who is using the mining command ability. -->
+  <MiningCommandBuff.description>Скорость добычи ресурсов этого человека повышается благодаря тому, что он находится рядом с кем-то, кто использует командную способность добычи.</MiningCommandBuff.description>
+  
+  <!-- EN: preach health -->
+  <PreachHealth.label>проповедь здоровья</PreachHealth.label>
+  <!-- EN: This person's will to survive was reinforced by a talk with a moral guide of their ideoligion. That moral certainty has improved their healing and immunization gain rates. -->
+  <PreachHealth.description>Воля этого человека к выживанию была подкреплена беседой с моральным наставником их идеологии. Эта моральная уверенность улучшила показатели их выздоровления и иммунизации.</PreachHealth.description>
+  
+  <!-- EN: production command -->
+  <ProductionCommand.label>производственный приказ</ProductionCommand.label>
+  <!-- EN: This person is offering guidance on construction techniques, boosting construction and crafting abilities for everyone nearby. -->
+  <ProductionCommand.description>Этот человек предлагает рекомендации по методам строительства, повышая строительные и ремесленные способности для всех, кто находится поблизости.</ProductionCommand.description>
+  
+  <!-- EN: production command -->
+  <ProductionCommandBuff.label>производственный приказ</ProductionCommandBuff.label>
+  <!-- EN: This person's construction and crafting speeds are boosted thanks to being near someone who is using the production command ability. -->
+  <ProductionCommandBuff.description>Скорость строительства и создания этого человека повышается благодаря тому, что он находится рядом с кем-то, кто использует способность управления производством.</ProductionCommandBuff.description>
+  
+  <!-- EN: research command -->
+  <ResearchCommand.label>научный приказ</ResearchCommand.label>
+  <!-- EN: This person is using a special ability to provide suggestions and mental support, boosting the research speed of everyone nearby. -->
+  <ResearchCommand.description>Этот человек использует особую способность давать советы и умственную поддержку, повышая скорость исследований всех, кто находится поблизости.</ResearchCommand.description>
+  
+  <!-- EN: research command -->
+  <ResearchCommandBuff.label>научный приказ</ResearchCommandBuff.label>
+  <!-- EN: This person's research speed is boosted because they are near someone who is using the research command ability. -->
+  <ResearchCommandBuff.description>Скорость исследования этого человека повышается, потому что он находится рядом с кем-то, кто использует командную способность исследования.</ResearchCommandBuff.description>
+  
+  <!-- EN: work drive -->
+  <WorkDrive.label>заряд работоспособности</WorkDrive.label>
+  <!-- EN: The sense of being called upon by a leader to work harder. -->
+  <WorkDrive.description>Ощущение того, что лидер призывает вас работать усерднее.</WorkDrive.description>
+  
+</LanguageData>

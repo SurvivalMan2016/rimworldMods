@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: married to five or more spouses -->
+  <GotMarried_SpouseCount_FiveOrMore.label>состоит в браке с пятью или более супругами</GotMarried_SpouseCount_FiveOrMore.label>
+  
+  <!-- EN: married to four or more spouses -->
+  <GotMarried_SpouseCount_Four.label>состоит в браке с четырьмя или более супругами</GotMarried_SpouseCount_Four.label>
+  
+  <!-- EN: married to three or more spouses -->
+  <GotMarried_SpouseCount_Three.label>состоит в браке с тремя или более супругами</GotMarried_SpouseCount_Three.label>
+  
+</LanguageData>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Character -->
+  <!-- EN: Overrides some precepts related to -->
+  <OverridesSomePrecepts>Отменяет некоторые заповеди, связанные с </OverridesSomePrecepts>
+  <!-- EN: Agrees with memes -->
+  <AgreeableMemes>Соответствует доктринам</AgreeableMemes>
+  <!-- EN: Conflicts with memes -->
+  <DisagreeableMemes>Конфликтует с доктринами</DisagreeableMemes>
+
+  <!-- ITab titles -->
+  <!-- EN: Slave -->
+  <TabSlave>Раб</TabSlave>
+  <!-- EN: The faction goodwill you will gain if you release a slave. This is affected by the slaves's physical and mental health. -->
+  <SlaveReleaseRelationGainsDesc>Одобрение фракции, которое вы получите за освобождение раба. На это влияет физическое и психическое здоровье рабов.</SlaveReleaseRelationGainsDesc>
+  <!-- EN: Relations gain on release -->
+  <SlaveReleasePotentialRelationGains>Улучшение отношений за освобождение</SlaveReleasePotentialRelationGains>
+  <!-- EN: Slave rebellion interval -->
+  <SlaveRebellionMTBDays>Интервал восстания рабов</SlaveRebellionMTBDays>
+  <!-- EN: The average number of days between slave rebellion attempts. Only time awake is counted. This is affected by mood, health, suppression, proximity to weapons and the presence of colonists on the map. -->
+  <SlaveRebellionMTBDaysDescription>Среднее количество дней между попытками восстания рабов. Засчитывается только время бодрствования. На это влияют настроение, здоровье, подавление, близость к оружию и присутствие поселенцев на карте.</SlaveRebellionMTBDaysDescription>
+
+  <!-- Slave tab -->
+  <!-- EN: Suppression -->
+  <Suppression>Подавление</Suppression>
+  <!-- EN: Suppression is the psychological effect of fear and control on a slave. If suppression is low, slaves are more likely to rebel. -->
+  <SuppressionDesc>Подавление - это психологическое воздействие страха и контроля на раба. Если подавление слабое, рабы с большей вероятностью взбунтуются.</SuppressionDesc>
+  <!-- EN: Suppression fall rate -->
+  <SuppressionFallRate>Скорость падения подавления</SuppressionFallRate>
+  <!-- EN: Suppression falls over time depending on its current level:\n\n- {1}+ suppression: {0} per day\n- {4}-{3} suppression: {2} per day\n- {6}- suppression: {5} per day\n\nApparel and terror can also affect the suppression fall rate. This slave's fall rate calculation is -->
+  <SuppressionFallRateDesc>Подавление падает со временем в зависимости от его текущего уровня:\n\n- {1}+ подавления: {0} в день\n- {4}-{3} подавления: {2} в день\n- {6}- подавления: {5} в день\n\nОдежда и запугивание также могут повлиять на скорость снижения подавления. Расчет скорости падения этого раба таков</SuppressionFallRateDesc>
+  <!-- EN: Cannot emancipate -->
+  <CannotEmancipate>Не может освободиться</CannotEmancipate>
+  <!-- EN: Cannot imprison -->
+  <CannotImprison>Нельзя сажать в тюрьму</CannotImprison>
+  <!-- EN: Current suppression -->
+  <CurrentSuppression>Текущее подавление</CurrentSuppression>
+  <!-- EN: Terror -->
+  <Terror>Устрашение</Terror>
+  <!-- EN: Terror is a way to keep slaves suppressed. It rises when the slave spends time near terrifying things like terror sculptures. A slave can only be affected by three terror sources at a time.\n\nWhile terror is high, suppression falls slower as follows -->
+  <TerrorDescription>Устрашение - это способ подавления рабов. Он поднимается, когда раб проводит время рядом с ужасающими вещами, такими как ужасающие скульптуры. На раба могут воздействовать только три источника устрашения одновременно.\n\nВ то время как устрашение высоко, подавление падает медленнее следующим образом</TerrorDescription>
+  <!-- EN: Recent terrifying observations -->
+  <TerrorCurrentThoughts>Недавние ужасающие видения</TerrorCurrentThoughts>
+
+  <!-- EN: Base interval -->
+  <SuppressionBaseInterval>Базовый интервал</SuppressionBaseInterval>
+  <!-- EN: Moving capacity -->
+  <SuppressionMovingCapacityFactor>Подвижность</SuppressionMovingCapacityFactor>
+  <!-- EN: Suppression -->
+  <SuppressionFactor>Подавление</SuppressionFactor>
+  <!-- EN: Mood -->
+  <SuppressionMoodFactor>Настроение</SuppressionMoodFactor>
+  <!-- EN: Slave count -->
+  <SuppressionSlaveCountFactor>Количество рабов</SuppressionSlaveCountFactor>
+  <!-- EN: Escape route -->
+  <SuppressionEscapeFactor>Путь к побегу</SuppressionEscapeFactor>
+  <!-- EN: Weapon proximity -->
+  <SuppressionWeaponProximityFactor>Близость оружия</SuppressionWeaponProximityFactor>
+  <!-- EN: Final interval -->
+  <SuppressionFinalInterval>Финальный интервал</SuppressionFinalInterval>
+  <!-- EN: Unattended -->
+  <SuppressionUnattendedByColonists>Без присмотра</SuppressionUnattendedByColonists>
+  <!-- EN: At least one of the {0} slaves on this map is expected rebel on average every {1}. -->
+  <SuppressionRebellionAnySlave>По крайней мере, один из {0} рабов на этой карте в среднем будет восставать каждые {1}.</SuppressionRebellionAnySlave>
+
+  <!-- EN: Will -->
+  <WillLevel>Воля</WillLevel>
+  <!-- EN: How much the prisoner is determined not to submit. When this reaches zero, they can be enslaved. -->
+  <WillLevelDesc>Насколько заключенный полон решимости не подчиняться. Когда это достигнет нуля, они могут быть порабощены.</WillLevelDesc>
+  <!-- EN: {0} base will -->
+  <WillFromPawnKind>{0} базовая воля</WillFromPawnKind>
+  <!-- EN: Target ideoligion -->
+  <IdeoConversionTarget>Целевая идеология</IdeoConversionTarget>
+  <!-- EN: The ideoligion your wardens will attempt to convert this prisoner to. -->
+  <IdeoConversionTargetDesc>Идеология, в которую ваши надзиратели попытаются обратить этого заключенного.</IdeoConversionTargetDesc>
+
+  <!-- Social -->
+  <!-- EN: Change per day due to mood -->
+  <CertaintyChangePerDay>Изменение за день в зависимости от настроения</CertaintyChangePerDay>
+  <!-- EN: Change rate based on mood -->
+  <MoodChangeRate>Скорость изменения в зависимости от настроения</MoodChangeRate>
+  <!-- EN: {PAWN_nameDef}'s certainty in {IDEO_name} -->
+  <CertaintyInIdeo>Уверенность {PAWN_nameDef} в {IDEO_name}</CertaintyInIdeo>
+  <!-- EN: A special status this person holds in their ideoligion. If you change or take away this role, they will become unhappy. -->
+  <RoleDesc>Особый статус этот человек занимает в своей идеологии. Если вы измените или отнимете у них эту роль, они станут несчастными.</RoleDesc>
+  <!-- EN: Conversion attempts will be weaker because of trait/meme agreement -->
+  <ConversionWeakerDueToTraitAgreements>Попытки обращения будут слабее из-за компромисса между чертой/доктриной</ConversionWeakerDueToTraitAgreements>
+  <!-- EN: Conversion attempts will be stronger because of trait/meme conflict -->
+  <ConversionStrongerDueToTraitAgreements>Попытки преобразования будут сильнее из-за конфликта чертой/доктриной</ConversionStrongerDueToTraitAgreements>
+
+  <!-- EN: Cut -->
+  <Cut>Вырезать</Cut>
+  <!-- EN: Cut both eyes -->
+  <CutBothEyes>Вырезать оба глаза</CutBothEyes>
+  
+  <!-- Core -->
+  
+  <!-- EN: Pen is not enclosed -->
+  <AutocutUnenclosedPen>Загон не закрыт</AutocutUnenclosedPen>
+  <!-- EN: Pen is not enclosed now, so auto-cut won’t occur. -->
+  <AutocutUnenclosedPenTip>Загон не закрыт, автоматическая рубка не работает.</AutocutUnenclosedPenTip>
+
+</LanguageData>

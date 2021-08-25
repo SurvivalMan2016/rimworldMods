@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VMEu_PlasticManufacture.label>производство пластмассы</VMEu_PlasticManufacture.label>
+  <VMEu_PlasticManufacture.description>Позволяет производить разнообразные материалы, созданные из нефти. Эти материалы варьируются от дешевых и непрочных, используемых для изготовления мебели среднего качества, до твердых и прочных, используемых для строительства устойчивых, но дешевых конструкций.</VMEu_PlasticManufacture.description>
+
+  <VMEu_PolymerMaterials.label>полимерные материалы</VMEu_PolymerMaterials.label>
+  <VMEu_PolymerMaterials.description>Позволяет синтезировать передовые промышленные материалы, созданные из нефти. Эти материалы очень пластичны и могут быть использованы для создания множества вещей, они также необходимы в большинстве передовых конструкций и машин.</VMEu_PolymerMaterials.description>
+
+  <VMEu_PlasticIndustry.label>пластмассовая промышленность</VMEu_PlasticIndustry.label>
+  <VMEu_PlasticIndustry.description>Исследование правильного способа внедрения материалов на основе нефти для замены широкого спектра материалов.</VMEu_PlasticIndustry.description>
+
+  <VMEu_AdvancedChemistry.label>передовая химия</VMEu_AdvancedChemistry.label>
+  <VMEu_AdvancedChemistry.description>Исследуйте, как синтезировать мощные химикаты из нефти, что позволит вам усовершенствовать производственные цепочки и создавать новые вещи.</VMEu_AdvancedChemistry.description>
+
+
+  <!-- SPACER -->
+
+  <VMEu_SynthWeaving.label>синтетические волокна</VMEu_SynthWeaving.label>
+  <VMEu_SynthWeaving.description>Научитесь синтезировать нановолокна для создания прочных тканей, таких как синткань или гиперткань.</VMEu_SynthWeaving.description>
+
+
+  <!-- ULTRA -->
+
+  <VMEu_PlasteelWeaving.label>формула пластали</VMEu_PlasteelWeaving.label>
+  <VMEu_PlasteelWeaving.description>Исследуйте секреты пластали, ультратехнологичного, почти идеального материала, используемого только теми, кто открыл секретную и трудоемкую формулу его производства.</VMEu_PlasteelWeaving.description>
+
+  <VMEu_AntigrainPolymers.label>антиагрегатные полимеры</VMEu_AntigrainPolymers.label>
+  <VMEu_AntigrainPolymers.description>Научитесь синтезировать мощные и разрушительные антиагрегатные химикаты, используемые только в самых передовых утопических мирах.</VMEu_AntigrainPolymers.description>
+
+  <VMEu_GlitterworldMedicine.label>медицина утопических миров</VMEu_GlitterworldMedicine.label>
+  <VMEu_GlitterworldMedicine.description>Исследуйте, как применять мощные лекарственные препараты в сочетании с синтетическими химическими веществами, чтобы создать самое ценное лекарство среди миров Rimworlds.</VMEu_GlitterworldMedicine.description>
+
+
+</LanguageData>

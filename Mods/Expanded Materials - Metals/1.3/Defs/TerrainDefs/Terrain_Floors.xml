@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <TerrainDef ParentName="TileMetalBase">
+    <defName>VMEu_BronzeTile</defName>
+    <label>bronze tile</label>
+    <renderPrecedence>241</renderPrecedence>
+    <description>For a medieval and classy look, bronze tiles are perfect for castles or dining rooms, they give that sensation of royality and wealth.\n\nThey also ahve a slight bonus to cleanliness.</description>
+    <color>(229,174,108)</color>
+    <statBases>
+      <Beauty>5</Beauty>
+      <WorkToBuild>800</WorkToBuild>
+      <Cleanliness>0.08</Cleanliness>
+    </statBases>
+    <costList>
+      <VMEu_Bronze>7</VMEu_Bronze>
+    </costList>
+    <designationHotKey>Misc2</designationHotKey>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <tags>
+      <li>FineFloor</li>
+    </tags>
+  </TerrainDef>
+
+ 
+</Defs>

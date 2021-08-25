@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VEF_SecondaryAcidBurn.label>кислотный ожог</VEF_SecondaryAcidBurn.label>
+  <VEF_SecondaryAcidBurn.deathMessage>{0} {0_gender ? был разъеден : была разъедена : было разъедено}.</VEF_SecondaryAcidBurn.deathMessage>
+
+
+</LanguageData>

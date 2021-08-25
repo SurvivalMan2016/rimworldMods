@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <T1AndroidGeneratorAI.label>T1 Андроид</T1AndroidGeneratorAI.label>
+  <T1AndroidGeneratorAI.description>Создает андроида-колониста.</T1AndroidGeneratorAI.description>
+
+  <T2AndroidGeneratorAI.label>T2 Андроид</T2AndroidGeneratorAI.label>
+  <T2AndroidGeneratorAI.description>Создает андроида-колониста.</T2AndroidGeneratorAI.description>
+
+  <T3AndroidGeneratorAI.label>T3 Андроид</T3AndroidGeneratorAI.label>
+  <T3AndroidGeneratorAI.description>Создает андроида-колониста.</T3AndroidGeneratorAI.description>
+
+  <T4AndroidGeneratorAI.label>T4 Андроид</T4AndroidGeneratorAI.label>
+  <T4AndroidGeneratorAI.description>Создает андроида-колониста.</T4AndroidGeneratorAI.description>
+
+  <DoggoAndroidGeneratorAI.label>K-9</DoggoAndroidGeneratorAI.label>
+  <DoggoAndroidGeneratorAI.description>Создает андроида-колониста.</DoggoAndroidGeneratorAI.description>
+
+  <MuffAndroidGeneratorAI.label>M.U.F.F</MuffAndroidGeneratorAI.label>
+  <MuffAndroidGeneratorAI.description>Создает андроида-колониста.</MuffAndroidGeneratorAI.description>
+
+  <ChickAndroidGeneratorAI.label>Единица Химпроцесс</ChickAndroidGeneratorAI.label>
+  <ChickAndroidGeneratorAI.description>Создает андроида-колониста.</ChickAndroidGeneratorAI.description>
+
+  <SheepAndroidGeneratorAI.label>Фитомайнинг</SheepAndroidGeneratorAI.label>
+  <SheepAndroidGeneratorAI.description>Создает андроида-колониста.</SheepAndroidGeneratorAI.description>
+
+  <CowAndroidGeneratorAI.label>N.Solution</CowAndroidGeneratorAI.label>
+  <CowAndroidGeneratorAI.description>Создает андроида-колониста.</CowAndroidGeneratorAI.description>
+
+  <MicroScytherGeneratorAI.label>Микро-Скайтер</MicroScytherGeneratorAI.label>
+  <MicroScytherGeneratorAI.description>Создает андроида-колониста.</MicroScytherGeneratorAI.description>
+
+
+</LanguageData>

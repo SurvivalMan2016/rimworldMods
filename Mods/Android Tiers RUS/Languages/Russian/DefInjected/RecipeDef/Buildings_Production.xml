@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CreateT1Android.label>Сделать андроида T1</CreateT1Android.label>
+  <CreateT1Android.description>Сделать пустого андроида T1 из пластали и компонентов.</CreateT1Android.description>
+  <CreateT1Android.jobString>Сделать Андроида</CreateT1Android.jobString>
+  
+  <CreateT2Android.label>Сделать андроида T2</CreateT2Android.label>
+  <CreateT2Android.description>Сделать пустого андроида T2 из пластали, золота и из компонентов.</CreateT2Android.description>
+  <CreateT2Android.jobString>Сделать Андроида</CreateT2Android.jobString>
+
+  <CreateT3Android.label>Сделать андроида T3</CreateT3Android.label>
+  <CreateT3Android.description>Сделать пустого андроида T3 из пластали, золота и из продвинутых компонентов.</CreateT3Android.description>
+  <CreateT3Android.jobString>Сделать Андроида</CreateT3Android.jobString>
+
+  <CreateT4Android.label>Сделать андроида T4</CreateT4Android.label>
+  <CreateT4Android.description>Сделать пустого андроида T4 из пластали, золота и из продвинутых компонентов.</CreateT4Android.description>
+  <CreateT4Android.jobString>Сделать Андроида</CreateT4Android.jobString>
+
+  <CreateCyberDog.label>Сделать K-9 кибернетическую единицу</CreateCyberDog.label>
+  <CreateCyberDog.description>Сделать кибернетическую единицу К9 из пластали и компонентов. Очень маневренный юнит ближнего боя, который может легко убить человека.</CreateCyberDog.description>
+  <CreateCyberDog.jobString>Сделать Андроида</CreateCyberDog.jobString>
+
+  <CreateCyberMuff.label>Сделать M.U.F.F</CreateCyberMuff.label>
+  <CreateCyberMuff.description>Сделать единицу M.U.F.F. из пластали и компонентов. Грузоподъемная машина, чрезвычайно полезная для длительных путешествий в караване.</CreateCyberMuff.description>
+  <CreateCyberMuff.jobString>Сделать Андроида</CreateCyberMuff.jobString>
+
+  <CreateCyberSheep.label>сделать Фитомайнинг</CreateCyberSheep.label>
+  <CreateCyberSheep.description>Сделать пустую Фитоминирующую единицу из пластали и компонентов. Машина, которая производит металлическую шерсть за счет повышенного уровня потребления энергии.</CreateCyberSheep.description>
+  <CreateCyberSheep.jobString>Сделать Андроида</CreateCyberSheep.jobString>
+
+  <CreateCyberCow.label>Сделать N.Solution</CreateCyberCow.label>
+  <CreateCyberCow.description>Сделать единицу N.Solution из пластали и компонентов. Мобильная машина, которая производит высококалорийный питательный раствор ценой высокого уровня потребления энергии.</CreateCyberCow.description>
+  <CreateCyberCow.jobString>Сделать Андроида</CreateCyberCow.jobString>
+
+  <CreateCyberChick.label>Сделать Единицу Химпроцесс</CreateCyberChick.label>
+  <CreateCyberChick.description>Сделайте пустую химическую технологическую единицу из пластали и компонентов. Небольшой механизм, потребляющий биологические вещества и перерабатывающий их в полуфабрикаты. Используется для производства химического топлива и нейтроамина.</CreateCyberChick.description>
+  <CreateCyberChick.jobString>Сделать Андроида</CreateCyberChick.jobString>
+
+
+</LanguageData>

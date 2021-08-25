@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <plagueCamp.label>Лагерь заражённых</plagueCamp.label>
+  <deforestationCamp.label>Палатка лесорубов</deforestationCamp.label>
+  <herbalMedicineFarm.label>Травяная медицинская Ферма</herbalMedicineFarm.label>
+  <batteryPowerStation.label>Аккумуляторная электростанция</batteryPowerStation.label>
+  <solarPlant.label>Солнечная электростанция</solarPlant.label>
+  <cleanEnergyLab.label>Лаборатория чистой энергии</cleanEnergyLab.label>
+  <animalTestingFacility.label>Испытательный центр для животных</animalTestingFacility.label>
+  <apartmentHousing.label>Жилой дом</apartmentHousing.label>
+  <perpetualMotionGenerator.label>Генератор постоянного движения</perpetualMotionGenerator.label>
+  <bionicsManufacturingPlant.label>Завод бионики</bionicsManufacturingPlant.label>
+  <archotechGenerator.label>Генератор архотек</archotechGenerator.label>
+
+
+</LanguageData>

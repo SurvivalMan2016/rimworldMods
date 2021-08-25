@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- EN: Multiplier for enslaved (low motivation) -->
+  <StatsReport_Slave>Множитель для порабощенных (низкая мотивация)</StatsReport_Slave>
+  <!-- EN: Terror offset -->
+  <StatsReport_Terror>Нейтрализация устрашения</StatsReport_Terror>
+  <!-- EN: Faction leader bonus -->
+  <StatsReport_LeaderOffset>Бонус лидера фракции</StatsReport_LeaderOffset>
+  <!-- EN: Contains corpse -->
+  <StatsReport_OccupiedCorpseCasket>Содержит труп</StatsReport_OccupiedCorpseCasket>
+
+  <!-- EN: Conversion power bonus on map -->
+  <StatsReport_InstalledRelicConvertPowerFactor>Бонус силы обращения на карте</StatsReport_InstalledRelicConvertPowerFactor>
+  <!-- EN: Mood bonus for rituals in room -->
+  <StatsReport_RelicAtRitualMoodBonus>Бонус настроение для ритуалов в комнате</StatsReport_RelicAtRitualMoodBonus>
+
+  <!-- EN: Relic of -->
+  <Stat_Thing_RelicOf_Name>Реликвия</Stat_Thing_RelicOf_Name>
+  <!-- EN: The ideology this relic belongs to. -->
+  <Stat_Thing_RelicOf_Desc>Идеология, к которой принадлежит эта реликвия.</Stat_Thing_RelicOf_Desc>
+
+  <!-- EN: Related to -->
+  <Stat_Thing_RelatedToIdeos_Name>Относится к</Stat_Thing_RelatedToIdeos_Name>
+  <!-- EN: The ideoligions this thing belongs to. -->
+  <Stat_Thing_RelatedToIdeos_Desc>Идеологии, к которым принадлежит эта вещь.</Stat_Thing_RelatedToIdeos_Desc>
+
+  <!-- EN: Holding relic -->
+  <StatsReports_HasRelic>Имеет реликвию</StatsReports_HasRelic>
+
+  <!-- EN: Blind bonus -->
+  <StatsReport_BlindPsychicSensitivityOffset>Бонус за слепоту</StatsReport_BlindPsychicSensitivityOffset>
+  <!-- EN: Sight bonus -->
+  <StatsReport_SightPsychicSensitivityOffset>Бонус за зрение</StatsReport_SightPsychicSensitivityOffset>
+
+  <!-- EN: Dominating style -->
+  <Stat_Thing_StyleDominanceCategory>Основной стиль</Stat_Thing_StyleDominanceCategory>
+  <!-- EN: The style presented by this object. This style may be associated with some ideoligions. Different people respond differently to certain styles, according to their ideoligious beliefs. -->
+  <Stat_Thing_StyleDominanceCategoryDesc>Стиль, представленный этим объектом. Этот стиль может быть связан с некоторыми идеологиями. Разные люди по-разному реагируют на определенные стили в соответствии со своими идеологическими убеждениями.</Stat_Thing_StyleDominanceCategoryDesc>
+  <!-- EN: Satisfies ideoligions -->
+  <Stat_Thing_IdeosSatisfied>Удовлетворяет идеологиям</Stat_Thing_IdeosSatisfied>
+
+  <!-- EN: Darkness shooting accuracy -->
+  <Stat_Pawn_DarknessCombatShooting_Name>Точность стрельбы в темноте</Stat_Pawn_DarknessCombatShooting_Name>
+  <!-- EN: An offset applied to the chance to hit a target based on the target's light level. -->
+  <Stat_Pawn_DarknessCombatShooting_Desc>Отклонение, применяемое к шансу попасть в цель в зависимости от уровня освещенности цели.</Stat_Pawn_DarknessCombatShooting_Desc>
+  <!-- EN: Darkness melee dodge chance -->
+  <Stat_Pawn_DarknessMeleeDodgeChance_Name>Шанс уклонения в ближнем бою в темноте</Stat_Pawn_DarknessMeleeDodgeChance_Name>
+  <!-- EN: An offset applied to the melee dodge chance based on the target's light level. -->
+  <Stat_Pawn_DarknessMeleeDodgeChance_Desc>Отклонение, применяемое к шансу уклонения в ближнем бою, в зависимости от уровня освещенности цели.</Stat_Pawn_DarknessMeleeDodgeChance_Desc>
+  <!-- EN: Darkness melee hit chance -->
+  <Stat_Pawn_DarknessMeleeHitChance_Name>Шанс попадания в ближнем бою в темноте</Stat_Pawn_DarknessMeleeHitChance_Name>
+  <!-- EN: An offset applied to the melee hit chance based on the target's light level. -->
+  <Stat_Pawn_DarknessMeleeHitChance_Desc>Отклонение, применяемое к шансу попадания в ближнем бою, в зависимости от уровня освещенности цели.</Stat_Pawn_DarknessMeleeHitChance_Desc>
+  <!-- EN: The following offsets can be applied -->
+  <Stat_PawnDarkness_FollowingOffset>Могут быть применены следующие отклонения</Stat_PawnDarkness_FollowingOffset>
+
+  <!-- EN: Biosculpting speed -->
+  <StatsReport_BiosculptingSpeedFactor>Скорость биоскульптинга</StatsReport_BiosculptingSpeedFactor>
+
+  </LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_LemonTree.label>лимонное дерево</VBE_LemonTree.label>
+  <VBE_LemonTree.description>Высокое дерево, произрастающее как в пустынях, так и в тропиках. Яркие и кислые лимоны обильно растут на этом дереве. Некоторые из них созревают рано и падают на землю до того, как созреет первичный урожай.</VBE_LemonTree.description>
+
+  <VCE_RawLemon.label>лимоны</VCE_RawLemon.label>
+  <VCE_RawLemon.description>Кислый и терпкий фрукт на вкус. Сок, цедра и мякоть лимона часто используются в кулинарии, придавая лучший вкус рыбу или мясу. Лимон также используется для ароматизации напитков, таких как лимонад, чай или кофе.</VCE_RawLemon.description>
+
+  <VBE_LemonCoffee.label>эспрессо романо</VBE_LemonCoffee.label>
+  <VBE_LemonCoffee.description>Очень странное сочетание кофе и лимона. Кислый кофе с украшением в виде дольки еще более кислого лимона, который добавит свой сок в напиток перед его употреблением. Вкус специфический, но у него есть свои любители. Помогает при борьбе с кишечными паразитами.</VBE_LemonCoffee.description>
+  <VBE_LemonCoffee.ingestible.ingestCommandString>Пить {0}</VBE_LemonCoffee.ingestible.ingestCommandString>
+  <VBE_LemonCoffee.ingestible.ingestReportString>Пьет {0}.</VBE_LemonCoffee.ingestible.ingestReportString>
+
+  <VBE_LemonTea.label>чай с лимоном</VBE_LemonTea.label>
+  <VBE_LemonTea.description>Черный чай с нарезанным дольками сочным лимоном внутри, также украшенный лимоном сверху.</VBE_LemonTea.description>
+  <VBE_LemonTea.ingestible.ingestCommandString>Пить {0}</VBE_LemonTea.ingestible.ingestCommandString>
+  <VBE_LemonTea.ingestible.ingestReportString>Пьет {0}.</VBE_LemonTea.ingestible.ingestReportString>
+  
+  <VBE_EarlGreyTea.label>чай Эрл Грей</VBE_EarlGreyTea.label>
+  <VBE_EarlGreyTea.description>Очень крепкий и полусладкий фруктовый чай. Цветочные ноты образуют приятную палитру даже при самом тусклом запахе. Люди, выпившие этот напиток, испытывают странное желание колонизировать.</VBE_EarlGreyTea.description>
+  <VBE_EarlGreyTea.ingestible.ingestCommandString>Пить {0}</VBE_EarlGreyTea.ingestible.ingestCommandString>
+  <VBE_EarlGreyTea.ingestible.ingestReportString>Пьет {0}.</VBE_EarlGreyTea.ingestible.ingestReportString>
+
+  
+</LanguageData>

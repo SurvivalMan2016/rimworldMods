@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Misc -->
+  <!-- EN: add -->
+  <Add>добавить</Add>
+  <!-- EN: Trading animal products bonus -->
+  <TradingAnimalProduceBonus>Бонус за торговлю продуктами животного происхождения</TradingAnimalProduceBonus>
+  <!-- EN: Slaves -->
+  <SlavesSection>Рабы</SlavesSection>
+  <!-- EN: dominant style -->
+  <DominantStyle>основной стиль</DominantStyle>
+  <!-- EN: Date -->
+  <Date>Дата</Date>
+
+  <!-- EN: Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay. -->
+  <ChooseStructureMemesInfo>Выберите символическую структуру своей идеологии. Это влияет только на символы - это не влияет на игровой процесс.</ChooseStructureMemesInfo>
+  <!-- EN: Choose {0}-{1} memes to form the foundational ideas of this ideoligion. Some of these have much more gameplay impact than others. -->
+  <ChooseNormalMemesInfo>Выберите {0}-{1} доктрины, формирующие основополагающие идеи этой идеологии. Некоторые из них оказывают гораздо большее влияние на игровой процесс, чем другие.</ChooseNormalMemesInfo>
+  <!-- EN: Choose at least {0} meme. -->
+  <NotEnoughMemes>Выберите хотя бы {0_numCase ? доктрину : доктрины : доктрин}.</NotEnoughMemes>
+  <!-- EN: Choose at most {0} memes. -->
+  <TooManyMemes>Выберите не более {0_numCase ? доктрины : доктрин : доктрин}.</TooManyMemes>
+  <!-- EN: Choose structure. -->
+  <ChooseStructureMeme>Выберите структуру.</ChooseStructureMeme>
+  <!-- EN: {0_label} and {1_label} are incompatible. -->
+  <IncompatibleMemes>{0_label} и {1_label} несовместимы.</IncompatibleMemes>
+  
+  <!-- EN: {0} will re-randomize any precepts you have edited.\n\nDo you wish to continue? -->
+  <ChangesRandomizePrecepts>{0} повторно пересоздаст любые отредактированные вами заповеди.\n\nХотите продолжить?</ChangesRandomizePrecepts>
+  
+  <!-- EN: Room requirements -->
+  <RoomRequirements>Требования к комнате</RoomRequirements>
+  
+  <!-- EN: role -->
+  <Role>роль</Role>
+  <!-- EN: Assign role -->
+  <ChooseRole>Назначить роль</ChooseRole>
+  <!-- EN: No role assigned -->
+  <NoRoleAssigned>Роль не назначена</NoRoleAssigned>
+  <!-- EN: You're about to assign the role of {ROLE_labelDef} to {PAWN_labelShort}. -->
+  <ChooseRoleConfirmAssign>Вы собираетесь назначить роль {ROLE_labelDef} к {PAWN_labelShort}.</ChooseRoleConfirmAssign>
+  <!-- EN: Are you sure? -->
+  <ChooseRoleConfirmAssignPostfix>Вы уверены?</ChooseRoleConfirmAssignPostfix>
+  <!-- EN: {PAWN_labelShort} currently holds this role and will be unhappy to lose it. -->
+  <ChooseRoleConfirmAssignReplace>{PAWN_labelShort} в настоящее время занимает эту роль и будет несчастен, если потеряет ее.</ChooseRoleConfirmAssignReplace>
+  <!-- EN: {PAWN_labelShort} currently holds the role of {ROLE_label} and will be unhappy to lose it. -->
+  <ChooseRoleConfirmAssignHasOtherRole>{PAWN_labelShort} в настоящее время занимает роль {ROLE_label} и будет несчастен, если потеряет ее.</ChooseRoleConfirmAssignHasOtherRole>
+  <!-- EN: There can be only one leader. This will dismiss {PAWN_labelShort} from their {OTHERROLE_labelDef} role, which will make {PAWN_objective} upset. -->
+  <ChooseRoleConfirmAssignReplaceLeader>Может быть только один лидер. Это приведет к удалению {PAWN_labelShort} из роли {OTHERROLE_labelDef}, что расстроит {PAWN_possessive}.</ChooseRoleConfirmAssignReplaceLeader>
+  <!-- EN: You're about to dismiss {PAWN_labelShort} from the role of {ROLE_labelIndef}. This will upset {PAWN_objective}. -->
+  <ChooseRoleConfirmUnassign>Вы собираетесь уволить {PAWN_labelShort} из роли {ROLE_labelIndef}. Это расстроит {PAWN_possessive}.</ChooseRoleConfirmUnassign>
+  <!-- EN: {PAWN_labelShort} will gain the following abilities -->
+  <ChooseRoleListAbilities>{PAWN_labelShort} получит следующие способности </ChooseRoleListAbilities>
+  <!-- EN: The {ROLE_label} role requires the following apparel -->
+  <ChooseRoleListApparelDemands>Для роли {ROLE_label} требуется следующая одежда </ChooseRoleListApparelDemands>
+  <!-- EN: {PAWN_labelShort} will refuse to do these work types -->
+  <ChooseRoleListWorkTypeRestrictions>{PAWN_labelShort} откажется выполнять эти виды работ </ChooseRoleListWorkTypeRestrictions>
+  <!-- EN: It can sometimes be better to wait until your colony is more established before you assign roles. -->
+  <ChooseRoleHint>Иногда может быть лучше подождать, пока ваша колония не станет более устойчивой, прежде чем назначать роли.</ChooseRoleHint>
+  <!-- EN: Unlocked by -->
+  <UnlockedByMeme>Разблокировано</UnlockedByMeme>
+  <!-- EN: Unlocked roles -->
+  <MemeUnlocksRoles>Разблокированные роли</MemeUnlocksRoles>
+  <!-- EN: Unlocked rituals -->
+  <MemeUnlocksRituals>Разблокированные ритуалы</MemeUnlocksRituals>
+  <!-- EN: WARNING: {PAWN_nameDef} is unable to do work that is required for the role of {ROLE_label}. If you choose to give {PAWN_objective} this role, {PAWN_pronoun} may be unable to use the abilities associated with {ROLE_label}. The missing work types are -->
+  <ChooseRoleRequiredWorkTagsDisabled>ПРЕДУПРЕЖДЕНИЕ: {PAWN_nameDef} не может выполнять работу, необходимую для роли {ROLE_label}. Если вы хотите дать {PAWN_objective} эту роль, {PAWN_pronoun} может оказаться неспособным использовать способности, связанные с {ROLE_label}. Отсутствующими типами работ являются </ChooseRoleRequiredWorkTagsDisabled>
+  <!-- EN: Leader bonus -->
+  <YourLeaderTradeBonus>Бонус лидера</YourLeaderTradeBonus>
+  <!-- EN: The meme {MEME} prevents adding apparel requirements to roles. -->
+  <CannotNotAddRoleApparelDueToMeme>Доктрина {MEME} запрещает добавлять требований к одежде к ролям.</CannotNotAddRoleApparelDueToMeme>
+  <!-- EN: cannot be worn with {0_label} -->
+  <CannotBeWornWith>нельзя носить с {0_label}</CannotBeWornWith>
+
+  <!-- EN: Certainty reduction -->
+  <AbilityIdeoConvertBreakdownLabel>Снижение уверенности</AbilityIdeoConvertBreakdownLabel>
+  <!-- EN: Using {ABILITY} ability -->
+  <AbilityIdeoConvertBreakdownUsingAbility>Использует способность {ABILITY}</AbilityIdeoConvertBreakdownUsingAbility>
+  <!-- EN: {PAWN_labelShort}'s conversion power -->
+  <AbilityIdeoConvertBreakdownConversionPower>Сила обращения {PAWN_labelShort}</AbilityIdeoConvertBreakdownConversionPower>
+  <!-- EN: {PAWN_labelShort}'s certainty loss factor from {IDEO_name} -->
+  <AbilityIdeoConvertBreakdownIdeoCertaintyReduction>Коэффициент потери уверенности {PAWN_labelShort} от {IDEO_name}</AbilityIdeoConvertBreakdownIdeoCertaintyReduction>
+  <!-- EN: {PAWN_labelShort} is {ROLE_labelDef} -->
+  <AbilityIdeoConvertBreakdownRole>{PAWN_labelShort} является {ROLE_labelDef}</AbilityIdeoConvertBreakdownRole>
+  <!-- EN: Trait {TRAIT} -->
+  <AbilityIdeoConvertBreakdownTrait>Черта характера {TRAIT}</AbilityIdeoConvertBreakdownTrait>
+  <!-- EN: {RELICCOUNT} installed relics on map -->
+  <AbilityIdeoConvertBreakdownRelic>{RELICCOUNT} установлено реликвий на карте</AbilityIdeoConvertBreakdownRelic>
+  <!-- EN: {PAWN_labelShort}'s social skill -->
+  <AbilityIdeoConvertBreakdownSocialSkill>социальный навык {PAWN_labelShort}</AbilityIdeoConvertBreakdownSocialSkill>
+  <!-- EN: {RECIPIENT_labelShort}'s opinion of {INITIATOR_labelShort} -->
+  <AbilityIdeoConvertBreakdownOpinion>Мнение {RECIPIENT_labelShort} о {INITIATOR_labelShort}</AbilityIdeoConvertBreakdownOpinion>
+  <!-- EN: {PAWN_nameDef}'s ideoligion -->
+  <AbilityIdeoConvertBreakdownPawnIdeo>Идеология {PAWN_nameDef}</AbilityIdeoConvertBreakdownPawnIdeo>
+  <!-- EN: {MEME} vs {TRAIT} trait -->
+  <AbilityIdeoConvertBreakdownMemeVsTrait>{MEME} против {TRAIT} черты</AbilityIdeoConvertBreakdownMemeVsTrait>
+
+  <!-- EN: {PAWN_labelShort} was already counselled recently. -->
+  <AbilityCantApplyAlreadyCounselled>{PAWN_labelShort} уже консультировали недавно.</AbilityCantApplyAlreadyCounselled>
+
+  <!-- Slavery -->
+  <!-- EN: Slave -->
+  <CannotAssignBedToSlave>Раб</CannotAssignBedToSlave>
+  <!-- EN: Colonist -->
+  <CannotAssignBedToColonist>Поселенец</CannotAssignBedToColonist>
+  <!-- EN: Any slave -->
+  <AnySlave>Любой раб</AnySlave>
+  <!-- EN: Negotiator will not sell people into slavery. -->
+  <NegotiatorWillNotTradeSlaves>Переговорщик не будет продавать людей в рабство.</NegotiatorWillNotTradeSlaves>
+  <!-- EN: The negotiator, {0_nameDef}, will not people into slavery due to {0_possessive} belief in {1}.\n\nNote that {0_nameDef} is willing to ransom someone back to their own faction, but isn't willing to sell someone to a different faction. -->
+  <NegotiatorWillNotTradeSlavesTip>Переговорщик, {0_nameDef}, не отдаст в рабство из-за своей веры в {1}.\n\nОбратите внимание, что {0_nameDef} готов выкупить кого-то обратно в свою фракцию, но не готов продать кого-то другой фракции.</NegotiatorWillNotTradeSlavesTip>
+
+  <!-- EN: Last human meat -->
+  <LastHumanMeat>Последнее человеческое мясо</LastHumanMeat>
+  <!-- EN: Because of {PAWN_possessive} belief in {IDEO_name}, {PAWN_nameDef} will become unhappy if {PAWN_pronoun} goes more than {DURATION} days without eating human meat. -->
+  <LastHumanMeatDesc>Из-за своей веры в {IDEO_name}, {PAWN_nameDef} станет несчастным, если {PAWN_pronoun} будет больше {DURATION} дней не есть человеческое мясо.</LastHumanMeatDesc>
+  <!-- EN: Last large animal slaughter -->
+  <LastAnimalSlaughter>Последнее убийство крупного животного</LastAnimalSlaughter>
+
+  <!-- EN: Executing {PAWN_labelShort} will negatively affect relations with {FACTION_name}. -->
+  <ExectueNeutralFactionSlave>Казнь {PAWN_labelShort} негативно повлияет на отношения с {FACTION_name}.</ExectueNeutralFactionSlave>
+
+  <!-- EN: You must assign at least one non-slave colonist who can walk. -->
+  <CaravanMustHaveAtLeastOneNonSlaveColonist>Вы должны назначить по крайней мере одного поселенца, не являющегося рабом, способного ходить.</CaravanMustHaveAtLeastOneNonSlaveColonist>
+  <!-- EN: You must leave at least non-slave colonist who can walk. -->
+  <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>Вы должны оставить хотя бы поселенца, не являющегося рабом, способного ходить.</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
+
+  <!-- Style -->
+  <!-- EN: Style -->
+  <StylePawn>Стиль</StylePawn>
+  <!-- EN: Cancel -->
+  <Cancel>Отменить</Cancel>
+  <!-- EN: hair -->
+  <Hair>волосы</Hair>
+  <!-- EN: beard -->
+  <Beard>борода</Beard>
+  <!-- EN: face tattoo -->
+  <TattooFace>тату на лице</TattooFace>
+  <!-- EN: body tattoo -->
+  <TattooBody>тату на теле</TattooBody>
+  <!-- EN: apparel color -->
+  <ApparelColor>цвет одежды</ApparelColor>
+  <!-- EN: hair color -->
+  <HairColor>цвет волос</HairColor>
+  <!-- EN: Show headgear -->
+  <ShowHeadgear>Показать головной убор</ShowHeadgear>
+  <!-- EN: Show apparel -->
+  <ShowApparel>Показать одежду</ShowApparel>
+  <!-- EN: {PAWN_nameDef} will be unhappy with the following -->
+  <PawnUnhappyWithStyleItems>{PAWN_nameDef} будет недоволен следующим </PawnUnhappyWithStyleItems>
+  <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by {IDEO_memberNamePlural}. If more than one category affects the same thing, the left-most one applies. -->
+  <StyleCategoryDescription>Категории стилей влияют на внешний вид некоторых зданий, одежды и оружия, созданных {IDEO_memberNamePlural}. Если несколько категорий влияют на одно и то же, применяется самая левая категория.</StyleCategoryDescription>
+  <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by your colony. If more than one category affects the same thing, the left-most one applies. -->
+  <StyleCategoryDescriptionAbstract>Категории стилей влияют на внешний вид некоторых зданий, одежды и оружия, изготовленных вашим поселением. Если несколько категорий влияют на одно и то же, применяется самая левая категория.</StyleCategoryDescriptionAbstract>
+  <!-- EN: {IDEO_memberNamePlural} will be happy if they notice buildings, floors, and art matching this style. -->
+  <StyleCategoryDescStyleDominance>{IDEO_memberNamePlural} будут рады, если они заметят здания, этажи и произведения искусства, соответствующие этому стилю.</StyleCategoryDescStyleDominance>
+  <!-- EN: Ideoligion members will be happy if they notice buildings, floors, and art matching this style. -->
+  <StyleCategoryDescStyleDominanceAbstract>Приверженцы идеологии будут счастливы, если заметят здания, этажи и произведения искусства, соответствующие этому стилю.</StyleCategoryDescStyleDominanceAbstract>
+  <!-- EN: {0} style category affects -->
+  <StyleCategoryDetails>{0} стиль влияет на:</StyleCategoryDetails>
+  <!-- EN: Overriden by {0} -->
+  <OverriddenByStyle>Заменено {0}</OverriddenByStyle>
+  <!-- EN: New buildables -->
+  <IdeoMakesBuildingBuildable>Новые объекты для строительства</IdeoMakesBuildingBuildable>
+  <!-- EN: none usable for {PAWN_nameDef} -->
+  <NoneUsableForPawn>не доступных для {PAWN_nameDef}</NoneUsableForPawn>
+  <!-- EN: Hair and beards -->
+  <HairAndBeards>Волосы и бороды</HairAndBeards>
+  <!-- EN: These settings determine how frequently each style appears on members of this ideoligion. -->
+  <HairAndBeardsDesc>Эти параметры определяют, как часто каждый стиль появляется у представителей этой идеологии.</HairAndBeardsDesc>
+  <!-- EN: Tattoos -->
+  <Tattoos>Татуировки</Tattoos>
+  <!-- EN: These settings determines how frequently each tattoo appears on members of this ideoligion. -->
+  <TattoosDesc>Эти настройки определяют, как часто каждая татуировка появляется у представителей этой идеологии.</TattoosDesc>
+  <!-- EN: Never -->
+  <StyleItemFrequencyNever>Никогда</StyleItemFrequencyNever>
+  <!-- EN: Rare -->
+  <StyleItemFrequencyRare>Редко</StyleItemFrequencyRare>
+  <!-- EN: Uncommon -->
+  <StyleItemFrequencyUncommon>Нечасто</StyleItemFrequencyUncommon>
+  <!-- EN: Normal -->
+  <StyleItemFrequencyNormal>Нормально</StyleItemFrequencyNormal>
+  <!-- EN: Common -->
+  <StyleItemFrequencyCommon>Часто</StyleItemFrequencyCommon>
+  <!-- EN: Frequent -->
+  <StyleItemFrequencyFrequent>Постоянно</StyleItemFrequencyFrequent>
+  <!-- EN: Edit appearance -->
+  <EditAppearanceItems>Изменить внешний вид</EditAppearanceItems>
+  <!-- EN: {0} in use -->
+  <NumAvailable>{0} используется</NumAvailable>
+  <!-- EN: Expand all -->
+  <ExpandAllCategories>Развернуть все</ExpandAllCategories>
+  <!-- EN: Collapse all -->
+  <CollapseAllCategories>Свернуть все</CollapseAllCategories>
+  <!-- EN: Resets all style items to their default values. -->
+  <ResetButtonDesc>Сбрасывает все элементы стиля до значений по умолчанию.</ResetButtonDesc>
+  <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
+  <TooltipDyeExplanation>Краситель можно получать из тинктория или покупать у торговцев.</TooltipDyeExplanation>
+
+  <!-- Ancient complex mission -->
+  <!-- EN: Send shuttle anyway -->
+  <SendShuttleAnyway>Все равно отправить шаттл</SendShuttleAnyway>
+  <!-- EN: Re-load shuttle -->
+  <ReLoadShuttle>Загрузить шаттл</ReLoadShuttle>
+
+  <!-- Medical settings -->
+  <!-- EN: Enslaved colonist -->
+  <MedGroupEnslavedColonist>Порабощенный поселенец</MedGroupEnslavedColonist>
+
+  <!-- Dryad upgrades -->
+  <!-- EN: Choose dryad caste -->
+  <ChangeMode>Выбрать касту дриад</ChangeMode>
+  <!-- EN: Required memes -->
+  <RequiredMemes>Необходимые доктрины</RequiredMemes>
+  <!-- EN: Required caste -->
+  <RequiredStage>Требуемая каста</RequiredStage>
+  <!-- EN: Missing required memes -->
+  <MissingRequiredMemes>Отсутствуют необходимые доктрины</MissingRequiredMemes>
+  <!-- EN: Missing required caste -->
+  <MissingRequiredCaste>Отсутствует необходимая каста</MissingRequiredCaste>
+  <!-- EN: Already selected -->
+  <AlreadySelected>Уже выбрано</AlreadySelected>
+  <!-- EN: Here you can choose which caste of dryads this {TREE_label} will create.\n\nDryads will emerge from pods that grow at the tree's base. The maximum number of dryads is based on the connection strength between {TREE_definite} and the connected person. -->
+  <ChooseProductionModeInitialDesc>Здесь вы можете выбрать, какую касту дриад создаст это {TREE_label}.\n\nДриады появятся из стручков, которые растут у основания дерева. Максимальное количество дриад зависит от силы связи между {TREE_definite} и связанным человеком.</ChooseProductionModeInitialDesc>
+
+  <!-- Archonexus -->
+  <!-- EN: Choose who to convert to your ideoligion -->
+  <ChooseColonistsForIdeoTitle>Выбрать, кого обратить в свою идеологию</ChooseColonistsForIdeoTitle>
+  <!-- EN: You may convert people to your primary ideoligion when setting up a new colony. -->
+  <ChooseColonistsForIdeoDesc>Вы можете обратить людей в свою основную идеологию при создании новой колонии.</ChooseColonistsForIdeoDesc>
+  <!-- EN: New Colony -->
+  <ChooseThingsForNewColonyTitle>Новая колония</ChooseThingsForNewColonyTitle>
+  <!-- EN: Choose which colonists, animals and relics to bring to the new colony. -->
+  <ChooseThingsForNewColonyDesc>Выбирайте, каких поселенцев, животных и реликвии привезти в новую колонию.</ChooseThingsForNewColonyDesc>
+  <!-- EN: Choose up to {0} {1}. -->
+  <ChooseThingsDesc>Выберите не более {0} {1}.</ChooseThingsDesc>
+  <!-- EN: Choose up to {0} people. -->
+  <ChoosePeopleDesc>Выберите не более {0_numCase ? человека : человек : людей}.</ChoosePeopleDesc>
+  <!-- EN: If you only select slaves, you will play them as colonists in the next colony. -->
+  <ChooseOnlySlavesInfo>Если вы выберете только рабов, вы будете играть ими как за поселенцев в следующей колонии.</ChooseOnlySlavesInfo>
+  <!-- EN: Convert -->
+  <ConvertToPlayerIdeoligion>Обратить</ConvertToPlayerIdeoligion>
+  <!-- EN: Revert -->
+  <RevertToPreviousIdeoligion>Отменить</RevertToPreviousIdeoligion>
+  <!-- EN: Existing follower -->
+  <ExistingFollowerOfPlayerIdeoligion>Существующий последователь</ExistingFollowerOfPlayerIdeoligion>
+  <!-- EN: You are abandoning a site that contains archotech structures which you have not yet fully studied.\n\nYou will be able to resettle here later, but your colony will be wiped away. -->
+  <AbandonArchotechStructuresWarningDialog>Вы покидаете место, содержащее архотехнические структуры, которые вы еще не полностью изучили.\n\nВы сможете переселиться сюда позже, но ваша колония будет уничтожена.</AbandonArchotechStructuresWarningDialog>
+
+  <!-- EN: Hacking this {0} will alert enemies and cause them to attack. Do really want to hack {0}? -->
+  <ConfirmHackEnenyTerminal>Взлом этого {0} предупредит врагов и заставит их атаковать. Действительно хотите взломать {0}?</ConfirmHackEnenyTerminal>
+
+  <!-- EN: Relics -->
+  <RelicsSection>Реликвии</RelicsSection>
+  
+  <!-- Core -->
+  
+  <!-- Auto slaughter -->
+  <!-- EN: Animal -->
+  
+  <!-- EN: Male adult -->
+  <AnimalMaleAdult>Взрослый самец</AnimalMaleAdult>
+  <!-- EN: Male young -->
+  <AnimalMaleYoung>Молодой самец</AnimalMaleYoung>
+  <!-- EN: Female adult -->
+  <AnimalFemaleAdult>Взрослая самка</AnimalFemaleAdult>
+  <!-- EN: Female young -->
+  <AnimalFemaleYoung>Молодая самка</AnimalFemaleYoung>
+  <!-- EN: Pregnant -->
+  <AnimalPregnant>Беременная</AnimalPregnant>
+  <!-- EN: Bonded -->
+  <AnimalBonded>Связанное</AnimalBonded>
+  <!-- EN: Slaughter -->
+  <AllowSlaughter>Убийство</AllowSlaughter>
+
+  <!-- EN: The current number of baby and juvenile males in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentMalesYoung>Текущее количество детенышей и молодых самцов в колонии.</AutoSlaughterHeaderTooltipCurrentMalesYoung>
+  <!-- EN: The maximum number of baby and juvenile males in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaughterHeaderTooltipMaxMalesYoung>Максимальное количество детенышей и молодых самцов в колонии.\n\nЖивотноводы автоматически убьют всех дополнительных.</AutoSlaughterHeaderTooltipMaxMalesYoung>
+  <!-- EN: The current number of baby and juvenile females in the colony. -->
+  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>Текущее количество детенышей и молодых самок в колонии.</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
+  <!-- EN: The maximum number of baby and juvenile females in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaughterHeaderTooltipMaxFemalesYoung>Максимальное количество детенышей и молодых самок в колонии.\n\nЖивотноводы автоматически убьют всех дополнительных.</AutoSlaughterHeaderTooltipMaxFemalesYoung>
+  <!-- EN: The current number of pregnant animals in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentPregnant>Текущее количество беременных животных в колонии.</AutoSlaughterHeaderTooltipCurrentPregnant>
+  <!-- EN: Allow pregnant animals to be slaughtered along with other females of the same species. -->
+  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>Разрешить убивать беременных животных вместе с другими самками того же вида.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <!-- EN: The current number of bonded animals in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentBonded>Текущее количество прирученных животных в колонии.</AutoSlaughterHeaderTooltipCurrentBonded>
+  <!-- EN: Allow bonded animals to be slaughtered. -->
+  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>Разрешить убивать связанных животных.</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
+
+</LanguageData>

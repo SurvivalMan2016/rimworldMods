@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Gauranlen pod sprout -->
+  <GauranlenPodSpawn.label>Росток стручка Гауранлена</GauranlenPodSpawn.label>
+  <!-- EN: Gauranlen pod sprout -->
+  <GauranlenPodSpawn.letterLabel>Росток стручка Гауранлена</GauranlenPodSpawn.letterLabel>
+  <!-- EN: A Gauranlen pod has sprouted nearby!\n\nHarvest it to collect a Gauranlen seed. This special seed can be used to plant the majestic Gauranlen tree.\n\nYour colonists can connect with Gauranlen trees and make them spawn resources and helpful dryads to work or fight for you. -->
+  <GauranlenPodSpawn.letterText>Поблизости пророс стручок Гауранлена!\n\nСоберите урожай, чтобы собрать семя Гауранлена. Это специальное семя может быть использовано для посадки величественного дерева Гауранлен.\n\nВаши поселенцы могут установить связь с деревьями Гауранлен и заставить их порождать ресурсы и полезных дриад, чтобы работать или сражаться за вас.</GauranlenPodSpawn.letterText>
+  
+  <!-- EN: beggars arrive -->
+  <GiveQuest_Beggars.label>прибывают нищие</GiveQuest_Beggars.label>
+  <!-- EN: beggars arrive -->
+  <GiveQuest_Beggars.letterLabel>прибывают нищие</GiveQuest_Beggars.letterLabel>
+  
+  <!-- EN: pilgrims arrive -->
+  <GiveQuest_ReliquaryPilgrims.label>прибывают паломники</GiveQuest_ReliquaryPilgrims.label>
+  <!-- EN: pilgrims arrive -->
+  <GiveQuest_ReliquaryPilgrims.letterLabel>прибывают паломники</GiveQuest_ReliquaryPilgrims.letterLabel>
+  
+  <!-- EN: insect jelly -->
+  <Infestation_Jelly.label>желе из насекомых</Infestation_Jelly.label>
+  <!-- EN: Insect jelly -->
+  <Infestation_Jelly.letterLabel>желе из насекомых</Infestation_Jelly.letterLabel>
+  <!-- EN: Giant insects have tunneled up from underneath and deposited some surplus insect jelly on the surface. -->
+  <Infestation_Jelly.letterText>Гигантские насекомые проложили туннель снизу и отложили на поверхности излишки желе из насекомых.</Infestation_Jelly.letterText>
+  
+  <!-- EN: Wanderers -->
+  <WanderersSkylantern.label>Странники</WanderersSkylantern.label>
+  <!-- EN: Friendly visitors -->
+  <WanderersSkylantern.letterLabel>Дружелюбные посетители</WanderersSkylantern.letterLabel>
+  <!-- EN: Your skylanterns have attracted some friendly travelers. The travelers were amazed by the spectacle you created and hope they'll get to participate next time.\n\nThey will visit and leave a gift. -->
+  <WanderersSkylantern.letterText>Ваши небесные фонарики в небе привлекли несколько дружелюбных путешественников. Путешественники были поражены зрелищем, которое вы создали, и надеются, что они смогут принять участие в следующий раз.\n\n Они придут и оставят подарок.</WanderersSkylantern.letterText>
+  
+</LanguageData>

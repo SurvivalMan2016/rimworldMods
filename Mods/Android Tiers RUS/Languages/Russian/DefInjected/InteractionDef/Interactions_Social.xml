@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Random social interactions DONE -->
+
+  <RoboticsChat.label>Говорили о робототехнике</RoboticsChat.label>
+  <RoboticsChat.logRulesInitiator.rulesStrings.0>r_logentry->[talkedabout] с [RECIPIENT_nameDef] о робототехнике.</RoboticsChat.logRulesInitiator.rulesStrings.0>
+  <RoboticsChat.logRulesInitiator.rulesStrings.1>talkedabout->общих мыслях</RoboticsChat.logRulesInitiator.rulesStrings.1>
+  <RoboticsChat.logRulesInitiator.rulesStrings.2>talkedabout->своих мыслях</RoboticsChat.logRulesInitiator.rulesStrings.2>
+  <RoboticsChat.logRulesInitiator.rulesStrings.3>talkedabout->об своих идеях</RoboticsChat.logRulesInitiator.rulesStrings.3>
+  <RoboticsChat.logRulesInitiator.rulesStrings.4>talkedabout->общих взглядах</RoboticsChat.logRulesInitiator.rulesStrings.4>
+  <RoboticsChat.logRulesInitiator.rulesStrings.5>talkedabout->общих убеждениях</RoboticsChat.logRulesInitiator.rulesStrings.5>
+  <RoboticsChat.logRulesInitiator.rulesStrings.6>talkedabout->дискусировали</RoboticsChat.logRulesInitiator.rulesStrings.6>
+  <RoboticsChat.logRulesInitiator.rulesStrings.7>talkedabout->душевно поговорили</RoboticsChat.logRulesInitiator.rulesStrings.7>
+  <RoboticsChat.logRulesInitiator.rulesStrings.8>talkedabout->разговаривали</RoboticsChat.logRulesInitiator.rulesStrings.8>
+  <RoboticsChat.logRulesInitiator.rulesStrings.9>talkedabout->глубоко поговорили</RoboticsChat.logRulesInitiator.rulesStrings.9>
+  <RoboticsChat.logRulesInitiator.rulesStrings.10>talkedabout->заговорил</RoboticsChat.logRulesInitiator.rulesStrings.10>
+
+  <RoboticsChat2.label>Говорили об андроидах</RoboticsChat2.label>
+  <RoboticsChat2.logRulesInitiator.rulesStrings.0>r_logentry->[talkedabout] с [RECIPIENT_nameDef] о будущем андроидов.</RoboticsChat2.logRulesInitiator.rulesStrings.0>
+  <RoboticsChat2.logRulesInitiator.rulesStrings.1>talkedabout->общих мыслях</RoboticsChat2.logRulesInitiator.rulesStrings.1>
+  <RoboticsChat2.logRulesInitiator.rulesStrings.2>talkedabout->своих мыслях</RoboticsChat2.logRulesInitiator.rulesStrings.2>
+  <RoboticsChat2.logRulesInitiator.rulesStrings.3>talkedabout->об своих идеях</RoboticsChat2.logRulesInitiator.rulesStrings.3>
+  <RoboticsChat2.logRulesInitiator.rulesStrings.4>talkedabout->общих взглядах</RoboticsChat2.logRulesInitiator.rulesStrings.4>
+  <RoboticsChat2.logRulesInitiator.rulesStrings.5>talkedabout->общих убеждениях</RoboticsChat2.logRulesInitiator.rulesStrings.5>
+  <RoboticsChat2.logRulesInitiator.rulesStrings.6>talkedabout->дискусии</RoboticsChat2.logRulesInitiator.rulesStrings.6>
+  <RoboticsChat2.logRulesInitiator.rulesStrings.7>talkedabout->душевно поговорили</RoboticsChat2.logRulesInitiator.rulesStrings.7>
+  <RoboticsChat2.logRulesInitiator.rulesStrings.8>talkedabout->разговаривали</RoboticsChat2.logRulesInitiator.rulesStrings.8>
+  <RoboticsChat2.logRulesInitiator.rulesStrings.9>talkedabout->глубоко поговорили</RoboticsChat2.logRulesInitiator.rulesStrings.9>
+  <RoboticsChat2.logRulesInitiator.rulesStrings.10>talkedabout->заговорил</RoboticsChat2.logRulesInitiator.rulesStrings.10>
+
+
+</LanguageData>

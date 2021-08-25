@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RGrower -->
+
+  <RoboticSheep.label>Фитомайнинг</RoboticSheep.label>
+  <RoboticSheep.description>Названа в честь процесса, который выполняет эта машина; извлекает небольшое количество металла, поглощенного растениями, перерабатывает его и выводит в виде длинных, веретенообразных нитей на спине и шее.</RoboticSheep.description>
+  <RoboticSheep.tools.0.label>голова</RoboticSheep.tools.0.label>
+
+
+  <!-- RMilker -->
+
+  <RoboticCow.label>N.Solution</RoboticCow.label>
+  <RoboticCow.description>Большая бытовая машина, используемая в основном для производства питательного раствора, так как он очень калориен и может быть продан по высокой цене. Обычно встречается в городах, чтобы обеспечивать питанием бесчисленное население из-за низких цен и недорогостоящего хранения.</RoboticCow.description>
+  <RoboticCow.tools.0.label>голова</RoboticCow.tools.0.label>
+
+
+</LanguageData>

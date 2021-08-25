@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+    <VFEPD_Superpod.label>супер-капсула</VFEPD_Superpod.label>
+    <VFEPD_Superpod.description>Большой, не обслуживаемый, многоцелевой модуль грузовой супер-капсулы.</VFEPD_Superpod.description>
+    <VFEPD_SkipBlack.label>черный скачок</VFEPD_SkipBlack.label>
+    <VFEPD_SkipBlack.description>Легкий, не обслуживаемый аппарат, позволяющий пользователям с комфортом путешествовать на короткие расстояния.</VFEPD_SkipBlack.description>
+    <VFEPD_AlbatrossBlack.label>черный боевой корабль</VFEPD_AlbatrossBlack.label>
+    <VFEPD_AlbatrossBlack.description>Большое многопрофильное транспортное судно, в настоящее время не обслуживаемое.</VFEPD_AlbatrossBlack.description>
+    <VFEPD_SkipWhite.label>белый скачок</VFEPD_SkipWhite.label>
+    <VFEPD_SkipWhite.description>Легкий, не обслуживаемый аппарат, позволяющий пользователям удобно путешествовать на короткие расстояния.</VFEPD_SkipWhite.description>
+    <VFEPD_AlbatrossWhite.label>белый боевой корабль</VFEPD_AlbatrossWhite.label>
+    <VFEPD_AlbatrossWhite.description>Большое многопрофильное транспортное судно в настоящее время не работает.</VFEPD_AlbatrossWhite.description>
+    <VFEPD_SkipSilver.label>серебряный скачок</VFEPD_SkipSilver.label>
+    <VFEPD_SkipSilver.description>Легкий, не обслуживаемый контейнер, позволяющий пользователям с комфортом путешествовать на короткие расстояния.</VFEPD_SkipSilver.description>
+    <VFEPD_AlbatrossSilver.label>серебряный боевой корабль</VFEPD_AlbatrossSilver.label>
+    <VFEPD_AlbatrossSilver.description>Большое многопрофильное транспортное судно в настоящее время не работает.</VFEPD_AlbatrossSilver.description>
+    <VFEPD_SkipBlue.label>синий скачок</VFEPD_SkipBlue.label>
+    <VFEPD_SkipBlue.description>Легкий, не обслуживаемый аппарат, позволяющий пользователям с комфортом путешествовать на короткие расстояния.</VFEPD_SkipBlue.description>
+    <VFEPD_AlbatrossBlue.label>синий боевой корабль</VFEPD_AlbatrossBlue.label>
+    <VFEPD_AlbatrossBlue.description>Большое многопрофильное транспортное судно, в настоящее время не обслуживаемое.</VFEPD_AlbatrossBlue.description>
+    <VFEPD_SkipRed.label>красный скачок</VFEPD_SkipRed.label>
+    <VFEPD_SkipRed.description>Легкий, не обслуживаемый аппарат, позволяющий пользователям с комфортом путешествовать на короткие расстояния.</VFEPD_SkipRed.description>
+    <VFEPD_AlbatrossRed.label>красный боевой корабль</VFEPD_AlbatrossRed.label>
+    <VFEPD_AlbatrossRed.description>Большое многопрофильное транспортное судно в настоящее время не работает.</VFEPD_AlbatrossRed.description>
+
+</LanguageData>
+

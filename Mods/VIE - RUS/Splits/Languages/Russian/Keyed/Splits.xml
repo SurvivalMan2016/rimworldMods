@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VIESAS.IdeoSplit>Разделение идей: {0}</VIESAS.IdeoSplit>
+	<VIESAS.IdeoSplitDesc>Как и в любом достаточно большом сообществе, некоторые традиции в вашем поселении стали изменяться. Некоторые люди стали считать, что некоторые идеи уже устарели и идеология должна адаптироваться к новой реальности. Это привело к появлению идей {0}.
+
+{1}
+
+Следующие люди решили принять новую идеологию:
+{2}
+
+Раскол привносит и новые вызовы. Теперь необходимо заботится о двух уникальных идеологиях в поселении до тех пор, пока одна из них не возьмёт вверх.</VIESAS.IdeoSplitDesc>
+	<VIESAS.OddsOfSchismToOccur>Вероятность возникновения раскола: </VIESAS.OddsOfSchismToOccur>
+	<VIESAS.PctOfColonistsToTurnToNewIdeology>Максимальное количество поселенцев в новой идеологии: </VIESAS.PctOfColonistsToTurnToNewIdeology>
+	<VIESAS.MinimumColonistCountForSchismToOccur>Минимальное количество поселенцев одной идеологии для возникновения раскола: </VIESAS.MinimumColonistCountForSchismToOccur>
+	<VIESAS.AmountOfMemesChangedDuringSchism>Число черт, которые изменятся в результате раскола: </VIESAS.AmountOfMemesChangedDuringSchism>
+	<VIESAS.IdeologyConversionCheckDaysInterval>Дней до изменения идеологии: </VIESAS.IdeologyConversionCheckDaysInterval>
+	<VIESAS.MemeChanged>Черта изменилась</VIESAS.MemeChanged>
+	<VIESAS.NewMeme>Новая черта</VIESAS.NewMeme>
+	<VIESAS.OldIdeoForgotten>{0} была забыта</VIESAS.OldIdeoForgotten>
+	<VIESAS.OldIdeoForgottenDesc>{0} была забыта. Больше никто на этой планете не следует тем обычаям и верованиям, культуре и традициям, которые были частью теперь уже навсегда утраченной идеологии.
+
+Идеология исчезла из-за отсутствия последователей.</VIESAS.OldIdeoForgottenDesc>
+	
+</LanguageData>

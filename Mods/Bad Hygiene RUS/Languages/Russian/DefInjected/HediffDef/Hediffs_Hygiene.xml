@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Washing.label>моется</Washing.label>
+  <Washing.description>мытье</Washing.description>
+  <Washing.labelNoun>моется</Washing.labelNoun>
+
+  <BadHygiene.label>несоблюдение гигиены</BadHygiene.label>
+  <BadHygiene.description>Несоблюдение гигиены увеличивает риск болезни и влияет на социальное взаимодействие.</BadHygiene.description>
+  <BadHygiene.stages.0.label>среднее</BadHygiene.stages.0.label>
+  <BadHygiene.stages.1.label>серьезное</BadHygiene.stages.1.label>
+  <BadHygiene.stages.2.label>ужасное</BadHygiene.stages.2.label>
+ 
+  <Diarrhea.label>диарея</Diarrhea.label>
+  <Diarrhea.description>Диарея - это жидкий, водянистый стул в процессе дефекации.</Diarrhea.description>
+  <Diarrhea.stages.0.label>выздоровление</Diarrhea.stages.0.label>
+  <Diarrhea.stages.1.label>сильная</Diarrhea.stages.1.label>
+  <Diarrhea.stages.2.label>начальная</Diarrhea.stages.2.label>
+
+  <Dysentery.label>дизентерия</Dysentery.label>
+  <Dysentery.description>Дизентерия - это тип гастроэнтерита, который приводит к диарее с кровью.</Dysentery.description>
+  <Dysentery.stages.0.label>слабая</Dysentery.stages.0.label>
+  <Dysentery.stages.1.label>серьзная</Dysentery.stages.1.label>
+  <Dysentery.stages.2.label>критическая</Dysentery.stages.2.label>
+
+  <Cholera.label>холера</Cholera.label>
+  <Cholera.description>Холера - это инфекционное заболевание, вызывающее сильную водянистую диарею, которая при отсутствии лечения может привести к обезвоживанию и даже смерти.</Cholera.description>
+  <Cholera.stages.0.label>слабая</Cholera.stages.0.label>
+  <Cholera.stages.1.label>серьезная</Cholera.stages.1.label>
+  <Cholera.stages.2.label>критическая</Cholera.stages.2.label>
+  <Cholera.stages.3.label>смертельная</Cholera.stages.3.label>
+
+  <DBHDehydration.label>обезвоживание</DBHDehydration.label>
+  <DBHDehydration.description>Обезвоживание - это состояние, когда потеря организмом жидкости, в основном воды, превышает ее потребление.</DBHDehydration.description>
+  <DBHDehydration.stages.0.label>тривиальное</DBHDehydration.stages.0.label>
+  <DBHDehydration.stages.1.label>слабое</DBHDehydration.stages.1.label>
+  <DBHDehydration.stages.2.label>среднее</DBHDehydration.stages.2.label>
+  <DBHDehydration.stages.3.label>серьезное</DBHDehydration.stages.3.label>
+  <DBHDehydration.stages.4.label>острое</DBHDehydration.stages.4.label>
+
+
+</LanguageData>

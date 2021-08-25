@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: biosculpter occupant speed -->
+  <BiosculpterOccupantSpeed.label>скорость использования биоскульптора</BiosculpterOccupantSpeed.label>
+  <!-- EN: A multiplier on how quickly this person will complete a biosculpter pod cycle. -->
+  <BiosculpterOccupantSpeed.description>Множитель, определяющий, как быстро этот человек завершит цикл биоскульптуры.</BiosculpterOccupantSpeed.description>
+  
+  <!-- EN: global certainty loss factor -->
+  <CertaintyLossFactor.label>фактор потери уверенности</CertaintyLossFactor.label>
+  <!-- EN: A multiplier on how much certainty this person loses when someone else tries to convert them away from their ideoligion. -->
+  <CertaintyLossFactor.description>Множитель того, сколько уверенности теряет этот человек, когда кто-то другой пытается отвратить его от их идеологии.</CertaintyLossFactor.description>
+  
+  <!-- EN: conversion power -->
+  <ConversionPower.label>сила обращения</ConversionPower.label>
+  <!-- EN: How effective this person is at converting others to their own ideoligion. When this person attempts to convert someone else, this value multiplies the amount of certainty the other person loses. -->
+  <ConversionPower.description>Насколько эффективен этот человек в обращении других к своей собственной идеологии. Когда этот человек пытается обратить кого-то другого, это значение умножает степень уверенности, которую теряет другой человек.</ConversionPower.description>
+  
+  <!-- EN: melee dodge chance indoors dark -->
+  <MeleeDodgeChanceIndoorsDarkOffset.label>шанс уклонения в темном помещении</MeleeDodgeChanceIndoorsDarkOffset.label>
+  <!-- EN: An offset on melee dodge chance if the target is indoors in the dark. -->
+  <MeleeDodgeChanceIndoorsDarkOffset.description>Шанс уклонении в ближнем бою, если цель находится в темном помещении.</MeleeDodgeChanceIndoorsDarkOffset.description>
+  
+  <!-- EN: melee dodge chance indoors lit -->
+  <MeleeDodgeChanceIndoorsLitOffset.label>шанс уклонения в светлом помещении</MeleeDodgeChanceIndoorsLitOffset.label>
+  <!-- EN: An offset on melee dodge chance if the target is indoors and lit. -->
+  <MeleeDodgeChanceIndoorsLitOffset.description>Шанс уклонении в ближнем бою, если цель находится в освещенном помещении.</MeleeDodgeChanceIndoorsLitOffset.description>
+  
+  <!-- EN: melee dodge chance outdoors night -->
+  <MeleeDodgeChanceOutdoorsDarkOffset.label>шанс уклонения в темноте на улице</MeleeDodgeChanceOutdoorsDarkOffset.label>
+  <!-- EN: An offset on melee dodge chance if the target is outdoors at night. -->
+  <MeleeDodgeChanceOutdoorsDarkOffset.description>Шанс уклонении в ближнем бою, если цель находится на улице в темноте.</MeleeDodgeChanceOutdoorsDarkOffset.description>
+  
+  <!-- EN: melee dodge chance outdoors day -->
+  <MeleeDodgeChanceOutdoorsLitOffset.label>шанс уклонения при свете на улице</MeleeDodgeChanceOutdoorsLitOffset.label>
+  <!-- EN: An offset on melee dodge chance if the target is outdoors during the day. -->
+  <MeleeDodgeChanceOutdoorsLitOffset.description>Шанс уклонении в ближнем бою, если цель находится на улице при свете.</MeleeDodgeChanceOutdoorsLitOffset.description>
+  
+  <!-- EN: melee hit chance indoors dark -->
+  <MeleeHitChanceIndoorsDarkOffset.label>шанс попасть в рукопашную в темном помещении</MeleeHitChanceIndoorsDarkOffset.label>
+  <!-- EN: An offset on melee hit chance if the target is indoors in the dark. -->
+  <MeleeHitChanceIndoorsDarkOffset.description>Вероятность попадания в ближнем бою, если цель находится в темном помещении.</MeleeHitChanceIndoorsDarkOffset.description>
+  
+  <!-- EN: melee hit chance indoors lit -->
+  <MeleeHitChanceIndoorsLitOffset.label>шанс попасть в рукопашную в освещенном помещении</MeleeHitChanceIndoorsLitOffset.label>
+  <!-- EN: An offset on melee hit chance if the target is indoors and lit. -->
+  <MeleeHitChanceIndoorsLitOffset.description>Вероятность попадания в ближнем бою, если цель находится в помещении при освещении.</MeleeHitChanceIndoorsLitOffset.description>
+  
+  <!-- EN: melee hit chance outdoors dark -->
+  <MeleeHitChanceOutdoorsDarkOffset.label>шанс попасть в рукопашную в темноте на улице</MeleeHitChanceOutdoorsDarkOffset.label>
+  <!-- EN: An offset on melee hit chance if the target is outdoors at night. -->
+  <MeleeHitChanceOutdoorsDarkOffset.description>Вероятность попадания в ближнем бою, если цель находится на улице в темноте.</MeleeHitChanceOutdoorsDarkOffset.description>
+  
+  <!-- EN: melee hit chance outdoors lit -->
+  <MeleeHitChanceOutdoorsLitOffset.label>шанс попасть в рукопашную при свете на улице</MeleeHitChanceOutdoorsLitOffset.label>
+  <!-- EN: An offset on melee hit chance if the target is outdoors during the day. -->
+  <MeleeHitChanceOutdoorsLitOffset.description>Вероятность попадания в ближнем бою, если цель находится на улице при освещении.</MeleeHitChanceOutdoorsLitOffset.description>
+  
+  <!-- EN: shooting accuracy indoors dark -->
+  <ShootingAccuracyIndoorsDarkOffset.label>точность стрельбы в темном помещении</ShootingAccuracyIndoorsDarkOffset.label>
+  <!-- EN: An offset on shooting accuracy if the target is indoors in the dark. -->
+  <ShootingAccuracyIndoorsDarkOffset.description>Погрешность точности стрельбы, если цель находится в темном помещении.</ShootingAccuracyIndoorsDarkOffset.description>
+  
+  <!-- EN: shooting accuracy indoors lit -->
+  <ShootingAccuracyIndoorsLitOffset.label>точность стрельбы в освещенном помещении</ShootingAccuracyIndoorsLitOffset.label>
+  <!-- EN: An offset on shooting accuracy if the target is indoors and lit. -->
+  <ShootingAccuracyIndoorsLitOffset.description>Погрешность точности стрельбы, если цель находится в освещенном помещении.</ShootingAccuracyIndoorsLitOffset.description>
+  
+  <!-- EN: shooting accuracy outdoors dark -->
+  <ShootingAccuracyOutdoorsDarkOffset.label>точность стрельбы на темной улице</ShootingAccuracyOutdoorsDarkOffset.label>
+  <!-- EN: An offset on shooting accuracy if the target is outdoors at night. -->
+  <ShootingAccuracyOutdoorsDarkOffset.description>Погрешность точности стрельбы, если цель находится на темной улице.</ShootingAccuracyOutdoorsDarkOffset.description>
+  
+  <!-- EN: shooting accuracy outdoors lit -->
+  <ShootingAccuracyOutdoorsLitOffset.label>точность стрельбы при свете на улице</ShootingAccuracyOutdoorsLitOffset.label>
+  <!-- EN: An offset on shooting accuracy if the target is outdoors during the day. -->
+  <ShootingAccuracyOutdoorsLitOffset.description>Погрешность точности стрельбы, если цель находится при свете на улице.</ShootingAccuracyOutdoorsLitOffset.description>
+  
+  <!-- EN: ideoligion spread chance -->
+  <SocialIdeoSpreadFrequencyFactor.label>шанс распространения идеологии</SocialIdeoSpreadFrequencyFactor.label>
+  <!-- EN: A multiplier on the chance that this person will try to convert other people to their own ideoligion. -->
+  <SocialIdeoSpreadFrequencyFactor.description>Множитель вероятности того, что этот человек попытается обратить других людей в свою собственную идеологию.</SocialIdeoSpreadFrequencyFactor.description>
+  
+</LanguageData>

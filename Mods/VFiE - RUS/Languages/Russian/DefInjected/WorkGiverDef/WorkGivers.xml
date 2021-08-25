@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Fishing -->
+
+  <VCEF_Fish.label>ловить рыбу</VCEF_Fish.label>
+  <VCEF_Fish.verb>ловит рыбу в</VCEF_Fish.verb>
+  <VCEF_Fish.gerund>ловить рыбу в</VCEF_Fish.gerund>
+
+
+</LanguageData>

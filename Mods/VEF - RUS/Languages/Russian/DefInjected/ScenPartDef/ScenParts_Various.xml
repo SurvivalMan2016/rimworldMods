@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEC_ForcedFactionGoodwill.label>установить отношения между фракциями принудительно</VFEC_ForcedFactionGoodwill.label>
+  <VFEC_PlayerPawnsArriveMethodEdge.label>способ появления персонажа</VFEC_PlayerPawnsArriveMethodEdge.label>
+  <VFEC_AddStartingStructure.label>добавить случайную структуру на стартовую карту</VFEC_AddStartingStructure.label>
+
+</LanguageData>

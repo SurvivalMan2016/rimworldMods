@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Русский язык для "Vanilla Furniture Expanded - Power"</name>
+	<author>いのしし_3</author>
+	<packageId>Inoshishi3.VFE.PowerRusPatch</packageId>
+	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=2106394330</url>
+	<modDependencies>
+		<li>
+			<packageId>VanillaExpanded.VFEPower</packageId>
+			<displayName>Vanilla Furniture Expanded - Power</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2062943477</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>VanillaExpanded.VFEPower</li>
+	</loadAfter>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<description>&lt;color=yellow&gt;Перевод на русский язык Vanilla Furniture Expanded - Power.&lt;/color&gt;
+
+Для того, чтобы русификатор заработал, в меню порядка загрузки модов он должен быть ПОСЛЕ оригинального Vanilla Furniture Expanded - Power.
+
+~~~~~~
+   [Vanilla Furniture Expanded - Power]
+   [Русский язык для "Vanilla Furniture Expanded - Power"]
+~~~~~~
+
+flip-flap
+░░░░░▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░
+░░░▓▓▓▓▓▓▒▒▒▒▒▒▓▓░░░░░░░
+░░▓▓▓▓▒░░▒▒▓▓▒▒▓▓▓▓░░░░░
+░▓▓▓▓▒░░▓▓▓▒▄▓░▒▄▄▄▓░░░░
+▓▓▓▓▓▒░░▒▀▀▀▀▒░▄░▄▒▓▓░░░
+▓▓▓▓▓▒░░▒▒▒▒▒▓▒▀▒▀▒▓▒▓░░
+▓▓▓▓▓▒▒░░░▒▒▒░░▄▀▀▀▄▓▒▓░
+▓▓▓▓▓▓▒▒░░░▒▒▓▀▄▄▄▄▓▒▒▒▓
+░▓█▀▄▒▓▒▒░░░▒▒░░▀▀▀▒▒▒▒░
+░░▓█▒▒▄▒▒▒▒▒▒▒░░▒▒▒▒▒▒▓░
+░░░▓▓▓▓▒▒▒▒▒▒▒▒░░░▒▒▒▓▓░
+░░░░░▓▓▒░░▒▒▒▒▒▒▒▒▒▒▒▓▓░
+░░░░░░▓▒▒░░░░▒▒▒▒▒▒▒▓▓░░</description>
+</ModMetaData>

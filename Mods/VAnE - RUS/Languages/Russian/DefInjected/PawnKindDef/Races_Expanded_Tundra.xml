@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Muskox -->
+
+  <AEXP_Muskox.label>овцебык</AEXP_Muskox.label>
+  <AEXP_Muskox.labelPlural>овцебыки</AEXP_Muskox.labelPlural>
+  <AEXP_Muskox.lifeStages.0.label>теленок овцебыка</AEXP_Muskox.lifeStages.0.label>
+  <AEXP_Muskox.lifeStages.0.labelPlural>телята овцебыка</AEXP_Muskox.lifeStages.0.labelPlural>
+  <AEXP_Muskox.lifeStages.0.labelMale>теленок овцебыка</AEXP_Muskox.lifeStages.0.labelMale>
+  <AEXP_Muskox.lifeStages.0.labelMalePlural>телята овцебыка</AEXP_Muskox.lifeStages.0.labelMalePlural>
+  <AEXP_Muskox.lifeStages.0.labelFemale>телочка овцебыка</AEXP_Muskox.lifeStages.0.labelFemale>
+  <AEXP_Muskox.lifeStages.0.labelFemalePlural>телочки овцебыка</AEXP_Muskox.lifeStages.0.labelFemalePlural>
+  <AEXP_Muskox.lifeStages.1.label>молодой овцебык</AEXP_Muskox.lifeStages.1.label>
+  <AEXP_Muskox.lifeStages.1.labelPlural>молодые овцебыки</AEXP_Muskox.lifeStages.1.labelPlural>
+  <AEXP_Muskox.lifeStages.1.labelMale>молодой овцебык</AEXP_Muskox.lifeStages.1.labelMale>
+  <AEXP_Muskox.lifeStages.1.labelMalePlural>молодые овцебыки</AEXP_Muskox.lifeStages.1.labelMalePlural>
+  <AEXP_Muskox.lifeStages.1.labelFemale>молодой овцебык</AEXP_Muskox.lifeStages.1.labelFemale>
+  <AEXP_Muskox.lifeStages.1.labelFemalePlural>молодые овцебыки</AEXP_Muskox.lifeStages.1.labelFemalePlural>
+  <AEXP_Muskox.lifeStages.2.label>овцебык</AEXP_Muskox.lifeStages.2.label>
+  <AEXP_Muskox.lifeStages.2.labelPlural>овцебыки</AEXP_Muskox.lifeStages.2.labelPlural>
+  <AEXP_Muskox.lifeStages.2.labelMale>овцебык</AEXP_Muskox.lifeStages.2.labelMale>
+  <AEXP_Muskox.lifeStages.2.labelMalePlural>овцебыки</AEXP_Muskox.lifeStages.2.labelMalePlural>
+  <AEXP_Muskox.lifeStages.2.labelFemale>овцебык</AEXP_Muskox.lifeStages.2.labelFemale>
+  <AEXP_Muskox.lifeStages.2.labelFemalePlural>овцебыки</AEXP_Muskox.lifeStages.2.labelFemalePlural>
+  <AEXP_Muskox.labelMale>овцебык</AEXP_Muskox.labelMale>
+  <AEXP_Muskox.labelMalePlural>овцебыки</AEXP_Muskox.labelMalePlural>
+  <AEXP_Muskox.labelFemale>овцебык</AEXP_Muskox.labelFemale>
+  <AEXP_Muskox.labelFemalePlural>овцебыки</AEXP_Muskox.labelFemalePlural>
+
+
+  <!-- Moose -->
+
+  <AEXP_Moose.label>лось</AEXP_Moose.label>
+  <AEXP_Moose.labelPlural>лоси</AEXP_Moose.labelPlural>
+  <AEXP_Moose.lifeStages.0.label>лосенок</AEXP_Moose.lifeStages.0.label>
+  <AEXP_Moose.lifeStages.0.labelPlural>лосята</AEXP_Moose.lifeStages.0.labelPlural>
+  <AEXP_Moose.lifeStages.0.labelMale>лосенок</AEXP_Moose.lifeStages.0.labelMale>
+  <AEXP_Moose.lifeStages.0.labelMalePlural>лосята</AEXP_Moose.lifeStages.0.labelMalePlural>
+  <AEXP_Moose.lifeStages.0.labelFemale>лосенок</AEXP_Moose.lifeStages.0.labelFemale>
+  <AEXP_Moose.lifeStages.0.labelFemalePlural>лосята</AEXP_Moose.lifeStages.0.labelFemalePlural>
+  <AEXP_Moose.lifeStages.1.label>молодой лось</AEXP_Moose.lifeStages.1.label>
+  <AEXP_Moose.lifeStages.1.labelPlural>молодые лоси</AEXP_Moose.lifeStages.1.labelPlural>
+  <AEXP_Moose.lifeStages.1.labelMale>молодой лось</AEXP_Moose.lifeStages.1.labelMale>
+  <AEXP_Moose.lifeStages.1.labelMalePlural>молодые лоси</AEXP_Moose.lifeStages.1.labelMalePlural>
+  <AEXP_Moose.lifeStages.1.labelFemale>молодая лосиха</AEXP_Moose.lifeStages.1.labelFemale>
+  <AEXP_Moose.lifeStages.1.labelFemalePlural>молодые лосихи</AEXP_Moose.lifeStages.1.labelFemalePlural>
+  <AEXP_Moose.lifeStages.2.label>лось</AEXP_Moose.lifeStages.2.label>
+  <AEXP_Moose.lifeStages.2.labelPlural>лоси</AEXP_Moose.lifeStages.2.labelPlural>
+  <AEXP_Moose.lifeStages.2.labelMale>лось</AEXP_Moose.lifeStages.2.labelMale>
+  <AEXP_Moose.lifeStages.2.labelMalePlural>лоси</AEXP_Moose.lifeStages.2.labelMalePlural>
+  <AEXP_Moose.lifeStages.2.labelFemale>лосиха</AEXP_Moose.lifeStages.2.labelFemale>
+  <AEXP_Moose.lifeStages.2.labelFemalePlural>лосихи</AEXP_Moose.lifeStages.2.labelFemalePlural>
+  <AEXP_Moose.labelMale>лось</AEXP_Moose.labelMale>
+  <AEXP_Moose.labelMalePlural>лоси</AEXP_Moose.labelMalePlural>
+  <AEXP_Moose.labelFemale>лосиха</AEXP_Moose.labelFemale>
+  <AEXP_Moose.labelFemalePlural>лосихи</AEXP_Moose.labelFemalePlural>
+
+
+  <!-- Megawolverine -->
+
+  <AEXP_MegaWolverine.label>гигантская росомаха</AEXP_MegaWolverine.label>
+  <AEXP_MegaWolverine.labelPlural>гигантские росомахи</AEXP_MegaWolverine.labelPlural>
+  <AEXP_MegaWolverine.lifeStages.0.label>детеныш гигантской росомахм</AEXP_MegaWolverine.lifeStages.0.label>
+  <AEXP_MegaWolverine.lifeStages.0.labelPlural>детеныши гигантской росомахи</AEXP_MegaWolverine.lifeStages.0.labelPlural>
+  <AEXP_MegaWolverine.lifeStages.0.labelMale>детеныш гигантской росомахи</AEXP_MegaWolverine.lifeStages.0.labelMale>
+  <AEXP_MegaWolverine.lifeStages.0.labelMalePlural>детеныши гигантской росомахи</AEXP_MegaWolverine.lifeStages.0.labelMalePlural>
+  <AEXP_MegaWolverine.lifeStages.0.labelFemale>детеныш гигантской росомахи</AEXP_MegaWolverine.lifeStages.0.labelFemale>
+  <AEXP_MegaWolverine.lifeStages.0.labelFemalePlural>детеныши гигантской росомахи</AEXP_MegaWolverine.lifeStages.0.labelFemalePlural>
+  <AEXP_MegaWolverine.lifeStages.1.label>молодая гигантская росомаха</AEXP_MegaWolverine.lifeStages.1.label>
+  <AEXP_MegaWolverine.lifeStages.1.labelPlural>молодые гигантские росомахи</AEXP_MegaWolverine.lifeStages.1.labelPlural>
+  <AEXP_MegaWolverine.lifeStages.1.labelMale>молодая гигантская росомаха</AEXP_MegaWolverine.lifeStages.1.labelMale>
+  <AEXP_MegaWolverine.lifeStages.1.labelMalePlural>молодые гигантские росомахи</AEXP_MegaWolverine.lifeStages.1.labelMalePlural>
+  <AEXP_MegaWolverine.lifeStages.1.labelFemale>молодая гигантская росомаха</AEXP_MegaWolverine.lifeStages.1.labelFemale>
+  <AEXP_MegaWolverine.lifeStages.1.labelFemalePlural>молодые гигантские росомахи</AEXP_MegaWolverine.lifeStages.1.labelFemalePlural>
+  <AEXP_MegaWolverine.lifeStages.2.label>гигантская росомаха</AEXP_MegaWolverine.lifeStages.2.label>
+  <AEXP_MegaWolverine.lifeStages.2.labelPlural>гигантские росомахи</AEXP_MegaWolverine.lifeStages.2.labelPlural>
+  <AEXP_MegaWolverine.lifeStages.2.labelMale>гигантская росомаха</AEXP_MegaWolverine.lifeStages.2.labelMale>
+  <AEXP_MegaWolverine.lifeStages.2.labelMalePlural>гигантские росомахи</AEXP_MegaWolverine.lifeStages.2.labelMalePlural>
+  <AEXP_MegaWolverine.lifeStages.2.labelFemale>гигантская росомаха</AEXP_MegaWolverine.lifeStages.2.labelFemale>
+  <AEXP_MegaWolverine.lifeStages.2.labelFemalePlural>гигантские росомахи</AEXP_MegaWolverine.lifeStages.2.labelFemalePlural>
+  <AEXP_MegaWolverine.labelMale>гигантская росомаха</AEXP_MegaWolverine.labelMale>
+  <AEXP_MegaWolverine.labelMalePlural>гигантские росомахи</AEXP_MegaWolverine.labelMalePlural>
+  <AEXP_MegaWolverine.labelFemale>гигантская росомаха</AEXP_MegaWolverine.labelFemale>
+  <AEXP_MegaWolverine.labelFemalePlural>гигантские росомахи</AEXP_MegaWolverine.labelFemalePlural>
+
+
+  <!-- Porcupine -->
+
+  <AEXP_Porcupine.label>дикобраз</AEXP_Porcupine.label>
+  <AEXP_Porcupine.labelPlural>дикобразы</AEXP_Porcupine.labelPlural>
+  <AEXP_Porcupine.lifeStages.0.label>детеныш дикобраза</AEXP_Porcupine.lifeStages.0.label>
+  <AEXP_Porcupine.lifeStages.0.labelPlural>детеныши дикобраза</AEXP_Porcupine.lifeStages.0.labelPlural>
+  <AEXP_Porcupine.lifeStages.0.labelMale>детеныш дикобраза</AEXP_Porcupine.lifeStages.0.labelMale>
+  <AEXP_Porcupine.lifeStages.0.labelMalePlural>детеныши дикобраза</AEXP_Porcupine.lifeStages.0.labelMalePlural>
+  <AEXP_Porcupine.lifeStages.0.labelFemale>детеныш дикобраза</AEXP_Porcupine.lifeStages.0.labelFemale>
+  <AEXP_Porcupine.lifeStages.0.labelFemalePlural>детеныши дикобраза</AEXP_Porcupine.lifeStages.0.labelFemalePlural>
+  <AEXP_Porcupine.lifeStages.1.label>молодой дикобраз</AEXP_Porcupine.lifeStages.1.label>
+  <AEXP_Porcupine.lifeStages.1.labelPlural>молодые дикобразы</AEXP_Porcupine.lifeStages.1.labelPlural>
+  <AEXP_Porcupine.lifeStages.1.labelMale>молодой дикобраз</AEXP_Porcupine.lifeStages.1.labelMale>
+  <AEXP_Porcupine.lifeStages.1.labelMalePlural>молодые дикобразы</AEXP_Porcupine.lifeStages.1.labelMalePlural>
+  <AEXP_Porcupine.lifeStages.1.labelFemale>молодой дикобраз</AEXP_Porcupine.lifeStages.1.labelFemale>
+  <AEXP_Porcupine.lifeStages.1.labelFemalePlural>молодые дикобразы</AEXP_Porcupine.lifeStages.1.labelFemalePlural>
+  <AEXP_Porcupine.lifeStages.2.label>дикобраз</AEXP_Porcupine.lifeStages.2.label>
+  <AEXP_Porcupine.lifeStages.2.labelPlural>дикобразы</AEXP_Porcupine.lifeStages.2.labelPlural>
+  <AEXP_Porcupine.lifeStages.2.labelMale>дикобраз</AEXP_Porcupine.lifeStages.2.labelMale>
+  <AEXP_Porcupine.lifeStages.2.labelMalePlural>дикобразы</AEXP_Porcupine.lifeStages.2.labelMalePlural>
+  <AEXP_Porcupine.lifeStages.2.labelFemale>дикобраз</AEXP_Porcupine.lifeStages.2.labelFemale>
+  <AEXP_Porcupine.lifeStages.2.labelFemalePlural>дикобразы</AEXP_Porcupine.lifeStages.2.labelFemalePlural>
+  <AEXP_Porcupine.labelMale>дикобраз</AEXP_Porcupine.labelMale>
+  <AEXP_Porcupine.labelMalePlural>дикобразы</AEXP_Porcupine.labelMalePlural>
+  <AEXP_Porcupine.labelFemale>дикобраз</AEXP_Porcupine.labelFemale>
+  <AEXP_Porcupine.labelFemalePlural>дикобразы</AEXP_Porcupine.labelFemalePlural>
+
+
+</LanguageData>

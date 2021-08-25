@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAECaves_LeaveMap.reportString>покидает.</VAECaves_LeaveMap.reportString>
+  <VAECaves_OpenCocoon.reportString>открывает кокон.</VAECaves_OpenCocoon.reportString>
+  <VAECaves_BuildSpiderLair.reportString>строит паучье гнездо.</VAECaves_BuildSpiderLair.reportString>
+  <VAECaves_CreateEggs.reportString>откладывает паучьи яйца.</VAECaves_CreateEggs.reportString>
+
+
+</LanguageData>

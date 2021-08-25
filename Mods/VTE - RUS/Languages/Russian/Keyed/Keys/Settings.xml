@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VanillaTexturesExpanded.SettingsCategory>Vanilla Textures Expanded</VanillaTexturesExpanded.SettingsCategory>
+
+  <VanillaTexturesExpanded.MainButtonRenderMode>Внешний вид кнопок меню</VanillaTexturesExpanded.MainButtonRenderMode>
+  <VanillaTexturesExpanded.MainButtonRenderMode_IconsAndText>Иконки и текст (новое)</VanillaTexturesExpanded.MainButtonRenderMode_IconsAndText>
+  <VanillaTexturesExpanded.MainButtonRenderMode_IconsThenText>Иконки где возможно (мод)</VanillaTexturesExpanded.MainButtonRenderMode_IconsThenText>
+  <VanillaTexturesExpanded.MainButtonRenderMode_TextOnly>Только текст (классика)</VanillaTexturesExpanded.MainButtonRenderMode_TextOnly>
+
+</LanguageData>

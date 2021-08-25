@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_CannibalCoffee.label>каннибальский кофе</VBE_CannibalCoffee.label>
+  <VBE_CannibalCoffee.description>Для очень особенного...изысканного любителя кофе.</VBE_CannibalCoffee.description>
+  <VBE_CannibalCoffee.ingestible.ingestCommandString>Пить {0}</VBE_CannibalCoffee.ingestible.ingestCommandString>
+  <VBE_CannibalCoffee.ingestible.ingestReportString>Пьет {0}.</VBE_CannibalCoffee.ingestible.ingestReportString>
+
+
+</LanguageData>

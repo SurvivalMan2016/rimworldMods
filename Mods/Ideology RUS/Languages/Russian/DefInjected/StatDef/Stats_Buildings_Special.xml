@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: biosculpter pod speed factor -->
+  <BiosculpterPodSpeedFactor.label>коэффициент скорости модуля биоскульптора</BiosculpterPodSpeedFactor.label>
+  <!-- EN: A multiplier on the speed of a biosculpter pod. This is affected by the cleanliness of the room - a cleaner room will result in a quicker biosculpting cycle. -->
+  <BiosculpterPodSpeedFactor.description>Множитель скорости модуля биоскульптора. На это влияет чистота помещения - более чистое помещение приведет к более быстрому циклу биоскульптуры.</BiosculpterPodSpeedFactor.description>
+  <!-- EN: Room cleanliness -->
+  <BiosculpterPodSpeedFactor.parts.Room_cleanliness.customLabel>Чистота комнаты</BiosculpterPodSpeedFactor.parts.Room_cleanliness.customLabel>
+  
+</LanguageData>

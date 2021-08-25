@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_SkyMindChat.label>Поговорили о SkyMind</ATPP_SkyMindChat.label>
+  <ATPP_SkyMindChat.logRulesInitiator.rulesStrings.0>r_logentry->[talkedabout] с [RECIPIENT_nameDef] о бессмертии через ядра SkyMind и SkyClouds..</ATPP_SkyMindChat.logRulesInitiator.rulesStrings.0>
+  <ATPP_SkyMindChat.logRulesInitiator.rulesStrings.1>talkedabout->общих мыслях</ATPP_SkyMindChat.logRulesInitiator.rulesStrings.1>
+  <ATPP_SkyMindChat.logRulesInitiator.rulesStrings.2>talkedabout->своих мыслях</ATPP_SkyMindChat.logRulesInitiator.rulesStrings.2>
+  <ATPP_SkyMindChat.logRulesInitiator.rulesStrings.3>talkedabout->об своих идеях</ATPP_SkyMindChat.logRulesInitiator.rulesStrings.3>
+  <ATPP_SkyMindChat.logRulesInitiator.rulesStrings.4>talkedabout->общих взглядах</ATPP_SkyMindChat.logRulesInitiator.rulesStrings.4>
+  <ATPP_SkyMindChat.logRulesInitiator.rulesStrings.5>talkedabout->общих убеждениях</ATPP_SkyMindChat.logRulesInitiator.rulesStrings.5>
+  <ATPP_SkyMindChat.logRulesInitiator.rulesStrings.6>talkedabout->дискусии</ATPP_SkyMindChat.logRulesInitiator.rulesStrings.6>
+  <ATPP_SkyMindChat.logRulesInitiator.rulesStrings.7>talkedabout->душевно поговорили</ATPP_SkyMindChat.logRulesInitiator.rulesStrings.7>
+  <ATPP_SkyMindChat.logRulesInitiator.rulesStrings.8>talkedabout->разговаривали</ATPP_SkyMindChat.logRulesInitiator.rulesStrings.8>
+  <ATPP_SkyMindChat.logRulesInitiator.rulesStrings.9>talkedabout->глубоко поговорили</ATPP_SkyMindChat.logRulesInitiator.rulesStrings.9>
+  <ATPP_SkyMindChat.logRulesInitiator.rulesStrings.10>talkedabout->заговорил</ATPP_SkyMindChat.logRulesInitiator.rulesStrings.10>
+
+
+</LanguageData>

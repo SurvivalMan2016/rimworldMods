@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_BrewMintCoffee.label>сварить мятный кофе</VBE_BrewMintCoffee.label>
+  <VBE_BrewMintCoffee.description>Сварить горький эспрессо, смешанный со сливками или молоком, а затем с мятным сиропом. Украшен мятой. Прохладный и бархатистый кофе сменяется еще более прохладным и успокаивающим послевкусием, не говоря уж о свежем запахе изо рта.</VBE_BrewMintCoffee.description>
+  <VBE_BrewMintCoffee.jobString>Варит мятный кофе.</VBE_BrewMintCoffee.jobString>
+
+  <VBE_BrewDalgonaCoffee.label>сварить кофе дальгона</VBE_BrewDalgonaCoffee.label>
+  <VBE_BrewDalgonaCoffee.description>Сварить модный и новый напиток в мире кофе. По слухам родом из далеких миров паровых машин. Кофейные гранулы смешиваются с сахаром, образуя густую сладкую пену. Перед употреблением пена распределяется по сильно охлажденному молоку.</VBE_BrewDalgonaCoffee.description>
+  <VBE_BrewDalgonaCoffee.jobString>Варит кофе дальгона.</VBE_BrewDalgonaCoffee.jobString>
+  
+  <VBE_MakeGreenTea.label>заварить зеленый чай</VBE_MakeGreenTea.label>
+  <VBE_MakeGreenTea.description>Заварить легкий цитрусовый зеленый чай с сахаром. Имеет маслянистый, почти ореховый вкус.</VBE_MakeGreenTea.description>
+  <VBE_MakeGreenTea.jobString>Заваривает зеленый чай.</VBE_MakeGreenTea.jobString>
+  
+  <VBE_MakeMintTea.label>заварить чай с мятой</VBE_MakeMintTea.label>
+  <VBE_MakeMintTea.description>Заварить листья черного чая смешанные с листьями мяты. Украшается также листьями мяты. Делает дыхание удивительно свежим.</VBE_MakeMintTea.description>
+  <VBE_MakeMintTea.jobString>Заваривает чай с мятой.</VBE_MakeMintTea.jobString>
+   
+  <VBE_MakeMasalaChai.label>заварить чай масала</VBE_MakeMasalaChai.label>
+  <VBE_MakeMasalaChai.description>Заварить плесневый, теплый, почти древесный чай, приготовленный из простых чайных листьев и сложных специй. Утверждается, что помогает против высокого холестерина.</VBE_MakeMasalaChai.description>
+  <VBE_MakeMasalaChai.jobString>Заваривает чай масала.</VBE_MakeMasalaChai.jobString>
+  
+  <VBE_MakeNoonChai.label>заварить кашмирский чай</VBE_MakeNoonChai.label>
+  <VBE_MakeNoonChai.description>Заварить древний кашмирский чай, в котором смешиваются чайные листья, щепотка соли и пищевой соды, в результате чего получается поразительный розовый напиток, которые считается не только вкусным, но и полезным для организма. Очень эффективен против высокого кровяного давления.</VBE_MakeNoonChai.description>
+  <VBE_MakeNoonChai.jobString>Заваривает кашмирский чай.</VBE_MakeNoonChai.jobString>
+
+
+</LanguageData>

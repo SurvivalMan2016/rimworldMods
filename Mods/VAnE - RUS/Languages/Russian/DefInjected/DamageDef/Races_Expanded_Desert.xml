@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gila Monster -->
+
+  <AEXP_GilaToxicBuildUp.label>ядовитый укус</AEXP_GilaToxicBuildUp.label>
+  <AEXP_GilaToxicBuildUp.deathMessage>{0} {0_gender ? умер : умерла : умерло} от ядовитых укусов.</AEXP_GilaToxicBuildUp.deathMessage>
+
+
+</LanguageData>

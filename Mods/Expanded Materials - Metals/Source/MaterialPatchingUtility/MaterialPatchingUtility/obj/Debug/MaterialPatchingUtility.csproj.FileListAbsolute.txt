@@ -1,0 +1,4 @@
+D:\Proyectos y Archivos Guardados\RimWorld Mods\Expanded Materials - Metals\1.2\Assemblies\MaterialPatchingUtility.dll
+D:\Proyectos y Archivos Guardados\RimWorld Mods\Expanded Materials - Metals\Source\MaterialPatchingUtility\MaterialPatchingUtility\obj\Debug\MaterialPatchingUtility.csprojAssemblyReference.cache
+D:\Proyectos y Archivos Guardados\RimWorld Mods\Expanded Materials - Metals\Source\MaterialPatchingUtility\MaterialPatchingUtility\obj\Debug\MaterialPatchingUtility.csproj.CoreCompileInputs.cache
+D:\Proyectos y Archivos Guardados\RimWorld Mods\Expanded Materials - Metals\Source\MaterialPatchingUtility\MaterialPatchingUtility\obj\Debug\MaterialPatchingUtility.dll

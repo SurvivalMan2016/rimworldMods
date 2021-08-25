@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_ConsumedMayo.label>употребил майонез (съел блюдо)</VCE_ConsumedMayo.label>
+  <VCE_ConsumedMayo.description>Майонез это густая эмульсия из яиц, масла и трав. Майонез, хотя и вреден для здоровья, придает пище приятный запах и крайне калорийный. Снижает уровень голода на 15% на 24 часа.</VCE_ConsumedMayo.description>
+
+  <VCE_ConsumedAgave.label>употребил нектар агавы (съел блюдо)</VCE_ConsumedAgave.label>
+  <VCE_ConsumedAgave.description>Нектар агавы - тонкий и полусладкий нектар, известный своими лечебными и противовоспалительными свойствами. Дает 15% увеличение скорости прироста иммунитета на 24 часа.</VCE_ConsumedAgave.description>
+
+  <VCE_ConsumedSpices.label>употребил специи (съел блюдо)</VCE_ConsumedSpices.label>
+  <VCE_ConsumedSpices.description>Употребил разнообразные ароматные и острые специи. Увеличивает уровень манипуляции на 24 часа.</VCE_ConsumedSpices.description>
+
+  <!-- This one is unused, I keep it for compat purposes -->
+
+  <VCE_WellFed.label>сыт</VCE_WellFed.label>
+  <VCE_WellFed.description>Съел вкусное и сытное мясо на гриле. Снижает уровень голода на 35% на 12 часов.</VCE_WellFed.description>
+
+  <VCE_WellFedSimple.label>сыт</VCE_WellFedSimple.label>
+  <VCE_WellFedSimple.description>Съел вкусное и сытное мясо на гриле. Снижает уровень голода на 35% на 12 часов.</VCE_WellFedSimple.description>
+
+  <VCE_WellFedFine.label>сыт</VCE_WellFedFine.label>
+  <VCE_WellFedFine.description>Съел вкусное и сытное мясо на гриле. Снижает уровень голода на 35% на 12 часов.</VCE_WellFedFine.description>
+
+  <VCE_WellFedLavish.label>сыт</VCE_WellFedLavish.label>
+  <VCE_WellFedLavish.description>Съел вкусное и сытное мясо на гриле. Снижает уровень голода на 35% на 12 часов.</VCE_WellFedLavish.description>
+
+  <VCE_WellFedGourmet.label>сыт</VCE_WellFedGourmet.label>
+  <VCE_WellFedGourmet.description>Съел вкусное и сытное мясо на гриле. Снижает уровень голода на 35% на 12 часов.</VCE_WellFedGourmet.description>
+
+  <VCE_ConsumedDigestibleResurrectorNanites.label>употребил воскрешающие наниты (съел блюдо)</VCE_ConsumedDigestibleResurrectorNanites.label>
+  <VCE_ConsumedDigestibleResurrectorNanites.description>Воскрешающие наниты будут воскрешать этого человека, пока они активны. Эффект длится 12 часов.</VCE_ConsumedDigestibleResurrectorNanites.description>
+
+  <VCE_SugarRush.label>употребил сахар (съел блюдо)</VCE_SugarRush.label>
+  <VCE_SugarRush.description>Сахар легко превращается организмом в энергию, что приводит к ее приятному приливу. Увеличивает уровень подвижности на 15% на 24 часа.</VCE_SugarRush.description>
+
+  <VCE_AteGourmetMeal.label>употребил изысканную пищу (съел блюдо)</VCE_AteGourmetMeal.label>
+  <VCE_AteGourmetMeal.description>Этот колонист съел невероятно вкусную пищу.</VCE_AteGourmetMeal.description>
+
+
+
+</LanguageData>

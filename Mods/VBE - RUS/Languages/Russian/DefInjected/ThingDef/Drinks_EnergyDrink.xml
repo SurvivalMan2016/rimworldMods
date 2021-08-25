@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_EnergyDrink.label>энергетик</VBE_EnergyDrink.label>
+  <VBE_EnergyDrink.description>Кислый газированный напиток с ноткой горечи. Комбинация сахара и кофеина дает прилив энергии вначале и опустошение в конце. Послевкусие похоже на эффект от радиации.</VBE_EnergyDrink.description>
+  <VBE_EnergyDrink.ingestible.ingestCommandString>Пить {0}</VBE_EnergyDrink.ingestible.ingestCommandString>
+  <VBE_EnergyDrink.ingestible.ingestReportString>Пьет {0}.</VBE_EnergyDrink.ingestible.ingestReportString>
+
+</LanguageData>

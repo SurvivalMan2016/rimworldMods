@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_MakeTeaFast.label>заварить чай</VBE_MakeTeaFast.label>
+  <VBE_MakeTeaFast.description>Заварить приятный ароматный напиток, погрузив чайные листья в кипящую воду. Заваривание чая в кофемашине происходит намного быстрее, чем на плите.</VBE_MakeTeaFast.description>
+  <VBE_MakeTeaFast.jobString>Заваривает чай.</VBE_MakeTeaFast.jobString>
+
+  <VBE_MakeBlackTea.label>заварить черный чай</VBE_MakeBlackTea.label>
+  <VBE_MakeBlackTea.description>Заварить особенно крепкий чай со сливками - он немного взбодрит и расслабит.</VBE_MakeBlackTea.description>
+  <VBE_MakeBlackTea.jobString>Заваривает черный чай.</VBE_MakeBlackTea.jobString>
+
+  <VBE_MakeYuenYeung.label>заваривать кофейно-чайный напиток</VBE_MakeYuenYeung.label>
+  <VBE_MakeYuenYeung.description>Заварить смесь кофе и чая. Фанаты чая и кофе придумали этот напиток, чтобы убрать разногласия. Он подается обычно холодным, но, независимо от температуры, он сбивает с толку того, кто его попробует.</VBE_MakeYuenYeung.description>
+  <VBE_MakeYuenYeung.jobString>Заваривает кофейно-чайный напиток.</VBE_MakeYuenYeung.jobString>
+
+  <VBE_MakeKombucha.label>заварить комбучу</VBE_MakeKombucha.label>
+  <VBE_MakeKombucha.description>Заварить ферментированный чай из дрожжей. После ферментации получается кисло-сладкий вкус, иногда происходит естественная газация. Такой напиток считается полезным для здоровья, хотя некоторые относятся к этому скептично.</VBE_MakeKombucha.description>
+  <VBE_MakeKombucha.jobString>Заваривает комбучу.</VBE_MakeKombucha.jobString>
+
+
+</LanguageData>

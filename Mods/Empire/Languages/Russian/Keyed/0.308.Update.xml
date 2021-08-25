@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DefenseSuccessfulFull>Защита {0} прошла успешно!</DefenseSuccessfulFull>
+  <DefenseFailureFull>Оборона нашего поселения, {0}, потерпела сокрушительное поражение.</DefenseFailureFull>
+
+  <!-- Updated the following defs  -->
+  <!--     Building - Research Labs & Glitterworld Research Facility    -->
+  <!--     Social Policy - Science blah blah   &  Faction trait - Researchers     -->
+
+
+
+</LanguageData>

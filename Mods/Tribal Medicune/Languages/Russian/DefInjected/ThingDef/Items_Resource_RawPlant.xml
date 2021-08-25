@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Broots -->
+
+  <TM_RawBroots.label>Белые грибы</TM_RawBroots.label>
+  <TM_RawBroots.description>Волокнистые, буйно разрастающиеся, белые грибы.\nПредставители племен владеют знаниями, позволяющими использовать их для приготовления лечебных напитков.</TM_RawBroots.description>
+
+
+  <!-- Red Petals -->
+
+  <TM_RawRedPetals.label>Красные лепестки</TM_RawRedPetals.label>
+  <TM_RawRedPetals.description>Небольшие мягкие лепестки с маленького растения.\nПредставители племен владеют знаниями, позволяющими использовать их для приготовления лечебных напитков.</TM_RawRedPetals.description>
+
+
+  <!-- Shrooms -->
+
+  <TM_RawShrooms.label>Мухоморы</TM_RawShrooms.label>
+  <TM_RawShrooms.description>Маленькие грибы, используемые племенами для приготовления лечебных напитков, бесполезны для большинства развитых цивилизаций.</TM_RawShrooms.description>
+
+
+  <!-- Dark Berries -->
+
+  <TM_RawDarkBerries.label>Тёмные ягоды</TM_RawDarkBerries.label>
+  <TM_RawDarkBerries.description>Маленькие черные плоды со странного куста, они могут быть вредны для организма, если вы не знаете, как их использовать.</TM_RawDarkBerries.description>
+
+
+</LanguageData>

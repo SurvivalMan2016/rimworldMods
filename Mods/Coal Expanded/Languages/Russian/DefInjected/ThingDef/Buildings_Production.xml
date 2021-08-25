@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CoalCrematorium.label>угольный крематорий</CoalCrematorium.label>
+  <CoalCrematorium.description>Каменный крематорий для сжигания трупов и ненужных вещей, работающий на угле.</CoalCrematorium.description>
+
+  <CoalSmelter.label>угольная плавильня</CoalSmelter.label>
+  <CoalSmelter.description>Извлекает металл из кусков металлолома и других предметов, которые могут содержать металл. Работает на угле.</CoalSmelter.description>
+
+  <CoalGrill.label>гриль на углях</CoalGrill.label>
+  <CoalGrill.description>Гриль с прикрепленной столешницей для приготовления пищи, использующий уголь в качестве топлива.</CoalGrill.description>
+
+  <NECCoalLamp.label>жаровня на углях</NECCoalLamp.label>
+  <NECCoalLamp.description>Стальная жаровня, использующая уголь в качестве топлива. Не такая яркая, как факел, но огонь в ней поддерживается гораздо дольше. Свет нужен людям для работы и удобства передвижения. Для того, чтобы поддерживать огонь, потребуется уголь. Производит небольшое количество тепла.</NECCoalLamp.description>
+  <NECCoalLamp_Blueprint.label>жаровня на углях (проект)</NECCoalLamp_Blueprint.label>
+  <NECCoalLamp_Blueprint_Install.label>жаровня на углях (проект)</NECCoalLamp_Blueprint_Install.label>
+  <NECCoalLamp_Frame.label>жаровня на углях (постройка)</NECCoalLamp_Frame.label>
+  <NECCoalLamp_Frame.description>Стальная жаровня, использующая уголь в качестве топлива. Не такая яркая, как факел, но огонь в ней поддерживается гораздо дольше. Свет нужен людям для работы и удобства передвижения. Для того, чтобы поддерживать огонь, потребуется уголь. Производит небольшое количество тепла.</NECCoalLamp_Frame.description>
+
+  <NECActiveCooler.label>угольный испарительный охладитель</NECActiveCooler.label>
+  <NECActiveCooler.description>Традиционная система охлаждения, не требующая электричества, работающая за счёт успарения воды. Требует периодического обслуживания. Не годится для заморозки продуктов. Использует уголь в качестве топлива.</NECActiveCooler.description>
+
+  <CoalStove.label>угольный обогреватель</CoalStove.label>
+  <CoalStove.description>Обогреватель, преобразующий энергию, получаемую при сжигании угля, в тепло. Для эффективной работы следует размещать в закрытых помещениях.</CoalStove.description>
+  <CoalStove_Blueprint.label>угольный обогреватель (проект)</CoalStove_Blueprint.label>
+  <CoalStove_Blueprint_Install.label>угольный обогреватель (проект)</CoalStove_Blueprint_Install.label>
+  <CoalStove_Frame.label>угольный обогреватель (постройка)</CoalStove_Frame.label>
+  <CoalStove_Frame.description>Обогреватель, преобразующий энергию, получаемую при сжигании угля, в тепло. Для эффективной работы следует размещать в закрытых помещениях.</CoalStove_Frame.description>
+
+  <CoalFiredGenerator.label>угольный генератор</CoalFiredGenerator.label>
+  <CoalFiredGenerator.description>Производит электричество, потребляя в качестве топлива уголь. Необходимо заправлять вручную.</CoalFiredGenerator.description>
+
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Flu Tea -->
+
+  <TM_FluTeaEffectThought.stages.0.label>Мерзкий чай</TM_FluTeaEffectThought.stages.0.label>
+  <TM_FluTeaEffectThought.stages.0.description>Фу! Я знаю, что чай полезен для организма, но он ужасен на вкус и вызывает головокружение.</TM_FluTeaEffectThought.stages.0.description>
+
+
+  <!-- Curative Tea -->
+
+  <TM_ImmunityTeaEffectThought.stages.0.label>Отвратительный чай</TM_ImmunityTeaEffectThought.stages.0.label>
+  <TM_ImmunityTeaEffectThought.stages.0.description>Фу! Я знаю, что чай полезен для организма, но он ужасен на вкус и вызывает головокружение.</TM_ImmunityTeaEffectThought.stages.0.description>
+
+
+  <!-- Severity Tea -->
+
+  <TM_CurativeTeaEffectThought.stages.0.label>Противный чай</TM_CurativeTeaEffectThought.stages.0.label>
+  <TM_CurativeTeaEffectThought.stages.0.description>Фу! Я знаю, что чай полезен для организма, но он ужасен на вкус и вызывает головокружение.</TM_CurativeTeaEffectThought.stages.0.description>
+
+
+  <!-- Digestive Tea -->
+
+  <TM_DigestiveTeaEffectThought.stages.0.label>Омерзительный чай</TM_DigestiveTeaEffectThought.stages.0.label>
+  <TM_DigestiveTeaEffectThought.stages.0.description>Фу! Я знаю, что чай полезен для организма, но он ужасен на вкус и вызывает головокружение.</TM_DigestiveTeaEffectThought.stages.0.description>
+
+
+  <!-- Hallucination Tea -->
+
+  <TM_HallucinationTeaEffectThought.stages.0.label>Галлюциногенный чай</TM_HallucinationTeaEffectThought.stages.0.label>
+  <TM_HallucinationTeaEffectThought.stages.0.description>Я чувствую себя в полном покое... Я един с силой природы.</TM_HallucinationTeaEffectThought.stages.0.description>
+
+
+  <!-- Insanity Tea -->
+
+  <TM_InsanityTeaEffectThoughtGood.stages.0.label>Очищение души</TM_InsanityTeaEffectThoughtGood.stages.0.label>
+  <TM_InsanityTeaEffectThoughtGood.stages.0.description>Я понял цель жизни... Я общался с духами смерти и жизни и наконец-то постиг, как работает Вселенная, я чувствую себя богом и полностью отвечаю за свое существование.</TM_InsanityTeaEffectThoughtGood.stages.0.description>
+
+  <TM_InsanityTeaEffectThoughtBad.stages.0.label>Неизлечимая травма</TM_InsanityTeaEffectThoughtBad.stages.0.label>
+  <TM_InsanityTeaEffectThoughtBad.stages.0.description>Я испытал самые ужасные чувства в своей жизни, я соприкоснулся со смертью и увидел предназначение человечества, я не могу с этим смириться, слишком много проклятой информации, чтобы с ней справиться... ПОЖАЛУЙСТА, ОСВОБОДИТЕ МЕНЯ!!!</TM_InsanityTeaEffectThoughtBad.stages.0.description>
+
+
+  <!-- Hunger Tea -->
+
+  <TM_HungerTeaEffectThought.stages.0.label>Эффект чая от голода</TM_HungerTeaEffectThought.stages.0.label>
+  <TM_HungerTeaEffectThought.stages.0.description>Аххг! Я знаю, что это, вероятно, спасет меня от голодной смерти, но я чувствую усталость и слабость, а идея переработки собственных экскрементов в питательные вещества меня просто пугает.</TM_HungerTeaEffectThought.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Null.label>null</Null.label>
+  <settleNewColony.label>Поселить колонию</settleNewColony.label>
+  <taxColony.label>Налоги в пути</taxColony.label>
+  <constructBuilding.label>Строительство здания</constructBuilding.label>
+  <enactSettlementPolicy.label>Принятие политики</enactSettlementPolicy.label>
+  <enactFactionPolicy.label>Принятие политики</enactFactionPolicy.label>
+  <upgradeSettlement.label>Улучшение поселения</upgradeSettlement.label>
+
+
+</LanguageData>

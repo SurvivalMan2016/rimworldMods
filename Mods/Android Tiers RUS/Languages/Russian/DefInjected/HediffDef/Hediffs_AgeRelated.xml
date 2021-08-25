@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DecayedFrame.label>Распадающийся мейнфрейм</DecayedFrame.label>
+  <DecayedFrame.description>_</DecayedFrame.description>
+  <DecayedFrame.labelNoun>Распадающийся мэйнфрейм</DecayedFrame.labelNoun>
+
+  <CorruptMemory.label>Испорченная память</CorruptMemory.label>
+  <CorruptMemory.description>_</CorruptMemory.description>
+
+  <WeakValves.label>Слабые клапаны</WeakValves.label>
+  <WeakValves.description>_</WeakValves.description>
+  <WeakValves.stages.0.label>Начальные</WeakValves.stages.0.label>
+  <WeakValves.stages.1.label>Средние</WeakValves.stages.1.label>
+  <WeakValves.stages.2.label>Серьезные</WeakValves.stages.2.label>
+
+  <ExaggeratedHealing.label>Гиперактивная реакция</ExaggeratedHealing.label>
+  <ExaggeratedHealing.description>_</ExaggeratedHealing.description>
+  <ExaggeratedHealing.stages.0.label>Начальная</ExaggeratedHealing.stages.0.label>
+  <ExaggeratedHealing.stages.1.label>Средняя</ExaggeratedHealing.stages.1.label>
+  <ExaggeratedHealing.stages.2.label>Экстремальная</ExaggeratedHealing.stages.2.label>
+  <ExaggeratedHealing.stages.3.label>Фатальная</ExaggeratedHealing.stages.3.label>
+
+  <FaultyPump.label>Неисправный насос</FaultyPump.label>
+  <FaultyPump.description>_</FaultyPump.description>
+  <FaultyPump.stages.0.label>Начальный</FaultyPump.stages.0.label>
+  <FaultyPump.stages.1.label>Средний</FaultyPump.stages.1.label>
+  <FaultyPump.stages.2.label>Серьезный</FaultyPump.stages.2.label>
+  <FaultyPump.stages.3.label>Очень серьезный</FaultyPump.stages.3.label>
+  <FaultyPump.stages.4.label>Экстремальный</FaultyPump.stages.4.label>
+  <FaultyPump.labelNoun>Неисправный насос</FaultyPump.labelNoun>
+
+
+</LanguageData>

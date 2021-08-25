@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rock Powder -->
+
+  <VMEu_RockPowder.label>Каменная пыль</VMEu_RockPowder.label>
+  <VMEu_RockPowder.description>Камень измельчённый в пыль, примитивный, но эффективный для строительства полов и стен, а также устойчив к огню.</VMEu_RockPowder.description>
+  <VMEu_RockPowder.stuffProps.stuffAdjective>Камень</VMEu_RockPowder.stuffProps.stuffAdjective>
+
+
+  <!-- Industrial Concrete -->
+
+  <VMEu_Concrete.label>Цемент</VMEu_Concrete.label>
+  <VMEu_Concrete.description>Каменная пыль армированная железной пылью, в сочетании с песком и водой становится достаточно твердыми, чтобы сделать структуры не столь устойчивыми к ударам, но невероятно устойчивым к огню.</VMEu_Concrete.description>
+  <VMEu_Concrete.stuffProps.stuffAdjective>Бетон</VMEu_Concrete.stuffProps.stuffAdjective>
+
+
+</LanguageData>

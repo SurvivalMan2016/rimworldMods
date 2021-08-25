@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CoalCrematorium.label>石炭火葬炉</CoalCrematorium.label>
+  <CoalCrematorium.description>極めて高温で死骸を気化させる大型の火葬炉です。燃料として石炭・木炭を使用します。</CoalCrematorium.description>
+
+  <CoalSmelter.label>石炭溶鉱炉</CoalSmelter.label>
+  <CoalSmelter.description>鉄くずやスラグなどから金属を精錬します。燃料として石炭・木炭を使用します。</CoalSmelter.description>
+
+  <CoalGrill.label>石炭グリル台</CoalGrill.label>
+  <CoalGrill.description>食事を作るための調理台が付いた石炭燃料のグリル台です。</CoalGrill.description>
+
+  <NECCoalLamp.label>石炭火鉢</NECCoalLamp.label>
+  <NECCoalLamp.description>石炭または木炭を燃料とする鉄製の火鉢です。トーチほど明るくはありませんが、長持ちします。人々がフルスピードで移動したり働いたりするためには明るさを必要とします。石炭か木炭があれば自動的に燃料補給できます。それほど高温にはなりません。</NECCoalLamp.description>
+  <NECCoalLamp_Blueprint.label>石炭火鉢(設計)</NECCoalLamp_Blueprint.label>
+  <NECCoalLamp_Blueprint_Install.label>石炭火鉢(設計)</NECCoalLamp_Blueprint_Install.label>
+  <NECCoalLamp_Frame.label>石炭火鉢(建設中)</NECCoalLamp_Frame.label>
+  <NECCoalLamp_Frame.description>石炭または木炭を燃料とする鉄製の火鉢です。トーチほど明るくはありませんが、長持ちします。人々がフルスピードで移動したり働いたりするためには明るさを必要とします。石炭か木炭があれば自動的に燃料補給できます。それほど高温にはなりません。</NECCoalLamp_Frame.description>
+
+  <NECActiveCooler.label>石炭気化熱クーラー</NECActiveCooler.label>
+  <NECActiveCooler.description>真空中で液体を加熱し、生成されたガスが熱を吸収して冷気を作ります。 部屋を冷やして、腐敗物を新鮮に保ちますが、冷凍はしません。 石炭または木炭の燃料補給が必要です。</NECActiveCooler.description>
+
+  <CoalStove.label>石炭ストーブ</CoalStove.label>
+  <CoalStove.description>石炭を燃やして部屋を温めるストーブです。他の熱源と同様、暖められるのは密閉空間だけなので、屋内に設置する必要があります。燃料として石炭・木炭を使用します。</CoalStove.description>
+  <CoalStove_Blueprint.label>石炭ストーブ(設計)</CoalStove_Blueprint.label>
+  <CoalStove_Blueprint_Install.label>石炭ストーブ(設計)</CoalStove_Blueprint_Install.label>
+  <CoalStove_Frame.label>石炭ストーブ(建設中)</CoalStove_Frame.label>
+  <CoalStove_Frame.description>石炭を燃やして部屋を温めるストーブです。他の熱源と同様、暖められるのは密閉空間だけなので、屋内に設置する必要があります。燃料として石炭・木炭を使用します。</CoalStove_Frame.description>
+
+  <CoalFiredGenerator.label>火力発電(石炭)</CoalFiredGenerator.label>
+  <CoalFiredGenerator.description>石炭・木炭を燃料として電力を生成します。定期的に手動で石炭・木炭をくべる必要があります。</CoalFiredGenerator.description>
+
+
+</LanguageData>

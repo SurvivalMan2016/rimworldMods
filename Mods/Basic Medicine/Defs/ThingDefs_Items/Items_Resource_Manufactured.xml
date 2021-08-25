@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="MedicineBase">
+    <defName>MedicineBasic</defName>
+    <label>basic medicine</label>
+    <description>A kit of basic medical equipment. It contains basic drugs, tools for suturing and bone setting.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Medicine/MedicineBasic</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+      <drawSize>0.85</drawSize>
+    </graphicData>
+    <techLevel>Industrial</techLevel>
+    <statBases>
+      <MarketValue>12</MarketValue>
+      <Mass>0.50</Mass>
+      <Flammability>0.7</Flammability>
+      <MedicalPotency>0.80</MedicalPotency>
+      <MedicalQualityMax>0.85</MedicalQualityMax>
+      <DeteriorationRate>2</DeteriorationRate>
+      <WorkToMake>800</WorkToMake>
+    </statBases>
+    <costList>
+      <MedicineHerbal>1</MedicineHerbal>
+      <Cloth>4</Cloth>
+	  <WoodLog>2</WoodLog>
+    </costList>
+    <recipeMaker>
+      <workSpeedStat>DrugSynthesisSpeed</workSpeedStat>
+      <workSkill>Intellectual</workSkill>
+      <recipeUsers>
+        <li>DrugLab</li>
+      </recipeUsers>
+      <researchPrerequisite>BasicMedicineProduction</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>3</Crafting>
+        <Intellectual>4</Intellectual>
+      </skillRequirements>
+	  <bulkRecipeCount>5</bulkRecipeCount>
+    </recipeMaker>
+  </ThingDef>
+  
+</Defs>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Replicated Meal -->
+	<ReplicatedMeal>レプリマット合成な食事</ReplicatedMeal>
+	
+	<!-- EN: Feedstock stored {0} / {1} L -->
+	<FeedstockStored>原料量 {0} / {1} L</FeedstockStored>
+	
+	<!-- EN: Total feedstock stored {0} / {1} L -->
+	<TotalFeedstockStored>原料総量 {0} / {1} L</TotalFeedstockStored>
+	
+	<!-- EN: Replimat Spill -->
+	<LetterLabelReplimatSpill>レプリマット漏出</LetterLabelReplimatSpill>
+	
+	<!-- EN: A {0} has malfunctioned, spilling nutrient feedstock everywhere. -->
+	<LetterTextReplimatSpill>{0}が故障し,栄養原料がいたるところに漏出しています.</LetterTextReplimatSpill>
+	
+	<!-- EN: Replimat Malfunction -->
+	<LetterLabelReplimatMalfunctionKibble>レプリマット故障</LetterLabelReplimatMalfunctionKibble>
+	
+	<!-- EN: A {0} has malfunctioned, producing large quantities of animal feed. -->
+	<LetterTextReplimatMalfunctionKibble>{0}が故障し,大量のペットフードを合成しています.</LetterTextReplimatMalfunctionKibble>
+	
+	<!-- EN: Requires connection to Replimat Computer -->	
+	<NotConnectedToComputer>レプリマットコンピューターとの接続が必要です.</NotConnectedToComputer>
+	
+	<!-- EN: Insufficient Feedstock -->
+	<NotEnoughFeedstock>原料の供給が不十分です.</NotEnoughFeedstock>
+	
+	<!-- EN: Empty -->
+	<CorpseRecyclerEmpty>空っぽ</CorpseRecyclerEmpty>
+	
+	<!-- EN: Remaining mass: {0} / {1} kg -->
+	<CorpseRecyclerMassRemaining>残り重量: {0} / {1} kg</CorpseRecyclerMassRemaining>
+	
+	<!-- EN: Not empty -->
+	<CorpseRecyclerNotEmpty>空ではない</CorpseRecyclerNotEmpty>
+	
+	<!-- EN: Need non-dessicated humanoid corpse -->
+	<CorpseRecyclerNeedValidCorpse>乾燥していないヒト型の死骸が必要です.</CorpseRecyclerNeedValidCorpse>
+	
+	<!-- EN: Corpses -->
+	<TabCorpseFilters>死骸</TabCorpseFilters>
+	
+	<!-- EN: Batch Survival Meals -->
+	<BatchMakeSurvivalMeals>非常用食品を１セット合成</BatchMakeSurvivalMeals>
+	
+	<!-- EN: Replicate a batch of Packaged Survival Meals for use in caravans or emergencies. -->
+	<BatchMakeSurvivalMeals_Desc>キャラバンや非常時に使用する非常用食品を１セット合成します.</BatchMakeSurvivalMeals_Desc>
+	
+	<!-- EN: Cannot batch replicate survival meals: Terminal has insufficient feedstock, or is not connected to Computer and Feedstock tanks-->
+	<MessageCannotBatchMakeSurvivalMeals>非常用食品を合成できません: 原料が足りないかターミナルがコンピューターと原料タンクに接続されていません.</MessageCannotBatchMakeSurvivalMeals>
+	
+	<!-- EN: Make {0} Packaged Survival Meals\n(Max allowed: {1}) -->	
+	<SetSurvivalMealBatchSize>{0}個の非常用食品を合成中\n(最大:{1})</SetSurvivalMealBatchSize>
+
+	<!-- EN: Replimat -->
+	<Replimat_SettingsCategory_Heading>レプリマット</Replimat_SettingsCategory_Heading>
+	
+		<!-- EN: General -->
+	<Replimat_Settings_HeaderGeneral>主な設定</Replimat_Settings_HeaderGeneral>
+	
+	<!-- EN: Incidents -->
+	<Replimat_Settings_HeaderIncidents>偶発事件</Replimat_Settings_HeaderIncidents>
+	
+	<!-- EN: Prioritize food quality -->
+	<Replimat_Settings_PrioritizeFoodQuality_Title>食品の品質を優先する</Replimat_Settings_PrioritizeFoodQuality_Title>
+	
+	<!-- EN: By default, pawns will replicate meals at the highest quality allowed by their current food restriction policy.\n\nDisabling this allows pawns to replicate any random meal within their food restriction policy irrespective of quality. -->
+	<Replimat_Settings_PrioritizeFoodQuality_Desc>デフォルトでは,ポーンは現在の食事制限で許可されている中で最高品質の食事を複製します.\n\nこれを無効にすると,ポーンは食事制限で許可されている内の任意の食事を複製できます.</Replimat_Settings_PrioritizeFoodQuality_Desc>
+	
+	<!-- EN: Replimat Hopper refill threshold -->
+	<Replimat_Settings_HopperRefillThresholdPercent_Title>レプリマットホッパーの補充しきい値</Replimat_Settings_HopperRefillThresholdPercent_Title>
+	
+	<!-- EN: Sets the threshold at which the Replimat Hopper will be restocked with raw food. -->
+	<Replimat_Settings_HopperRefillThresholdPercent_Desc>レプリマットホッパーに食材が補充されるしきい値を設定します.</Replimat_Settings_HopperRefillThresholdPercent_Desc>
+	
+	<!-- EN: Enable Spills -->
+	<Replimat_Settings_EnableIncidentSpill_Title>レプリマット漏出事件を有効にする</Replimat_Settings_EnableIncidentSpill_Title>
+
+	<!-- EN: Allows any Terminal or Animal Feeder to have a small chance of malfunctioning and spilling feedstock. -->
+	<Replimat_Settings_EnableIncidentSpill_Desc>任意の端末または給餌器が誤動作して、原料をこぼす可能性があります.</Replimat_Settings_EnableIncidentSpill_Desc>
+
+	<!-- EN: Enable Kibble Malfunctions -->
+	<Replimat_Settings_EnableIncidentKibble_Title>レプリマット誤動作事件を有効にする</Replimat_Settings_EnableIncidentKibble_Title>
+
+	<!-- EN: Allows any Terminal to have a small chance of malfunctioning and replicating large amounts of Kibble on its own accord. -->
+	<Replimat_Settings_EnableIncidentKibble_Desc>任意の端末が誤動作して、大量の動物飼料を自動的に生産する可能性があります.</Replimat_Settings_EnableIncidentKibble_Desc>
+	
+	<!-- EN: Power consumption (Active) -->
+	<Replimat_Stat_ActiveModePowerConsumption_Label>電力消費量 (稼働中)</Replimat_Stat_ActiveModePowerConsumption_Label>
+	
+	<!-- EN: The amount of power this building will draw from the power grid while actively running. -->
+	<Replimat_Stat_ActiveModePowerConsumption_Desc>この建物がアクティブに稼働しているときに電力線から引き出す電力量です.</Replimat_Stat_ActiveModePowerConsumption_Desc>
+
+</LanguageData>

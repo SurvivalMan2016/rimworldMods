@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CanFish.label>консервировать рыбу x20</VCE_CanFish.label>
+  <VCE_CanFish.description>Надежно сохраняет рыбу в стальной таре. Консервирование пищевых продуктов продлевает их хранения почти на неопределенный срок.</VCE_CanFish.description>
+  <VCE_CanFish.jobString>Консервирует рыбу x20</VCE_CanFish.jobString>
+
+  <VCE_DeepFryFish.label>обжарить рыбу во фритюре x20</VCE_DeepFryFish.label>
+  <VCE_DeepFryFish.description>Обжаривать во фритюре рыбу. Жареная во фритюре рыба очень вкусна, но не очень полезна для здоровья.</VCE_DeepFryFish.description>
+  <VCE_DeepFryFish.jobString>Обжаривает рыбу во фритюре x20</VCE_DeepFryFish.jobString>
+
+</LanguageData>

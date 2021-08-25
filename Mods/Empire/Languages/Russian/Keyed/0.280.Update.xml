@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SetCapital>Выбрать столицу</SetCapital>
+
+  <DeathOfFactionPawn>Ваша некомпетентность привела к смерти пешки из твоей фракции! Беспокойство в ваших поселениях выросло.</DeathOfFactionPawn>
+  <CaptureOfFactionPawn>Захват одной из пешек вашей фракции вызвал большие беспокойства в ваших поселениях!</CaptureOfFactionPawn>
+
+  <UnpaidTitheEffect>Беспокойства возросли на 10, а счастье в поселениях уменьшилось!</UnpaidTitheEffect>
+
+</LanguageData>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/TraderKindDef[defName = "Caravan_Outlander_CombatSupplier"]/stockGenerators</xpath>
+		<value>
+			<li Class="StockGenerator_SingleDef">
+				<thingDef>VMEu_IndustrialAmmo</thingDef>
+				<countRange>800~1200</countRange>
+			</li>
+			<li Class="StockGenerator_SingleDef">
+				<thingDef>VMEu_HeavyAmmo</thingDef>
+				<countRange>300~800</countRange>
+			</li>
+			<li Class="StockGenerator_SingleDef">
+				<thingDef>VMEu_SniperAmmo</thingDef>
+				<countRange>300~500</countRange>
+			</li>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/TraderKindDef[defName = "Caravan_Outlander_PirateMerchant"]/stockGenerators</xpath>
+		<value>
+			<li Class="StockGenerator_SingleDef">
+				<thingDef>VMEu_IndustrialAmmo</thingDef>
+				<countRange>300~400</countRange>
+			</li>
+			<li Class="StockGenerator_SingleDef">
+				<thingDef>VMEu_HeavyAmmo</thingDef>
+				<countRange>100~300</countRange>
+			</li>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/TraderKindDef[defName = "Orbital_CombatSupplier"]/stockGenerators</xpath>
+		<value>
+			<li Class="StockGenerator_SingleDef">
+				<thingDef>VMEu_IndustrialAmmo</thingDef>
+				<countRange>1000~1800</countRange>
+			</li>
+			<li Class="StockGenerator_SingleDef">
+				<thingDef>VMEu_HeavyAmmo</thingDef>
+				<countRange>800~1200</countRange>
+			</li>
+			<li Class="StockGenerator_SingleDef">
+				<thingDef>VMEu_SniperAmmo</thingDef>
+				<countRange>500~800</countRange>
+			</li>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/TraderKindDef[defName = "Orbital_PirateMerchant"]/stockGenerators</xpath>
+		<value>
+			<li Class="StockGenerator_SingleDef">
+				<thingDef>VMEu_IndustrialAmmo</thingDef>
+				<countRange>500~600</countRange>
+			</li>
+			<li Class="StockGenerator_SingleDef">
+				<thingDef>VMEu_HeavyAmmo</thingDef>
+				<countRange>300~400</countRange>
+			</li>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Vanilla Furniture Expanded - Security</li>
+    </mods>
+	<match Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationAdd">
+			<xpath>/Defs/TraderKindDef[defName = "Caravan_Outlander_CombatSupplier"]/stockGenerators</xpath>
+			<value>
+				<li Class="StockGenerator_SingleDef">
+					<thingDef>VMEu_ChargueAmmo</thingDef>
+					<countRange>200~500</countRange>
+				</li>
+				<li Class="StockGenerator_SingleDef">
+					<thingDef>VMEu_EMPAmmo</thingDef>
+					<countRange>150~250</countRange>
+				</li>
+			</value>
+		</li>
+		<li Class="PatchOperationAdd">
+			<xpath>/Defs/TraderKindDef[defName = "Orbital_CombatSupplier"]/stockGenerators</xpath>
+			<value>
+				<li Class="StockGenerator_SingleDef">
+					<thingDef>VMEu_ChargueAmmo</thingDef>
+					<countRange>400~600</countRange>
+				</li>
+				<li Class="StockGenerator_SingleDef">
+					<thingDef>VMEu_EMPAmmo</thingDef>
+					<countRange>300~500</countRange>
+				</li>
+			</value>
+		</li>
+		</operations>
+	</match>
+</Operation>
+	
+</Patch>

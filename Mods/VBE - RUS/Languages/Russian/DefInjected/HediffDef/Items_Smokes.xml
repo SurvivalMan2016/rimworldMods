@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_TobaccoHigh.label>курение табака</VBE_TobaccoHigh.label>
+  <VBE_TobaccoHigh.description>Никотин в крови. Дает мягкое ощущение благополучия.</VBE_TobaccoHigh.description>
+  <VBE_TobaccoHigh.labelNoun>покурил табак</VBE_TobaccoHigh.labelNoun>
+
+  <VBE_DeluxeTobaccoHigh.label>курение высококачественного табака</VBE_DeluxeTobaccoHigh.label>
+  <VBE_DeluxeTobaccoHigh.description>Никотин в крови. Дает мягкое ощущение благополучия.</VBE_DeluxeTobaccoHigh.description>
+  <VBE_DeluxeTobaccoHigh.labelNoun>покурил высококачественный табак</VBE_DeluxeTobaccoHigh.labelNoun>
+
+
+  <!-- Smokeleaf addiction -->
+
+  <VBE_TobaccoTolerance.label>толерантность к табаку</VBE_TobaccoTolerance.label>
+  <VBE_TobaccoTolerance.description>Повышенная толератность к табаку. Чем выше толерантность, тем больше табака требуется для достижения эффекта от курения.</VBE_TobaccoTolerance.description>
+
+  <VBE_TobaccoAddiction.label>табачная зависимость</VBE_TobaccoAddiction.label>
+  <VBE_TobaccoAddiction.description>Химическая зависимость от табака. Длительное употребление табака вызвало неврологические адаптации организма на клеточном уровне, и мозг уже не может нормально функионировать без этого вещества.
+\nБез регулярного употребления табака начнутся симптомы ломки. Однако длительное воздержание вынудит мозг вернуться обратно к нормальному состоянию, избавившись от зависимости.</VBE_TobaccoAddiction.description>
+  <VBE_TobaccoAddiction.stages.1.label>ломка</VBE_TobaccoAddiction.stages.1.label>
+
+</LanguageData>

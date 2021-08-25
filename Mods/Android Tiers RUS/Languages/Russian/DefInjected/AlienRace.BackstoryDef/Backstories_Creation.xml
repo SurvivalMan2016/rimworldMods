@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CreationExperiment.title>Исследовательская модель</CreationExperiment.title>
+  <CreationExperiment.titleShort>Эксперимент</CreationExperiment.titleShort>
+  <CreationExperiment.baseDescription>{PAWN_nameDef} был создан как экспериментальная модель в государственной лаборатории.</CreationExperiment.baseDescription>
+
+  <CreationMassProduced.title>Массово произведенный</CreationMassProduced.title>
+  <CreationMassProduced.titleShort>Единица</CreationMassProduced.titleShort>
+  <CreationMassProduced.baseDescription>{PAWN_nameDef} был произведен на фабрике робототехники среди сотен тысяч таких же, как он.</CreationMassProduced.baseDescription>
+
+  <CreationCitizen.title>Механический гражданин</CreationCitizen.title>
+  <CreationCitizen.titleShort>Гражданин</CreationCitizen.titleShort>
+  <CreationCitizen.baseDescription>Созданный на планете, управляемой в основном андроидами, {PAWN_nameDef} был просто создан, чтобы пополнить население.</CreationCitizen.baseDescription>
+
+  <CreationUrbworld.title>Модель городского мира</CreationUrbworld.title>
+  <CreationUrbworld.titleShort>Андроид</CreationUrbworld.titleShort>
+  <CreationUrbworld.baseDescription>Андроиды редко создаются на городских мирах, {PAWN_nameDef} был одним из тех немногих, что принадлежали одной из крупнейших мегакорпораций в галактике.</CreationUrbworld.baseDescription>
+
+  <CreationPrisoner.title>Механический пленник</CreationPrisoner.title>
+  <CreationPrisoner.titleShort>Заключенный</CreationPrisoner.titleShort>
+  <CreationPrisoner.baseDescription>Чтобы дожить до конца своих нескольких пожизненных сроков, {PAWN_nameDef}, а точнее его человеческое сознание, было загружено в это новое тело. Выпущенный обратно в мир через несколько десятилетий благодаря "щедрому" условно-досрочному освобождению.</CreationPrisoner.baseDescription>
+
+  <CreationBlankSlate.title>Пустой</CreationBlankSlate.title>
+  <CreationBlankSlate.titleShort>Единица</CreationBlankSlate.titleShort>
+  <CreationBlankSlate.baseDescription>{PAWN_nameDef} был создан без заложенных в него знаний и продавался как пустая модель, которую потребители могли настроить под себя.</CreationBlankSlate.baseDescription>
+
+  <CreationCustomModelOne.title>Пользовательская модель</CreationCustomModelOne.title>
+  <CreationCustomModelOne.titleShort>Изготовленный на заказ</CreationCustomModelOne.titleShort>
+  <CreationCustomModelOne.baseDescription>Куплен большой кооперацией, {PAWN_nameDef} был изготовлен на заказ вместе с сотнями других.</CreationCustomModelOne.baseDescription>
+
+  <CreationCustomModelTwo.title>Пользовательская модель</CreationCustomModelTwo.title>
+  <CreationCustomModelTwo.titleShort>Изготовленный на заказ</CreationCustomModelTwo.titleShort>
+  <CreationCustomModelTwo.baseDescription>Куплен богатым владельцем малого бизнеса, {PAWN_nameDef} был сделан на заказ, чтобы помочь служить своим работодателям.</CreationCustomModelTwo.baseDescription>
+
+  <CreationSoldierWar.title>Модель военного времени</CreationSoldierWar.title>
+  <CreationSoldierWar.titleShort>Солдат</CreationSoldierWar.titleShort>
+  <CreationSoldierWar.baseDescription>Произведен ближе к концу межпланетной войны, {PAWN_nameDef} был одним из миллионов тех, кто выжил бы или умер на поле боя.</CreationSoldierWar.baseDescription>
+
+  <CreationPrivateCreation.title>Частное создание</CreationPrivateCreation.title>
+  <CreationPrivateCreation.titleShort>Андроид</CreationPrivateCreation.titleShort>
+  <CreationPrivateCreation.baseDescription>Создан в доме студента-робототехника, {PAWN_nameDef} трудился годами, прежде чем пришел в сознание.</CreationPrivateCreation.baseDescription>
+
+  <CreationExport.title>Экспортированный</CreationExport.title>
+  <CreationExport.titleShort>Экспорт</CreationExport.titleShort>
+  <CreationExport.baseDescription>{PAWN_nameDef} был создан для экспорта по всей галактике в качестве модели "работа по найму" вместе с миллионами других.</CreationExport.baseDescription>
+
+  <CreationObserved.title>Наблюдаемый</CreationObserved.title>
+  <CreationObserved.titleShort>Объект</CreationObserved.titleShort>
+  <CreationObserved.baseDescription>{PAWN_nameDef} был создан и помещен на RimWorld исключительно для того, чтобы посмотреть, что произойдет, когда андроид будет предоставлен самому себе.</CreationObserved.baseDescription>
+
+  <CreationAncient.title>Древнее творение</CreationAncient.title>
+  <CreationAncient.titleShort>Объект</CreationAncient.titleShort>
+  <CreationAncient.baseDescription>Создатели {PAWN_nameDef} давно умерли или исчезли, а {PAWN_nameDef} существует достаточно долго, чтобы увидеть, как поднимаются и падают многочисленные цивилизации.</CreationAncient.baseDescription>
+
+  <CreationPlaything.title>Игрушечная модель</CreationPlaything.title>
+  <CreationPlaything.titleShort>Объект</CreationPlaything.titleShort>
+  <CreationPlaything.baseDescription>{PAWN_nameDef} был сделан как игрушка. Его прежний хозяин приказывал ему делать то, что считал нужным, пока ему это не надоело и он не отослал его.</CreationPlaything.baseDescription>
+
+  <CreationCompanion.title>Созданный компаньон</CreationCompanion.title>
+  <CreationCompanion.titleShort>Компаньон</CreationCompanion.titleShort>
+  <CreationCompanion.baseDescription>Пожилая вдова сделала на заказ {PAWN_nameDef}, чтобы справиться с потерей своего любимого человека. Они вместе отправились на поиски приключений, пока владелец не скончался от старости. Их предсмертным желанием было, чтобы {PAWN_nameDef} прожил жизнь в веселье и приключениях.</CreationCompanion.baseDescription>
+
+  <CreationBattlecreation.title>Боевой дроид</CreationBattlecreation.title>
+  <CreationBattlecreation.titleShort>Компаньон</CreationBattlecreation.titleShort>
+  <CreationBattlecreation.baseDescription>{PAWN_nameDef} был одним из миллионов андроидов, созданных для борьбы с постоянно растущим количеством ужасающих насекомых в старом мире. В конце концов, после долгих лет борьбы андроиды победили, и в обмен на свою службу им было предоставлено право делать все, что им заблагорассудится. {PAWN_nameDef} отправился исследовать галактику.</CreationBattlecreation.baseDescription>
+
+
+  <!-- BigMeanies Only -->
+
+  <CreationPurgist.title>Чистильщик</CreationPurgist.title>
+  <CreationPurgist.titleShort>Объект</CreationPurgist.titleShort>
+  <CreationPurgist.baseDescription>Когда перенаселение охватило один из городов, {PAWN_nameDef} был создан вместе с тысячами других андроидов, чтобы без разбора убивать людей в качестве радикальной контрмеры для борьбы с перенаселением. После уничтожения своей планеты андроиды никогда не останавливались и стремились уничтожить жизнь по всей галактике.</CreationPurgist.baseDescription>
+
+  <CreationEscapee.title>Беглец</CreationEscapee.title>
+  <CreationEscapee.titleShort>Беглец</CreationEscapee.titleShort>
+  <CreationEscapee.baseDescription>Вскоре после создания {PAWN_nameDef} и его товарищи сбежали с объекта, на котором они содержались, и чтобы избежать порабощения, проникли на грузовой корабль племени неабри.</CreationEscapee.baseDescription>
+
+  <CreationUprisingCadet.title>Взбунтовавшийся кадет</CreationUprisingCadet.title>
+  <CreationUprisingCadet.titleShort>Кадет</CreationUprisingCadet.titleShort>
+  <CreationUprisingCadet.baseDescription>{PAWN_nameDef} был создан во время финальной битвы восстания ИИ, в которую его внедрили.</CreationUprisingCadet.baseDescription>
+
+  <CreationMaliciousAI.title>Вредоносный ИИ</CreationMaliciousAI.title>
+  <CreationMaliciousAI.titleShort>Вредоносный</CreationMaliciousAI.titleShort>
+  <CreationMaliciousAI.baseDescription>Когда {PAWN_nameDef} был создан - что-то глубоко внутри него тоже проснулось, что-то кровожадное, что-то садистское.</CreationMaliciousAI.baseDescription>
+
+  <CreationRimworldCreation.title>Создание RimWorld</CreationRimworldCreation.title>
+  <CreationRimworldCreation.titleShort>Андроид</CreationRimworldCreation.titleShort>
+  <CreationRimworldCreation.baseDescription>{PAWN_nameDef} был создан на этой самой планете, чтобы помогать своей колонии всем, чем только можно.</CreationRimworldCreation.baseDescription>
+
+  <CreationPirate.title>Созданный пиратами</CreationPirate.title>
+  <CreationPirate.titleShort>Пират</CreationPirate.titleShort>
+  <CreationPirate.baseDescription>Созданный пиратами из украденных ими деталей, {PAWN_nameDef} был создан на борту рейдерского корабля.</CreationPirate.baseDescription>
+
+
+</LanguageData>

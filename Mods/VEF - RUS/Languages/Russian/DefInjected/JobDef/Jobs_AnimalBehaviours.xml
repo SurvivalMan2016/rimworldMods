@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VEF_AnimalResource.reportString>собирает продукты животноводства с TargetA.</VEF_AnimalResource.reportString>
+  <VEF_DestroyItem.reportString>уничтожает предмет.</VEF_DestroyItem.reportString>
+  <VEF_LayExplodingEgg.reportString>откладывает яйцо.</VEF_LayExplodingEgg.reportString>
+  <VEF_IngestWeird.reportString>употребляет TargetA.</VEF_IngestWeird.reportString>
+  <VEF_AutoNutrition.reportString>ест.</VEF_AutoNutrition.reportString>
+
+</LanguageData>

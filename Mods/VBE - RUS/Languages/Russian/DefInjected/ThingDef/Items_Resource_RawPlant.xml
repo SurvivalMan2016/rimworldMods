@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_RawCoffee.label>кофейные зерна</VBE_RawCoffee.label>
+  <VBE_RawCoffee.description>Косточки ягод кофейного куста, кратко называемые "кофейные зерна". Их можно обжаривать, чтобы придать крепкий горький вкус напитку, а также получить кофеин.</VBE_RawCoffee.description>
+
+  <VBE_RawTea.label>чайные листья</VBE_RawTea.label>
+  <VBE_RawTea.description>Листья чайного куста. Из них можно приготовить различные землистые и успокаивающие напитки.</VBE_RawTea.description>
+
+  <VBE_RawTobacco.label>табачные листья</VBE_RawTobacco.label>
+  <VBE_RawTobacco.description>Листья табачного растения. Листья табака можно довольно легко сушить, а зачем скручивать и коптить, чтобы получать мягкое стимулирующее действие на организм.</VBE_RawTobacco.description>
+
+</LanguageData>

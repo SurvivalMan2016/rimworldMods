@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+	  <mods>
+	    <li>Rim of Madness - Bones</li>
+	  </mods>
+	  <match Class="PatchOperationSequence">
+	    <success>Always</success>
+	    <operations>
+	      <li Class="PatchOperationAdd">
+	      	<xpath>Defs/RecipeDef[defName="CoalSmelter"]/recipes</xpath>				
+	      	<value>
+	      		<li>MakeBoneChina</li>
+	      		<li>MakeBonecrete</li>
+	      		<li>MakeBonePlastic</li>
+	      		<li>MakeBonePlasteel</li>
+	      		<li>MakeMarrowFromBone</li>
+	      		<li>MakeGelatinFromMarrow</li>
+	      		<li>Make_ChemfuelFromBone</li>
+	      	</value>
+	      </li>
+	    </operations>
+	  </match>
+	</Operation>
+
+</Patch>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <researchLabs.label>Исследовательские лаборатории</researchLabs.label>
+  <indoorHydroponics.label>Крытая гидропоника</indoorHydroponics.label>
+  <firearmsFactory.label>Завод огнестрельного оружия</firearmsFactory.label>
+  <rimazonWarehouse.label>Склад "Римазон"</rimazonWarehouse.label>
+  <inhouseMercCompany.label>Компания "In-House Merc"</inhouseMercCompany.label>
+  <adultEntertainmentCentre.label>Развлекательный центр для взрослых</adultEntertainmentCentre.label>
+  <forcedWorkCamps.label>Лагеря принудительного труда</forcedWorkCamps.label>
+  <artilleryOutpost.label>Артиллерийский форпост</artilleryOutpost.label>
+
+
+</LanguageData>

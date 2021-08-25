@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_UnfermentedCider.label>неферментированный сидр</VBE_UnfermentedCider.label>
+  <VBE_UnfermentedCider.description>Неферментированный сидр в герметичной бутылке. Если его оставить в покое для развития нужных бактерий, то он превратится в слабоалкогольный напиток.</VBE_UnfermentedCider.description>
+
+  <VBE_Cider.label>сидр</VBE_Cider.label>
+  <VBE_Cider.description>Освежающий слабоалкогольный напиток с фруктовым вкусом. От сидра очень сложно опьянеть, поэтому он популярен среди тех, у кого были проблемы с алкогольной зависимостью. Многие хвалят его за предполагаемые антиоксидантные свойства.</VBE_Cider.description>
+
+  
+</LanguageData>

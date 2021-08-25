@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate venerated animal meat -->
+  <AteVeneratedAnimalMeat.label>ел мясо священного животного</AteVeneratedAnimalMeat.label>
+  
+  <!-- EN: hunted venerated animal -->
+  <HuntedVeneratedAnimal.label>охотился на священное животное</HuntedVeneratedAnimal.label>
+  
+  <!-- EN: slaughtered venerated animal -->
+  <SlaughteredVeneratedAnimal.label>зарезал священное животное</SlaughteredVeneratedAnimal.label>
+  
+  <!-- EN: tame venerated animal died -->
+  <TameVeneratedAnimalDied.label>ручное священное животное умерло</TameVeneratedAnimalDied.label>
+  
+</LanguageData>

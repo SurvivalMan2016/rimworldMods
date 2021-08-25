@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: editing memes -->
+  <EditingMemes.label>редактирование доктрин</EditingMemes.label>
+  <!-- EN: You can edit memes by clicking on them. -->
+  <EditingMemes.helpText>Вы можете редактировать доктрины, нажимая на них.</EditingMemes.helpText>
+  
+  <!-- EN: editing precepts -->
+  <EditingPrecepts.label>редактирование заповедей</EditingPrecepts.label>
+  <!-- EN: You can edit precepts by clicking on them. -->
+  <EditingPrecepts.helpText>Вы можете редактировать заповеди, нажимая на них.</EditingPrecepts.helpText>
+  
+</LanguageData>

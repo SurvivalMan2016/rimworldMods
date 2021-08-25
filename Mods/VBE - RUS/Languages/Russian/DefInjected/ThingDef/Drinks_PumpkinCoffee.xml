@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_PumpkinCoffee.label>тыквенный пряный кофе</VBE_PumpkinCoffee.label>
+  <VBE_PumpkinCoffee.description>Дешевый кофе массового производства, с добавление множества специй но, как ни странно, без настоящей тыквы. Тысячи лет назад этот сорт кофе употребляли рыжеволосые хипстеры.</VBE_PumpkinCoffee.description>
+  <VBE_PumpkinCoffee.ingestible.ingestCommandString>Пить {0}</VBE_PumpkinCoffee.ingestible.ingestCommandString>
+  <VBE_PumpkinCoffee.ingestible.ingestReportString>Пьет {0}.</VBE_PumpkinCoffee.ingestible.ingestReportString>
+
+</LanguageData>

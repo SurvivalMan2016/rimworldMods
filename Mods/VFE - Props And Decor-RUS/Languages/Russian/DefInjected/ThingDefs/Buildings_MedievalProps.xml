@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+    <VFEPD_Anvil.label>наковальня</VFEPD_Anvil.label>
+    <VFEPD_Anvil.description>Тяжелая кузнечная наковальня.</VFEPD_Anvil.description>
+    <VFEPD_ArmorStandEmpty.label>пустая стойка для брони</VFEPD_ArmorStandEmpty.label>
+    <VFEPD_ArmorStandEmpty.description>Подставка для брони. В настоящее время на нем нет брони.</VFEPD_ArmorStandEmpty.description>
+    <VFEPD_ArmorStandFull.label>стойка для полной брони</VFEPD_ArmorStandFull.label>
+    <VFEPD_ArmorStandFull.description>Подставка для брони. На нем установлен комплект латных доспехов.</VFEPD_ArmorStandFull.description>
+    <VFEPD_ArrowCage.label>клетка для стрел</VFEPD_ArrowCage.label>
+    <VFEPD_ArrowCage.description>Маленькая клетка со стрелами</VFEPD_ArrowCage.description>
+    <VFEPD_Banner.label>баннер</VFEPD_Banner.label>
+    <VFEPD_Banner.description>Декоративный баннер, свисающий с вертикальной деревянной рамы.</VFEPD_Banner.description>
+    <VFEPD_BrazierEmpty.label>пустая жаровня</VFEPD_BrazierEmpty.label>
+    <VFEPD_BrazierEmpty.description>Мебель в форме чаши, используемая для тушения огня.</VFEPD_BrazierEmpty.description>
+    <VFEPD_BucketEmpty.label>пустая корзина</VFEPD_BucketEmpty.label>
+    <VFEPD_BucketEmpty.description>Деревянное ведро.</VFEPD_BucketEmpty.description>
+    <VFEPD_BucketwithWater.label>ведро с водой</VFEPD_BucketwithWater.label>
+    <VFEPD_BucketwithWater.description>Деревянное ведро, наполненное водой.</VFEPD_BucketwithWater.description>
+    <VFEPD_CageBrazier.label>клетка-жаровня</VFEPD_CageBrazier.label>
+    <VFEPD_CageBrazier.description>Пустая жаровня в форме металлической клетки.</VFEPD_CageBrazier.description>
+    <VFEPD_WoodenChest.label>деревянный сундук</VFEPD_WoodenChest.label>
+    <VFEPD_WoodenChest.description>Деревянный сундук среднего размера.</VFEPD_WoodenChest.description>
+    <VFEPD_WoodenChestLarge.label>большой деревянный сундук</VFEPD_WoodenChestLarge.label>
+    <VFEPD_WoodenChestLarge.description>Большой деревянный сундук.</VFEPD_WoodenChestLarge.description>
+    <VFEPD_WeaponRackEmpty.label>оружейная стойка (пустая)</VFEPD_WeaponRackEmpty.label>
+    <VFEPD_WeaponRackEmpty.description>Длинная стойка для оружия. На данный момент на нем нет оружия.</VFEPD_WeaponRackEmpty.description>
+    <VFEPD_WeaponRackSwords.label>оружейная стойка (мечи)</VFEPD_WeaponRackSwords.label>
+    <VFEPD_WeaponRackSwords.description>Длинная стойка для оружия. На нем установлено несколько мечей.</VFEPD_WeaponRackSwords.description>
+    <VFEPD_WeaponRackSpears.label>оружейная стойка (копья)</VFEPD_WeaponRackSpears.label>
+    <VFEPD_WeaponRackSpears.description>Длинная стойка для оружия. На нем установлено несколько копий.</VFEPD_WeaponRackSpears.description>
+    <VFEPD_WoodenSign.label>деревянный знак</VFEPD_WoodenSign.label>
+    <VFEPD_WoodenSign.description>Высокий столб со знаками, указывающими в разные стороны.</VFEPD_WoodenSign.description>
+    <VFEPD_TanningRack.label>стойка для выделки</VFEPD_TanningRack.label>
+    <VFEPD_TanningRack.description>Стойка для выделки с закрепленной на ней шкурой.</VFEPD_TanningRack.description>
+    <VFEPD_WoodenPlatform.label>деревянная платформа</VFEPD_WoodenPlatform.label>
+    <VFEPD_WoodenPlatform.description>Деревянная платформа, по которой можно ходить.</VFEPD_WoodenPlatform.description>
+    <VFEPD_CagePlatform.label>стальная решетка</VFEPD_CagePlatform.label>
+    <VFEPD_CagePlatform.description>Платформа-решетка, по которой можно ходить.</VFEPD_CagePlatform.description>
+
+</LanguageData>
+
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <empty.label>Нет признаков</empty.label>
+  <resilient.label>Устойчивый</resilient.label>
+  <raiders.label>Рейдеры</raiders.label>
+  <defenseInDepth.label>В глубокой обороне</defenseInDepth.label>
+  <industrious.label>Индустриальный</industrious.label>
+  <roadBuilders.label>Дорожные строители</roadBuilders.label>
+  <mercantile.label>Торговый</mercantile.label>
+  <innovative.label>Новаторский</innovative.label>
+  <lucky.label>Удачный</lucky.label>
+
+
+</LanguageData>

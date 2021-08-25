@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Otter -->
+
+  <AEXP_Otter.label>выдра</AEXP_Otter.label>
+  <AEXP_Otter.description>Длинное и стройное полуводное млекопитающее, питающееся в основном рыбой и небольшими растениями. Выдры очень хорошие пловцы и могут задерживать дыхание под водой на длительное время.</AEXP_Otter.description>
+  <AEXP_Otter.tools.0.label>левая лапка</AEXP_Otter.tools.0.label>
+  <AEXP_Otter.tools.1.label>правая лапка</AEXP_Otter.tools.1.label>
+  <AEXP_Otter.tools.2.label>зубы</AEXP_Otter.tools.2.label>
+  <AEXP_Otter.tools.3.label>голова</AEXP_Otter.tools.3.label>
+  <AEXP_Otter.race.meatLabel>мясо выдры</AEXP_Otter.race.meatLabel>
+
+  <!-- Arctic Coyote -->
+
+  <AEXP_ArcticCoyote.label>полярный койот</AEXP_ArcticCoyote.label>
+  <AEXP_ArcticCoyote.description>Небольшая собака, обитающая в тундре и северных лесах. Койоты способны охотиться на гораздо более крупную добычу, чем они сами и часто собираются в стаи, подобно волкам.</AEXP_ArcticCoyote.description>
+  <AEXP_ArcticCoyote.tools.0.label>левая лапа</AEXP_ArcticCoyote.tools.0.label>
+  <AEXP_ArcticCoyote.tools.1.label>правая лапа</AEXP_ArcticCoyote.tools.1.label>
+  <AEXP_ArcticCoyote.tools.2.label>зубы</AEXP_ArcticCoyote.tools.2.label>
+  <AEXP_ArcticCoyote.tools.3.label>голова</AEXP_ArcticCoyote.tools.3.label>
+  <AEXP_ArcticCoyote.race.meatLabel>мясо полярного койота</AEXP_ArcticCoyote.race.meatLabel>
+
+  <!-- Black Bear -->
+
+  <AEXP_BlackBear.label>черный медведь</AEXP_BlackBear.label>
+  <AEXP_BlackBear.description>Всеядное млекопитающее среднего размера, приспособленное к холодному климату. Густой жир и мех медведей согревают их зимой.\n\nХотя их обычная диета состоит из рыбы, ягод, меда и мяса падали, черный медведь способен использовать свою огромную силу и смертоносные когти, чтобы убить живую добычу. Они поразительно быстры для таких с виду неуклюжих существ.</AEXP_BlackBear.description>
+
+
+</LanguageData>

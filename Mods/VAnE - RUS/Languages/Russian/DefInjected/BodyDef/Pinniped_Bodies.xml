@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AEXP_SimplePinniped.label>ластоногие</AEXP_SimplePinniped.label>
+  <AEXP_SimplePinniped.corePart.parts.4.customLabel>левое легкое</AEXP_SimplePinniped.corePart.parts.4.customLabel>
+  <AEXP_SimplePinniped.corePart.parts.5.customLabel>правое легкое</AEXP_SimplePinniped.corePart.parts.5.customLabel>
+  <AEXP_SimplePinniped.corePart.parts.6.customLabel>левая почка</AEXP_SimplePinniped.corePart.parts.6.customLabel>
+  <AEXP_SimplePinniped.corePart.parts.7.customLabel>правая почка</AEXP_SimplePinniped.corePart.parts.7.customLabel>
+  <AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.1.customLabel>левый глаз</AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.1.customLabel>
+  <AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.2.customLabel>правый глаз</AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.2.customLabel>
+  <AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.3.customLabel>левое ухо</AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.3.customLabel>
+  <AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.4.customLabel>правое ухо</AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.4.customLabel>
+  <AEXP_SimplePinniped.corePart.parts.10.customLabel>левый передний плавник</AEXP_SimplePinniped.corePart.parts.10.customLabel>
+  <AEXP_SimplePinniped.corePart.parts.11.customLabel>правый передний плавник</AEXP_SimplePinniped.corePart.parts.11.customLabel>
+
+  <AEXP_TuskedPinniped.label>моржовые</AEXP_TuskedPinniped.label>
+  <AEXP_TuskedPinniped.corePart.parts.4.customLabel>левое легкое</AEXP_TuskedPinniped.corePart.parts.4.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.5.customLabel>правое легкое</AEXP_TuskedPinniped.corePart.parts.5.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.6.customLabel>левая почка</AEXP_TuskedPinniped.corePart.parts.6.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.7.customLabel>правая почка</AEXP_TuskedPinniped.corePart.parts.7.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.1.customLabel>левый глаз</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.1.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.2.customLabel>правый глаз</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.2.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.3.customLabel>левое ухо</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.3.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.4.customLabel>правое ухо</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.4.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.6.parts.0.customLabel>левый бивень</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.6.parts.0.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.6.parts.1.customLabel>правый бивень</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.6.parts.1.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.10.customLabel>левый передний плавник</AEXP_TuskedPinniped.corePart.parts.10.customLabel>
+  <AEXP_TuskedPinniped.corePart.parts.11.customLabel>правый передний плавник</AEXP_TuskedPinniped.corePart.parts.11.customLabel>
+
+
+</LanguageData>

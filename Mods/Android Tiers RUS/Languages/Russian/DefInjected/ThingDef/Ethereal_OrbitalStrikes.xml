@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MechFallBeam.label>Вызов мех-поддержки</MechFallBeam.label>
+
+  <OrbitalTargeterMechFall.label>орбитальный целеуказатель мех-поддержки</OrbitalTargeterMechFall.label>
+  <OrbitalTargeterMechFall.description>Древний прицельный аппарат для автоматического развертывания мотострелкового подразделения марк-7, сброшенный с орбиты. Однако его заряд ограничен и требует специального зарядного оборудования для пополнения. Что делает его ограниченным тем, сколько времени требуется для того, чтобы заряд иссяк.</OrbitalTargeterMechFall.description>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallBionicBladder.label>установить удалитель отходов</InstallBionicBladder.label>
+  <InstallBionicBladder.description>Установка бионического удалителя отходов.</InstallBionicBladder.description>
+  <InstallBionicBladder.jobString>Устанавливает удалитель отходов.</InstallBionicBladder.jobString>
+
+  <InstallHygieneEnhancer.label>установить усилитель гигиены</InstallHygieneEnhancer.label>
+  <InstallHygieneEnhancer.description>Установка бионического усилителя гигиены.</InstallHygieneEnhancer.description>
+  <InstallHygieneEnhancer.jobString>Устанавливает усилитель гигиены.</InstallHygieneEnhancer.jobString>
+
+
+</LanguageData>

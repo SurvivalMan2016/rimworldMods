@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: There are {REBELLIOUSCOUNT} slaves that are likely to initiate a rebellion. -->
+  <AlertSlaveRebellionLikelyRebelliousCount>Есть {REBELLIOUSCOUNT} рабов, которые, скорее всего, поднимут восстание.</AlertSlaveRebellionLikelyRebelliousCount>
+  <!-- EN: A slave rebellion is expected to happen roughly once every {COMBINEDTIME}. Note that each slave's rebellion chance is independent, so if any one of them rebels they can take others with them.\n\n{REBEL_labelShort} is the most rebellious slave and is expected to initiate a rebellion roughly once every {INDIVIDUALTIME}. The following factors are affecting how often they will rebel: -->
+  <AlertSlaveRebellionLikelyMostRebellious>Ожидается, что восстание рабов произойдет примерно раз в {REBELLIOUSCOUNT}. Обратите внимание, что шанс восстания каждого раба независим, поэтому, если кто-то из них взбунтуется, они могут забрать с собой других.\n\n{REBEL_labelShort} - самый непокорный раб, и ожидается, что он будет поднимать восстание примерно раз в {INDIVIDUALTIME}. На то, как часто они будут бунтовать, влияют следующие факторы:</AlertSlaveRebellionLikelyMostRebellious>
+  
+  <!-- Core -->
+  
+  <!-- EN: Slave rebellion likely -->
+  <AlertSlaveRebellionLikely>Вероятно восстание рабов</AlertSlaveRebellionLikely>
+  <!-- EN: There are {0} slaves that are likely to initiate a rebellion soon. -->
+  <AlertSlaveRebellionMultipleLikelySlavesHeader>Есть {0} рабов, которые, вероятно, скоро поднимут восстание.</AlertSlaveRebellionMultipleLikelySlavesHeader>
+  <!-- EN: A slave rebellion is expected to happen roughly once every {0}. -->
+  <AlertSlaveRebellionMultipleSlavesInterval>Предполагается, что восстание рабов будет происходить примерно раз в {0}.</AlertSlaveRebellionMultipleSlavesInterval>
+  <!-- EN: {REBEL_labelShort} is the most rebellious slave and -->
+  <AlertSlaveRebellionMultipleLikelySlavesPrefix>{REBEL_labelShort} - самый непокорный раб и</AlertSlaveRebellionMultipleLikelySlavesPrefix>
+  <!-- EN: is expected to rebel roughly once every {0}. These are the factors which are adjusting how soon they will rebel: -->
+  <AlertSlaveRebellionLikelyExplanation>ожидается, что он будет бунтовать примерно раз в {0}. Это факторы, которые влияют на то, как скоро они взбунтуются:</AlertSlaveRebellionLikelyExplanation>
+  <!-- EN: Each slave's rebellion chance is independent. If any one slave rebels, others nearby are likely to join. -->
+  <AlertSlaveRebellionLikelyNote>Шанс восстания каждого раба независим. Если кто-то из рабов взбунтуется, другие поблизости, скорее всего, присоединятся.</AlertSlaveRebellionLikelyNote>
+
+</LanguageData>

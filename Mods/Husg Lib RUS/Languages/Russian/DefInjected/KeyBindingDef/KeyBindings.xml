@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PublishLogs.label>Опубликовать журнал логов (удерживайте Ctrl)</PublishLogs.label>
+  <OpenLogFile.label>Открыть журнал логов</OpenLogFile.label>
+  <RestartRimworld.label>Перезапустить Rimworld</RestartRimworld.label>
+  <HLOpenModSettings.label>Открыть настройки модов</HLOpenModSettings.label>
+  <HLOpenUpdateNews.label>Открыть новости обновлений модов</HLOpenUpdateNews.label>
+
+
+</LanguageData>

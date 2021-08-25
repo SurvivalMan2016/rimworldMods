@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PainShockThreshold.label>порог болевого шока</PainShockThreshold.label>
+  <PainShockThreshold.description>Точка, в которой это существо падает от боли.</PainShockThreshold.description>
+
+  <AndroidSurgerySuccessChance.label>шанс на успех операции на андроиде</AndroidSurgerySuccessChance.label>
+  <AndroidSurgerySuccessChance.description>Базовый шанс того, что персонаж добьется успеха при проведении операции на андроиде. На фактический шанс успеха также влияют такие факторы, как условия, чистота помещения, используемые лекарства, сложность операции и вдохновение. Независимо от того, насколько высок шанс успеха, всегда существует небольшой шанс неудачи при проведении любой операции.</AndroidSurgerySuccessChance.description>
+
+  <MiningYield.label>добыча полезных ископаемых</MiningYield.label>
+  <MiningYield.description>Процент производительности, которого достигнет шахтер. Это относится как к добыче в стене, так и к добыче глубоким буром. Это не влияет на скорость добычи кусков породы.</MiningYield.description>
+
+  <PsychicSensitivity.label>Психочувствительность</PsychicSensitivity.label>
+  <PsychicSensitivity.description>Множитель воздействия психических явлений, влияющих на этого человека.</PsychicSensitivity.description>
+
+  <AndroidSurgerySuccessChanceFactor.label>фактор шанса успеха операции на андроиде</AndroidSurgerySuccessChanceFactor.label>
+  <AndroidSurgerySuccessChanceFactor.description>Множитель к шансу, что операция на андроиде будет успешной при выполнении именно здесь. Шансы на успех операции на андроиде зависят также от многих других факторов, включая способности механика.</AndroidSurgerySuccessChanceFactor.description>
+
+
+</LanguageData>

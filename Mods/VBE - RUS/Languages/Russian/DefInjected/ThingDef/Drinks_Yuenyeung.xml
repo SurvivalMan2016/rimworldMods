@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Yuenyeung.label>юэньюн</VBE_Yuenyeung.label>
+  <VBE_Yuenyeung.description>Смесь кофе и чая. Фанаты чая и кофе придумали этот напиток, чтобы убрать разногласия. Он подается обычно холодным, но, независимо от температуры, он сбивает с толку того, кто его попробует.</VBE_Yuenyeung.description>
+  <VBE_Yuenyeung.ingestible.ingestCommandString>Пить {0}</VBE_Yuenyeung.ingestible.ingestCommandString>
+  <VBE_Yuenyeung.ingestible.ingestReportString>Пьет {0}.</VBE_Yuenyeung.ingestible.ingestReportString>
+
+</LanguageData>

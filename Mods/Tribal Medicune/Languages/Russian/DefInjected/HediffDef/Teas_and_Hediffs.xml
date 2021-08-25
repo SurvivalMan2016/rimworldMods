@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Flu Tea -->
+
+  <TM_FluTeaEffect.label>эффект чая от гриппа</TM_FluTeaEffect.label>
+  <TM_FluTeaEffect.description>Вырабатывает иммунитет к гриппу</TM_FluTeaEffect.description>
+  <TM_FluTeaEffect.stages.0.label>Установлено</TM_FluTeaEffect.stages.0.label>
+  <TM_FluTeaEffect.stages.1.label>Мгновенно</TM_FluTeaEffect.stages.1.label>
+
+
+  <!-- Curative Tea -->
+
+  <TM_ImmunityTeaEffect.label>эффект чая для повышения иммунитета</TM_ImmunityTeaEffect.label>
+  <TM_ImmunityTeaEffect.description>Повышает скорость повышения иммунитета.</TM_ImmunityTeaEffect.description>
+  <TM_ImmunityTeaEffect.stages.0.label>Низкий</TM_ImmunityTeaEffect.stages.0.label>
+  <TM_ImmunityTeaEffect.stages.1.label>Высокий</TM_ImmunityTeaEffect.stages.1.label>
+
+
+  <!-- Severity Tea -->
+
+  <TM_CurativeTeaEffect.label>целебное действие чая</TM_CurativeTeaEffect.label>
+  <TM_CurativeTeaEffect.description>Помогает уменьшить тяжесть различных заболеваний.</TM_CurativeTeaEffect.description>
+  <TM_CurativeTeaEffect.stages.0.label>Установлено</TM_CurativeTeaEffect.stages.0.label>
+
+
+  <!-- Digestive Tea -->
+
+  <TM_DigestiveTeaEffect.label>эффект чая для улучшения пищеварения</TM_DigestiveTeaEffect.label>
+  <TM_DigestiveTeaEffect.description>Помогает снизить тяжесть пищевого отравления.</TM_DigestiveTeaEffect.description>
+  <TM_DigestiveTeaEffect.stages.0.label>Установлено</TM_DigestiveTeaEffect.stages.0.label>
+
+
+  <!-- Hallucination Tea -->
+
+  <TM_HallucinationTeaEffect.label>эффект галлюцинагенного чая</TM_HallucinationTeaEffect.label>
+  <TM_HallucinationTeaEffect.description>Способствует.</TM_HallucinationTeaEffect.description>
+  <TM_HallucinationTeaEffect.stages.0.label>Низкий</TM_HallucinationTeaEffect.stages.0.label>
+  <TM_HallucinationTeaEffect.stages.1.label>Высокий</TM_HallucinationTeaEffect.stages.1.label>
+
+
+  <!-- Insanity Tea -->
+
+  <TM_InsanityTeaEffect.label>эффект чая для безумия</TM_InsanityTeaEffect.label>
+  <TM_InsanityTeaEffect.description>Состояние полного безумия, не рекомендуется находиться рядом с пользователем, пока он экспериментирует с эффектами этого чая.</TM_InsanityTeaEffect.description>
+  <TM_InsanityTeaEffect.stages.0.label>Истощение</TM_InsanityTeaEffect.stages.0.label>
+  <TM_InsanityTeaEffect.stages.1.label>Трудно</TM_InsanityTeaEffect.stages.1.label>
+  <TM_InsanityTeaEffect.stages.2.label>Начальный</TM_InsanityTeaEffect.stages.2.label>
+
+
+  <!-- Hunger Tea -->
+
+  <TM_HungerTeaEffect.label>эффект чая от голода</TM_HungerTeaEffect.label>
+  <TM_HungerTeaEffect.description>Сильно снижает уровень голода, но значительно снижает подвижность и повышает усталость.</TM_HungerTeaEffect.description>
+
+
+</LanguageData>

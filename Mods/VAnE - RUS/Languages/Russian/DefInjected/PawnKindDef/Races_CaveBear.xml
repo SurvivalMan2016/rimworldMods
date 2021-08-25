@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAECaves_CaveBear.label>пещерный медведь</VAECaves_CaveBear.label>
+  <VAECaves_CaveBear.labelPlural>пещерные медведи</VAECaves_CaveBear.labelPlural>
+  <VAECaves_CaveBear.lifeStages.0.label>пещерный медвежонок</VAECaves_CaveBear.lifeStages.0.label>
+  <VAECaves_CaveBear.lifeStages.0.labelPlural>пещерные медвежата</VAECaves_CaveBear.lifeStages.0.labelPlural>
+  <VAECaves_CaveBear.lifeStages.0.labelMale>пещерный медвежонок</VAECaves_CaveBear.lifeStages.0.labelMale>
+  <VAECaves_CaveBear.lifeStages.0.labelMalePlural>пещерные медвежата</VAECaves_CaveBear.lifeStages.0.labelMalePlural>
+  <VAECaves_CaveBear.lifeStages.0.labelFemale>пещерный медвежонок</VAECaves_CaveBear.lifeStages.0.labelFemale>
+  <VAECaves_CaveBear.lifeStages.0.labelFemalePlural>пещерные медвежата</VAECaves_CaveBear.lifeStages.0.labelFemalePlural>
+  <VAECaves_CaveBear.lifeStages.1.label>молодой пещерный медведь</VAECaves_CaveBear.lifeStages.1.label>
+  <VAECaves_CaveBear.lifeStages.1.labelPlural>молодые пещерные медведи</VAECaves_CaveBear.lifeStages.1.labelPlural>
+  <VAECaves_CaveBear.lifeStages.1.labelMale>молодой пещерный медведь</VAECaves_CaveBear.lifeStages.1.labelMale>
+  <VAECaves_CaveBear.lifeStages.1.labelMalePlural>молодые пещерные медведи</VAECaves_CaveBear.lifeStages.1.labelMalePlural>
+  <VAECaves_CaveBear.lifeStages.1.labelFemale>молодая пещерная медведица</VAECaves_CaveBear.lifeStages.1.labelFemale>
+  <VAECaves_CaveBear.lifeStages.1.labelFemalePlural>молодые пещерные медведицы</VAECaves_CaveBear.lifeStages.1.labelFemalePlural>
+  <VAECaves_CaveBear.lifeStages.2.label>пещерный медведь</VAECaves_CaveBear.lifeStages.2.label>
+  <VAECaves_CaveBear.lifeStages.2.labelPlural>пещерные медведи</VAECaves_CaveBear.lifeStages.2.labelPlural>
+  <VAECaves_CaveBear.lifeStages.2.labelMale>пещерный медведь</VAECaves_CaveBear.lifeStages.2.labelMale>
+  <VAECaves_CaveBear.lifeStages.2.labelMalePlural>пещерные медведи</VAECaves_CaveBear.lifeStages.2.labelMalePlural>
+  <VAECaves_CaveBear.lifeStages.2.labelFemale>пещерная медведица</VAECaves_CaveBear.lifeStages.2.labelFemale>
+  <VAECaves_CaveBear.lifeStages.2.labelFemalePlural>пещерные медведицы</VAECaves_CaveBear.lifeStages.2.labelFemalePlural>
+  <VAECaves_CaveBear.labelMale>пещерный медведь</VAECaves_CaveBear.labelMale>
+  <VAECaves_CaveBear.labelMalePlural>пещерные медведи</VAECaves_CaveBear.labelMalePlural>
+  <VAECaves_CaveBear.labelFemale>пещерная медведица</VAECaves_CaveBear.labelFemale>
+  <VAECaves_CaveBear.labelFemalePlural>пещерные медведицы</VAECaves_CaveBear.labelFemalePlural>
+
+
+</LanguageData>

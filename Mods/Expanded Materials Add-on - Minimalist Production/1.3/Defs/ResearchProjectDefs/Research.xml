@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<ResearchProjectDef>
+    <defName>MP_MinimalistProduction</defName>
+    <label>минималистское производство</label>
+    <description>Узнайте, как создать компактные рабочие места и оборудование, чтобы открыть ряд небольших производственных помещений.</description>
+    <baseCost>1000</baseCost>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>6.00</researchViewX>
+    <researchViewY>4.05</researchViewY>
+	<prerequisites>
+		<li>Electricity</li>
+		<li>VMEu_PolymerMaterials</li>
+	</prerequisites>
+  </ResearchProjectDef>
+  
+</Defs>

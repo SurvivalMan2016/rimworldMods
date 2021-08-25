@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MicroScyther.label>Микро-Скайтер</MicroScyther.label>
+  <MicroScyther.description>Небольшой модифицированный беспилотник, который летает невероятно быстро, оснащен 2 маленькими, но очень острыми крыльями по обе стороны от его основного корпуса; используется для нанесения небольшого количества урона в течение длительного времени. Довольно жалкий в одиночку, но очень опасный в группах.</MicroScyther.description>
+  <MicroScyther.tools.0.label>голова</MicroScyther.tools.0.label>
+  <MicroScyther.tools.1.label>левое крыло</MicroScyther.tools.1.label>
+  <MicroScyther.tools.2.label>правое крыло</MicroScyther.tools.2.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <MicroScyther_Corpse.label>Труп Микро-Скайтера</MicroScyther_Corpse.label>
+  <MicroScyther_Corpse.description>Труп Микро-Скайтера</MicroScyther_Corpse.description>
+
+
+</LanguageData>

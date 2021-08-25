@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Vanilla Furniture Expanded - Security</li>
+    </mods>
+	<match Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationAdd">
+					<xpath>/Defs</xpath>
+					<value>
+						<ThingDef ParentName="ResourceBase">
+							<defName>VMEu_ChargueAmmo</defName>
+							<label>pulse turret ammunition</label>
+							<description>Advanced pulse charged ammunition. This type of ammunition is used by hi-tech and spacer defense systems.</description>
+							<graphicData>
+							  <texPath>Things/Item/Resource/VMEu_ChargueAmmo</texPath>
+							  <graphicClass>Graphic_StackCount</graphicClass>
+							</graphicData>
+							<stackLimit>500</stackLimit>
+							<smallVolume>true</smallVolume>
+							<healthAffectsPrice>false</healthAffectsPrice>
+							<statBases>
+							  <MaxHitPoints>50</MaxHitPoints>
+							  <MarketValue>6.2</MarketValue>
+							  <Mass>0.002</Mass>
+							  <Flammability>0.4</Flammability>
+							  <DeteriorationRate>1.0</DeteriorationRate>
+							</statBases>
+							<thingCategories>
+							  <li>VMEu_AmmunitionCategory</li>
+							</thingCategories>
+						  </ThingDef>
+					</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+					<RecipeDef>
+						<defName>VMEu_MakeChargueAmmo</defName>
+						<label>make charge ammunition</label>
+						<description>Manufacture advanced pulse chargued bullets, those are used on hi-tech and spacer turrets.</description>
+						<jobString>Manufacturing ammunition.</jobString>
+						<effectWorking>Smith</effectWorking>
+						<soundWorking>Recipe_Machining</soundWorking>
+						<workAmount>900</workAmount>
+						<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+						<recipeUsers>
+							<li>FabricationBench</li>
+						</recipeUsers>
+						<ingredients>
+						  <li>
+							<filter>
+							  <thingDefs>
+								<li>Steel</li>
+							  </thingDefs>
+							</filter>
+							<count>5</count>
+						  </li>
+						  <li>
+							<filter>
+							  <thingDefs>
+								<li>VMEu_Tungsten</li>
+							  </thingDefs>
+							</filter>
+							<count>1</count>
+						  </li>
+						  <li>
+							<filter>
+							  <thingDefs>
+								<li>Plasteel</li>
+							  </thingDefs>
+							</filter>
+							<count>3</count>
+						  </li>
+						</ingredients>
+						<fixedIngredientFilter>
+						  <thingDefs>
+							<li>Steel</li>
+							<li>VMEu_Tungsten</li>
+							<li>Plasteel</li>
+						  </thingDefs>
+						</fixedIngredientFilter>
+						<products>
+						  <VMEu_ChargueAmmo>50</VMEu_ChargueAmmo>
+						</products>
+						<researchPrerequisite>Fabrication</researchPrerequisite>
+					</RecipeDef>
+				</value>
+			</li>
+			<!-- EMP Ammo -->
+			<li Class="PatchOperationAdd">
+					<xpath>/Defs</xpath>
+					<value>
+						<ThingDef ParentName="ResourceBase">
+							<defName>VMEu_EMPAmmo</defName>
+							<label>EMP ammunition</label>
+							<description>EMP charged heavy bullets for particular use, EMP chargues are capable of disabling machines for a short period of time.</description>
+							<graphicData>
+							  <texPath>Things/Item/Resource/VMEu_EMPAmmo</texPath>
+							  <graphicClass>Graphic_StackCount</graphicClass>
+							</graphicData>
+							<stackLimit>500</stackLimit>
+							<smallVolume>true</smallVolume>
+							<healthAffectsPrice>false</healthAffectsPrice>
+							<statBases>
+							  <MaxHitPoints>50</MaxHitPoints>
+							  <MarketValue>4.2</MarketValue>
+							  <Mass>0.002</Mass>
+							  <Flammability>0.6</Flammability>
+							  <DeteriorationRate>1.0</DeteriorationRate>
+							</statBases>
+							<thingCategories>
+							  <li>VMEu_AmmunitionCategory</li>
+							</thingCategories>
+						  </ThingDef>
+					</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+					<RecipeDef>
+						<defName>VMEu_MakeEMPAmmo</defName>
+						<label>make EMP ammunition</label>
+						<description>Manufacture advanced EMP charged ammunition, those are used on hi-tech and spacer turrets.</description>
+						<jobString>Manufacturing ammunition.</jobString>
+						<effectWorking>Smith</effectWorking>
+						<soundWorking>Recipe_Machining</soundWorking>
+						<workAmount>985</workAmount>
+						<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+						<recipeUsers>
+							<li>FabricationBench</li>
+						</recipeUsers>
+						<ingredients>
+						  <li>
+							<filter>
+							  <thingDefs>
+								<li>VMEu_StainlessSteel</li>
+							  </thingDefs>
+							</filter>
+							<count>1</count>
+						  </li>
+						  <li>
+							<filter>
+							  <thingDefs>
+								<li>ComponentIndustrial</li>
+							  </thingDefs>
+							</filter>
+							<count>1</count>
+						  </li>
+						  <li>
+							<filter>
+							  <thingDefs>
+								<li>VMEu_Lithium</li>
+							  </thingDefs>
+							</filter>
+							<count>5</count>
+						  </li>
+						</ingredients>
+						<fixedIngredientFilter>
+						  <thingDefs>
+							<li>VMEu_StainlessSteel</li>
+							<li>ComponentIndustrial</li>
+							<li>VMEu_Lithium</li>
+						  </thingDefs>
+						</fixedIngredientFilter>
+						<products>
+						  <VMEu_EMPAmmo>25</VMEu_EMPAmmo>
+						</products>
+						<researchPrerequisite>Fabrication</researchPrerequisite>
+					</RecipeDef>
+				</value>
+			</li>
+			
+			<!-- PATCH FOR LITE VERSION -->
+			<li Class="PatchOperationFindMod">
+				<mods>
+					<li>[LITE]Expanded Materials - Metals</li>
+				</mods>
+				<match Class="PatchOperationSequence">
+				<success>Always</success>
+					<operations>
+						<li Class="PatchOperationReplace">
+							<xpath>/Defs/RecipeDef [defName = "VMEu_MakeChargueAmmo"]/ingredients</xpath>
+							<value>
+								<ingredients>
+								  <li>
+									<filter>
+									  <thingDefs>
+										<li>Steel</li>
+									  </thingDefs>
+									</filter>
+									<count>5</count>
+								  </li>
+								  <li>
+									<filter>
+									  <thingDefs>
+										<li>VMEu_Lead</li>
+									  </thingDefs>
+									</filter>
+									<count>6</count>
+								  </li>
+								  <li>
+									<filter>
+									  <thingDefs>
+										<li>Plasteel</li>
+									  </thingDefs>
+									</filter>
+									<count>3</count>
+								  </li>
+								</ingredients>
+							</value>
+						</li>
+						<li Class="PatchOperationReplace">
+							<xpath>/Defs/RecipeDef [defName = "VMEu_MakeChargueAmmo"]/fixedIngredientFilter</xpath>
+							<value>
+								<fixedIngredientFilter>
+								  <thingDefs>
+									<li>Steel</li>
+									<li>VMEu_Lead</li>
+									<li>Plasteel</li>
+								  </thingDefs>
+								</fixedIngredientFilter>
+							</value>
+						</li>
+						<li Class="PatchOperationReplace">
+							<xpath>/Defs/RecipeDef [defName = "VMEu_MakeEMPAmmo"]/ingredients</xpath>
+							<value>
+								<ingredients>
+								  <li>
+									<filter>
+									  <thingDefs>
+										<li>VMEu_Lead</li>
+									  </thingDefs>
+									</filter>
+									<count>5</count>
+								  </li>
+								  <li>
+									<filter>
+									  <thingDefs>
+										<li>ComponentIndustrial</li>
+									  </thingDefs>
+									</filter>
+									<count>3</count>
+								  </li>
+								</ingredients>
+							</value>
+						</li>
+						<li Class="PatchOperationReplace">
+							<xpath>/Defs/RecipeDef [defName = "VMEu_MakeEMPAmmo"]/fixedIngredientFilter</xpath>
+							<value>
+								<fixedIngredientFilter>
+								  <thingDefs>
+									<li>VMEu_Lead</li>
+									<li>ComponentIndustrial</li>
+								  </thingDefs>
+								</fixedIngredientFilter>
+							</value>
+						</li>
+					</operations>
+				</match>
+			</li>
+		</operations>
+	</match>
+</Operation>
+
+</Patch>

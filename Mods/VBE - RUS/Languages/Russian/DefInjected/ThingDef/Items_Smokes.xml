@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Cigarettes.label>сигареты</VBE_Cigarettes.label>
+  <VBE_Cigarettes.description>Маленькая свернутая бумажная трубка, неплотно набитая табачными листьями. Предлагает кратковременную эйфорию, а также умственную стимуляцию и вызывает сильную зависимость. Поначалу резкий запах не нравится, но он оказывается гораздо более приятным, когда курильщик становится зависимым. Можно создавать на рабочем месте без специального снаряжения.</VBE_Cigarettes.description>
+  <VBE_Cigarettes.ingestible.ingestCommandString>Курить {0}</VBE_Cigarettes.ingestible.ingestCommandString>
+  <VBE_Cigarettes.ingestible.ingestReportString>Курит {0}.</VBE_Cigarettes.ingestible.ingestReportString>
+  <VBE_Cigarettes.ingestible.ingestReportStringEat>Курит {0}</VBE_Cigarettes.ingestible.ingestReportStringEat>
+
+  <VBE_Cigars.label>сигары</VBE_Cigars.label>
+  <VBE_Cigars.description>Толстый высушенный табачный лист, набитый до краев большим количеством табачных листьев и обернутый золотой фольгой. Сигары исторически являются предметом роскоши и обычно доступны только тем, кто регулярно общается с элитой развитых миров. Сигары часто приправляют цитрусовыми или ванилью, чтобы сделать их вкус и запах менее резкими.</VBE_Cigars.description>
+  <VBE_Cigars.ingestible.ingestCommandString>Курить {0}</VBE_Cigars.ingestible.ingestCommandString>
+  <VBE_Cigars.ingestible.ingestReportString>Курит {0}.</VBE_Cigars.ingestible.ingestReportString>
+  <VBE_Cigars.ingestible.ingestReportStringEat>Курит {0}</VBE_Cigars.ingestible.ingestReportStringEat>
+
+</LanguageData>

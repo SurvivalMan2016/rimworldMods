@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAE_InsectoidHulkBody.label>тело гаргантюа</VAE_InsectoidHulkBody.label>
+  <VAE_InsectoidHulkBody.corePart.parts.0.customLabel>левое надкрылье</VAE_InsectoidHulkBody.corePart.parts.0.customLabel>
+  <VAE_InsectoidHulkBody.corePart.parts.1.customLabel>правое надкрылье</VAE_InsectoidHulkBody.corePart.parts.1.customLabel>
+  <VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.1.customLabel>левый глаз</VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.1.customLabel>
+  <VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.2.customLabel>правый глаз</VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.2.customLabel>
+  <VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.3.customLabel>левая антенна</VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.3.customLabel>
+  <VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.4.customLabel>правая антенна</VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.4.customLabel>
+  <VAE_InsectoidHulkBody.corePart.parts.5.customLabel>левая нога</VAE_InsectoidHulkBody.corePart.parts.5.customLabel>
+  <VAE_InsectoidHulkBody.corePart.parts.6.customLabel>правая нога</VAE_InsectoidHulkBody.corePart.parts.6.customLabel>
+  <VAE_InsectoidHulkBody.corePart.parts.7.customLabel>правая рука</VAE_InsectoidHulkBody.corePart.parts.7.customLabel>
+  <VAE_InsectoidHulkBody.corePart.parts.8.customLabel>левая рука</VAE_InsectoidHulkBody.corePart.parts.8.customLabel>
+
+
+</LanguageData>

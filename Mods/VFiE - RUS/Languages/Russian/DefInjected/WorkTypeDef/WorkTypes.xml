@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCEF_Fishing.label>Рыбак</VCEF_Fishing.label>
+  <VCEF_Fishing.description>Ловить рыбу в специально отведенных зонах.</VCEF_Fishing.description>
+  <VCEF_Fishing.labelShort>Рыбак</VCEF_Fishing.labelShort>
+  <VCEF_Fishing.pawnLabel>Рыбак</VCEF_Fishing.pawnLabel>
+  <VCEF_Fishing.gerundLabel>рыбачить</VCEF_Fishing.gerundLabel>
+  <VCEF_Fishing.verb>рыбачить</VCEF_Fishing.verb>
+
+
+</LanguageData>

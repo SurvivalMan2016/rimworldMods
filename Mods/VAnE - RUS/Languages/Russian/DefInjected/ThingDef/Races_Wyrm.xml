@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAECaves_Wyrm.label>виверна</VAECaves_Wyrm.label>
+  <VAECaves_Wyrm.description>Виверна - это одиночные существа, обитающие в самых темных пещерных системах, вымершие в большинстве миров. Их хвосты способны выделять невероятно мощный токсин, который быстро парализует их добычу, в то время как острые зубы разрывают плоть и сталь в клочья.\n\nВиверны редко привязываются к людям, но когда это происходит, эту связь трудно разорвать. Виверна будет свирепо и храбро защищать своего хозяина, но если он умрет, то она улетит и проживет остаток жизни в одиночестве, не привязываясь более ни к кому.</VAECaves_Wyrm.description>
+  <VAECaves_Wyrm.tools.0.label>левая лапа</VAECaves_Wyrm.tools.0.label>
+  <VAECaves_Wyrm.tools.1.label>правая лапа</VAECaves_Wyrm.tools.1.label>
+  <VAECaves_Wyrm.tools.3.label>хвост</VAECaves_Wyrm.tools.3.label>
+
+
+</LanguageData>

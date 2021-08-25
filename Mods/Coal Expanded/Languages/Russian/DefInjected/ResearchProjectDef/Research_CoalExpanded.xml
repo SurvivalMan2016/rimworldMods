@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Research_NECCoalProduction.label>Угольная промышленность</Research_NECCoalProduction.label>
+  <Research_NECCoalProduction.description>Научитесь создавать аналоги рабочих мест, использующие уголь в качестве топлива.</Research_NECCoalProduction.description>
+
+  <Research_NECCoalPowergen.label>Угольная энергетика</Research_NECCoalPowergen.label>
+  <Research_NECCoalPowergen.description>Позволяет создавать генераторы, работающие на угле.</Research_NECCoalPowergen.description>
+
+</LanguageData>

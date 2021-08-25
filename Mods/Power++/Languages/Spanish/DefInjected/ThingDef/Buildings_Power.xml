@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<ARKPPP_WirelessPowerReceptor.label>Receptor WPN</ARKPPP_WirelessPowerReceptor.label>
+	<ARKPPP_WirelessPowerReceptor.description>Requiere estar conectado a un WPN válido para proporcionar energía.</ARKPPP_WirelessPowerReceptor.description>
+	
+	<ARKPPP_WirelessPortablePowerReceptor.label>Receptor WPN portátil</ARKPPP_WirelessPortablePowerReceptor.label>
+	<ARKPPP_WirelessPortablePowerReceptor.description>Requiere estar conectado a un WPN válido para proporcionar energía. Potencia limitada debido a sus pequeñas dimensiones.</ARKPPP_WirelessPortablePowerReceptor.description>
+	
+	<ARKPPP_WirelessPowerEmitter.label>Transmisor WPN</ARKPPP_WirelessPowerEmitter.label>
+	<ARKPPP_WirelessPowerEmitter.description>Dispositivo transmisor de energía inalámbrico utilizado para transmitir una red WPN a largas distancias. Tenga en cuenta que este dispositivo es sensible a las condiciones climáticas (tormentas eléctricas)</ARKPPP_WirelessPowerEmitter.description>
+	
+	<ARKPPP_WirelessPowerEmitterAdvanced.label>Transmisor WPN avanzado</ARKPPP_WirelessPowerEmitterAdvanced.label>
+	<ARKPPP_WirelessPowerEmitterAdvanced.description>Transmisor inalámbrico de energía utilizado para transmitir una red WPN a largas distancias.</ARKPPP_WirelessPowerEmitterAdvanced.description>
+	
+	<ARKPPP_LocalWirelessPowerEmitter.label>Transmisor LWPN</ARKPPP_LocalWirelessPowerEmitter.label>
+	<ARKPPP_LocalWirelessPowerEmitter.description>Un dispositivo utilizado para construir una red eléctrica inalámbrica local (LWPN) (en la tarjeta actual), que permite conectar todos los dispositivos eléctricos sin cables</ARKPPP_LocalWirelessPowerEmitter.description>
+	
+	<ARKPPP_LocalWirelessPortablePowerEmitter.label>Transmisor LWPN</ARKPPP_LocalWirelessPortablePowerEmitter.label>
+	<ARKPPP_LocalWirelessPortablePowerEmitter.description>Un dispositivo portátil utilizado para construir una red eléctrica inalámbrica local (LWPN) (en la tarjeta actual), que permite conectar todos los dispositivos eléctricos sin cables. Tenga en cuenta que, debido a sus pequeñas dimensiones, puede manejar un numero de dispositivos inalámbricos limitados</ARKPPP_LocalWirelessPortablePowerEmitter.description>
+	
+	<ARKPPP_PowerBeamAbsorptionDish.label>Placa de absorción (AD)</ARKPPP_PowerBeamAbsorptionDish.label>
+	<ARKPPP_PowerBeamAbsorptionDish.description>Una placa de absorción gigante destinada a recoger la energía de la antigua red de satélites.</ARKPPP_PowerBeamAbsorptionDish.description>
+	
+	<ARKPPP_PowerBeamSatelliteTargetingSystem.label>Sistema de observación orbital (STS)</ARKPPP_PowerBeamSatelliteTargetingSystem.label>
+	<ARKPPP_PowerBeamSatelliteTargetingSystem.description>Una supercomputadora utilizada para piratear y controlar la red de recolección de energía satelital. Además de tener que enfriarse constantemente, no debe realizarse una desincronización brusca con el satélite, ya que esto podría tener repercusiones muy graves. Por lo tanto, las secuencias de inicio y parada siempre deben respetarse!</ARKPPP_PowerBeamSatelliteTargetingSystem.description>
+
+	<ARKPPP_ADRelayTower.label>Torre de relé AD</ARKPPP_ADRelayTower.label>
+	<ARKPPP_ADRelayTower.description>Antena de radio utilizada para conectar de forma remota una o más "placas de absorción" (AD) a un sistema de orientación satelital (STS) a través de la red satelital</ARKPPP_ADRelayTower.description>
+</LanguageData>

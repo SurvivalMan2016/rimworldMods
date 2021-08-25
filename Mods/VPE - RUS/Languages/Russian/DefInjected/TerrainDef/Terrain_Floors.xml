@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_TilledSoil.label>вспахать почву</VCE_TilledSoil.label>
+  <VCE_TilledSoil.description>Сельскохозяйственная подготовка почвы путем механического перемешивания грунта, повышающая плодородие почвы. Обработка почве может производиться только на обычных видах почв (не плодородных). При сборе урожая почва снова станет нормальной и ее понадобиться вспахать заново, вручную.</VCE_TilledSoil.description>
+  <VCE_TilledSoil.tools.0.label>грязь</VCE_TilledSoil.tools.0.label>
+
+
+</LanguageData>

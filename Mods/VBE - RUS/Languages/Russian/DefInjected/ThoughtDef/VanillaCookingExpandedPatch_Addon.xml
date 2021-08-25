@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_ConsumedMintLeaves.stages.0.label>употребил мяту</VCE_ConsumedMintLeaves.stages.0.label>
+  <VCE_ConsumedMintLeaves.stages.0.description>Свежее дыхание!</VCE_ConsumedMintLeaves.stages.0.description>
+
+  <VBE_MintCoffeeHigh.stages.0.label>свежая бодрость</VBE_MintCoffeeHigh.stages.0.label>
+  <VBE_MintCoffeeHigh.stages.0.description>Этот мятный кофе пришелся мне по вкусу, теперь время поработать.</VBE_MintCoffeeHigh.stages.0.description>
+
+  <VBE_DalgonaCoffeeHigh.stages.0.label>сладкая бодрость</VBE_DalgonaCoffeeHigh.stages.0.label>
+  <VBE_DalgonaCoffeeHigh.stages.0.description>Этот кофе дальгона пришелся мне по вкусу, теперь время поработать.</VBE_DalgonaCoffeeHigh.stages.0.description>
+
+  <VBE_DrankMintTea.stages.0.label>освежающий чай</VBE_DrankMintTea.stages.0.label>
+  <VBE_DrankMintTea.stages.0.description>Чашка восхитительно насыщенного чая с мятой действительно может скрасить весь день.</VBE_DrankMintTea.stages.0.description>
+
+  <VBE_DrankMasalaChai.stages.0.label>попробовал чашку пикантного чая</VBE_DrankMasalaChai.stages.0.label>
+  <VBE_DrankMasalaChai.stages.0.description>Чашка восхитительного пряного чая масала действительно может скрасить весь день.</VBE_DrankMasalaChai.stages.0.description>
+
+  <VBE_DrankNoonChai.stages.0.label>попробовал чашку соленого чая</VBE_DrankNoonChai.stages.0.label>
+  <VBE_DrankNoonChai.stages.0.description>Чашка восхитительного кашмирского чая масала действительно может скрасить весь день.</VBE_DrankNoonChai.stages.0.description>
+ 
+
+</LanguageData>

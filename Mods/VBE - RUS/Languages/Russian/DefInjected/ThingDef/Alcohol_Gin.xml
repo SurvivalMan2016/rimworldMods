@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Gin.label>джин</VBE_Gin.label>
+  <VBE_Gin.description>Мягкий и почти бесцветный спирт имеет запах сосны, а также тонкие фруктовые ноты. Этот ликер имеет репутацию беззаботного и забавного напитка, а также ценится за то, что вызывает так называемое "джиновое опьянение", во время которого появляется повышенное сочуствие и понимание.</VBE_Gin.description>
+  <VBE_Gin.tools.0.label>бутылка</VBE_Gin.tools.0.label>
+  <VBE_Gin.tools.1.label>горлышко</VBE_Gin.tools.1.label>
+  <VBE_Gin.ingestible.ingestCommandString>Пить {0}</VBE_Gin.ingestible.ingestCommandString>
+  <VBE_Gin.ingestible.ingestReportString>Пьет {0}.</VBE_Gin.ingestible.ingestReportString>
+
+
+</LanguageData>

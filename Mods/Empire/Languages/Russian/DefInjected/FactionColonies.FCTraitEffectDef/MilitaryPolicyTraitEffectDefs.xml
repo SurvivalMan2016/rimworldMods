@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <heavyConscription.label>Принудительная служба</heavyConscription.label>
+  <volunteerService.label>Добровольческая служба</volunteerService.label>
+  <aFactionDisarmed.label>Фракция Разоружена</aFactionDisarmed.label>
+  <slaveArmy.label>Армия рабов</slaveArmy.label>
+
+
+</LanguageData>

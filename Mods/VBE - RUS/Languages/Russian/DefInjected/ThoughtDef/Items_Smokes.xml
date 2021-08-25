@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_TobaccoHigh.stages.0.label>покурил</VBE_TobaccoHigh.stages.0.label>
+  <VBE_TobaccoHigh.stages.0.description>Эта сигарета была именно тем, что мне нужно. Такой мягкий вкус.</VBE_TobaccoHigh.stages.0.description>
+
+  <VBE_DeluxeTobaccoHigh.stages.0.label>попыхивает роскошью</VBE_DeluxeTobaccoHigh.stages.0.label>
+  <VBE_DeluxeTobaccoHigh.stages.0.description>Сигара заставляет меня чувствовать, что я добился успеха в жизни.</VBE_DeluxeTobaccoHigh.stages.0.description>
+
+
+  <!-- Smokeleaf addiction -->
+
+  <VBE_TobaccoWithdrawal.stages.1.label>никотиновая ломка</VBE_TobaccoWithdrawal.stages.1.label>
+  <VBE_TobaccoWithdrawal.stages.1.description>Я действительно хочу курить. Я бы убил за сигарету.</VBE_TobaccoWithdrawal.stages.1.description>
+
+
+</LanguageData>

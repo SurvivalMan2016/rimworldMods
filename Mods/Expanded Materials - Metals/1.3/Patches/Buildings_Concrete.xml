@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!-- Concrete Tiles Made of Actual Concrete -->
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/TerrainDef[defName = "Concrete"]/costList</xpath>
+		<value>
+			<costList>
+			  <VMEu_RockPowder>2</VMEu_RockPowder>
+			</costList>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/TerrainDef[defName = "Concrete"]</xpath>
+		<value>
+			<designatorDropdown>VMEu_RoughConcreteDropDownMenu</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/TerrainDef[defName = "PavedTile"]/costList</xpath>
+		<value>
+			<costList>
+			  <VMEu_RockPowder>3</VMEu_RockPowder>
+			</costList>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/TerrainDef[defName = "PavedTile"]</xpath>
+		<value>
+			<designatorDropdown>VMEu_PavedDropDownMenu</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs</xpath>
+		<value>
+			<TerrainDef ParentName="FloorBase">
+				<defName>VMEu_Concrete_Industrial</defName>
+				<label>industrial concrete</label>
+				<description>Rough concrete. It is cheap and quick to build, but is also quite ugly.</description>
+				<texturePath>Terrain/Surfaces/Concrete</texturePath>
+				<edgeType>Hard</edgeType>
+				<renderPrecedence>70</renderPrecedence>
+				<statBases>
+				  <Beauty>-1</Beauty>
+				  <WorkToBuild>100</WorkToBuild>
+				</statBases>
+				<designatorDropdown>VMEu_RoughConcreteDropDownMenu</designatorDropdown>
+				<costList>
+				  <VMEu_Concrete>1</VMEu_Concrete>
+				</costList>
+				<designationHotKey>Misc6</designationHotKey>
+				<researchPrerequisites>
+				  <li>Stonecutting</li>
+				</researchPrerequisites>
+			  </TerrainDef>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs</xpath>
+		<value>
+			<TerrainDef ParentName="FloorBase">
+				<defName>VMEu_Paved_Industrial</defName>
+				<label>industrial paved tile</label>
+				<renderPrecedence>230</renderPrecedence>
+				<description>Concrete tiles. Cheap, but neutral in terms of looks and slow to build.</description>
+				<texturePath>Terrain/Surfaces/PavedTile</texturePath>
+				<statBases>
+				  <WorkToBuild>300</WorkToBuild>
+				</statBases>
+				<designatorDropdown>VMEu_PavedDropDownMenu</designatorDropdown>
+				<costList>
+				  <VMEu_Concrete>2</VMEu_Concrete>
+				</costList>
+				<designationHotKey>Misc8</designationHotKey>
+				<researchPrerequisites>
+				  <li>Stonecutting</li>
+				</researchPrerequisites>
+			  </TerrainDef>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName="Wall"]/stuffCategories</xpath>
+		<value>
+			<li>VMEu_ConcreteStuffCategory</li>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName="Column"]/stuffCategories</xpath>
+		<value>
+			<li>VMEu_ConcreteStuffCategory</li>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName="Sarcophagus"]/stuffCategories</xpath>
+		<value>
+			<li>VMEu_ConcreteStuffCategory</li>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName="ElectricCrematorium"]/stuffCategories</xpath>
+		<value>
+			<li>VMEu_ConcreteStuffCategory</li>
+		</value>
+	</Operation>
+
+</Patch>

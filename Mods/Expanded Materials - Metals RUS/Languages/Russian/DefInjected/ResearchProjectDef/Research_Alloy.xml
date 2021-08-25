@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VMEu_ConcreteMaking.label>Производство бетона</VMEu_ConcreteMaking.label>
+  <VMEu_ConcreteMaking.description>Смешайте каменный порошок и железную пыль чтобы сделать прочную смесь, используемую для изготовления стен, полов и некоторых конструкций.</VMEu_ConcreteMaking.description>
+
+
+  <!-- Alloys -->
+
+  <VMEu_StainlessSteelAlloying.label>Сплав нержавеющей стали</VMEu_StainlessSteelAlloying.label>
+  <VMEu_StainlessSteelAlloying.description>Сплав специального типа стали, невосприимчивой к коррозии, необходимый материал при изготовлении протезов, бионики и синтетических органов.</VMEu_StainlessSteelAlloying.description>
+
+  <VMEu_SteelAlloying.label>Выплавка стали</VMEu_SteelAlloying.label>
+  <VMEu_SteelAlloying.description>Выплавка железа с углеродом, полученным из древесины при высоких температурах, позволяет выплавлять сталь, гораздо более твердый и эффективный материал чем железо.</VMEu_SteelAlloying.description>
+
+  <VMEu_PlasteelAlloying.label>Выплавка пластана</VMEu_PlasteelAlloying.label>
+  <VMEu_PlasteelAlloying.description>Узнайте, как синтезировать пластан из различных химических веществ.</VMEu_PlasteelAlloying.description>
+
+
+</LanguageData>

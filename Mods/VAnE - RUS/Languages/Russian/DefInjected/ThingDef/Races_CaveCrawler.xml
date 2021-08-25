@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAECaves_CaveCrawler.label>пещерный падальщик</VAECaves_CaveCrawler.label>
+  <VAECaves_CaveCrawler.description>Пещерные падальщики - это чудовища, созданные экспериментами какого-то безумного ученого. Это большие бледно-желтые гусеницы, внешне похожие на мегапеды. Пещерные падальщики обладают ядовитыми щупальцами, торчащими из их головы, что позволяет им быстро применять очень сильный яд в отношении любого, кто осмелится атаковать их.\n\nСпециальная механика: укусы пещерных падальщиков могут передавать бубонную чуму, что делает их особенно опасными в непосредственной близости.</VAECaves_CaveCrawler.description>
+  <VAECaves_CaveCrawler.tools.0.label>мандибулы</VAECaves_CaveCrawler.tools.0.label>
+  <VAECaves_CaveCrawler.tools.1.label>голова</VAECaves_CaveCrawler.tools.1.label>
+
+
+</LanguageData>

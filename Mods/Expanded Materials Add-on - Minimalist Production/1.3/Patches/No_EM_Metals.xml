@@ -1,0 +1,16 @@
+<Patch>
+
+<Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Expanded Materials - Metals</li>
+        <li>[LITE]Expanded Materials - Metals</li>
+    </mods>
+    <nomatch Class="PatchOperationReplace">
+        <xpath>/Defs/ThingDef [defName = "MP_SmallMachiningTable"]/costList/VMEu_CarbonFiber</xpath>
+        <value>
+            <Plasteel>35</Plasteel>
+        </value>
+    </nomatch>
+</Operation>
+
+</Patch>

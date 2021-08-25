@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_DeepFryMeats.label>обжарить мясо во фритюре x20</VCE_DeepFryMeats.label>
+  <VCE_DeepFryMeats.description>Обжаривать во фритюре большие куски мяса. Жареное во фритюре мясо очень вкусно, но не очень полезно для здоровья.</VCE_DeepFryMeats.description>
+  <VCE_DeepFryMeats.jobString>Обжаривает мясо во фритюре.</VCE_DeepFryMeats.jobString>
+
+  <VCE_DeepFryVegetables.label>обжарить овощи во фритюре x20</VCE_DeepFryVegetables.label>
+  <VCE_DeepFryVegetables.description>Обжаривать во фритюре овощи. Жареные во фритюре овощи очень вкусны, но не очень полезны для здоровья.</VCE_DeepFryVegetables.description>
+  <VCE_DeepFryVegetables.jobString>Обжаривает овощи во фритюре.</VCE_DeepFryVegetables.jobString>
+
+</LanguageData>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ##### Plastic Mosaic ##### -->
+
+  <VMEu_PlasticMosaic_Beige.label>бежевая пластиковая мозаика</VMEu_PlasticMosaic_Beige.label>
+  <VMEu_PlasticMosaic_Beige.description>Пластиковые панели, разрезанные на мелкие мозаики. Довольно приятны на вид, могут быть окрашены в разные цвета для получения желаемого внешнего вида.</VMEu_PlasticMosaic_Beige.description>
+
+  <VMEu_PlasticMosaic_Crimson.label>малиновая пластиковая мозаика</VMEu_PlasticMosaic_Crimson.label>
+  <VMEu_PlasticMosaic_Crimson.description>Пластиковые панели, разрезанные на мелкие мозаики. Довольно приятны на вид, могут быть окрашены в разные цвета для получения желаемого внешнего вида.</VMEu_PlasticMosaic_Crimson.description>
+
+  <VMEu_PlasticMosaic_Blue.label>голубая пластиковая мозаика</VMEu_PlasticMosaic_Blue.label>
+  <VMEu_PlasticMosaic_Blue.description>Пластиковые панели, разрезанные на мелкие мозаики. Довольно приятны на вид, могут быть окрашены в разные цвета для получения желаемого внешнего вида.</VMEu_PlasticMosaic_Blue.description>
+
+  <VMEu_PlasticMosaic_Green.label>зеленая пластиковая мозаика</VMEu_PlasticMosaic_Green.label>
+  <VMEu_PlasticMosaic_Green.description>Пластиковые панели, разрезанные на мелкие мозаики. Довольно приятны на вид, могут быть окрашены в разные цвета для получения желаемого внешнего вида.</VMEu_PlasticMosaic_Green.description>
+
+  <VMEu_PlasticMosaic_Gray.label>серая пластиковая мозаика</VMEu_PlasticMosaic_Gray.label>
+  <VMEu_PlasticMosaic_Gray.description>Пластиковые панели, разрезанные на мелкие мозаики. Довольно приятны на вид, могут быть окрашены в разные цвета для получения желаемого внешнего вида.</VMEu_PlasticMosaic_Gray.description>
+
+  <VMEu_PlasticMosaic_Black.label>черная пластиковая мозаика</VMEu_PlasticMosaic_Black.label>
+  <VMEu_PlasticMosaic_Black.description>Пластиковые панели, разрезанные на мелкие мозаики. Довольно приятны на вид, могут быть окрашены в разные цвета для получения желаемого внешнего вида.</VMEu_PlasticMosaic_Black.description>
+
+  <VMEu_PlasticMosaic_Golden.label>золотая пластиковая мозаика</VMEu_PlasticMosaic_Golden.label>
+  <VMEu_PlasticMosaic_Golden.description>Пластиковые панели, разрезанные на мелкие мозаики. Довольно приятны на вид, могут быть окрашены в разные цвета для получения желаемого внешнего вида.</VMEu_PlasticMosaic_Golden.description>
+
+  <VMEu_PlasticMosaic_Pink.label>розовая пластиковая мозаика</VMEu_PlasticMosaic_Pink.label>
+  <VMEu_PlasticMosaic_Pink.description>Пластиковые панели, разрезанные на мелкие мозаики. Довольно приятны на вид, могут быть окрашены в разные цвета для получения желаемого внешнего вида.</VMEu_PlasticMosaic_Pink.description>
+
+  <VMEu_PlasticMosaic_Brown.label>коричневая пластиковая мозаика</VMEu_PlasticMosaic_Brown.label>
+  <VMEu_PlasticMosaic_Brown.description>Пластиковые панели, разрезанные на мелкие мозаики. Довольно приятны на вид, могут быть окрашены в разные цвета для получения желаемого внешнего вида.</VMEu_PlasticMosaic_Brown.description>
+
+
+  <!-- ##### Plastic Tile ##### -->
+
+  <VMEu_PlasticTiles_Rose.label>розовая пластиковая плитка</VMEu_PlasticTiles_Rose.label>
+  <VMEu_PlasticTiles_Rose.description>Пластиковые панели, разрезанные на большие квадраты. Придает ощущение современности, а ее сверхгладкая поверхность позволяет получить небольшой бонус к чистоте.</VMEu_PlasticTiles_Rose.description>
+
+  <VMEu_PlasticTiles_Silver.label>серебряная пластиковая плитка</VMEu_PlasticTiles_Silver.label>
+  <VMEu_PlasticTiles_Silver.description>Пластиковые панели, разрезанные на большие квадраты. Придает ощущение современности, а ее сверхгладкая поверхность позволяет получить небольшой бонус к чистоте.</VMEu_PlasticTiles_Silver.description>
+
+  <VMEu_PlasticTiles_Aqua.label>бирюзовая пластиковая плитка</VMEu_PlasticTiles_Aqua.label>
+  <VMEu_PlasticTiles_Aqua.description>Пластиковые панели, разрезанные на большие квадраты. Придает ощущение современности, а ее сверхгладкая поверхность позволяет получить небольшой бонус к чистоте.</VMEu_PlasticTiles_Aqua.description>
+
+
+  <!-- ##### Asphalt Road ##### -->
+
+  <VMEu_AsphaltRoad.label>асфальт</VMEu_AsphaltRoad.label>
+  <VMEu_AsphaltRoad.description>Грубая асфальтовая дорога. Она очень быстро строится и по ней очень легко передвигаться, к тому же она выглядит довольно аккуратно.</VMEu_AsphaltRoad.description>
+  
+  
+  <!-- ##### Пластиковая кирпичная плитка ##### -->
+  
+  <VMEu_TilePlastickBricks_Blue.label>синяя пластиковая кирпичная плитка</VMEu_TilePlastickBricks_Blue.label>
+  <VMEu_TilePlastickBricks_Blue.description>Обрезки пластиковых кирпичей укладываются в прекрасную на вид дорожку, конечно, не такую впечатляющую, как настоящая каменная плитка, но зато она быстрее строится.</VMEu_TilePlastickBricks_Blue.description>
+  
+  <VMEu_TilePlastickBricks_Red.label>красная пластиковая кирпичная плитка</VMEu_TilePlastickBricks_Red.label>
+  <VMEu_TilePlastickBricks_Red.description>Обрезки пластиковых кирпичей укладываются в прекрасную на вид дорожку, конечно, не такую впечатляющую, как настоящая каменная плитка, но зато она быстрее строится.</VMEu_TilePlastickBricks_Red.description>
+  
+  <VMEu_TilePlastickBricks_White.label>белая пластиковая кирпичная плитка</VMEu_TilePlastickBricks_White.label>
+  <VMEu_TilePlastickBricks_White.description>Обрезки пластиковых кирпичей укладываются в прекрасную на вид дорожку, конечно, не такую впечатляющую, как настоящая каменная плитка, но зато она быстрее строится.</VMEu_TilePlastickBricks_White.description>
+  
+  <VMEu_TilePlastickBricks_Black.label>чёрная пластиковая кирпичная плитка</VMEu_TilePlastickBricks_Black.label>
+  <VMEu_TilePlastickBricks_Black.description>Обрезки пластиковых кирпичей укладываются в прекрасную на вид дорожку, конечно, не такую впечатляющую, как настоящая каменная плитка, но зато она быстрее строится.</VMEu_TilePlastickBricks_Black.description>
+  
+  <VMEu_TilePlastickBricks_Brown.label>коричневая пластиковая кирпичная плитка</VMEu_TilePlastickBricks_Brown.label>
+  <VMEu_TilePlastickBricks_Brown.description>Обрезки пластиковых кирпичей укладываются в прекрасную на вид дорожку, конечно, не такую впечатляющую, как настоящая каменная плитка, но зато она быстрее строится.</VMEu_TilePlastickBricks_Brown.description>
+
+
+</LanguageData>

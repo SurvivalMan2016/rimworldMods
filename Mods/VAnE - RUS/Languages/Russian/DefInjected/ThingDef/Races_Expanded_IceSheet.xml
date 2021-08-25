@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Penguin -->
+
+  <AEXP_Penguin.label>пингвин</AEXP_Penguin.label>
+  <AEXP_Penguin.description>Водная нелетающая птица, обитающая только в арктических регионах. Пингвины, которых часто можно увидеть большими стаями, свирепы если загнать их в угол и могут быстро настигнуть любого охотника, достаточно некомпетентного, чтобы подобраться к ним.</AEXP_Penguin.description>
+  <AEXP_Penguin.tools.0.label>когти</AEXP_Penguin.tools.0.label>
+  <AEXP_Penguin.tools.1.label>клюв</AEXP_Penguin.tools.1.label>
+  <AEXP_Penguin.tools.2.label>голова</AEXP_Penguin.tools.2.label>
+
+  <!-- Seal -->
+
+  <AEXP_Seal.label>тюлень</AEXP_Seal.label>
+  <AEXP_Seal.description>Полуводное млекопитающее среднего размера, которое выходит на берег только для того, чтобы поесть, спариться и спастись от хищников. Будучи агрессивными охотниками, тюлени способны схватить гораздо более крупную добычу, чем они сами, а также проявляют каннибализм, если еды не хватает.</AEXP_Seal.description>
+  <AEXP_Seal.tools.0.label>левый передний плавник</AEXP_Seal.tools.0.label>
+  <AEXP_Seal.tools.1.label>правый передний плавник</AEXP_Seal.tools.1.label>
+  <AEXP_Seal.tools.2.label>зубы</AEXP_Seal.tools.2.label>
+  <AEXP_Seal.tools.3.label>голова</AEXP_Seal.tools.3.label>
+  <AEXP_Seal.race.meatLabel>мясо ластоногого</AEXP_Seal.race.meatLabel>
+
+  <!-- Walrus -->
+
+  <AEXP_Walrus.label>морж</AEXP_Walrus.label>
+  <AEXP_Walrus.description>Морж - крупное морское животное, обитающее только в арктических регионах планеты. Имеет выступающие клыки, которые являются ценным предметом роскоши во всем мире.</AEXP_Walrus.description>
+  <AEXP_Walrus.tools.0.label>бивень</AEXP_Walrus.tools.0.label>
+  <AEXP_Walrus.tools.1.label>голова</AEXP_Walrus.tools.1.label>
+
+
+</LanguageData>

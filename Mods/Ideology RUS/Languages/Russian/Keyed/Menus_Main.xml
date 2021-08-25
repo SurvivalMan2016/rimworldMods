@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Guests -->
+  <!-- EN: slave -->
+  <Slave>раб</Slave>
+  <!-- EN: Choose next colony site -->
+  <ChooseNextColonySite>Выберите следующий участок колонии</ChooseNextColonySite>
+  
+  <!-- Core -->
+  
+  <!-- Factions -->
+  <!-- EN: Factions -->
+  <Factions>Фракции</Factions>
+  <!-- EN: Gameplay problems can occur with more than {0} factions. -->
+  <RecommendedFactionCount>Проблемы с игровым процессом могут возникать с более чем {0} фракциями.</RecommendedFactionCount>
+  <!-- EN: Maximum {0} visible factions allowed. -->
+  <TotalFactionsAllowed>Максимальное количество {0} разрешенных видимых фракций.</TotalFactionsAllowed>
+  <!-- EN: There can be no more than {0} {1}. -->
+  <MaxFactionsForType>Не может быть больше {0} {1}.</MaxFactionsForType>
+  <!-- EN: Restore defaults -->
+  <ResetFactionsToDefault>Восстановить по умолчанию</ResetFactionsToDefault>
+  <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
+  <FactionSelectionDesc>Выберите фракции в мире. Вы можете выбрать в общей сложности до {0} фракций.</FactionSelectionDesc>
+  <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
+  <FactionDisabledContentWarning>Отключение {0} означает меньшее разнообразие заданий и другое сокращение контента.</FactionDisabledContentWarning>
+  <!-- EN: Disabling {0} means less spontaneous threat variety. -->
+  <InsectsDisabledContentWarning>Отключение {0} означает уменьшение количества неожиданных угроз.</InsectsDisabledContentWarning>
+  <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
+  <MechanoidsDisabledContentWarning>Отключение {0} означает меньшее разнообразие заданий и неожиданных угроз.</MechanoidsDisabledContentWarning>
+  <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
+  <FactionsDisabledWarning>Без других фракций рейды, торговля и квесты не будут происходить как обычно.</FactionsDisabledWarning>
+    
+  <!-- Mods config -->
+  <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
+  <ModReorderConflict_MustLoadAfter>Не удается переместить {0}: он должен быть загружен после {1}.</ModReorderConflict_MustLoadAfter>
+  <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
+  <ModReorderConflict_MustLoadBefore>Не удается переместить {0}: он должен быть загружен до {1}.</ModReorderConflict_MustLoadBefore>
+  <!-- EN: Drag to reorder -->
+  <DragToReorder>Перетаскивайте, чтобы упорядочить</DragToReorder>
+  
+  <!-- EN: Player tools -->
+  <!-- EN: Classic mortars -->
+  <Difficulty_ClassicMortars_Label>Классические минометы</Difficulty_ClassicMortars_Label>
+  <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
+  <Difficulty_ClassicMortars_Info>Минометы не требуют для изготовления или перезарядки усиленных труб, и они сбалансированы для облегчения доступа.</Difficulty_ClassicMortars_Info>
+  
+  <!-- EN: Ideology -->
+  <DifficultyIdeologySection>Идеология</DifficultyIdeologySection>
+  <!-- EN: Low pop conversion boost -->
+  <Difficulty_LowPopConversionBoost_Label>Низкий уровень усиления обращения</Difficulty_LowPopConversionBoost_Label>
+  <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to his ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
+  <Difficulty_LowPopConversionBoost_Info>С одним поселенцем стартовой идеологии игрока шанс перехода в его идеологию умножается на эту сумму. Попытки обращения против них имеют свой эффект, деленный на эту величину.\n\nС двумя поселенцами стартовой идеологии игрока эффект уменьшается вдвое.\n\nС тремя или более поселенцами начальной идеологии игрока это не имеет никакого эффекта.</Difficulty_LowPopConversionBoost_Info>
+  
+  <!-- EN: Caused by role: {0} -->
+  <IncapableOfTooltipRole>Вызвано ролью: {0}</IncapableOfTooltipRole>
+  <!-- EN: This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in -->
+  <GuiltyDesc>Этот поселенец считается виновным. Вы можете беспрепятственно изгнать, казнить или арестовать его, и другие не будут беспокоиться.\n\nВина истекает через</GuiltyDesc>
+  
+  <!-- EN: male and female -->
+  <MaleAndFemale>мужчина и женщина</MaleAndFemale>
+
+</LanguageData>

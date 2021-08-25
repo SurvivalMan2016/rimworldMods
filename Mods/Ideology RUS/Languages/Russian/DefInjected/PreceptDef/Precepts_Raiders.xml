@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: required -->
+  <Raiding_Required.label>необходимо</Raiding_Required.label>
+  <!-- EN: We don't work like common laborers, we take from the weak as the strong should. Failing to do so is a tremendous shame. -->
+  <Raiding_Required.description>Мы работаем не как простые рабочие, мы берем у слабых, как и положено сильным. Неспособность сделать это-огромный позор.</Raiding_Required.description>
+  <!-- EN: Less than<x> {DAYSSINCELASTRAIDTHRESHOLD} </x>days since our last raid -->
+  <Raiding_Required.comps.0.thoughtStageDescriptions.0>Меньше, чем {DAYSSINCELASTRAIDTHRESHOLD} дней со времени нашего последнего рейда</Raiding_Required.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: More than<x> {DAYSSINCELASTRAIDTHRESHOLD} </x>days since our last raid -->
+  <Raiding_Required.comps.0.thoughtStageDescriptions.1>Больше, чем {DAYSSINCELASTRAIDTHRESHOLD} дней со времени нашего последнего рейда</Raiding_Required.comps.0.thoughtStageDescriptions.1>
+  
+  <!-- EN: respected -->
+  <Raiding_Respected.label>уважаемые</Raiding_Respected.label>
+  <!-- EN: We don't work like common laborers, we take from the weak as the strong should. Failing to do so is a mark of shame. -->
+  <Raiding_Respected.description>Мы работаем не как простые рабочие, мы берем у слабых, как и положено сильным. Неспособность сделать это - признак позора.</Raiding_Respected.description>
+  <!-- EN: Less than<x> {DAYSSINCELASTRAIDTHRESHOLD} </x>days since our last raid -->
+  <Raiding_Respected.comps.0.thoughtStageDescriptions.0>Меньше, чем {DAYSSINCELASTRAIDTHRESHOLD} дней со времени нашего последнего рейда</Raiding_Respected.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: More than<x> {DAYSSINCELASTRAIDTHRESHOLD} </x>days since our last raid -->
+  <Raiding_Respected.comps.0.thoughtStageDescriptions.1>Больше, чем {DAYSSINCELASTRAIDTHRESHOLD} дней со времени нашего последнего рейда</Raiding_Respected.comps.0.thoughtStageDescriptions.1>
+  
+</LanguageData>

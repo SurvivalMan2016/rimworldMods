@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Industrial Ammo -->
+<ThingDef ParentName="ResourceBase">
+    <defName>VMEu_IndustrialAmmo</defName>
+    <label>Industrial turret ammunition</label>
+    <description>Generic, industrial class ammunition for turrets made from lead. This is the most used type of ammunition among the rimworlds for industrial military grade turrets.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/VMEu_IndustrialAmmo</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <stackLimit>500</stackLimit>
+	<smallVolume>true</smallVolume>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <MarketValue>1.7</MarketValue>
+      <Mass>0.001</Mass>
+      <Flammability>0.7</Flammability>
+      <DeteriorationRate>1.0</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>VMEu_AmmunitionCategory</li>
+    </thingCategories>
+  </ThingDef>
+  
+  <!-- Heavy Ammo -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>VMEu_HeavyAmmo</defName>
+    <label>Heavy turret ammunition</label>
+    <description>Heavy military class ammunition for turrets made from lead. This type of ammunition is used in advanced, high caliber military turrets.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/VMEu_HeavyAmmo</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <stackLimit>500</stackLimit>
+	<smallVolume>true</smallVolume>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <MarketValue>1.8</MarketValue>
+      <Mass>0.001</Mass>
+      <Flammability>0.7</Flammability>
+      <DeteriorationRate>1.0</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>VMEu_AmmunitionCategory</li>
+    </thingCategories>
+  </ThingDef>
+  
+  <!-- Uranium Ammo -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>VMEu_SniperAmmo</defName>
+    <label>Uranium ammunition</label>
+    <description>Heavy military class ammunition for turrets made from uranium. This type of ammunition is used for sniper turrets, since uranium can be exposed to more acceleration, it is ideal for high caliber weapons.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/VMEu_SniperAmmo</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <stackLimit>500</stackLimit>
+	<smallVolume>true</smallVolume>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <MarketValue>2.1</MarketValue>
+      <Mass>0.001</Mass>
+      <Flammability>0.7</Flammability>
+      <DeteriorationRate>1.0</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>VMEu_AmmunitionCategory</li>
+    </thingCategories>
+  </ThingDef>
+
+</Defs>

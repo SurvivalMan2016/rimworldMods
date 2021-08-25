@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- HellDrone -->
+
+  <ATPP_S1SurrogateGeneratorAI.label>S1 Суррогатный Андроид</ATPP_S1SurrogateGeneratorAI.label>
+  <ATPP_S1SurrogateGeneratorAI.description>Создает суррогатного андроида.</ATPP_S1SurrogateGeneratorAI.description>
+
+  <ATPP_S2SurrogateGeneratorAI.label>S2 Суррогатный Андроид</ATPP_S2SurrogateGeneratorAI.label>
+  <ATPP_S2SurrogateGeneratorAI.description>Создает суррогатного андроида.</ATPP_S2SurrogateGeneratorAI.description>
+
+  <ATPP_S3SurrogateGeneratorAI.label>S3 Суррогатный Андроид</ATPP_S3SurrogateGeneratorAI.label>
+  <ATPP_S3SurrogateGeneratorAI.description>Создает суррогатного андроида.</ATPP_S3SurrogateGeneratorAI.description>
+
+  <ATPP_S4SurrogateGeneratorAI.label>S4 Суррогатный Андроид</ATPP_S4SurrogateGeneratorAI.label>
+  <ATPP_S4SurrogateGeneratorAI.description>Создает суррогатного андроида.</ATPP_S4SurrogateGeneratorAI.description>
+
+  <ATPP_M7SurrogateGeneratorAI.label>M7 Суррогатный мех</ATPP_M7SurrogateGeneratorAI.label>
+  <ATPP_M7SurrogateGeneratorAI.description>Создает суррогатного андроида.</ATPP_M7SurrogateGeneratorAI.description>
+
+  <ATPP_SHUSurrogateGeneratorAI.label>S-HellUnit Суррогатный Андроид</ATPP_SHUSurrogateGeneratorAI.label>
+  <ATPP_SHUSurrogateGeneratorAI.description>Создает суррогатного андроида.</ATPP_SHUSurrogateGeneratorAI.description>
+
+  <ATPP_T3BlankGeneratorAI.label>T3 Пустой Андроид</ATPP_T3BlankGeneratorAI.label>
+  <ATPP_T3BlankGeneratorAI.description>Создает суррогатного андроида.</ATPP_T3BlankGeneratorAI.description>
+
+  <ATPP_T4BlankGeneratorAI.label>T4 Пустой Андроид</ATPP_T4BlankGeneratorAI.label>
+  <ATPP_T4BlankGeneratorAI.description>Создает суррогатного андроида.</ATPP_T4BlankGeneratorAI.description>
+
+
+</LanguageData>

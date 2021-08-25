@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidOperationBed.label>Станция обновления Андроидов</AndroidOperationBed.label>
+  <AndroidOperationBed.description>Специально сделанный стол, предназначенный для помощи в обновлении Андроидов и других операциях. Станция оснащена всеми инструментами, необходимыми для работы на андроидах, а также двумя дисплеями, которые показывают механику важную информацию об андроиде.</AndroidOperationBed.description>
+
+  <AndroidOperationKit.label>Шкаф апгрейда</AndroidOperationKit.label>
+  <AndroidOperationKit.description>Небольшой шкаф, который можно использовать в сочетании со станцией обновления Андроидов или кроватью. Он содержит очень точные, небольшие инструменты для самых деликатных процедур.</AndroidOperationKit.description>
+
+
+</LanguageData>

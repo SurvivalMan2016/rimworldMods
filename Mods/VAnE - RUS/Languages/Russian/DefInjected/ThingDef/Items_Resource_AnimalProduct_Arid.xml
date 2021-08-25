@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Crocodile -->
+
+  <AEXP_EggCrocodileUnfertilized.label>яйцо крокодила (неопл.)</AEXP_EggCrocodileUnfertilized.label>
+  <AEXP_EggCrocodileUnfertilized.description>Неоплодотворенное яйцо крокодила. Его можно съесть сырым, но гораздо лучше приготовить.</AEXP_EggCrocodileUnfertilized.description>
+
+  <AEXP_EggCrocodileFertilized.label>яйцо крокодила (опл.)</AEXP_EggCrocodileFertilized.label>
+  <AEXP_EggCrocodileFertilized.description>Оплодотворенное яйцо крокодила. Если все пойдет хорошо, из него вылупится детеныш крокодила. Его можно съесть сырым, но гораздо лучше приготовить.</AEXP_EggCrocodileFertilized.description>
+
+</LanguageData>

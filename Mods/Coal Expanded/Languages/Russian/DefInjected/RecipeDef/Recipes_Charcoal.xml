@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_CharcoalFromWood.label>Получить древесный уголь из древесины</Make_CharcoalFromWood.label>
+  <Make_CharcoalFromWood.description>Получить древесный уголь путём сжигания древесины.</Make_CharcoalFromWood.description>
+  <Make_CharcoalFromWood.jobString>Производит древесный уголь из древесины.</Make_CharcoalFromWood.jobString>
+
+  <Make_CoalFromStone.label>Получить каменный уголь из каменных блоков</Make_CoalFromStone.label>
+  <Make_CoalFromStone.description>Получить немного каменного угля путём переплавки каменных блоков.</Make_CoalFromStone.description>
+  <Make_CoalFromStone.jobString>Производит каменный уголь из каменных блоков.</Make_CoalFromStone.jobString>
+
+  <!-- Coal only into chemfuel recipe -->
+
+  <Make_ChemfuelFromCoal.label>Получить химтопливо из каменного угля</Make_ChemfuelFromCoal.label>
+  <Make_ChemfuelFromCoal.description>Получить химтопливо путём его синтеза из каменного угля.</Make_ChemfuelFromCoal.description>
+  <Make_ChemfuelFromCoal.jobString>Производит химтопливо из каменного угля.</Make_ChemfuelFromCoal.jobString>
+
+</LanguageData>

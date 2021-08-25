@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsRobotics.label>заниматься изготовлением механических изделий</DoBillsRobotics.label>
+  <DoBillsRobotics.verb>работать</DoBillsRobotics.verb>
+  <DoBillsRobotics.gerund>работать в</DoBillsRobotics.gerund>
+
+  <AT_RescueSurrogates.label>спасти суррогата</AT_RescueSurrogates.label>
+  <AT_RescueSurrogates.verb>спасти суррогата</AT_RescueSurrogates.verb>
+  <AT_RescueSurrogates.gerund>спасение суррогата</AT_RescueSurrogates.gerund>
+
+
+</LanguageData>

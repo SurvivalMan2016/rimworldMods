@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_WeirdCheese.label>странный сыр</VCE_WeirdCheese.label>
+  <VCE_WeirdCheese.description>Дурно пахнущий сыр, с которого стекает маслянистая пленка. У него кислый химический вкус, который можно считать либо экзотическим, либо отвратительным.</VCE_WeirdCheese.description>
+
+  <VCE_MechaCheese.label>меха сыр</VCE_MechaCheese.label>
+  <VCE_MechaCheese.description>Механоидный сыр, полученный путем прессования механоидного молока. Он не питателен, но при употреблении будет действовать как невероятно мощный препарат, похожий на Люцеферий, но без привыкания.</VCE_MechaCheese.description>
+
+  <VCE_BearffaloCheese.label>медвефалло сыр</VCE_BearffaloCheese.label>
+  <VCE_BearffaloCheese.description>Странный голубой сыр из молока медвефалло. Очень питательный, но с высоким содержанием насыщенных жиров.</VCE_BearffaloCheese.description>
+
+  <VCE_ThrumffaloGouda.label>трумфалло гауда</VCE_ThrumffaloGouda.label>
+  <VCE_ThrumffaloGouda.description>Этот гауда считается изысканным деликатесом. Созревание занимает очень много времени, но это один из самых питательных сыров в мире.</VCE_ThrumffaloGouda.description>
+
+  <VCE_LumpyCheese.label>кусковой сыр</VCE_LumpyCheese.label>
+  <VCE_LumpyCheese.description>Похоже этот комковатый сыр содержит концентрированные кусочки протеина, по вкусу напоминающий куриные наггетсы. Вашим колонистам понравится.</VCE_LumpyCheese.description>
+
+  <VCE_ChickenffaloCheese.label>курфалло сыр</VCE_ChickenffaloCheese.label>
+  <VCE_ChickenffaloCheese.description>Очень мягкий, почти безвкусный сыр. Единственное, что в нем хорошо, так это то, что он созревает намного быстрее других сыров.</VCE_ChickenffaloCheese.description>
+
+  <VCE_BrownCheese.label>коричневый сыр</VCE_BrownCheese.label>
+  <VCE_BrownCheese.description>Сыр коричневого цвета, по вкусу похожий на Чеддер, но с оттенком жареного ореха. Не очень питательный, но с очень приятным вкусом.</VCE_BrownCheese.description>
+
+  <VCE_HairyCheese.label>волосатый сыр</VCE_HairyCheese.label>
+  <VCE_HairyCheese.description>Почему? Почему, почему, почему, ПОЧЕМУ? Сыр. С волосами. ПОЧЕМУ???</VCE_HairyCheese.description>
+
+  <VCE_RatCheese.label>крысиный сыр</VCE_RatCheese.label>
+  <VCE_RatCheese.description>Как только вы избавитесь от мысли, что этот сыр был создан из молока гигантской крысы, то поймете, что он весьма неплох!</VCE_RatCheese.description>
+
+
+</LanguageData>

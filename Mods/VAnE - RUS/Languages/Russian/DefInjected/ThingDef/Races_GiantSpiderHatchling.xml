@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAECaves_GiantSpiderHatchling.label>гигантский паучонок</VAECaves_GiantSpiderHatchling.label>
+  <VAECaves_GiantSpiderHatchling.description>Гигантские пауки, разновидность членистоногих, на самом деле сильно отличаются по размеру от обычных домашних пауков, к которым привыкли люди. Однако во многом они похожи - они откладывают яйца в паучьих гнездах, атакуют свою жертву ядовитым жалом и заворачивают ее в коконы, где она хранится пока не наступает подходящее время для пиршества. Они быстро восстанавливают свои раны и очень восприимчивы к огню.\n\nДетеныш гигантского паука - шустрый паучонок, который быстро растет в размерах. Они еще не развили свои охотничьи способности, однако вполне могут обезвредить своих врагов мощным ядом.\n\nСпециальная механика: превращается в зрелого гигантского паука чуть менее чем за два дня. Если поблизости будет атакован древний гигантский паук, паучонок также атакует колонистов.</VAECaves_GiantSpiderHatchling.description>
+  <VAECaves_GiantSpiderHatchling.tools.0.label>мандибулы</VAECaves_GiantSpiderHatchling.tools.0.label>
+  <VAECaves_GiantSpiderHatchling.tools.1.label>голова</VAECaves_GiantSpiderHatchling.tools.1.label>
+
+
+</LanguageData>

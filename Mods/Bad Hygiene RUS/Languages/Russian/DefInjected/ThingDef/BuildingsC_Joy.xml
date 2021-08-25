@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <ThingDef ParentName="BasedHygieneMom">
+	  <description>Water fountain used for joy and beauty, must be filled with water.</description>
+	  <thingClass>DubsBadHygiene.Building_WaterFeature</thingClass>
+	  <defName>DBHWaterFeature</defName>
+	  <label>Water feature</label>
+	  <stuffCategories>
+		  <li>Stony</li>
+	  </stuffCategories>
+	  <costStuffCount>450</costStuffCount>
+	  <altitudeLayer>FloorEmplacement</altitudeLayer>
+	  <uiIconPath>DBH/UI/water_feature</uiIconPath>
+	  <graphicData>
+		  <drawSize>(5,5)</drawSize>
+		  <texPath>DBH/Things/Building/water_feature</texPath>
+		  <graphicClass>Graphic_Single</graphicClass>
+		  <shaderType>CutoutComplex</shaderType>
+	  </graphicData>
+	  <statBases>
+		  <MaxHitPoints>1500</MaxHitPoints>
+		  <WorkToBuild>10000</WorkToBuild>
+		  <Flammability>0</Flammability>
+		  <Beauty>200</Beauty>
+		  <Comfort>0.6</Comfort>
+		  <JoyGainFactor>1</JoyGainFactor>
+		  <Mass>100</Mass>
+	  </statBases>
+	  <building>
+		  <ai_chillDestination>true</ai_chillDestination>
+	  </building>
+	  <comps>
+		  <li Class="DubsBadHygiene.CompProperties_Pipe">
+			  <mode>Sewage</mode>
+		  </li>
+		  <li>
+			  <compClass>CompColorable</compClass>
+		  </li>
+	  </comps>
+	  <fillPercent>0.15</fillPercent>
+	  <size>(3, 3)</size>
+	  <passability>PassThroughOnly</passability>
+	  <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+	  <pathCost>0</pathCost>
+	  <rotatable>true</rotatable>
+	  <researchPrerequisites>
+		  <li MayRequire="dbhlitemode">SwimmingPools</li>
+	  </researchPrerequisites>
+	  <tickerType>Normal</tickerType>
+	  <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+  </ThingDef> -->
+
+  <DBHSwimmingPool.label>плавательный бассейн</DBHSwimmingPool.label>
+  <DBHSwimmingPool.description>Бассейн для гидротерапии, релаксации и удовольствия. Для начала использования его надо наполнить водой из водонапорных башен.</DBHSwimmingPool.description>
+  <DBHSwimmingPool_Blueprint.label>плавательный бассейн (проект)</DBHSwimmingPool_Blueprint.label>
+  <DBHSwimmingPool_Frame.label>плавательный бассейн (в процессе сборки)</DBHSwimmingPool_Frame.label>
+  <DBHSwimmingPool_Frame.description>Бассейн для гидротерапии, релаксации и удовольствия. Для начала использования его надо наполнить водой из водонапорных башен.</DBHSwimmingPool_Frame.description>
+
+  <HotTub.label>джакузи</HotTub.label>
+  <HotTub.description>Гидромассажная ванна для гидротерапии, релаксации и удовольствия. Для начала использования ее надо наполнить водой из водонапорных башен. Имеет подогрев и не требует отвода нечистот.</HotTub.description>
+  <HotTub_Blueprint.label>джакузи (проект)</HotTub_Blueprint.label>
+  <HotTub_Blueprint_Install.label>джакузи (проект)</HotTub_Blueprint_Install.label>
+  <HotTub_Frame.label>джакузи (в процессе сборки)</HotTub_Frame.label>
+  <HotTub_Frame.description>Гидромассажная ванна для гидротерапии, релаксации и удовольствия. Для начала использования ее надо наполнить водой из водонапорных башен. Имеет подогрев и не требует отвода нечистот.</HotTub_Frame.description>
+
+  <WashingMachine.label>стиральная машина</WashingMachine.label>
+  <WashingMachine.description>Отстирывает одежду так хорошо, что никто никогда не догадается, что в ней кто-то умер!</WashingMachine.description>
+  <WashingMachine_Blueprint.label>стиральная машина (проект)</WashingMachine_Blueprint.label>
+  <WashingMachine_Blueprint_Install.label>стиральная машина (проект)</WashingMachine_Blueprint_Install.label>
+  <WashingMachine_Frame.label>стиральная машина (в процессе сборки)</WashingMachine_Frame.label>
+  <WashingMachine_Frame.description>Отстирывает одежду так хорошо, что никто никогда не догадается, что в ней кто-то умер!</WashingMachine_Frame.description>
+
+
+</LanguageData>

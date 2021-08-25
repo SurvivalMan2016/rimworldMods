@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+   <IncidentDef>
+		<defName>ARKPPP_UnsecureWPN</defName>
+		<label>Unsecure WPN</label>
+		<category>Misc</category>
+		<targetTags>
+		  <li>World</li>
+		</targetTags>
+		<workerClass>aRandomKiwi.PPP.IncidentWorker_UnsecureWPN</workerClass>
+		<letterDef>PositiveEvent</letterDef>
+		<baseChance>0.45</baseChance>	
+		<minRefireDays>25</minRefireDays>
+  </IncidentDef>
+  
+   <IncidentDef>
+		<defName>ARKPPP_SupernovaDisturbance</defName>
+		<label>Supernova disturbance</label>
+		<category>Misc</category>
+		<targetTags>
+		  <li>World</li>
+		</targetTags>
+		<letterDef>NegativeEvent</letterDef>
+		<workerClass>aRandomKiwi.PPP.IncidentWorker_SupernovaDisturbance</workerClass>
+		<baseChance>0.25</baseChance>
+		<minRefireDays>45</minRefireDays>		
+  </IncidentDef>
+  
+  <IncidentDef>
+		<defName>ARKPPP_WPNInterruption</defName>
+		<label>WPN Interruption</label>
+		<category>Misc</category>
+		<targetTags>
+		  <li>World</li>
+		</targetTags>
+		<letterDef>NegativeEvent</letterDef>
+		<workerClass>aRandomKiwi.PPP.IncidentWorker_WPNInterruption</workerClass>
+		<baseChance>0.55</baseChance>	
+		<minRefireDays>15</minRefireDays>
+  </IncidentDef>
+  
+  	<IncidentDef>
+		<defName>ARKPPP_MechanoidWarship</defName>
+		<label>Mechanoid warship</label>
+		<category>Misc</category>
+		<targetTags>
+		  <li>World</li>
+		</targetTags>
+		<letterDef>NegativeEvent</letterDef>
+		<workerClass>aRandomKiwi.PPP.IncidentWorker_MechanoidWarship</workerClass>
+		<baseChance>0.15</baseChance>
+		<minRefireDays>40</minRefireDays>
+	</IncidentDef>
+	
+	<IncidentDef>
+		<defName>ARKPPP_STSHackFail</defName>
+		<label>STS hacking fail</label>
+		<category>Misc</category>
+		<targetTags>
+		  <li>World</li>
+		</targetTags>
+		<letterDef>NegativeEvent</letterDef>
+		<workerClass>aRandomKiwi.PPP.IncidentWorker_STSHackFail</workerClass>
+		<baseChance>0.45</baseChance>
+		<minRefireDays>35</minRefireDays>
+	</IncidentDef>
+	
+	<IncidentDef>
+		<defName>ARKPPP_DamagedSatellite</defName>
+		<label>Damaged satellite</label>
+		<category>Misc</category>
+		<targetTags>
+		  <li>World</li>
+		</targetTags>
+		<letterDef>NegativeEvent</letterDef>
+		<workerClass>aRandomKiwi.PPP.IncidentWorker_DamagedSatellite</workerClass>
+		<baseChance>0.45</baseChance>
+	</IncidentDef>
+  
+</Defs>

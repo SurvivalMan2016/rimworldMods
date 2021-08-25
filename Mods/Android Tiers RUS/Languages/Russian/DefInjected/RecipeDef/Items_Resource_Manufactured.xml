@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RepairKitAT.label>Сделать комплект обновления</RepairKitAT.label>
+  <RepairKitAT.description>Сделайте простой набор инструментов и материалов для обновления андроида.</RepairKitAT.description>
+  <RepairKitAT.jobString>Сделать комплект обновления</RepairKitAT.jobString>
+
+  <AIPersonaCore.label>Сделать ядро ИИ</AIPersonaCore.label>
+  <AIPersonaCore.description>Создайте сложное ядро искусственного интеллекта, способное к восприятию.</AIPersonaCore.description>
+  <AIPersonaCore.jobString>Сделать ядро ИИ</AIPersonaCore.jobString>
+
+  <CreateT1AndroidKit.label>Создать комплект для сборки Андроидов</CreateT1AndroidKit.label>
+  <CreateT1AndroidKit.description>Сделать T1 набор андроида из пластали и компонентов.</CreateT1AndroidKit.description>
+  <CreateT1AndroidKit.jobString>Сделать Андроида</CreateT1AndroidKit.jobString>
+
+  <CreateT2AndroidKit.label>Cоздать расширенный комплект для сборки Анндроидов</CreateT2AndroidKit.label>
+  <CreateT2AndroidKit.description>Сделать T2 набор андроида из пластали и компонентов.</CreateT2AndroidKit.description>
+  <CreateT2AndroidKit.jobString>Сделать Андроида</CreateT2AndroidKit.jobString>
+
+
+</LanguageData>

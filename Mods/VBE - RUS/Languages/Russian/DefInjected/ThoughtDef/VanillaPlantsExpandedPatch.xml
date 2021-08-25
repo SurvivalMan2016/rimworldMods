@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_CiderHigh.stages.0.label>выпил сидр</VBE_CiderHigh.stages.0.label>
+  <VBE_CiderHigh.stages.0.description>Я чувствую себя расслабленно после этого напитка. Это приятно.</VBE_CiderHigh.stages.0.description>
+
+  <VBE_CiderAsIngredient.stages.0.label>выпил коктейль на основе сидра</VBE_CiderAsIngredient.stages.0.label>
+  <VBE_CiderAsIngredient.stages.0.description>Вкусно.</VBE_CiderAsIngredient.stages.0.description>
+
+</LanguageData>

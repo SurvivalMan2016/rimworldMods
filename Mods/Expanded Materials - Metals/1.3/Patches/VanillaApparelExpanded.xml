@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Vanilla Armour Expanded</li>
+    </mods>
+	<match Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "VAE_Apparel_HAZMATSuit"]/costList</xpath>
+				<value>
+					<costList>
+						<Steel>10</Steel>
+						<VMEu_Lead>20</VMEu_Lead>
+						<ComponentIndustrial>4</ComponentIndustrial>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "VAE_Headgear_NightVisionGoggles"]/costList</xpath>
+				<value>
+					<costList>
+						<VMEu_Titanium>10</VMEu_Titanium>
+						<Plasteel>5</Plasteel>
+						<VMEu_Germanium>5</VMEu_Germanium>
+						<ComponentIndustrial>2</ComponentIndustrial>
+					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "VAE_Headgear_HAZMATMask"]/costList</xpath>
+				<value>
+					<costList>
+						<Steel>5</Steel>
+						<VMEu_Lead>15</VMEu_Lead>
+						<ComponentIndustrial>2</ComponentIndustrial>
+					</costList>
+				</value>
+			</li>
+		</operations>
+	</match>
+</Operation>
+
+</Patch>

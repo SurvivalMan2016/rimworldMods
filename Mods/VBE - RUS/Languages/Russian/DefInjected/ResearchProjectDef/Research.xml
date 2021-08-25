@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_MixologyResearch.label>миксология</VBE_MixologyResearch.label>
+  <VBE_MixologyResearch.description>Позволяет создавать современные аппараты, использующие электричество для идеального брожения, промышленного розлива в бутылки и смешивания коктейлей на барной стойке.</VBE_MixologyResearch.description>
+
+  <VBE_LiquorBrewing.label>перегонка алкоголя</VBE_LiquorBrewing.label>
+  <VBE_LiquorBrewing.description>Используйте передовые технологии пивоварения, которые позволяют перегонять и сбраживать более крепкие спиртные напитки с уникальными эффектами.</VBE_LiquorBrewing.description>
+
+</LanguageData>

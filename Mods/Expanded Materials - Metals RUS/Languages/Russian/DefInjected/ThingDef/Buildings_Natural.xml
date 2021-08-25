@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Coal -->
+
+  <VMEu_MineableCoal.label>Угольная руда</VMEu_MineableCoal.label>
+  <VMEu_MineableCoal.description>Порода содержащая немного угля.</VMEu_MineableCoal.description>
+
+
+  <!-- Iron -->
+
+  <VMEu_MineableIron.label>Железная руда </VMEu_MineableIron.label>
+  <VMEu_MineableIron.description>Порода содержащая немного железа.</VMEu_MineableIron.description>
+
+
+  <!-- Lead -->
+
+  <VMEu_MineableLead.label>Свинцовая руда</VMEu_MineableLead.label>
+  <VMEu_MineableLead.description>Порода содержащая немного свинца.</VMEu_MineableLead.description>
+
+
+  <!-- Tin -->
+
+  <VMEu_MineableTin.label>Оловянная руда</VMEu_MineableTin.label>
+  <VMEu_MineableTin.description>Порода содержащая немного олова.</VMEu_MineableTin.description>
+
+
+  <!-- Copper -->
+
+  <VMEu_MineableCopper.label>Медная руда</VMEu_MineableCopper.label>
+  <VMEu_MineableCopper.description>Порода содержащая немного меди.</VMEu_MineableCopper.description>
+
+
+  <!-- Germanium -->
+
+  <VMEu_MineableGermanium.label>Германиевая руда</VMEu_MineableGermanium.label>
+  <VMEu_MineableGermanium.description>Порода содержащая немного германия.</VMEu_MineableGermanium.description>
+
+
+  <!-- Titanium -->
+
+  <VMEu_MineableTitanium.label>Титановая руда</VMEu_MineableTitanium.label>
+  <VMEu_MineableTitanium.description>Порода содержащая немного титана.</VMEu_MineableTitanium.description>
+
+
+  <!-- Lithium -->
+
+  <VMEu_MineableLithium.label>Литиевая руда</VMEu_MineableLithium.label>
+  <VMEu_MineableLithium.description>Порода содержащая немного лития.</VMEu_MineableLithium.description>
+
+
+  <!-- Tungsten -->
+
+  <VMEu_MineableTungsten.label>Вольфрамовая руда</VMEu_MineableTungsten.label>
+  <VMEu_MineableTungsten.description>Порода содержащая немного вольфрама.</VMEu_MineableTungsten.description>
+
+
+</LanguageData>

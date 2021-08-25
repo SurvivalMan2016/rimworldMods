@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <M8Mech.label>M8 Механизированная пехота</M8Mech.label>
+  <M8Mech.description>Прототип механизированной пехоты M7, оснащенный ограниченным блоком SkyCore и радио SkyMind. Эти подразделения являются очень сильными, мощными боевыми машинами и позволяют цифровому сознанию перемещаться по полям сражений, но при этом они очень медлительны и имеют ограниченный объем внутренней памяти.</M8Mech.description>
+  <M8Mech.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</M8Mech.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <M8Mech.tools.0.label>правый кулак</M8Mech.tools.0.label>
+  <M8Mech.tools.1.label>левый кулак</M8Mech.tools.1.label>
+
+
+</LanguageData>

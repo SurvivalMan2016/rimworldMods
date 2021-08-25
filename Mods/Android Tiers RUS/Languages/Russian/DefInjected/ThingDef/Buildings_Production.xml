@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UnfinishedAndroid.label>Незаконченный андроид</UnfinishedAndroid.label>
+
+  <AndroidProductionVat.label>Гроб для производства робототехники</AndroidProductionVat.label>
+  <AndroidProductionVat.description>Гроб, который создает андроидов и части андроидов при наличии материалов и умеренном уровне участия человека.</AndroidProductionVat.description>
+
+  <AndroidOtherStuffTable.label>Верстак имплантов Андроидов</AndroidOtherStuffTable.label>
+  <AndroidOtherStuffTable.description>Этот верстак содержит все необходимое для создания очень сложных чипов имплантатов, а также различные химические смеси.</AndroidOtherStuffTable.description>
+
+  <AndroidPartsTable.label>Верстак частей Андроидов</AndroidPartsTable.label>
+  <AndroidPartsTable.description>Верстак, на котором хранится все оборудование, необходимое для изготовления различных запасных частей для Андроидов.</AndroidPartsTable.description>
+
+
+</LanguageData>

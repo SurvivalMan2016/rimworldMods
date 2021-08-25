@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Misc -->
+
+  <VAE_HulkBloodlust>Гаргантюа, охотящийся в этих местах, жаждет крови. Будьте осторожны!</VAE_HulkBloodlust>
+  <VAE_HulkRips>Безумный гаргантюа разрывает {1} у {0}!</VAE_HulkRips>
+  <VAE_LetterLabelInsectoidHulk>Хозяин монстров</VAE_LetterLabelInsectoidHulk>
+  <VAE_LetterInsectoidHulk>Неистовый гаргантюа рядом!\n\nСопровождаемое враждебно настроенными инсектоидами, это существо способно пробивать стены и двери, если сможет приблизиться к ним. Гаргантюа попытается атаковать вашу колонию и вовлечь ваших колонистов в смертельный ближний бой.</VAE_LetterInsectoidHulk>
+  <VAE_OpenCocoon>Открыть кокон</VAE_OpenCocoon>
+  <VAE_OpenCocoonDesc>Открыть кокон, чтобы освободить содержащегося там колониста или животное</VAE_OpenCocoonDesc>
+  <VAE_Scheduled>Открытие этого кокона уже запланировано одним из колонистов</VAE_Scheduled>
+  <VAE_CocoonHurt>Обитателю этого кокона плохо, откройте кокон быстрее, чтобы не допустить ухудшения ситуации!</VAE_CocoonHurt>
+  <VAE_CocoonCritical>Обитатель этого кокона в критическом состоянии, откройте кокон быстрее, чтобы не допустить ухудшения ситуации!</VAE_CocoonCritical>
+  <VAE_CocoonDeath>Обитатель этого кокона мертв</VAE_CocoonDeath>
+  <VAE_EggsHatchIn>Паучьи яйца вылупятся через: {0}</VAE_EggsHatchIn>
+  <VAE_AnimalSpawnMultiplier>VAE - модификатор появления пещерных животных</VAE_AnimalSpawnMultiplier>
+  <VAE_AnimalSpawnMultiplierTooltip>Этот модификатор повлияет на вероятность появления ВСЕХ животных из этого мода. Например, если установить его на 0.5, животные будут появляться в половине случаев от режима по умолчанию (который соответствует цифре 1). А если установить 2, вы получите вдвое больший шанс появления. И так далее. Влияет только на появление диких животных.</VAE_AnimalSpawnMultiplierTooltip>
+  <VAE_Reset>Сбросить модификатор</VAE_Reset>
+  <VAE_ArachnophobiaMode>Режим мода Arachnophobia: убирает ноги у графических моделей пауков</VAE_ArachnophobiaMode>
+
+
+</LanguageData>

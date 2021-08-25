@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Outposts.Settings.Title>Vanilla Expanded Framework - Outposts</Outposts.Settings.Title>
+  <Outposts.Settings.Multiplier>Мультипликатор продуктивности аванпостов:</Outposts.Settings.Multiplier>
+  <Outposts.Dialog.Create>Создать</Outposts.Dialog.Create>
+  <Outposts.Commands.Create.Label>Создать аванпост</Outposts.Commands.Create.Label>
+  <Outposts.Commands.Create.Desc>Создать новый аванпост, используя данный караван</Outposts.Commands.Create.Desc>
+  <Outposts.Letters.Lost.Label>Аванпост потерян</Outposts.Letters.Lost.Label>
+  <Outposts.Letters.Lost.Text>К сожалению, вследствие смерти всех обитателей, аванпост {0} потерян для нас.</Outposts.Letters.Lost.Text>
+  <Outposts.Letters.BattleWon.Label>Битва за аванпост выиграна</Outposts.Letters.BattleWon.Label>
+  <Outposts.Letters.BattleWon.Text>Мы успешно выиграли битву за {0}.</Outposts.Letters.BattleWon.Text>
+  <Outposts.Letters.Items.Label>Предметы от {0}</Outposts.Letters.Items.Label>
+  <Outposts.Letters.Items.Text>Мы получили следующие предметы от аванпоста {0}:</Outposts.Letters.Items.Text>
+  <Outposts.Commands.AddPawn.Label>Добавить колониста</Outposts.Commands.AddPawn.Label>
+  <Outposts.Commands.AddPawn.Desc>Переместить колониста из данного каравана в аванпост</Outposts.Commands.AddPawn.Desc>
+  <Outposts.Commands.Pack.Label>Собраться</Outposts.Commands.Pack.Label>
+  <Outposts.Commands.Pack.Desc>Начать сборы данного аванпоста обратно в караван</Outposts.Commands.Pack.Desc>
+  <Outposts.Commands.Remove.Label>Забрать колониста</Outposts.Commands.Remove.Label>
+  <Outposts.Commands.Remove.Desc>Забрать колониста из данного аванпоста в новый караван</Outposts.Commands.Remove.Desc>
+  <Outposts.Command.Remove.Only1>Невозможно забрать колонистов: только 1 обитатель аванпоста. Если вы хотите убрать этот аванпост, выберите "Собраться".</Outposts.Command.Remove.Only1>
+  <Outposts.Contains>Содержит {0} колонистов</Outposts.Contains>
+  <Outposts.Packing>Собирается в караван. Будет завершено через {0}</Outposts.Packing>
+  <Outposts.NotSkilledEnough>Поселенцы недостаточно развиты, требуется совокупный навык {0} по крайней мере {1} уровня</Outposts.NotSkilledEnough>
+  <Outposts.RestingAt>Отдыхает на аванпосте {0}</Outposts.RestingAt>
+
+</LanguageData>

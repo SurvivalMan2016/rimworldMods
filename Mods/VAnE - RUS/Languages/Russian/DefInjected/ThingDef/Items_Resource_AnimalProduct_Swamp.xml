@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anaconda -->
+
+  <AEXP_EggAnacondaFertilized.label>яйцо анаконды (опл.)</AEXP_EggAnacondaFertilized.label>
+  <AEXP_EggAnacondaFertilized.description>Оплодотворенное яйцо анаконды. Если все пойдет хорошо, из него вылупится змееныш анаконды. Его можно съесть сырым, но гораздо лучше приготовить.</AEXP_EggAnacondaFertilized.description>
+
+
+  <!-- Alligator -->
+
+  <AEXP_EggAlligatorFertilized.label>яйцо аллигатора (опл.)</AEXP_EggAlligatorFertilized.label>
+  <AEXP_EggAlligatorFertilized.description>Оплодотворенное яйцо аллигатора. Если все пойдет хорошо, из него вылупится детеныш аллигатора. Его можно съесть сырым, но гораздо лучше приготовить.</AEXP_EggAlligatorFertilized.description>
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AEXP_AntleredQuadruped.label>рогатые копытные</AEXP_AntleredQuadruped.label>
+  <AEXP_AntleredQuadruped.corePart.parts.3.customLabel>левое легкое</AEXP_AntleredQuadruped.corePart.parts.3.customLabel>
+  <AEXP_AntleredQuadruped.corePart.parts.4.customLabel>правое легкое</AEXP_AntleredQuadruped.corePart.parts.4.customLabel>
+  <AEXP_AntleredQuadruped.corePart.parts.5.customLabel>левая почка</AEXP_AntleredQuadruped.corePart.parts.5.customLabel>
+  <AEXP_AntleredQuadruped.corePart.parts.6.customLabel>правая почка</AEXP_AntleredQuadruped.corePart.parts.6.customLabel>
+  <AEXP_AntleredQuadruped.corePart.parts.8.parts.0.parts.2.customLabel>левый глаз</AEXP_AntleredQuadruped.corePart.parts.8.parts.0.parts.2.customLabel>
+  <AEXP_AntleredQuadruped.corePart.parts.8.parts.0.parts.3.customLabel>правый глаз</AEXP_AntleredQuadruped.corePart.parts.8.parts.0.parts.3.customLabel>
+  <AEXP_AntleredQuadruped.corePart.parts.8.parts.0.parts.4.customLabel>левое ухо</AEXP_AntleredQuadruped.corePart.parts.8.parts.0.parts.4.customLabel>
+  <AEXP_AntleredQuadruped.corePart.parts.8.parts.0.parts.5.customLabel>правое ухо</AEXP_AntleredQuadruped.corePart.parts.8.parts.0.parts.5.customLabel>
+  <AEXP_AntleredQuadruped.corePart.parts.9.customLabel>левая передняя нога</AEXP_AntleredQuadruped.corePart.parts.9.customLabel>
+  <AEXP_AntleredQuadruped.corePart.parts.9.parts.0.customLabel>левое переднее копыто</AEXP_AntleredQuadruped.corePart.parts.9.parts.0.customLabel>
+  <AEXP_AntleredQuadruped.corePart.parts.10.customLabel>правая передняя нога</AEXP_AntleredQuadruped.corePart.parts.10.customLabel>
+  <AEXP_AntleredQuadruped.corePart.parts.10.parts.0.customLabel>правое переднее копыто</AEXP_AntleredQuadruped.corePart.parts.10.parts.0.customLabel>
+  <AEXP_AntleredQuadruped.corePart.parts.11.customLabel>левая задняя нога</AEXP_AntleredQuadruped.corePart.parts.11.customLabel>
+  <AEXP_AntleredQuadruped.corePart.parts.11.parts.0.customLabel>левое заднее копыто</AEXP_AntleredQuadruped.corePart.parts.11.parts.0.customLabel>
+  <AEXP_AntleredQuadruped.corePart.parts.12.customLabel>правая задняя нога</AEXP_AntleredQuadruped.corePart.parts.12.customLabel>
+  <AEXP_AntleredQuadruped.corePart.parts.12.parts.0.customLabel>правое заднее копыто</AEXP_AntleredQuadruped.corePart.parts.12.parts.0.customLabel>
+
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TowerContamination.label>загрязнение воды в водонапорной башне</TowerContamination.label>
+  <TowerContamination.letterText>Водонапорная башня была загрязнена. Это представляет серьезную опасность для здоровья ваших колонистов! Опустошите баки или постройте систему очистки воды.</TowerContamination.letterText>
+  <TowerContamination.letterLabel>Загрязнена вода в водонапорной башне</TowerContamination.letterLabel>
+
+
+</LanguageData>

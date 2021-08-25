@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loadFolders>
+	<v1.3>
+		<li>Content</li>
+		<li IfModActive="dubwise.dubsbadhygiene">TexturesOnDemand/dubwise.dubsbadhygiene</li>
+		<li IfModActive="rd.earlytimes">TexturesOnDemand/rd.earlytimes</li>
+		<li IfModActive="oskarpotocki.vanillafactionsexpanded.settlersmodule">TexturesOnDemand/oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
+		<li IfModActive="kentington.saveourship2">TexturesOnDemand/kentington.saveourship2</li>
+		<li IfModActive="vanillaexpanded.vtexvariations">TexturesOnDemand/vanillaexpanded.vtexvariations</li>
+		<li IfModActive="wemd.reinforceddoors">TexturesOnDemand/wemd.reinforceddoors</li>
+		<li IfModActive="Ludeon.RimWorld.Ideology">TexturesOnDemand/Ludeon.RimWorld.Ideology</li>
+		<li IfModActive="jecrell.doorsexpanded">TexturesOnDemand/jecrell.doorsexpanded</li>
+		<li IfModActive="nanoce.glasslights">TexturesOnDemand/nanoce.glasslights</li>
+		<li IfModActive="aoba.fortress.neolithic">TexturesOnDemand/aoba.fortress.neolithic</li>
+		<li IfModActive="erin.japanesefurniture">TexturesOnDemand/erin.japanesefurniture</li>
+		<li IfModActive="dankpyon.medieval.overhaul">TexturesOnDemand/dankpyon.medieval.overhaul</li>
+		<li IfModActive="solaris.furniturebase">TexturesOnDemand/solaris.furniturebase</li>
+		<li IfModActive="cp.uncle.boris.used.furniture">TexturesOnDemand/cp.uncle.boris.used.furniture</li>
+		<li IfModActive="mlie.concrete">TexturesOnDemand/mlie.concrete</li>
+		<li IfModActive="rimeffect.core">TexturesOnDemand/rimeffect.core</li>
+		<li IfModActive="japanstyle.velcroboy333">TexturesOnDemand/japanstyle.velcroboy333</li>
+	</v1.3>
+</loadFolders>

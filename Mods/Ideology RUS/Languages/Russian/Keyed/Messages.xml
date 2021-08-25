@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- EN: Create or select an ideoligion for your faction. -->
+  <MessageMustChooseIdeo>Создайте или выберите идеологию для своей фракции.</MessageMustChooseIdeo>
+  <!-- EN: The ideoligion name can't be empty. -->
+  <MessageIdeoNameCantBeEmpty>Название идеологии не может быть пустым.</MessageIdeoNameCantBeEmpty>
+  <!-- EN: {PRECEPT1} and {PRECEPT2} are incompatible. -->
+  <MessageIdeoIncompatiblePrecepts>{PRECEPT1} и {PRECEPT2} несовместимы.</MessageIdeoIncompatiblePrecepts>
+  <!-- EN: {PRECEPT} needs one of these buildings -->
+  <MessageRitualMissingTarget>{PRECEPT} нуждается в одном из этих зданий</MessageRitualMissingTarget>
+  <!-- EN: {PRECEPT} needs an associated ritual. -->
+  <MessageBuildingMissingRitual>{PRECEPT} нуждается в соответствующем ритуале.</MessageBuildingMissingRitual>
+  <!-- EN: {0_labelShort} refuses to do this because of {0_possessive} ideoligion. -->
+  <MessagePawnUnwillingToDoDueToIdeo>{0_labelShort} отказывается это делать из-за своей идеологии.</MessagePawnUnwillingToDoDueToIdeo>
+  <!-- EN: {INITIATOR_nameDef} tried to convert {RECIPIENT_nameDef} to {INITIATOR_possessive} ideoligion. {RECIPIENT_nameDef}'s certainty has fallen from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. {RECIPIENT_pronoun} resents the conversion attempt. -->
+  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef} {INITIATOR_gender ? попытался : попыталась} обратить {RECIPIENT_nameDef} в свою идеологию. Уверенность {RECIPIENT_nameDef} упала с {CERTAINTYBEFORE} до {CERTAINTYAFTER}. {RECIPIENT_pronoun} {RECIPIENT_gender ? возмущен : возмущена} попыткой обращения.</MessageFailedConvertIdeoAttempt>
+  <!-- EN: {PAWN1_nameDef} tried to convert {PAWN2_nameDef} to {PAWN1_possessive} ideoligion. This led to a social fight! -->
+  <MessageFailedConvertIdeoAttemptSocialFight>{PAWN1_nameDef} {PAWN1_gender ? попытался : попыталась} обратить {PAWN2_nameDef} в свою идеологию. Это привело к перепалке!</MessageFailedConvertIdeoAttemptSocialFight>
+  <!-- EN: You must choose at least {0} memes. -->
+  <MessageNotEnoughMemes>Вы должны выбрать не менее {0} доктрин.</MessageNotEnoughMemes>
+  <!-- EN: You can't choose more than {0} memes. -->
+  <MessageTooManyMemes>Вы не можете выбрать более {0} доктрин.</MessageTooManyMemes>
+  <!-- EN: You must choose a structure meme. -->
+  <MessageNotEnoughStructureMemes>Вы должны выбрать доктрину структуры.</MessageNotEnoughStructureMemes>
+  <!-- EN: {0_label} and {1_label} are incompatible with each other. -->
+  <MessageIncompatibleMemes>{0_label} и {1_label} несовместимы друг с другом.</MessageIncompatibleMemes>
+  <!-- EN: You need {0} to start the {1}. -->
+  <MessageNoRequiredRolePawnToBeginRitual>Вам необходим {0}, чтобы начать {1}.</MessageNoRequiredRolePawnToBeginRitual>
+  <!-- EN: Before starting the {1}, you must assign someone to the role of {0}. -->
+  <MessageNeedAssignedRoleToBeginRitual>Перед началом {1} вы должны назначить кого-то на роль {0}.</MessageNeedAssignedRoleToBeginRitual>
+  <!-- EN: {DESIREDAPPAREL} apparel desire overlaps with {ROLE} apparel requirement. -->
+  <MessageIdeoWarnRoleApparelOverlapsDesiredApparel>Требование к одежде {DESIREDAPPAREL} совпадает с требованием к одежде {ROLE}.</MessageIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <!-- EN: {DESIREDAPPAREL} overlaps with {ROLE} apparel requirement ({ROLEAPPAREL}). This will make it impossible for {ROLE}s to wear the required and desired apparel together. -->
+  <DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL} пересекается с требованием к одежде {ROLE} ({ROLEAPPAREL}). Это лишит {ROLE} возможности носить требуемую и желаемую одежду вместе.</DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>
+  
+  <!-- EN: {0_labelShort} now holds the role of {1}. -->
+  <MessageRoleAssigned>{0_labelShort} теперь выполняет роль {1}.</MessageRoleAssigned>
+  <!-- EN: Since {0_labelShort} became a prisoner, {0_pronoun} no longer can hold the role of {1}. -->
+  <MessageRoleUnassignedPrisoner>С тех пор как {0_labelShort} {0_gender стал : стала} заключенным, {0_pronoun} больше не может выполнять роль {1}.</MessageRoleUnassignedPrisoner>
+  <!-- EN: Warning: {0} will be upset if a tree is cut. -->
+  <MessageWarningPlayerDesignatedTreeChopped>Предупреждение: {0} будет {0_gender расстроен : расстроена}, если дерево будет срублено.</MessageWarningPlayerDesignatedTreeChopped>
+  <!-- EN: Warning: {0} will be upset if mining occurs. -->
+  <MessageWarningPlayerDesignatedMining>Предупреждение: {0} будет {0_gender расстроен : расстроена}, если начнется добыча полезных ископаемых.</MessageWarningPlayerDesignatedMining>
+  <!-- EN: The {TREE_label} has had its connection with {PAWN_nameDef} torn. It must recover for {DURATION} before it can reconnect again. -->
+  <MessageConnectedPawnDied>У {TREE_label} была разорвана связь с {PAWN_nameDef}. Оно должен восстановиться в течение {DURATION}, прежде чем сможет снова установить связь.</MessageConnectedPawnDied>
+
+  <!-- Slave interactions -->
+  <!-- EN: {0_nameDef} has been emancipated by {1_nameDef}. -->
+  <MessageSlaveEmancipated>{0_nameDef} {0_gender был освобожден : была освобождена} {1_nameDef}.</MessageSlaveEmancipated>
+  <!-- EN: {0_nameDef} has been enslaved by {1_nameDef}. -->
+  <MessagePrisonerEnslaved>{0_nameDef} {0_gender был порабощен: была порабощена} {1_nameDef}.</MessagePrisonerEnslaved>
+  <!-- EN: Prisoner {1_nameDef}'s will has been broken by {0_nameDef}. -->
+  <MessagePrisonerWillBroken>Воля заключенного {1_nameDef} была сломлена {0_nameDef}.</MessagePrisonerWillBroken>
+  <!-- EN: Enslavement will follow. -->
+  <MessagePrisonerWillBroken_RecruitAttempsWillBegin>За этим последует порабощение.</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
+
+  <!-- Prisoner interactions -->
+  <!-- EN: No warden is capable of this enslavement. -->
+  <MessageNoWardenCapableOfEnslavement>Ни один надзиратель не способен на это порабощение.</MessageNoWardenCapableOfEnslavement>
+  <!-- EN: You have no {MEMBERNAME} wardens to convert {PRISONER_nameDef}. {PRISONER_possessive} interaction mode has reverted to "No interaction". -->
+  <MessageNoWardenOfIdeo>У вас нет надзирателей {MEMBERNAME} для обращения {PRISONER_nameDef}. {PRISONER_possessive} режим взаимодействия вернулся в режим "Без взаимодействия".</MessageNoWardenOfIdeo>
+
+  <!-- Camps -->
+  <!-- EN: You've detected a {CAMP_label} nearby controlled by {FACTION_name}. -->
+  <MessageCampDetected>Вы обнаружили {CAMP_label} поблизости, контролируемый {FACTION_name}.</MessageCampDetected>
+
+  <!-- Charity -->
+  <!-- EN: Charity refused -->
+  <MessageCharityEventRefused>Спонсорство отказано</MessageCharityEventRefused>
+  <!-- EN: Charity fulfilled -->
+  <MessageCharityEventFulfilled>Спонсорство выполнено</MessageCharityEventFulfilled>
+  <!-- EN: {0} leaving empty-handed. -->
+  <MessageBeggarsLeavingWithNoItems>{0} уходит с пустыми руками.</MessageBeggarsLeavingWithNoItems>
+  <!-- EN: {0} leaving with requested items. -->
+  <MessageBeggarsLeavingWithItems>{0} уходит с запрошенными товарами.</MessageBeggarsLeavingWithItems>
+  <!-- EN: {0_nameDef} died without any treatment. -->
+  <MessageWandererLeftToDie>{0_nameDef} умер без какого-либо лечения.</MessageWandererLeftToDie>
+  <!-- EN: {0_nameDef} was recruited. -->
+  <MessageWandererRecruited>{0_nameDef} был завербован.</MessageWandererRecruited>
+  <!-- EN: {0_nameDef} left healthy. -->
+  <MessageWandererLeftHealthy>{0_nameDef} остался здоровым.</MessageWandererLeftHealthy>
+  <!-- EN: {0} failed. -->
+  <MessageCharityQuestEndedFailed>{0} провалено.</MessageCharityQuestEndedFailed>
+  <!-- EN: {0} succesfully completed. -->
+  <MessageCharityQuestEndedSuccess>{0} успешно завершено.</MessageCharityQuestEndedSuccess>
+
+  <!-- Ideo UI -->
+  <!-- EN: Cannot remove -->
+  <CannotRemove>Не удается удалить</CannotRemove>
+  <!-- EN: Cannot remove {MEME} -->
+  <CannotRemoveMemeRequired>Не удается удалить {MEME}</CannotRemoveMemeRequired>
+  <!-- EN: Cannot remove {MEME}: Required by player faction. -->
+  <CannotRemoveMemeRequiredPlayer>Не удается удалить {MEME}: Требуется фракцией игрока.</CannotRemoveMemeRequiredPlayer>
+  <!-- EN: Required by {FACTION_name}. -->
+  <RequiredByFaction>Требуется для {FACTION_name}.</RequiredByFaction>
+  <!-- EN: Roles cannot have overlapping apparel requirements. -->
+  <OverlappingRoleApparel>У ролей не может быть перекрывающихся требований к одежде.</OverlappingRoleApparel>
+  
+  <!-- EN: {0_label} will self-destruct in {1}. -->
+  <SelfDestructCountdown>{0_label} самоуничтожится через {1}.</SelfDestructCountdown>
+
+  <!-- Ancient complex -->
+  <!-- EN: You've discovered an ancient terminal with info about the {0}! -->
+  <MessageAncientTerminalDiscovered>Вы обнаружили древний терминал с информацией о {0}!</MessageAncientTerminalDiscovered>
+  <!-- EN: You've discovered secret information about {0}! Get back on the shuttle to launch it. -->
+  <MessageAncientComplexBackToShuttle>Вы обнаружили секретную информацию о {0}! Возвращайся на шаттл, чтобы запустить его.</MessageAncientComplexBackToShuttle>
+  <!-- EN: An ancient supply satellite has been activated. Supplies will drop nearby. -->
+  <MessageAncientSignalActivated>Активирован древний спутник снабжения. Припасы упадут неподалеку.</MessageAncientSignalActivated>
+  <!-- EN: {0} from the {1} have detected the supply signal and are attacking. -->
+  <MessageAncientSignalHostileDetected>{0} из {1} обнаружили сигнал питания и атакуют.</MessageAncientSignalHostileDetected>
+
+  <!-- Ancient altar -->
+  <!-- EN: All security systems are waking up! -->
+  <MessageAncientAltarThreatsWokenUp>Все системы безопасности пробуждаются!</MessageAncientAltarThreatsWokenUp>
+  <!-- EN: All security systems are alerted to your presence. -->
+  <MessageAncientAltarThreatsAlerted>Все системы безопасности предупреждены о вашем присутствии.</MessageAncientAltarThreatsAlerted>
+
+  <!-- Animals -->
+  <!-- EN: Warning: {PAWNKINDLABELPLURAL} are venerated by all {PAWNS}, and will not be harmed. -->
+  <MessageAnimalIsVeneratedForAllColonists>Предупреждение: {PAWNKINDLABELPLURAL} почитаются всеми {PAWNS} и не пострадают.</MessageAnimalIsVeneratedForAllColonists>
+
+  <!-- Archonexus -->
+  <!-- EN: Select at most {0} {1} to bring to the new colony. -->
+  <MessageNewColonyMax>Выберите не более {0} {1}, чтобы перенести в новую колонию.</MessageNewColonyMax>
+  <!-- EN: You must select at least 1 colonist. -->
+  <MessageNewColoyRequiresOneColonist>Вы должны выбрать по крайней мере 1 поселенца.</MessageNewColoyRequiresOneColonist>
+
+  <!-- Fuel node -->
+  <!-- EN: A {0} has been ignited and is going to explode! -->
+  <MessageFuelNodeTriggered>{0} загорелся и вот-вот взорвется!</MessageFuelNodeTriggered>
+
+  <!-- Ancient complex -->
+  <!-- EN: {0_pawnsPlural} will wake up in {1}. -->
+  <MessageSleepingThreatDelayActivated>{0_pawnsPlural} проснется в {1}.</MessageSleepingThreatDelayActivated>
+  <!-- EN: Infestation arriving. -->
+  <MessageInfestationDelayActivated>Нашествие вредителей.</MessageInfestationDelayActivated>
+  <!-- EN: {0} was disturbed and might explode soon! -->
+  <MessageFuelNodeDelayActivated>{0} был потревожен и скоро может взорваться!</MessageFuelNodeDelayActivated><!-- this message fires when a fuel node has been disturbed and there is a random delay before it starts to explode. -->
+  
+  
+  <!-- Core -->
+  
+  <!-- EN: {PAWN_labelShort} found no nearby unreserved {FUEL} for {GUN_label}. -->
+  <MessageOutOfNearbyFuelFor>{PAWN_labelShort} не нашел поблизости свободного {FUEL} для {GUN_label}.</MessageOutOfNearbyFuelFor>
+  <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
+  <MessageInsectTameDesignated>Только те, у кого есть черта симпатии к насекомым, могут приручить {INSECT_indefinite}.</MessageInsectTameDesignated>
+  <!-- EN: There is no suitable animal pen for {ANIMAL_labelShort}. It will eventually roam away. -->
+  <MessageTameNoSuitablePens>Нет подходящего загона для {ANIMAL_labelShort}. В конце концов он уйдет.</MessageTameNoSuitablePens>
+  <!-- EN: {PAWN_nameDef} is pregnant! -->
+  <MessageAnimalIsPregnant>{PAWN_nameDef} беременна!</MessageAnimalIsPregnant>
+  <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
+  <MessageRoamerLeaving>{PAWN_labelShort} {PAWN_gender ? собрался : собралась} уходить! {PAWN_pronoun} покинет карту, если дрессировщик не вернет {PAWN_possessive} обратно в загон.</MessageRoamerLeaving>
+  <!-- EN: Cannot equip: {1_labelShort} is incapable of shooting. -->
+  <MessageCantEquipIncapableOfShooting>Невозможно экипировать: {1_labelShort} не может стрелять.</MessageCantEquipIncapableOfShooting>
+  <!-- EN: Because they are bonded, releasing {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
+  <MessageReleaseBondedAnimal>Поскольку они связаны, освобождение {DESIGNATED_labelShort} сделает {BONDED_labelShort} несчастным.</MessageReleaseBondedAnimal>
+  
+  <!-- EN: Area is now safe. You can reform the caravan on the world map. -->
+  <MessageCanReformCaravanNowNoMoreEnemies>Район теперь безопасен. Вы можете отправить караван на карте мира.</MessageCanReformCaravanNowNoMoreEnemies>
+  <!-- EN: Area is now safe, but some unexplored rooms remain. You can explore further or reform the caravan on the world map. -->
+  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>Район теперь безопасен, но некоторые помещения остаются неисследованными. Вы можете исследовать дальше или отправить караван на карте мира.</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
+  
+  <!-- EN: {1_labelShort} has been returned to the wild. -->
+  <MessageAnimalReturnedWildReleased>{1_labelShort} был возвращен в дикую природу.</MessageAnimalReturnedWildReleased>
+  
+  <!-- EN: Warning: {0_nameDef}'s beliefs oppose {1} work. {0_pronoun} may become unhappy. -->
+  <MessageIdeoOpposedWorkTypeSelected>Убеждения {0_nameDef} противоречат работе {1}. {0_pronoun} может стать несчастным.</MessageIdeoOpposedWorkTypeSelected>
+
+  <!-- EN: {0} is no longer assigned to {1_nameDef}. -->
+  <MessageBedLostAssignment>{0} больше не назначен {1_nameDef}.</MessageBedLostAssignment>
+  <!-- EN: {0} assigned to {1_nameDef} was destroyed. -->
+  <MessageBedDestroyed>{0}, назначенный {1_nameDef}, было уничтожен.</MessageBedDestroyed>
+  
+  <!-- Rituals -->
+  <!-- EN: spectate -->
+  <Spectate>наблюдать</Spectate>
+  <!-- EN: Assign to {0} -->
+  <AssignToRole>Назначить {0}</AssignToRole>
+  <!-- EN: {0} has begun. -->
+  <RitualBegun>{0} начался.</RitualBegun>
+  <!-- EN: The maximum number of {0}s is {1}. -->
+  <MaxPawnsPerRole>Максимальное число {0} равно {1}.</MaxPawnsPerRole>
+  <!-- EN: You need at least one participant. -->
+  <MessageRitualNeedsAtLeastOnePerson>Вам нужен хотя бы один участник.</MessageRitualNeedsAtLeastOnePerson>
+  <!-- EN: You need at least one spectator. -->
+  <MessageRitualNeedsAtLeastOneSpectator>Вам нужен хотя бы один зритель.</MessageRitualNeedsAtLeastOneSpectator>
+  <!-- EN: You need a {0}. -->
+  <MessageRitualNeedsAtLeastOneRolePawn>Вам нужен {0}.</MessageRitualNeedsAtLeastOneRolePawn>
+  <!-- EN: You need at least {1} {0}. -->
+  <MessageRitualNeedsAtLeastNumRolePawn>Вам необходимо по крайней мере {1} {0}.</MessageRitualNeedsAtLeastNumRolePawn>
+  <!-- EN: {0_labelShort} is downed. -->
+  <MessageRitualPawnDowned>{0_labelShort} упал.</MessageRitualPawnDowned>
+  <!-- EN: {0_labelShort} is currently escaping. -->
+  <MessageRitualPawnPrisonerNotSecured>{0_labelShort} убегает.</MessageRitualPawnPrisonerNotSecured>
+  <!-- EN: {0_labelShort} is currently rebelling. -->
+  <MessageRitualPawnSlaveNotSecured>{0_labelShort} бунтует.</MessageRitualPawnSlaveNotSecured>
+  <!-- EN: {0_labelShort} is being released. -->
+  <MessageRitualPawnReleased>{0_labelShort} освобождается.</MessageRitualPawnReleased>
+  <!-- EN: {0_labelShort} is injured. -->
+  <MessageRitualPawnInjured>{0_labelShort} ранен.</MessageRitualPawnInjured>
+  <!-- EN: {0_labelShort} must hold one of these roles -->
+  <MessageRitualRoleRequired>{0_labelShort} должен занимать одну из этих ролей</MessageRitualRoleRequired>
+  <!-- EN: {0} must be a prisoner. -->
+  <MessageRitualRoleMustBePrisoner>{0} должен быть заключенным.</MessageRitualRoleMustBePrisoner>
+  <!-- EN: {0} must be an animal. -->
+  <MessageRitualRoleMustBeAnimal>{0} должен быть животным.</MessageRitualRoleMustBeAnimal>
+  <!-- EN: {0} must be a human. -->
+  <MessageRitualRoleMustBeHumanlike>{0} должен быть человеком.</MessageRitualRoleMustBeHumanlike>
+  <!-- EN: {0} must have eyes -->
+  <MessageRitualRoleMustHaveEyes>{0} должен иметь глаза</MessageRitualRoleMustHaveEyes>
+  <!-- EN: {0_labelShort} does not require further scarification. -->
+  <MessageRitualRoleMustRequireScarification>{0_labelShort} не требует дальнейшего шрамирования.</MessageRitualRoleMustRequireScarification>
+  <!-- EN: {0} must be a prisoner or slave. -->
+  <MessageRitualRoleMustBePrisonerOrSlave>{0} должен быть пленником или рабом.</MessageRitualRoleMustBePrisonerOrSlave>
+  <!-- EN: {0_labelShort} must be capable of fighting. -->
+  <MessageRitualRoleMustBeCapableOfFighting>{0_labelShort} должен быть способен сражаться.</MessageRitualRoleMustBeCapableOfFighting>
+  <!-- EN: this role cannot be played by someone else. -->
+  <MessageRitualRoleCannotReplaceRequiredPawn>эту роль не может выполнять кто-то другой.</MessageRitualRoleCannotReplaceRequiredPawn>
+  <!-- EN: {0_labelShort} cannot connect to a Gauranlen tree because {0_possessive} connection was recently torn. -->
+  <MessageRitualRolePawnRecentlyTornConnection>{0_labelShort} не удается связаться с деревом Гауранлена, так как {0_objective} недавно {0_gender разорвал : разорвала} связь.</MessageRitualRolePawnRecentlyTornConnection>
+  <!-- EN: {0_labelShort} has the same ideoligion as the converter. -->
+  <MessageRitualRolePawnHasSameIdeo>{0_labelShort} имеет ту же идеологию, что и обращающий.</MessageRitualRolePawnHasSameIdeo>
+  <!-- EN: {0_labelShort} must be capable of wardening. -->
+  <MessageRitualRoleMustBeCapableOfWardening>{0_labelShort} должен быть способен охранять.</MessageRitualRoleMustBeCapableOfWardening>
+  <!-- EN: {0} must be capable of {1}. -->
+  <MessageRitualRoleMustBeCapableOfGeneric>{0} должен быть способен к {1}.</MessageRitualRoleMustBeCapableOfGeneric>
+  <!-- EN: prisoners cannot {0}. -->
+  <MessageRitualRoleMustNotBePrisonerToSpectate>заключенные не могут {0}.</MessageRitualRoleMustNotBePrisonerToSpectate>
+  <!-- EN: only {0} can {1}. -->
+  <MessageRitualRoleMustHaveIdeoToSpectate>только {0} может {1}.</MessageRitualRoleMustHaveIdeoToSpectate>
+  <!-- EN: only {0} can fill the role of {1}. -->
+  <MessageRitualRoleMustHaveIdeoToDoRole>только {0} может выполнять роль {1}.</MessageRitualRoleMustHaveIdeoToDoRole>
+  <!-- EN: must be colonist for the {0} role. -->
+  <MessageRitualRoleMustBeColonist>должен быть поселенцем для роли {0}.</MessageRitualRoleMustBeColonist>
+  <!-- EN: {0} must have an animal with min body size of {1}. -->
+  <MessageRitualRoleMustHaveLargerBodySize>{0} должно быть животное с минимальным размером тела {1}.</MessageRitualRoleMustHaveLargerBodySize>
+  <!-- EN: {0_labelShort} is in a mental state. -->
+  <MessageRitualPawnMentalState>{0_labelShort} находится в психическом состоянии.</MessageRitualPawnMentalState>
+  <!-- EN: {0_labelShort} is already {1}. -->
+  <MessageRitualPawnIsAlreadyBelievingIdeo>{0_labelShort} уже {1}.</MessageRitualPawnIsAlreadyBelievingIdeo>
+  <!-- EN: {0_labelShort} cannot take any other role than spectator. -->
+  <MessageRitualCannotAssignAnyRoleFromSpectating>{0_labelShort} не может выполнять никакой другой роли, кроме зрителя.</MessageRitualCannotAssignAnyRoleFromSpectating>
+
+  <!-- EN: You must select a site to continue. -->
+  <MessagePlayerMustSelectTile>Вы должны выбрать место для продолжения.</MessagePlayerMustSelectTile>
+
+  <!-- EN: Cannot plant {0_labelShort} -->
+  <CannotPlantThing>Не удается посадить {0_labelShort}</CannotPlantThing>
+  <!-- EN: Need more fertile terrain. -->
+  <MessageWarningNotEnoughFertility>Нужна более плодородная почва.</MessageWarningNotEnoughFertility>
+  <!-- EN: blocked by {0_label}. -->
+  <BlockedBy>заблокирован {0_label}.</BlockedBy>
+  <!-- EN: Cannot be planted next to {0_label}. -->
+  <AdjacentSowBlocker>Не может быть установлен рядом с {0_label}.</AdjacentSowBlocker>
+  <!-- EN: Too close to {0_label}. -->
+  <TooCloseToOtherPlant>Слишком близко к {0_label}.</TooCloseToOtherPlant>
+  <!-- EN: Too close to {0_label}'s planting location. -->
+  <TooCloseToOtherSeedPlantCell>Слишком близко к месту посадки {0_label}.</TooCloseToOtherSeedPlantCell>
+
+</LanguageData>

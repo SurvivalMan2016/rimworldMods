@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <MainButtonDef>
+    <defName>ARKPP_PowerPP</defName>
+    <label>Power++</label>
+    <description>View synthesis about rented/borrowed WPN and energy embargo</description>
+    <workerClass>aRandomKiwi.PPP.MainButtonWorker_PowerPP</workerClass>
+    <order>78</order>
+    <defaultHotKey></defaultHotKey>
+	<validWithoutMap>true</validWithoutMap>
+    <minimized>True</minimized>
+    <iconPath>UI/ARKPP_MainIcon</iconPath>
+  </MainButtonDef>
+
+</Defs>

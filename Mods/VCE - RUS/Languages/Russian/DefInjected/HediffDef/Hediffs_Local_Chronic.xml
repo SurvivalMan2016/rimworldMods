@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_Cholesterol.label>холестерин</VCE_Cholesterol.label>
+  <VCE_Cholesterol.description>Человеческое тело нуждается в холестерине, чтобы строить здоровые клетки, но высокий уровень холестерина увеличивает риск сердечно-сосудистых заболеваний - внутри сосудов образуются жировые отложения. В конце концов они разрастаются, затрудняя прохождение достаточного количества крови по артериям.</VCE_Cholesterol.description>
+  <VCE_Cholesterol.stages.0.label>незначительный (нет эффекта)</VCE_Cholesterol.stages.0.label>
+  <VCE_Cholesterol.stages.1.label>слабый (нет эффекта)</VCE_Cholesterol.stages.1.label>
+  <VCE_Cholesterol.stages.2.label>серьезный</VCE_Cholesterol.stages.2.label>
+  <VCE_Cholesterol.stages.3.label>критический</VCE_Cholesterol.stages.3.label>
+
+  <VCE_Diabetes.label>диабет</VCE_Diabetes.label>
+  <VCE_Diabetes.description>Диабет это группа метаболических нарушений, характеризующихся высоким уровнем сахара в крови в течение длительного периода времени. Симптомы обычно включают частое мочеиспускание, повышенную жажду и повышенный аппетит.</VCE_Diabetes.description>
+  <VCE_Diabetes.stages.0.label>незначительный (нет эффекта)</VCE_Diabetes.stages.0.label>
+  <VCE_Diabetes.stages.1.label>слабый (нет эффекта)</VCE_Diabetes.stages.1.label>
+  <VCE_Diabetes.stages.2.label>серьезный</VCE_Diabetes.stages.2.label>
+  <VCE_Diabetes.stages.3.label>критический</VCE_Diabetes.stages.3.label>
+
+  <VCE_HighBloodPressure.label>высокое кровяное давление</VCE_HighBloodPressure.label>
+  <VCE_HighBloodPressure.description>Высокое кровяное давление, также называемое гипертонией, является распространенным заболеванием, при котором длительное воздействие крови на стенки артерий настолько велико, что в конечном итоге может вызвать проблемы со здоровьем. Например, болезни сердца.</VCE_HighBloodPressure.description>
+  <VCE_HighBloodPressure.stages.0.label>незначительное (нет эффекта)</VCE_HighBloodPressure.stages.0.label>
+  <VCE_HighBloodPressure.stages.1.label>слабое (нет эффекта)</VCE_HighBloodPressure.stages.1.label>
+  <VCE_HighBloodPressure.stages.2.label>серьезное</VCE_HighBloodPressure.stages.2.label>
+  <VCE_HighBloodPressure.stages.3.label>критическое</VCE_HighBloodPressure.stages.3.label>
+
+
+</LanguageData>

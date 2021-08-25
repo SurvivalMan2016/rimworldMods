@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Boombat -->
+
+  <AEXP_Boombat.label>бумбат</AEXP_Boombat.label>
+  <AEXP_Boombat.labelPlural>бумбаты</AEXP_Boombat.labelPlural>
+  <AEXP_Boombat.lifeStages.0.label>детеныш бумбата</AEXP_Boombat.lifeStages.0.label>
+  <AEXP_Boombat.lifeStages.0.labelPlural>детеныши бумбата</AEXP_Boombat.lifeStages.0.labelPlural>
+  <AEXP_Boombat.lifeStages.0.labelMale>детеныш бумбата</AEXP_Boombat.lifeStages.0.labelMale>
+  <AEXP_Boombat.lifeStages.0.labelMalePlural>детеныши бумбата</AEXP_Boombat.lifeStages.0.labelMalePlural>
+  <AEXP_Boombat.lifeStages.0.labelFemale>детеныш бумбата</AEXP_Boombat.lifeStages.0.labelFemale>
+  <AEXP_Boombat.lifeStages.0.labelFemalePlural>детеныши бумбата</AEXP_Boombat.lifeStages.0.labelFemalePlural>
+  <AEXP_Boombat.lifeStages.1.label>молодой бумбат</AEXP_Boombat.lifeStages.1.label>
+  <AEXP_Boombat.lifeStages.1.labelPlural>молодые бумбаты</AEXP_Boombat.lifeStages.1.labelPlural>
+  <AEXP_Boombat.lifeStages.1.labelMale>молодой бумбат</AEXP_Boombat.lifeStages.1.labelMale>
+  <AEXP_Boombat.lifeStages.1.labelMalePlural>молодые бумбаты</AEXP_Boombat.lifeStages.1.labelMalePlural>
+  <AEXP_Boombat.lifeStages.1.labelFemale>молодой бумбат</AEXP_Boombat.lifeStages.1.labelFemale>
+  <AEXP_Boombat.lifeStages.1.labelFemalePlural>молодые бумбаты</AEXP_Boombat.lifeStages.1.labelFemalePlural>
+  <AEXP_Boombat.lifeStages.2.label>бумбат</AEXP_Boombat.lifeStages.2.label>
+  <AEXP_Boombat.lifeStages.2.labelPlural>бумбаты</AEXP_Boombat.lifeStages.2.labelPlural>
+  <AEXP_Boombat.lifeStages.2.labelMale>бумбат</AEXP_Boombat.lifeStages.2.labelMale>
+  <AEXP_Boombat.lifeStages.2.labelMalePlural>бумбаты</AEXP_Boombat.lifeStages.2.labelMalePlural>
+  <AEXP_Boombat.lifeStages.2.labelFemale>бумбат</AEXP_Boombat.lifeStages.2.labelFemale>
+  <AEXP_Boombat.lifeStages.2.labelFemalePlural>бумбаты</AEXP_Boombat.lifeStages.2.labelFemalePlural>
+  <AEXP_Boombat.labelMale>бумбат</AEXP_Boombat.labelMale>
+  <AEXP_Boombat.labelMalePlural>бумбаты</AEXP_Boombat.labelMalePlural>
+  <AEXP_Boombat.labelFemale>бумбат</AEXP_Boombat.labelFemale>
+  <AEXP_Boombat.labelFemalePlural>бумбаты</AEXP_Boombat.labelFemalePlural>
+
+
+  <!-- Kangaroo -->
+
+  <AEXP_Kangaroo.label>кенгуру</AEXP_Kangaroo.label>
+  <AEXP_Kangaroo.labelPlural>кенгуру</AEXP_Kangaroo.labelPlural>
+  <AEXP_Kangaroo.lifeStages.0.label>детеныш кенгуру</AEXP_Kangaroo.lifeStages.0.label>
+  <AEXP_Kangaroo.lifeStages.0.labelPlural>детеныши кенгуру</AEXP_Kangaroo.lifeStages.0.labelPlural>
+  <AEXP_Kangaroo.lifeStages.0.labelMale>детеныш кенгуру</AEXP_Kangaroo.lifeStages.0.labelMale>
+  <AEXP_Kangaroo.lifeStages.0.labelMalePlural>детеныши кенгуру</AEXP_Kangaroo.lifeStages.0.labelMalePlural>
+  <AEXP_Kangaroo.lifeStages.0.labelFemale>детеныш кенгуру</AEXP_Kangaroo.lifeStages.0.labelFemale>
+  <AEXP_Kangaroo.lifeStages.0.labelFemalePlural>детеныши кенгуру</AEXP_Kangaroo.lifeStages.0.labelFemalePlural>
+  <AEXP_Kangaroo.lifeStages.1.label>молодой кенгуру</AEXP_Kangaroo.lifeStages.1.label>
+  <AEXP_Kangaroo.lifeStages.1.labelPlural>молодые кенгуру</AEXP_Kangaroo.lifeStages.1.labelPlural>
+  <AEXP_Kangaroo.lifeStages.1.labelMale>молодой кенгуру</AEXP_Kangaroo.lifeStages.1.labelMale>
+  <AEXP_Kangaroo.lifeStages.1.labelMalePlural>молодые кенгуру</AEXP_Kangaroo.lifeStages.1.labelMalePlural>
+  <AEXP_Kangaroo.lifeStages.1.labelFemale>молодой кенгуру</AEXP_Kangaroo.lifeStages.1.labelFemale>
+  <AEXP_Kangaroo.lifeStages.1.labelFemalePlural>молодые кенгуру</AEXP_Kangaroo.lifeStages.1.labelFemalePlural>
+  <AEXP_Kangaroo.lifeStages.2.label>кенгуру</AEXP_Kangaroo.lifeStages.2.label>
+  <AEXP_Kangaroo.lifeStages.2.labelPlural>кенгуру</AEXP_Kangaroo.lifeStages.2.labelPlural>
+  <AEXP_Kangaroo.lifeStages.2.labelMale>кенгуру</AEXP_Kangaroo.lifeStages.2.labelMale>
+  <AEXP_Kangaroo.lifeStages.2.labelMalePlural>кенгуру</AEXP_Kangaroo.lifeStages.2.labelMalePlural>
+  <AEXP_Kangaroo.lifeStages.2.labelFemale>кенгуру</AEXP_Kangaroo.lifeStages.2.labelFemale>
+  <AEXP_Kangaroo.lifeStages.2.labelFemalePlural>кенгуру</AEXP_Kangaroo.lifeStages.2.labelFemalePlural>
+  <AEXP_Kangaroo.labelMale>кенгуру</AEXP_Kangaroo.labelMale>
+  <AEXP_Kangaroo.labelMalePlural>кенгуру</AEXP_Kangaroo.labelMalePlural>
+  <AEXP_Kangaroo.labelFemale>кенгуру</AEXP_Kangaroo.labelFemale>
+  <AEXP_Kangaroo.labelFemalePlural>кенгуру</AEXP_Kangaroo.labelFemalePlural>
+
+
+  <!-- Koala -->
+
+  <AEXP_Koala.label>коала</AEXP_Koala.label>
+  <AEXP_Koala.labelPlural>коалы</AEXP_Koala.labelPlural>
+  <AEXP_Koala.lifeStages.0.label>детеныш коалы</AEXP_Koala.lifeStages.0.label>
+  <AEXP_Koala.lifeStages.0.labelPlural>детеныши коалы</AEXP_Koala.lifeStages.0.labelPlural>
+  <AEXP_Koala.lifeStages.0.labelMale>детеныш коалы</AEXP_Koala.lifeStages.0.labelMale>
+  <AEXP_Koala.lifeStages.0.labelMalePlural>детеныши коалы</AEXP_Koala.lifeStages.0.labelMalePlural>
+  <AEXP_Koala.lifeStages.0.labelFemale>детеныш коалы</AEXP_Koala.lifeStages.0.labelFemale>
+  <AEXP_Koala.lifeStages.0.labelFemalePlural>детеныши коалы</AEXP_Koala.lifeStages.0.labelFemalePlural>
+  <AEXP_Koala.lifeStages.1.label>молодая коала</AEXP_Koala.lifeStages.1.label>
+  <AEXP_Koala.lifeStages.1.labelPlural>молодые коалы</AEXP_Koala.lifeStages.1.labelPlural>
+  <AEXP_Koala.lifeStages.1.labelMale>молодая коала</AEXP_Koala.lifeStages.1.labelMale>
+  <AEXP_Koala.lifeStages.1.labelMalePlural>молодые коалы</AEXP_Koala.lifeStages.1.labelMalePlural>
+  <AEXP_Koala.lifeStages.1.labelFemale>молодая коала</AEXP_Koala.lifeStages.1.labelFemale>
+  <AEXP_Koala.lifeStages.1.labelFemalePlural>молодые коалы</AEXP_Koala.lifeStages.1.labelFemalePlural>
+  <AEXP_Koala.lifeStages.2.label>коала</AEXP_Koala.lifeStages.2.label>
+  <AEXP_Koala.lifeStages.2.labelPlural>коалы</AEXP_Koala.lifeStages.2.labelPlural>
+  <AEXP_Koala.lifeStages.2.labelMale>коала</AEXP_Koala.lifeStages.2.labelMale>
+  <AEXP_Koala.lifeStages.2.labelMalePlural>коалы</AEXP_Koala.lifeStages.2.labelMalePlural>
+  <AEXP_Koala.lifeStages.2.labelFemale>коала</AEXP_Koala.lifeStages.2.labelFemale>
+  <AEXP_Koala.lifeStages.2.labelFemalePlural>коалы</AEXP_Koala.lifeStages.2.labelFemalePlural>
+  <AEXP_Koala.labelMale>коала</AEXP_Koala.labelMale>
+  <AEXP_Koala.labelMalePlural>коалы</AEXP_Koala.labelMalePlural>
+  <AEXP_Koala.labelFemale>коала</AEXP_Koala.labelFemale>
+  <AEXP_Koala.labelFemalePlural>коалы</AEXP_Koala.labelFemalePlural>
+
+
+  <!-- Platypus -->
+
+  <AEXP_Platypus.label>утконос</AEXP_Platypus.label>
+  <AEXP_Platypus.labelPlural>утконосы</AEXP_Platypus.labelPlural>
+  <AEXP_Platypus.lifeStages.0.label>детеныш утконоса</AEXP_Platypus.lifeStages.0.label>
+  <AEXP_Platypus.lifeStages.0.labelPlural>детеныши утконоса</AEXP_Platypus.lifeStages.0.labelPlural>
+  <AEXP_Platypus.lifeStages.0.labelMale>детеныш утконоса</AEXP_Platypus.lifeStages.0.labelMale>
+  <AEXP_Platypus.lifeStages.0.labelMalePlural>детеныши утконоса</AEXP_Platypus.lifeStages.0.labelMalePlural>
+  <AEXP_Platypus.lifeStages.0.labelFemale>детеныш утконоса</AEXP_Platypus.lifeStages.0.labelFemale>
+  <AEXP_Platypus.lifeStages.0.labelFemalePlural>детеныши утконоса</AEXP_Platypus.lifeStages.0.labelFemalePlural>
+  <AEXP_Platypus.lifeStages.1.label>молодой утконос</AEXP_Platypus.lifeStages.1.label>
+  <AEXP_Platypus.lifeStages.1.labelPlural>молодые утконосы</AEXP_Platypus.lifeStages.1.labelPlural>
+  <AEXP_Platypus.lifeStages.1.labelMale>молодой утконос</AEXP_Platypus.lifeStages.1.labelMale>
+  <AEXP_Platypus.lifeStages.1.labelMalePlural>молодые утконосы</AEXP_Platypus.lifeStages.1.labelMalePlural>
+  <AEXP_Platypus.lifeStages.1.labelFemale>молодой утконос</AEXP_Platypus.lifeStages.1.labelFemale>
+  <AEXP_Platypus.lifeStages.1.labelFemalePlural>молодые утконосы</AEXP_Platypus.lifeStages.1.labelFemalePlural>
+  <AEXP_Platypus.lifeStages.2.label>утконос</AEXP_Platypus.lifeStages.2.label>
+  <AEXP_Platypus.lifeStages.2.labelPlural>утконосы</AEXP_Platypus.lifeStages.2.labelPlural>
+  <AEXP_Platypus.lifeStages.2.labelMale>утконос</AEXP_Platypus.lifeStages.2.labelMale>
+  <AEXP_Platypus.lifeStages.2.labelMalePlural>утконосы</AEXP_Platypus.lifeStages.2.labelMalePlural>
+  <AEXP_Platypus.lifeStages.2.labelFemale>утконос</AEXP_Platypus.lifeStages.2.labelFemale>
+  <AEXP_Platypus.lifeStages.2.labelFemalePlural>утконосы</AEXP_Platypus.lifeStages.2.labelFemalePlural>
+  <AEXP_Platypus.labelMale>утконос</AEXP_Platypus.labelMale>
+  <AEXP_Platypus.labelMalePlural>утконосы</AEXP_Platypus.labelMalePlural>
+  <AEXP_Platypus.labelFemale>утконос</AEXP_Platypus.labelFemale>
+  <AEXP_Platypus.labelFemalePlural>утконосы</AEXP_Platypus.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_ConsumedMintLeaves.label>употребил мяту (съел блюдо)</VCE_ConsumedMintLeaves.label>
+  <VCE_ConsumedMintLeaves.description>Употребил несколько свежих листьев мяты. Свежее дыхание улучшает социальное взаимодействие на 10%.</VCE_ConsumedMintLeaves.description>
+
+  <VBE_MintCoffeeHigh.label>выпил мятного кофе</VBE_MintCoffeeHigh.label>
+  <VBE_MintCoffeeHigh.description>Кофеин, который содержится в кофе, усваивается организмом и увеличивает раздражительность нервной системы, подавляя позывы ко сну, а также очищая разум. Увеличивает скорость обучения на 15% и снижает усталость на 15%. Горячий кофе помогает при переохлаждении. Мятный кофе освежает дыхание, улучшая социальное взаимодействие на 10%.</VBE_MintCoffeeHigh.description>
+  <VBE_MintCoffeeHigh.labelNoun>эффект от мятного кофе</VBE_MintCoffeeHigh.labelNoun>
+
+  <VBE_DalgonaCoffeeHigh.label>выпил кофе дальгона</VBE_DalgonaCoffeeHigh.label>
+  <VBE_DalgonaCoffeeHigh.description>Кофеин, который содержится в кофе, усваивается организмом и увеличивает раздражительность нервной системы, подавляя позывы ко сну, а также очищая разум. Увеличивает скорость обучения на 15% и снижает усталость на 15%. Горячий кофе помогает при переохлаждении, а холодный при тепловом ударе. Кофе дальгона дает 10% бонус к скорости исследований.</VBE_DalgonaCoffeeHigh.description>
+  <VBE_DalgonaCoffeeHigh.labelNoun>эффект от кофе дальгона</VBE_DalgonaCoffeeHigh.labelNoun>
+
+  <VBE_DrankMintTea.label>выпил чая с мятой</VBE_DrankMintTea.label>
+  <VBE_DrankMintTea.description>Танины, содержащиеся в чае и усваивающеся в процессе метаболизма, усиливают раздражители в нервной системе, подавляя позывы ко сну, а также укрепляют имунную систему. Увеличивает скорость получения иммунитета на 15% и снижает усталость на 10% на 5 часов. Чай с мятой освежает дыхание, улучшая социальное взаимодействие на 10%.</VBE_DrankMintTea.description>
+  <VBE_DrankMintTea.labelNoun>эффект от чая мятой</VBE_DrankMintTea.labelNoun>
+
+  <VBE_DrankMasalaChai.label>выпил чая масала</VBE_DrankMasalaChai.label>
+  <VBE_DrankMasalaChai.description>Танины, содержащиеся в чае и усваивающеся в процессе метаболизма, усиливают раздражители в нервной системе, подавляя позывы ко сну, а также укрепляют имунную систему. Увеличивает скорость получения иммунитета на 15% и снижает усталость на 10% на 5 часов. Чай масала снижает эффекты от повышенного холестерина (если он повышен).</VBE_DrankMasalaChai.description>
+  
+  <VBE_DrankNoonChai.label>выпил кашмирского чая</VBE_DrankNoonChai.label>
+  <VBE_DrankNoonChai.description>Танины, содержащиеся в чае и усваивающеся в процессе метаболизма, усиливают раздражители в нервной системе, подавляя позывы ко сну, а также укрепляют имунную систему. Увеличивает скорость получения иммунитета на 15% и снижает усталость на 10% на 5 часов. Кашмирский чай снижает эффекты от повышенного кровяного давления (если оно повышено).</VBE_DrankNoonChai.description>
+
+
+
+</LanguageData>

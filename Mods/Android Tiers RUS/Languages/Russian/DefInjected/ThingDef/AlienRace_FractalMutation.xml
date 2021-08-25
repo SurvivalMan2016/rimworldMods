@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Abomination -->
+
+  <Abomination.label>Фрактальный мутант</Abomination.label>
+  <Abomination.description>Эти мутанты - быстрые массы скрученной и истерзанной плоти, способные исцелять даже самые серьезные раны. Вот почему люди не должны употреблять фрактальные пилюли.</Abomination.description>
+  <Abomination.tools.1.label>правый кулак</Abomination.tools.1.label>
+  <Abomination.tools.2.label>левый кулак</Abomination.tools.2.label>
+  <Abomination.tools.3.label>голова</Abomination.tools.3.label>
+
+  <Tainted_Skin.label>Оскверненная Кожа</Tainted_Skin.label>
+  <Tainted_Skin.description>Скрученная и искривленная кожа фрактального мутанта. Довольно редкаая и востребованная, в основном для исследований.</Tainted_Skin.description>
+
+
+</LanguageData>

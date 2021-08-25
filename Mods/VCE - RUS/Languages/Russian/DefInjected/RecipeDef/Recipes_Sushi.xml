@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Simple -->
+
+  <VCE_CookChirashizushiSimple.label>приготовить чирасидзуси</VCE_CookChirashizushiSimple.label>
+  <VCE_CookChirashizushiSimple.description>Приготовить миску чирасидзуси на скорую руку сделанную из нескольких ингредиентов.</VCE_CookChirashizushiSimple.description>
+  <VCE_CookChirashizushiSimple.jobString>Готовит чирасидзуси.</VCE_CookChirashizushiSimple.jobString>
+
+  <VCE_CookChirashizushiSimpleBulk.label>приготовить чирасидзуси x4</VCE_CookChirashizushiSimpleBulk.label>
+  <VCE_CookChirashizushiSimpleBulk.description>Приготовить 4 миски чирасидзуси на скорую руку сделанные из нескольких ингредиентов.</VCE_CookChirashizushiSimpleBulk.description>
+  <VCE_CookChirashizushiSimpleBulk.jobString>Готовит чирасидзуси x4.</VCE_CookChirashizushiSimpleBulk.jobString>
+
+  <VCE_CookNorimakiSimple.label>приготовить суши норимаки (простое)</VCE_CookNorimakiSimple.label>
+  <VCE_CookNorimakiSimple.description>Приготовить суши норимаки на скорую руку сделанное из нескольких ингредиентов.</VCE_CookNorimakiSimple.description>
+  <VCE_CookNorimakiSimple.jobString>Готовит суши норимаки (простое).</VCE_CookNorimakiSimple.jobString>
+
+  <VCE_CookNorimakiSimpleBulk.label>приготовить суши норимаки (простое) x4</VCE_CookNorimakiSimpleBulk.label>
+  <VCE_CookNorimakiSimpleBulk.description>Приготовить 4 порции суши норимаки на скорую руку сделанные из нескольких ингредиентов.</VCE_CookNorimakiSimpleBulk.description>
+  <VCE_CookNorimakiSimpleBulk.jobString>Готовит суши норимаки (простое) x4.</VCE_CookNorimakiSimpleBulk.jobString>
+
+
+  <!-- Fine -->
+
+  <VCE_CookUramakiFine.label>приготовить суши урамаки (вкусное)</VCE_CookUramakiFine.label>
+  <VCE_CookUramakiFine.description>Приготовить суши урамаки тщательно собранное из широкого ассортимента ингредиентов.</VCE_CookUramakiFine.description>
+  <VCE_CookUramakiFine.jobString>Готовит суши урамаки (вкусное).</VCE_CookUramakiFine.jobString>
+
+  <VCE_CookUramakiFineBulk.label>приготовить суши урамаки (вкусное) x4</VCE_CookUramakiFineBulk.label>
+  <VCE_CookUramakiFineBulk.description>Приготовить 4 порции суши урамаки тщательно собранные из широкого ассортимента ингредиентов.</VCE_CookUramakiFineBulk.description>
+  <VCE_CookUramakiFineBulk.jobString>Готовит суши урамаки (вкусное) x4.</VCE_CookUramakiFineBulk.jobString>
+
+  <VCE_CookNigiriFine.label>приготовить суши нигири (вкусное)</VCE_CookNigiriFine.label>
+  <VCE_CookNigiriFine.description>Приготовить суши нигири тщательно собранное из широкого ассортимента ингредиентов.</VCE_CookNigiriFine.description>
+  <VCE_CookNigiriFine.jobString>Готовит суши нигири (вкусное).</VCE_CookNigiriFine.jobString>
+
+  <VCE_CookNigiriFineBulk.label>приготовить суши нигири (вкусное) x4</VCE_CookNigiriFineBulk.label>
+  <VCE_CookNigiriFineBulk.description>Приготовить 4 порции суши нигири тщательно собранные из широкого ассортимента ингредиентов.</VCE_CookNigiriFineBulk.description>
+  <VCE_CookNigiriFineBulk.jobString>Готовит суши нигири (вкусное) x4.</VCE_CookNigiriFineBulk.jobString>
+
+
+  <!-- Lavish -->
+
+  <VCE_CookTemakiLavish.label>приготовить суши тэмаки (шикарное)</VCE_CookTemakiLavish.label>
+  <VCE_CookTemakiLavish.description>Шедевр кулинарного искусства, это суши тэмаки питает тело, разум и душу.</VCE_CookTemakiLavish.description>
+  <VCE_CookTemakiLavish.jobString>Готовит суши тэмаки (шикарное).</VCE_CookTemakiLavish.jobString>
+
+  <VCE_CookTemakiLavishBulk.label>приготовить суши тэмаки (шикарное) x4</VCE_CookTemakiLavishBulk.label>
+  <VCE_CookTemakiLavishBulk.description>Приготовить 4 порции шедевра кулинарного искусства, это суши тэмаки питает тело, разум и душу.</VCE_CookTemakiLavishBulk.description>
+  <VCE_CookTemakiLavishBulk.jobString>Готовит суши тэмаки (шикарное) x4.</VCE_CookTemakiLavishBulk.jobString>
+
+  <VCE_CookFutomakiLavish.label>приготовить суши футомаки (шикарное)</VCE_CookFutomakiLavish.label>
+  <VCE_CookFutomakiLavish.description>Шедевр кулинарного искусства, это суши футомаки питает тело, разум и душу.</VCE_CookFutomakiLavish.description>
+  <VCE_CookFutomakiLavish.jobString>Готовит суши футомаки (шикарное).</VCE_CookFutomakiLavish.jobString>
+
+  <VCE_CookFutomakiLavishBulk.label>приготовить суши футомаки (шикарное) x4</VCE_CookFutomakiLavishBulk.label>
+  <VCE_CookFutomakiLavishBulk.description>Приготовить 4 порции шедевра кулинарного искусства, это суши футомаки питает тело, разум и душу.</VCE_CookFutomakiLavishBulk.description>
+  <VCE_CookFutomakiLavishBulk.jobString>Готовит суши футомаки (шикарное) x4.</VCE_CookFutomakiLavishBulk.jobString>
+
+
+  <!-- Gourmet -->
+
+  <VCE_CookGunkanmakiGourmet.label>приготовить суши гунканмаки (изысканное)</VCE_CookGunkanmakiGourmet.label>
+  <VCE_CookGunkanmakiGourmet.description>Приготовить кулинарное произведение искусства - изысканное, продуманное, с эстетически выверенным балансом вкуса и маленькой порцией суши гунканмаки.</VCE_CookGunkanmakiGourmet.description>
+  <VCE_CookGunkanmakiGourmet.jobString>Готовит суши гунканмаки (изысканное).</VCE_CookGunkanmakiGourmet.jobString>
+
+  <VCE_CookOshizushiiGourmet.label>приготовить суши осидзуси (изысканное)</VCE_CookOshizushiiGourmet.label>
+  <VCE_CookOshizushiiGourmet.description>Приготовить кулинарное произведение искусства - изысканное, продуманное, с эстетически выверенным балансом вкуса и маленькой порцией суши осидзуси.</VCE_CookOshizushiiGourmet.description>
+  <VCE_CookOshizushiiGourmet.jobString>Готовит суши осидзуси (изысканное).</VCE_CookOshizushiiGourmet.jobString>
+
+  <VCE_MakeHumanSurimi.label>приготовить сурими из человечины</VCE_MakeHumanSurimi.label>
+  <VCE_MakeHumanSurimi.description>Превратить человеческое мясо в пасту, имитирующую текстуру омара, краба или других моллюсков. Хотя вкус...</VCE_MakeHumanSurimi.description>
+  <VCE_MakeHumanSurimi.jobString>Готовит сурими из человечины.</VCE_MakeHumanSurimi.jobString>
+
+
+</LanguageData>

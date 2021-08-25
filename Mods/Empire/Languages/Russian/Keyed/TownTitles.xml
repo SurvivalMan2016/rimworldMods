@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FCTitle_Food_1>Сельскохозяйственная община</FCTitle_Food_1>
+  <FCTitle_Food_2>Аграрный посёлок</FCTitle_Food_2>
+  <FCTitle_Food_3>Региональный посёлок</FCTitle_Food_3>
+
+  <FCTitle_Weapons_1>Деревня Кузнецов</FCTitle_Weapons_1>
+  <FCTitle_Weapons_2>Кузнечная гильдия</FCTitle_Weapons_2>
+  <FCTitle_Weapons_3>Кузница войны</FCTitle_Weapons_3>
+
+  <FCTitle_Apparel_1>Магазин одежды</FCTitle_Apparel_1>
+  <FCTitle_Apparel_2>Швейная фабрика</FCTitle_Apparel_2>
+  <FCTitle_Apparel_3>Швейный литейный завод</FCTitle_Apparel_3>
+
+  <FCTitle_Animals_1>Животноводческая ферма</FCTitle_Animals_1>
+  <FCTitle_Animals_2>Животноводческая плантация</FCTitle_Animals_2>
+  <FCTitle_Animals_3>Региональная скотоводческая плантация</FCTitle_Animals_3>
+
+  <FCTitle_Logging_1>Дровосектор</FCTitle_Logging_1>
+  <FCTitle_Logging_2>Лесозаготовительный город</FCTitle_Logging_2>
+  <FCTitle_Logging_3>Центр обезлесения</FCTitle_Logging_3>
+
+  <FCTitle_Mining_1>Горный форпост</FCTitle_Mining_1>
+  <FCTitle_Mining_2>Горная колония</FCTitle_Mining_2>
+  <FCTitle_Mining_3>Полосовая шахта</FCTitle_Mining_3>
+
+  <FCTitle_Research_1>Исследовательский форпост</FCTitle_Research_1>
+  <FCTitle_Research_2>Исследовательский центр</FCTitle_Research_2>
+  <FCTitle_Research_3>Университет</FCTitle_Research_3>
+
+  <FCTitle_Power_1>Малая электростанция</FCTitle_Power_1>
+  <FCTitle_Power_2>Центр энергетики</FCTitle_Power_2>
+  <FCTitle_Power_3>Тяжелая электростанция</FCTitle_Power_3>
+
+  <FCTitle_Medicine_1>Местная клиника</FCTitle_Medicine_1>
+  <FCTitle_Medicine_2>Медицинский центр</FCTitle_Medicine_2>
+  <FCTitle_Medicine_3>Региональный медицинский центр</FCTitle_Medicine_3>
+
+</LanguageData>

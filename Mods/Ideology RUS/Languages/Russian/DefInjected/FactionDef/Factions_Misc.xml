@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beggars -->
+  <Beggars.label>нищие</Beggars.label>
+  <!-- EN: A group of beggars seeking charity. -->
+  <Beggars.description>Группа нищих, ищущих милостыню.</Beggars.description>
+  <!-- EN: beggar -->
+  <Beggars.pawnSingular>нищий</Beggars.pawnSingular>
+  <!-- EN: beggars -->
+  <Beggars.pawnsPlural>нищие</Beggars.pawnsPlural>
+  
+  <!-- EN: pirate -->
+  <CannibalPirate.pawnSingular>пират</CannibalPirate.pawnSingular>
+  <!-- EN: pirates -->
+  <CannibalPirate.pawnsPlural>пираты</CannibalPirate.pawnsPlural>
+  
+  <!-- EN: tribesman -->
+  <NudistTribe.pawnSingular>дикарь</NudistTribe.pawnSingular>
+  <!-- EN: tribespeople -->
+  <NudistTribe.pawnsPlural>дикари</NudistTribe.pawnsPlural>
+  
+  <!-- EN: pilgrims -->
+  <Pilgrims.label>паломники</Pilgrims.label>
+  <!-- EN: A group of pilgrims seeking to venerate an ancient relic. -->
+  <Pilgrims.description>Группа паломников, желающих поклониться древней реликвии.</Pilgrims.description>
+  <!-- EN: pilgrim -->
+  <Pilgrims.pawnSingular>паломник</Pilgrims.pawnSingular>
+  <!-- EN: pilgrims -->
+  <Pilgrims.pawnsPlural>паломники</Pilgrims.pawnsPlural>
+  
+  <!-- EN: tribesman -->
+  <TribeCannibal.pawnSingular>дикарь</TribeCannibal.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeCannibal.pawnsPlural>дикари</TribeCannibal.pawnsPlural>
+  
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Settings -->
+  <VanillaHairExpanded.SettingsCategory>Vanilla Hair Expanded</VanillaHairExpanded.SettingsCategory>
+
+  <VanillaHairExpanded.Beards_ToolTip>Показывать ли бороды у колонистов.</VanillaHairExpanded.Beards_ToolTip>
+
+  <!-- Float menu options -->
+  <VanillaHairExpanded.ChangeHairstyle>Изменить прическу</VanillaHairExpanded.ChangeHairstyle>
+
+  <!-- GUI -->
+  <VanillaHairExpanded.Hairstyles>Прически</VanillaHairExpanded.Hairstyles>
+  <VanillaHairExpanded.Beards>Бороды</VanillaHairExpanded.Beards>
+  <VanillaHairExpanded.CustomMode>Настройка цвета</VanillaHairExpanded.CustomMode>
+  <VanillaHairExpanded.ColoursTied>Связать цвета</VanillaHairExpanded.ColoursTied>
+
+</LanguageData>

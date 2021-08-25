@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ExtractMetalFromOther.label>Переплавить металл в сталь</ExtractMetalFromOther.label>
+  <ExtractMetalFromOther.description>Используйте тепло и сильные электромагниты для выплавки стали из металла.</ExtractMetalFromOther.description>
+  <ExtractMetalFromOther.jobString>Плавление металла.</ExtractMetalFromOther.jobString>
+
+  <Make_ChemfuelFromChemicalEgg.label>Сделать химическое топливо из химических капсул</Make_ChemfuelFromChemicalEgg.label>
+  <Make_ChemfuelFromChemicalEgg.description>Сделать партию химического топлива путем переработки сырья в химических капсулах.</Make_ChemfuelFromChemicalEgg.description>
+  <Make_ChemfuelFromChemicalEgg.jobString>Переработка химического топлива из капсул.</Make_ChemfuelFromChemicalEgg.jobString>
+
+  <Make_NeutroamineFromChemicalEgg.label>Сделать нейтроамин из химических капсул</Make_NeutroamineFromChemicalEgg.label>
+  <Make_NeutroamineFromChemicalEgg.description>Сделать партию нейтроамина путем переработки сырья в химических капсулах.</Make_NeutroamineFromChemicalEgg.description>
+  <Make_NeutroamineFromChemicalEgg.jobString>Переработка нейтроамина из капсул.</Make_NeutroamineFromChemicalEgg.jobString>
+
+
+</LanguageData>

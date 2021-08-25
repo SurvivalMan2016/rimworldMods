@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<ARKPPP_PLWPNNbDeviceConnected>Périphériques connectés : {0}/{1}</ARKPPP_PLWPNNbDeviceConnected>
+	<ARKPPP_LWPNNbDeviceConnected>Périphériques connectés : {0}</ARKPPP_LWPNNbDeviceConnected>
+	<ARKPPP_IdenticalAlias>Il existe un autre alias identique !</ARKPPP_IdenticalAlias>
+	<ARKPPP_WPNAlias>Alias WPN</ARKPPP_WPNAlias>
+	<ARKPPP_LWPNAlias>Alias LWPN</ARKPPP_LWPNAlias>
+	<ARKPPP_LWPNMigrate>Migrer LWPN</ARKPPP_LWPNMigrate>
+	<ARKPPP_LWPNMigrateDesc>Vous permet de migrer tous les dispositifs électriques configurés pour se connecter sur le LWPN ID entré (le nombre sans les zeros du début ex : LWPN-001 => 1) au LWPN émit par cet émetteur de LWPN</ARKPPP_LWPNMigrateDesc>
+	<ARKPPP_LWPNMigrateInvalidLWPN>Vous devez entrer un LWPN ID valide (ex : pour LWPN-001, entrez "1")</ARKPPP_LWPNMigrateInvalidLWPN>
+	<ARKPPP_LWPNMigrateSuccess>{0} dispositifs ont bien été migrés vers le LWPN émit par l'émetteur selectionné !</ARKPPP_LWPNMigrateSuccess>
+	<ARKPPP_LWPNMigrateSuccessNoDevice>Il n'y à pas de dispositif à migrer depuis ce LWPN ID !</ARKPPP_LWPNMigrateSuccessNoDevice>
+	<ARKPPP_LWPNMigrateInvalidLWPNSame>Le LWPN ID entré est le même que celui émit par l'émetteur de LWPN actuel, merci d'entrer un autre LWPN ID !</ARKPPP_LWPNMigrateInvalidLWPNSame>
+	<ARKPPP_WPNDescAlias>Attribuer un alias plus lisible humainement à ce WPN</ARKPPP_WPNDescAlias>
+	<ARKPPP_LWPNDescAlias>Attribuer un alias plus lisible humainement à ce LWPN</ARKPPP_LWPNDescAlias>
+	<ARKPPP_NotConnectedToWirelessPower>Pas connecté à un WPN</ARKPPP_NotConnectedToWirelessPower>
+	<ARKPPP_NotConnectedToLocalWirelessPower>Pas connecté à un LWPN</ARKPPP_NotConnectedToLocalWirelessPower>
+	<ARKPPP_ConnectedTo>Connecté au {0} ({1}W fournis)</ARKPPP_ConnectedTo>
+	<ARKPPP_StormPerturbationInfo>-{0}% à cause de l'orage</ARKPPP_StormPerturbationInfo>
+	<ARKPPP_SupernovaPerturbationInfo>{0}% à cause de la supernova</ARKPPP_SupernovaPerturbationInfo>
+	<ARKPPP_ADPerturbationInfo>Perte de courant car le satellite lié est endommagé</ARKPPP_ADPerturbationInfo>
+	<ARKPPP_NotConnectedToSpecificWPN>Déconnecté de {0}</ARKPPP_NotConnectedToSpecificWPN>
+	<ARKPPP_WPSel>Selecteur de WPN</ARKPPP_WPSel>
+	<ARKPPP_LWPSel>Selecteur de LWPN</ARKPPP_LWPSel>
+	<ARKPPP_WPSelDesc>Selectionnez le WPN (Wireless Power Network) auquel connecté le récepteur</ARKPPP_WPSelDesc>
+	<ARKPPP_SliderQtPower>Quantitée transmise</ARKPPP_SliderQtPower>
+	<ARKPPP_SliderQtPowerDesc>Selectionner la quantitée de courant transmis par cette station</ARKPPP_SliderQtPowerDesc>
+	<ARKPPP_PowerSelectorQT>{0}W transmis sans fils</ARKPPP_PowerSelectorQT>
+	<ARKPPP_NoWPNAvailable>Pas de WPN disponible !</ARKPPP_NoWPNAvailable>
+	<ARKPPP_ClearCurrentWPNConnection>Annuler la connexion courante</ARKPPP_ClearCurrentWPNConnection>
+	<ARKPPP_ClearCurrentAD>Annuler la liaison à l'actuel AD</ARKPPP_ClearCurrentAD>
+	<ARKPPP_WPNListRow>{0} - {1}W</ARKPPP_WPNListRow>
+	<ARKPPP_WPNListRow2>{0} - {1}W (Faction {2})</ARKPPP_WPNListRow2>
+	<ARKPPP_WPNListRow3>{0} - {1}W (émission non sécurisée)</ARKPPP_WPNListRow3>
+	<ARKPPP_WirelessPowerSelectorListTitle>Liste des WPN disponibles</ARKPPP_WirelessPowerSelectorListTitle>
+	<ARKPPP_PowerLevelSelectorListTitle>Selecteur de niveau de puissance</ARKPPP_PowerLevelSelectorListTitle>
+	<ARKPPP_PowerLevelEntry>{0} ( Intensitée du faisceau orbital )</ARKPPP_PowerLevelEntry>
+	<ARKPPP_LocalWirelessPowerSelectorListTitle>Liste des LWPN disponibles</ARKPPP_LocalWirelessPowerSelectorListTitle>
+	<ARKPPP_BuyWPNMaximumPowerProvided>Energie maximum fournie : {0}W</ARKPPP_BuyWPNMaximumPowerProvided>
+	<ARKPPP_BuyWPNDesiredPower>Energie désirée ( {0}W ) :</ARKPPP_BuyWPNDesiredPower>
+	<ARKPPP_BuyWPNDesiredTime>Durée désirée ( {0} ) :</ARKPPP_BuyWPNDesiredTime>
+	<ARKPPP_BuyWPNEstimatedPrice>Prix estimé : {0} silver</ARKPPP_BuyWPNEstimatedPrice>
+	<ARKPPP_CC_BuyWPN>Emprunter un WPN</ARKPPP_CC_BuyWPN>
+	<ARKPPP_CC_SellWPN>Louer un WPN</ARKPPP_CC_SellWPN>
+	<ARKPPP_SellWPNMaximumPowerWanted>Maximum d'énergie voulue : {0}W</ARKPPP_SellWPNMaximumPowerWanted>
+	<ARKPPP_FactionNotWantBuyWPN>Ne veux pas louer un de vos WPN</ARKPPP_FactionNotWantBuyWPN>
+	<ARKPPP_CommandToggleWirelessDesc>Activer ou désactiver le mode sans-fils</ARKPPP_CommandToggleWirelessDesc>
+	<ARKPPP_ShowSynthesis>Synthèse</ARKPPP_ShowSynthesis>
+	<ARKPPP_FactionEmbargo>Embargo</ARKPPP_FactionEmbargo>
+	<ARKPPP_FactionDontSellPower>La faction ne vend pas d'énergie</ARKPPP_FactionDontSellPower>
+	<ARKPPP_FactionPlayerAlreadyBuyWPN>Vous empruntez déjà un WPN à cette faction !</ARKPPP_FactionPlayerAlreadyBuyWPN>
+	<ARKPPP_FactionPlayerAlreadySellWPN>Vous vendez déjà un WPN à cette faction !</ARKPPP_FactionPlayerAlreadySellWPN>
+	<ATPP_MessageLWPNNoSlotAvailable>Pas de slot LWPN disponible !</ATPP_MessageLWPNNoSlotAvailable>
+	
+	<ARKPPP_FactionPlayerWantStopRentedWPN>Arrêter l'actuel contrat de location du WPN</ARKPPP_FactionPlayerWantStopRentedWPN>
+	<ARKPPP_FactionPlayerWantStopRentedWPNDialogDesc>Pour stopper le contrat actuel, vous devez payer une pénalitée de 10% ({0} d'argent ) du prix du contrat avec {1}. Attention pour les factions neutres et hostiles, il y à un faible risque qu'elles engagent des actions négatives à votre encontre.</ARKPPP_FactionPlayerWantStopRentedWPNDialogDesc>
+	<ARKPPP_FactionPlayerWantStopRentedWPNFactionDontPayProrata>{0} ne tolère pas que vous ne respectiez pas le contrat, il ne vous paieront pas le prorata de ce qu'ils ont déjà consommé !</ARKPPP_FactionPlayerWantStopRentedWPNFactionDontPayProrata>
+	
+	<ARKPPP_FactionPlayerWantStopBorrowedWPN>Arrêter l'actuel contrat d'emprunt de WPN</ARKPPP_FactionPlayerWantStopBorrowedWPN>
+	<ARKPPP_FactionPlayerWantStopBorrowedWPNDialogTitle>Arrêter le contrat</ARKPPP_FactionPlayerWantStopBorrowedWPNDialogTitle>
+	<ARKPPP_FactionPlayerWantStopBorrowedWPNDialogDesc>Pour arrêter le contrat vous devez payer le prorata de ce que vous avez déjà consommé ({0} d'argent){1} plus une pénalitée de 10% ({2} d'argent) du prix du contrat avec{3}, soit un total de {4} unité d'argent. Attention, pour les factions neutres et hostiles il y à un faible risque qu'elles engagent des actions négatives à votre encontre.</ARKPPP_FactionPlayerWantStopBorrowedWPNDialogDesc>
+	<ARKPPP_FactionPlayerWantStopBorrowedWPNDialogDescDiscountPart>, moins {0} unité d'argent pour la remise</ARKPPP_FactionPlayerWantStopBorrowedWPNDialogDescDiscountPart>
+	<ARKPPP_FactionPlayerWantStopBorrowedWPNDialogCancelNotEnoughtSilverTitle>Pas assez d'argent</ARKPPP_FactionPlayerWantStopBorrowedWPNDialogCancelNotEnoughtSilverTitle>
+	<ARKPPP_FactionPlayerWantStopBorrowedWPNDialogCancelNotEnoughtSilverDesc>Vous n'avez pas assez d'argent pour rompre "légalement" le contrat, souhaitez vous toujours le rompre sans rien payer ? Ca va vraiment énerver et ternir les relations avec la faction !</ARKPPP_FactionPlayerWantStopBorrowedWPNDialogCancelNotEnoughtSilverDesc>
+	
+	<ARKPPP_CompHotSensitiveHot3Text>Température trop chaude !</ARKPPP_CompHotSensitiveHot3Text>
+	<ARKPPP_CompHotSensitiveHot2Text>Attention température élevée</ARKPPP_CompHotSensitiveHot2Text>
+	<ARKPPP_CompHotSensitiveHot1Text>Température légérement chaude</ARKPPP_CompHotSensitiveHot1Text>
+	<ARKPPP_CompHotSensitiveHot0Text>Température de fonctionnement idéale</ARKPPP_CompHotSensitiveHot0Text>
+	<ARKPPP_DialogBadInput>Données entrées invalides ! impossible de poursuivre l'opération !</ARKPPP_DialogBadInput>
+	<ARKPPP_BeamTargetMapSelector>Selectionnez la map de destination</ARKPPP_BeamTargetMapSelector>
+	<ARKPPP_BeamTargetThisMap>Cette map</ARKPPP_BeamTargetThisMap>
+	<ARKPPP_BeamTargetGizmo>Attaque orbitale</ARKPPP_BeamTargetGizmo>
+	<ARKPPP_BeamTargetGizmoDesc>Piratez et utilisez le faisceau orbital comme une arme en ciblant des coordonnées où il n'y a pas de parabole d'absorption</ARKPPP_BeamTargetGizmoDesc>
+	
+	<!-- Absorbption Dish -->
+	<ARKPPP_ADPowerOn>Démarrer</ARKPPP_ADPowerOn>
+	<ARKPPP_ADPowerOnDesc>Démarrer la séquence d'initialisation de la plaque d'absorption (AD) liée ainsi que la connexion au satellite de collecte d'énergie le plus proche, ce qui mettra un certain temps.</ARKPPP_ADPowerOnDesc>
+	<ARKPPP_ADPowerOff>Arrêter</ARKPPP_ADPowerOff>
+	<ARKPPP_ADPowerOffDesc>Démarrer la séquence d'arrêt de la plaque d'absorption (AD), ce qui mettra un certain temps, car un arrêt brutal de la connexion entre l'ordinateur et le satellite peut provoquer de gros problèmes !</ARKPPP_ADPowerOffDesc>
+	<ARKPPP_ADPowerLevel>Niveau de puissance</ARKPPP_ADPowerLevel>
+	<ARKPPP_ADPowerLevelDesc>Selectionner le niveau de puissance du faisceau orbital que l'AD va recevoir.</ARKPPP_ADPowerLevelDesc>
+	
+	<!-- Satelitte Targetting System -->
+	<ARKPPP_ADLink>AD</ARKPPP_ADLink>
+	<ARKPPP_ADLinkDesc>Selectionner l'AD à lier à cet ordinateur</ARKPPP_ADLinkDesc>
+	<ARKPPP_STSADSelectorList>Liste des plaques d'absorbtion (AD) disponibles</ARKPPP_STSADSelectorList>
+	<ARKPPP_STSADSelectorNoADAvailable>pas d'AD disponible !</ARKPPP_STSADSelectorNoADAvailable>
+	<ARKPPP_STSCompStringLinked>Lié à {0}</ARKPPP_STSCompStringLinked>
+	<ARKPPP_STSCompStringNotLinked>Pas lié à un AD !</ARKPPP_STSCompStringNotLinked>
+	<ARKPPP_STSCompStringADStartSequence>Séquence d'initialisation en cours {0}%</ARKPPP_STSCompStringADStartSequence>
+	<ARKPPP_STSCompStringADStopSequence>Séquence d'arrêt en cours {0}%</ARKPPP_STSCompStringADStopSequence>
+	<ARKPPP_STSCompStringADStarted>Plaque d'absorbption démarrée</ARKPPP_STSCompStringADStarted>
+	<ARKPPP_STSCompStringADStopped>Plaque d'absorbption stoppée</ARKPPP_STSCompStringADStopped>
+	<ARKPPP_ADSTSOfflineWarning>Alerte STS hors-ligne {0} avant désynchronisation brutale du satellite</ARKPPP_ADSTSOfflineWarning>
+	<ARKPPP_ADOfflineWarning>Alerte AD hors-ligne {0} avant désynchronisation brutale du satellite</ARKPPP_ADOfflineWarning>
+	<ARKPPP_STSCompStringSatelliteTemporaryBlocking>Le satellite lié bloque temporairement ce STS à cause d'une violation du protocole d'utilisation ({0} restant)</ARKPPP_STSCompStringSatelliteTemporaryBlocking>
+	
+	<!-- Planned Incidents -->
+	<ARKPPP_IncidentMechanoidWarshipLabel>Vaisseau de guerre Mechanoid</ARKPPP_IncidentMechanoidWarshipLabel>
+	<ARKPPP_IncidentMechanoidWarshipDescription>dans {0} un vaisseau de guerre mechanoid va temporairement se placer en orbite autour de votre planète, vous devez arrêter toutes les émissions de WPN (désactiver tous les émetteurs/récepteurs WPN), car le vaisceau posséde un capteur pour localiser la source des émissions.</ARKPPP_IncidentMechanoidWarshipDescription>
+	<ARKPPP_IncidentMechanoidWarshipOrbitalStrikeLabel>Bombardement orbital</ARKPPP_IncidentMechanoidWarshipOrbitalStrikeLabel>
+	<ARKPPP_IncidentMechanoidWarshipOrbitalStrikeDescription>Le vaisseau de guerre mechanoid à détecté un signal, il procéde immédiatement à un bombardement par faisceau orbital sur la source du signal !</ARKPPP_IncidentMechanoidWarshipOrbitalStrikeDescription>
+	<ARKPPP_IncidentMechanoidWarshipLeave>Le vaisseau de guerre mechanoid à quitté l'orbite de votre planète.</ARKPPP_IncidentMechanoidWarshipLeave>
+	<ARKPPP_AlertMechanoidWarshipCountdownLabel>Arrivée du vaisseau de guerre mechanoid dans {0}</ARKPPP_AlertMechanoidWarshipCountdownLabel>
+	<ARKPPP_AlertMechanoidWarshipCountdownDescription>Un vaisseau de guerre mechanoid va bientôt se positionner en orbite de cette planète. Désactivez toutes les émissions de WPN pour éviter d'être détecté !</ARKPPP_AlertMechanoidWarshipCountdownDescription>
+	<ARKPPP_AlertMechanoidWarshipCountdownBeforeEndLabel>Vaisseau de guerre Mechanoid</ARKPPP_AlertMechanoidWarshipCountdownBeforeEndLabel>
+	<ARKPPP_AlertMechanoidWarshipCountdownBeforeEndDescription>Un vaisseau de guerre mechanoid est stationné en orbite de votre planète pour un moment, aucunes émissions WPN ne devrait être effectué durant ce laps de temps pour éviter qu'il ne détecte votre colonie !</ARKPPP_AlertMechanoidWarshipCountdownBeforeEndDescription>>
+	
+	<ARKPPP_IncidentMechanoidWarshipSupplyTroopsLabel>Attaque Mechanoid</ARKPPP_IncidentMechanoidWarshipSupplyTroopsLabel>
+	<ARKPPP_IncidentMechanoidWarshipSupplyTroopsDescription>Le vaisseau de guerre mechanoid à détecté un signal envoyé depuis votre colonie, il envoie immédiatement des troupes pour attaquer votre colonie</ARKPPP_IncidentMechanoidWarshipSupplyTroopsDescription>
+	
+	
+	<!-- Command -->
+	<ARKPPP_CommandARESTarget>ARES</ARKPPP_CommandARESTarget>
+	<ARKPPP_CommandARESTargetDesc>Activer le système ARES, pour que celà fonctionne, le WPN auquel ce récepteur est connecté doit être connecté à un réseau électrique possédant au moins 10 000W stocké dans des batteries (pour ARES 1),40 000W (pour ARES 2) et 20 000W (pour ARES EMP). Attention l'activation d'ARES va très certainement griller l'émetteur du WPN et entrainer une ou plusieurs explosions à cause de la surcharge.</ARKPPP_CommandARESTargetDesc>
+	<ARKPPP_CommandARES2Target>ARES 2.0</ARKPPP_CommandARES2Target>
+	<ARKPPP_CommandARESEMPTarget>ARES EMP</ARKPPP_CommandARESEMPTarget>
+	
+	<!-- Message -->
+	<ARKPPP_MsgWPNUnsecurised>Une émission de WPN non sécurisée s'est terminée, la faille de sécuritée à été corrigée.</ARKPPP_MsgWPNUnsecurised>
+	<ARKPPP_MsgARESNotEnoughtStoredPower>Pas assez d'énergie stockée pour activer ARES, vous avec besoin au moins de 10 000W stockés dans les batteries du réseau électrique rattaché au transmetteur du WPN connecté</ARKPPP_MsgARESNotEnoughtStoredPower>
+	<ARKPPP_MsgARES2NotEnoughtStoredPower>Pas assez d'énergie stockée pour activer ARES, vous avec besoin au moins de 30 000W stockés dans les batteries du réseau électrique rattaché au transmetteur du WPN connecté</ARKPPP_MsgARES2NotEnoughtStoredPower>
+	<ARKPPP_MsgARESEMPNotEnoughtStoredPower>Pas assez d'énergie stockée pour activer ARES, vous avec besoin au moins de 20 000W stockés dans les batteries du réseau électrique rattaché au transmetteur du WPN connecté</ARKPPP_MsgARESEMPNotEnoughtStoredPower>
+	
+	<ARKPPP_MsgNoEnoughSilverToBuy>Vous n'avez pas assez d'argent !</ARKPPP_MsgNoEnoughSilverToBuy>
+	<ARKPPP_MsgCannotChangePowerLevel>Le niveau d'intensitée de l'AD ne peut être changé, vous devez d'abord arrêter la liaison actuelle avec le satellite</ARKPPP_MsgCannotChangePowerLevel>
+	<ARKPPP_MsgCannotConnectToPortableLWPNIDLimitReached>Impossible de se connecter à cet émetteur LWPN portable, la limite de {0} dispositifs est atteinte !</ARKPPP_MsgCannotConnectToPortableLWPNIDLimitReached>
+	<ARKPPP_MsgCannotChangeADWhileSTSOn>Impossible de changer l'AD lié pendant que le STS à démarré</ARKPPP_MsgCannotChangeADWhileSTSOn>
+	<ARKPPP_MsgCannotuseARESWhenAnotherStarted>Plusieurs dispositifs ARES ne peuvent êtres activés simultanément sur la même map</ARKPPP_MsgCannotuseARESWhenAnotherStarted>
+	<ARKPPP_MsgWPNCannotBeUnderRoof>Les WPN ne peuvent pas fonctionner sous un toit !</ARKPPP_MsgWPNCannotBeUnderRoof>
+	<ARKPPP_MsgBeamWeaponCost>Vous nécessitez au moins {0}W stocké dans les batteries présentes sur ce réseau électrique !</ARKPPP_MsgBeamWeaponCost>
+	<ARKPPP_MsgBeamWeaponCooldownEnd>Fin du blocage satellite temporaire pour {0}</ARKPPP_MsgBeamWeaponCooldownEnd>
+		
+	<!-- LetterDef -->
+	<ARKPPP_LetterEmbargo>Embargo sur l'énergie</ARKPPP_LetterEmbargo>
+	<ARKPPP_LetterEmbargoDesc>A cause de votre mauvais comportement avec la faction {0}, ils ont décidé de vous punir en imposant un embargo sur l'achat et la vente d'électricité avec vous, et qui durera {1}</ARKPPP_LetterEmbargoDesc>
+	<ARKPPP_LetterCancelContract>Annuler le contrat</ARKPPP_LetterCancelContract>
+	<ARKPPP_LetterCancelContractDesc>L'emprunt de {0} {1}W avec vous à été annulé par la faction {2} à cause de l'embargo énergétique en effet</ARKPPP_LetterCancelContractDesc>
+	<ARKPPP_LetterCancelRentContractDesc>La location de {0} {1}W avec la faction {2} à été annulé à cause de l'embargo énergétique en effet</ARKPPP_LetterCancelRentContractDesc>
+	<ARKPPP_LetterLossOfTrust>Perte de confiance</ARKPPP_LetterLossOfTrust>
+	<ARKPPP_LetterLossOfTrustDesc>A cause de votre mauvais comportement avec la faction {0}, la relation entre vous et eux à diminué de {1} points, n'oubliez pas que maintenir de bonnes relations avec vos alliés vous permet d'obtenir des prix d'emprunt d'électricité avantageux !</ARKPPP_LetterLossOfTrustDesc>
+	<ARKPPP_LetterPlannedRaid>Raid planifié</ARKPPP_LetterPlannedRaid>
+	<ARKPPP_PlannedRaidDescStartRaidDelayed>A cause de votre mauvais comportement avec la faction {0}, vous allez être raidé dans {1}!</ARKPPP_PlannedRaidDescStartRaidDelayed>
+	<ARKPPP_PlannedRaidDescStartRaidNow>A cause de votre mauvais comportement avec la faction {0}, ils ont débuté le raid de votre colonie par air pod !</ARKPPP_PlannedRaidDescStartRaidNow>
+	<ARKPPP_LetterWarningBadBehavior>Attention</ARKPPP_LetterWarningBadBehavior>
+	<ARKPPP_LetterWarningBadBehaviorDesc>En dépit de votre comportement déplorable, la faction {0} a décidé de ne rien faire contre vous, mais vous prévient que ce comportement ne sera plus toléré à l'avenir!</ARKPPP_LetterWarningBadBehaviorDesc>
+	<ARKPPP_LetterCancelContractBecauseEnemyNow>Annulation du contrat</ARKPPP_LetterCancelContractBecauseEnemyNow>
+	<ARKPPP_LetterCancelContractBecauseEnemyNowDesc>Vous et la faction {0} êtes maintenant des ennemis, ils ont décidé que tous les contrats entre vous et eux devaient être renégociés.</ARKPPP_LetterCancelContractBecauseEnemyNowDesc>
+	<ARKPPP_LetterCancelContractBecauseNeutralNow>Annulation du contrat</ARKPPP_LetterCancelContractBecauseNeutralNow>
+	<ARKPPP_LetterCancelContractBecauseNeutralNowDesc>Vous et la faction {0} êtes maintenant neutres, ils ont décidé que tous les contrats entre vous et eux devaient être renégociés.</ARKPPP_LetterCancelContractBecauseNeutralNowDesc>
+	<ARKPPP_LetterWarningStorm>Perturbations orageuses</ARKPPP_LetterWarningStorm>
+	<ARKPPP_LetterWarningStormDesc>Un ou plusieurs de vos émetteurs / récepteurs sans fil seront perturbés par la tempête. Une diminution de {0}% de la capacité de courant sans fil transmise est à prévoir.</ARKPPP_LetterWarningStormDesc>
+	<ARKPPP_LetterStormCleared>Fin des troubles orageux</ARKPPP_LetterStormCleared>
+	<ARKPPP_LetterStormClearedDesc>La tempête est terminée, vos appareils concernés fonctionnent à nouveau correctement!</ARKPPP_LetterStormClearedDesc>
+	<ARKPPP_LetterSupernovaDisturbance>Perturbation Supernova</ARKPPP_LetterSupernovaDisturbance>
+	<ARKPPP_LetterSupernovaDisturbanceDesc>À la suite de l’implosion d’une étoile proche dans votre système solaire, tous les réseaux électriques sans fil à longue portée subiront une diminution de {0}% de leur capacité. Ces perturbations peuvent durer un certain temps</ARKPPP_LetterSupernovaDisturbanceDesc>
+	<ARKPPP_LetterSupernovaDisturbancePositiveDesc>Suite à l'implosion d'une étoile proche dans votre système solaire, tous les réseaux électriques sans fil à longue portée seront affectés par une augmentation de capacité de {0}%. Ces perturbations peuvent durer un certain temps</ARKPPP_LetterSupernovaDisturbancePositiveDesc>
+	<ARKPPP_LetterSupernovaDisturbanceEnd>Fin de la perturbation de la supernova</ARKPPP_LetterSupernovaDisturbanceEnd>
+	<ARKPPP_LetterSupernovaDisturbanceEndDesc>L'implosion de l'étoile est maintenant terminée, tous les WPN impactés fontionnent à nouveau normalement</ARKPPP_LetterSupernovaDisturbanceEndDesc>
+	<ARKPPP_LetterWPNInterruptionEnd>Fin de l'interruption du WPN</ARKPPP_LetterWPNInterruptionEnd>
+	<ARKPPP_LetterWPNInterruptionEndDesc>Les installations électriques de la faction {0} fonctionnent à nouveau. Toutefois, ils ne jugent pas nécessaire de vous accorder une réduction. Ils estiment que vous devriez vous sentir heureux que le contrat soit maintenu.</ARKPPP_LetterWPNInterruptionEndDesc>
+	<ARKPPP_LetterWPNInterruption>Interruption WPN emprunté</ARKPPP_LetterWPNInterruption>
+	<ARKPPP_LetterWPNInterruptionDesc>Suite à un raid violent, la faction {0} n'est plus en mesure de vous fournir de l'énergie. Le {1} n'émet donc plus d'énergie pendant que la faction restaure ses générateurs électriques.</ARKPPP_LetterWPNInterruptionDesc>
+	<ARKPPP_LetterWPNInterruptionEndDiscount>Fin de l'interruption du WPN emprunté</ARKPPP_LetterWPNInterruptionEndDiscount>
+	<ARKPPP_LetterWPNInterruptionEndDiscountDesc>Les installations électriques de la faction {0} fonctionnent à nouveau, pour vous compenser pour le temps où vous avez été privé d'électricité, elle vous accorde un rabais de {1} d'argent</ARKPPP_LetterWPNInterruptionEndDiscountDesc>
+	<ARKPPP_LetterWPNUnsecured>WPN non sécurisé</ARKPPP_LetterWPNUnsecured>
+	<ARKPPP_LetterWPNUnsecuredDesc>Un WPN distant non sécurisé ({0}) avec une puissance de {1} W est recevable par vos destinataires. La diffusion durera quelque temps avant que la faille de sécurité ne soit remarquée et corrigée</ARKPPP_LetterWPNUnsecuredDesc>
+	<ARKPPP_LetterARESOverload>Surcharge ARES</ARKPPP_LetterARESOverload>
+	<ARKPPP_LetterARESOverload1Desc>L'activation du système ARES a provoqué une explosion en raison d'une surcharge de l'émetteur du WPN utilisé pour activer le système.</ARKPPP_LetterARESOverload1Desc>
+	<ARKPPP_LetterARESOverload2Desc>L'activation du système ARES pour provoquer une surtension sur l'ensemble du réseau électrique connecté au WPN utilisé, le débordement a provoqué une ou plusieurs explosions.</ARKPPP_LetterARESOverload2Desc>
+	<ARKPPP_LetterARESOverload3Desc>L'activation du système ARES a provoqué une explosion en raison d'une surcharge de l'émetteur du réseau WPN utilisé pour activer le système et à d'autres emplacements du réseau.</ARKPPP_LetterARESOverload3Desc>
+	<ARKPPP_LetterDamagedSatellite>Satellite endommagé</ARKPPP_LetterDamagedSatellite>
+	<ARKPPP_LetterDamagedSatelliteDesc>Un satellite à faisceau de puissance couplé à l'une de vos plaques d'absorption (AD) a été endommagé par une collision avec une météorite. Pendant la période de réparation par les nano-robots du système de maintenance, la puissance du faisceau orbital sera réduite.</ARKPPP_LetterDamagedSatelliteDesc>
+	<ARKPPP_LetterADDestroyWhilePBEEnabled>AD Détruit</ARKPPP_LetterADDestroyWhilePBEEnabled>
+	<ARKPPP_LetterADDestroyWhilePBEEnabledDesc>Attention un AD a été détruit alors qu'un faisceau orbital est actif, tous les éléments présents dans le rayon de ce dernier seront détruit. Il finira par s’arrêter, mais comme la plate-forme de réception n’est plus présente, une erreur de désynchronisation brutale avec le satellite peut survenir!</ARKPPP_LetterADDestroyWhilePBEEnabledDesc>
+	<ARKPPP_LetterWPNRentedByFactionInterruption>Contrat non respecté</ARKPPP_LetterWPNRentedByFactionInterruption>
+	<ARKPPP_LetterWPNRentedByFactionInterruptionAlly1Desc>Cher allié, nous vous rappelons que vous vous êtes engagé à nous fournir {0} W (minimum) de pouvoir via le WPN que nous vous louons, nous comprenons que vous pouvez avoir des problèmes occasionnels, cela peut arriver à tout le monde, mais nous vous remercions de bien vouloir rétablir la situation le plus rapidement possible.</ARKPPP_LetterWPNRentedByFactionInterruptionAlly1Desc>
+	<ARKPPP_LetterWPNRentedByFactionInterruptionAlly2Desc>Cher allié, nous vous remercions très vite de relancer le WPN que nous vous louons, dans le cadre du contrat que nous avons avec vous! Avant que cela ne nous cause des dégâts majeurs (tourelles non alimentées lors d'un raid, ...).</ARKPPP_LetterWPNRentedByFactionInterruptionAlly2Desc>
+	<ARKPPP_LetterWPNRentedByFactionInterruptionAlly3Desc>Le faites-vous exprès ou êtes-vous malhonnête? c'est le dernier avertissement avant de rompre le contrat!</ARKPPP_LetterWPNRentedByFactionInterruptionAlly3Desc>
+	<ARKPPP_LetterWPNRentedByFactionInterruptionNeutral1Desc>Vous ne respectez pas le contrat que nous avons conclu avec vous pour la location d'un WPN fournissant au moins {0} W! S'il vous plaît rétablir la situation rapidement!</ARKPPP_LetterWPNRentedByFactionInterruptionNeutral1Desc>
+	<ARKPPP_LetterWPNRentedByFactionInterruptionNeutral2Desc>C'est inacceptable ! c'est le dernier avertissement avant de rompre le contrat! Veuillez restaurer le WPN comme convenu dans le contrat!</ARKPPP_LetterWPNRentedByFactionInterruptionNeutral2Desc>
+	<ARKPPP_LetterWPNRentedByFactionInterruptionEnnemy1Desc>C'est inadmissible ! Vous voulez vous faire raider mainternant ? vous devez immédiatement restaurer le WPN comme convenu dans le contrat de location (il doit fournir au moins {0} W), sinon nous viendrons vous rendre visite! Il n'y aura pas d'autre avertissement!</ARKPPP_LetterWPNRentedByFactionInterruptionEnnemy1Desc>
+	<ARKPPP_LetterFactionWPNContractBreach>Rupture de contrat</ARKPPP_LetterFactionWPNContractBreach>
+	<ARKPPP_LetterFactionWPNContractBreachDesc>{0} a mis fin au bail d'un de ses WPN parce que vous n'avez pas respecté vos obligations. De plus, ils vous ont imposé des sanctions.</ARKPPP_LetterFactionWPNContractBreachDesc>
+	<ARKPPP_LetterFactionWPNContractBreachDueToARESFire>Rupture de contrat</ARKPPP_LetterFactionWPNContractBreachDueToARESFire>
+	<ARKPPP_LetterFactionWPNContractBreachDueToARESFireDesc>{0} a mis fin à la location d'un de ses WPN parce que vous avez activé un dispositif militaire de classe ARES à partir du WPN loué, ce qui a causé de gros dégâts sur son réseau électrique. De plus, ils ont décidé de vous imposer un embargo sur l'énergie.</ARKPPP_LetterFactionWPNContractBreachDueToARESFireDesc>
+	<ARKPPP_LetterWPNRentedByFactionContractBreach>Rupture de contrat</ARKPPP_LetterWPNRentedByFactionContractBreach>
+	<ARKPPP_LetterWPNRentedByFactionContractBreachDesc>{0} a mis fin à la location d'un de vos WPN parce que vous n'avez pas respecté vos obligations malgré leur relancement. De plus, ils ont prévu des sanctions à votre encontre.</ARKPPP_LetterWPNRentedByFactionContractBreachDesc>
+	<ARKPPP_LetterWPNRentedByFactionContractBreachNoRelaunchDesc>{0} a mis fin au bail d'un de vos WPN car vous ne respectiez pas vos obligations. De plus, ils vous ont imposé des sanctions.</ARKPPP_LetterWPNRentedByFactionContractBreachNoRelaunchDesc>
+	<ARKPPP_LetterWPNRentedByFactionContractBreachDescNoProrata>Compte tenu de votre comportement, ils ne paieront pas la proportion consommée</ARKPPP_LetterWPNRentedByFactionContractBreachDescNoProrata>
+	<ARKPPP_LetterWPNRentedByFactionContractBreachDescProrata>Malgré votre comportement, ils paieront quand même la proportion consommée</ARKPPP_LetterWPNRentedByFactionContractBreachDescProrata>
+	<ARKPPP_LetterFactionPayRentedWPN>Paiement</ARKPPP_LetterFactionPayRentedWPN>
+	<ARKPPP_LetterFactionPayRentedWPNDesc>{0} vous a payé {1} d'argent pour la location {2}</ARKPPP_LetterFactionPayRentedWPNDesc>
+	<ARKPPP_LetterFactionPayRentedWPNPart1Desc>({0} - {1} pour les {2} de distribution invalide de courant)</ARKPPP_LetterFactionPayRentedWPNPart1Desc>
+	<ARKPPP_LetterFactionDontPayRentedWPN>Refus de payer</ARKPPP_LetterFactionDontPayRentedWPN>
+	<ARKPPP_LetterFactionDontPayRentedWPNDesc>{0} ne veut pas payer pour la location de {1}, car il a déclaré que l'énergie fournie par ce WPN était de mauvaise qualité (trop d'interruptions, alimentation électrique non conforme à ce qui avait été convenu dans le contrat, ...)</ARKPPP_LetterFactionDontPayRentedWPNDesc>
+	<ARKPPP_LetterEmbargoEnd>Fin de l'embargo</ARKPPP_LetterEmbargoEnd>
+	<ARKPPP_LetterEmbargoEndDesc>L'embargo avec {0} est terminé</ARKPPP_LetterEmbargoEndDesc>
+	<ARKPPP_LetterSTSHackDetected>Piratage STS détecté</ARKPPP_LetterSTSHackDetected>
+	<ARKPPP_LetterSTSHackDetectedDesc>un satellite à détecté une tentative de piratage d'un de vos STS, certainement du à une erreur de le protocole de liaison à cause du fait qu'il à fonctionné sur une longue période à une température trop élevée. Le satellite à initié une réaction de défense et à pris pour cible votre STS. Les coordonées de ce dernier vont être visé par un faisceau orbital.</ARKPPP_LetterSTSHackDetectedDesc>
+	
+	<!--Resume dialog-->
+	<ARKPPP_ResumeDialogUnsecureSection>WPN non sécurisés</ARKPPP_ResumeDialogUnsecureSection>
+	<ARKPPP_ResumeDialogBuyedSection>WPN empruntés</ARKPPP_ResumeDialogBuyedSection>
+	<ARKPPP_ResumeDialogSoldSection>WPN loués</ARKPPP_ResumeDialogSoldSection>
+	<ARKPPP_ResumeDialogEmbargoSection>Embargo énergétique</ARKPPP_ResumeDialogEmbargoSection>
+	<ARKPPP_ResumeDialogBuyedLine>-{0} {1}W par {2}, {3} restant, coût: {4} argent </ARKPPP_ResumeDialogBuyedLine>
+	<ARKPPP_ResumeDialogBuyedLineAndDiscount>-{0} {1}W par {2}, {3} restant, coût: {4} d'argent ({5} de remise)</ARKPPP_ResumeDialogBuyedLineAndDiscount>
+	<ARKPPP_ResumeDialogUnsecureLine>{0} {1}W</ARKPPP_ResumeDialogUnsecureLine>
+	<ARKPPP_ResumeDialogSoldLine>-{0} {1}W par {2}, {3} restant, revenu : {4} d'argent</ARKPPP_ResumeDialogSoldLine>
+	<ARKPPP_ResumeDialogNormallyProvidedWatt>(Fourni {0}W normalement)</ARKPPP_ResumeDialogNormallyProvidedWatt>
+	<ARKPPP_ResumeDialogEmbargoLine>-{0} : se termine dans {1}</ARKPPP_ResumeDialogEmbargoLine>
+	<ARKPPP_ResumeDialogNothing>Rien à afficher</ARKPPP_ResumeDialogNothing>
+	
+	<ARKPPP_ResumeDialogSoldLinePart1>( {0} moins {1} d'argent de pénalité correspondant à {2} de la distribution d'énergie non valide )</ARKPPP_ResumeDialogSoldLinePart1>
+	
+	<!--Alerts-->
+	<ARKPPP_AlertPartNbRentedWPN>{0} loué</ARKPPP_AlertPartNbRentedWPN>
+	<ARKPPP_AlertPartNbBorrowedWPN>{0} emprunté</ARKPPP_AlertPartNbBorrowedWPN>
+	<ARKPPP_AlertDesc>Nombre de WPN actuellement empruntés ou loués</ARKPPP_AlertDesc>
+	<ARKPPP_AlertHot3Devices>Ordinateur en surchauffe</ARKPPP_AlertHot3Devices>
+	<ARKPPP_AlertHot3DevicesDesc>Un ou plusieurs de vos ordinateurs ont atteint le seuil de température critique, veuillez rétablir rapidement une température correcte!</ARKPPP_AlertHot3DevicesDesc>
+	<ARKPPP_AlertHot2Devices>Ordinateur chaud</ARKPPP_AlertHot2Devices>
+	<ARKPPP_AlertHot2DevicesDesc>Un ou plusieurs de vos ordinateurs sont en surchauffe, veuillez réduire rapidement la température!</ARKPPP_AlertHot2DevicesDesc>
+	<ARKPPP_AlertSupernovaDisturbance>Perturbation Supernova</ARKPPP_AlertSupernovaDisturbance>
+	<ARKPPP_AlertSTSDown>Attention STS hors ligne!</ARKPPP_AlertSTSDown>
+	<ARKPPP_AlertSTSDownDesc>Un ou plusieurs de vos AD ont leur système de visée orbitale (STS) hors-ligne, ce qui est très dangereux, car une désynchronisation brutale avec le satellite peut entraîner des erreurs de visée orbitale ou une dilatation du faisceau orbital.</ARKPPP_AlertSTSDownDesc>
+	<ARKPPP_AlertADDown>Avertissement AD hors ligne!</ARKPPP_AlertADDown>
+	<ARKPPP_AlertADDownDesc>Une ou plusieurs de vos AD sont hors-ligne alors qu'un faisceau orbital est actif. Cela est très dangereux, car une désynchronisation brutale avec le satellite peut entraîner des erreurs de visée orbitale ou une dilatation du faisceau orbital.</ARKPPP_AlertADDownDesc>
+	<ARKPPP_AlertSatelliteBlacklisted>Accès au réseau satellite bloqué</ARKPPP_AlertSatelliteBlacklisted>
+	<ARKPPP_AlertSatelliteBlacklistedDesc>Votre planète est actuellement sur la liste noire, vous ne pouvez plus vous connecter >:C</ARKPPP_AlertSatelliteBlacklistedDesc>
+	<ARKPPP_AlertADOverload>Surcharge plaque d'absorption</ARKPPP_AlertADOverload>
+	<ARKPPP_AlertADOverloadDesc>Attention: une ou plusieurs de vos plaques d'absorbption sont surchargées. En cas de coupure de courant ou d'éruption solaire, les risques de désynchronisation brutale avec le réseau satellite sont considérablement augmentés.</ARKPPP_AlertADOverloadDesc>
+	<ARKPPP_AlertbeamAttack>Faisceau orbital dans {0}</ARKPPP_AlertbeamAttack>
+	
+	<!-- Negative event after computer STS melting down -->
+	<ARKPPP_STSOverheating>Surcharge STS</ARKPPP_STSOverheating>
+	<ARKPPP_STSOverheatingDesc>Un STS a explosé en raison du fait qu'il fonctionne à une température trop élevée</ARKPPP_STSOverheatingDesc>
+	<ARKPPP_STSOverheatingOrbitalAimingError>Erreur de visée orbitale</ARKPPP_STSOverheatingOrbitalAimingError>
+	<ARKPPP_STSOverheatingOrbitalAimingErrorDesc>La surchauffe du STS a provoqué un bug affectant le module de visée orbitale, un ou plusieurs faisceaux orbitaux frapperont votre colonnie à des coordonnées aléatoires avant la déconnexion du satellite!</ARKPPP_STSOverheatingOrbitalAimingErrorDesc>
+	
+	<!-- Negative events after satelitte desync -->
+	<ARKPPP_DesyncOrbitalAimingError>Erreur de visée orbitale</ARKPPP_DesyncOrbitalAimingError>
+	<ARKPPP_DesyncOrbitalAimingErrorDesc>La désynchronisation non standard avec le satellite a entraîné un bug affectant le module de visée orbitale, un ou plusieurs faisceaux orbitaux frapperont votre colonnie selon des coordonnées aléatoires avant la déconnexion du satellite!</ARKPPP_DesyncOrbitalAimingErrorDesc>
+	<ARKPPP_DesyncOrbitalBeamDilatation>Dilatation du faisceau orbital</ARKPPP_DesyncOrbitalBeamDilatation>
+	<ARKPPP_DesyncOrbitalBeamDilatationDesc>La désynchronisation brutale avec le satellite a provoqué un bug affectant l'intensité et le rayon de l'énergie reçue par le faisceau: une très grande zone sera impactée pendant environ 30 secondes avant que le faisceau ne soit déconnecté!</ARKPPP_DesyncOrbitalBeamDilatationDesc>
+	<ARKPPP_DesyncSatelliteBlacklisting>Satelitte blacklisting</ARKPPP_DesyncSatelliteBlacklisting>
+	<ARKPPP_DesyncSatelliteBlacklistingDesc>Le système de supervision local des réseaux de fournisseurs d'énergie satellitaire a détecté une utilisation non standard et dangereuse provenant de votre planète et a décidé de mettre votre planète sur une liste noire pour un certain temps. Vous ne pourrez pas vous connecter aux satellites pour récupérer de l'énergie pendant ce temps.</ARKPPP_DesyncSatelliteBlacklistingDesc>
+	<ARKPPP_DesyncEMP>Pulsation éléctromagnétique</ARKPPP_DesyncEMP>
+	<ARKPPP_DesyncEMPDesc>La désynchronisation brutale avec le satellite a provoqué une grande impulsion électromagnétique suite à une énorme décharge d'énergie dans l'AD. Tous les appareils électriques présents dans un certain périmètre seront impactés.</ARKPPP_DesyncEMPDesc>
+	
+	<ARKPPP_DeviceOffCannotStartAD>Impossible d'établir la connexion au satellite, la plaque d'absorption liée est désactivée!</ARKPPP_DeviceOffCannotStartAD>
+	<ARKPPP_DesyncSatelliteBlacklistingCannotStartAD>Connexion impossible au réseau satellite, raison: cette planète est sur la liste noire</ARKPPP_DesyncSatelliteBlacklistingCannotStartAD>
+	<ARKPPP_DesyncSatelliteBlacklistingEnd>Le blacklistage de votre planète au niveau du réseau satellitaire de collecte d'énergie est maintenant terminé</ARKPPP_DesyncSatelliteBlacklistingEnd>
+	
+	
+	<!--ChoiceLetters-->
+	<ARKPPP_ChoiceLetterPayBorrowedWPNRefusedAlly>Nous sommes vraiment déçus de votre comportement, vous êtes vraiment un allié déplorable incapable de payer ses factures!</ARKPPP_ChoiceLetterPayBorrowedWPNRefusedAlly>
+	<ARKPPP_ChoiceLetterPayBorrowedWPNRefusedNeutral>Pensez-vous qu'en volant vous entretiendrez de bonnes relations entre nous? c'est inadmissible !</ARKPPP_ChoiceLetterPayBorrowedWPNRefusedNeutral>
+	<ARKPPP_ChoiceLetterPayBorrowedWPNRefusedEnnemy>Pas étonnant que votre pathétique faction ne respecte pas ses engagements, préparez-vous à faire face aux conséquences!</ARKPPP_ChoiceLetterPayBorrowedWPNRefusedEnnemy>
+	<ARKPPP_ChoiceLetterPayBorrowedWPNLabel>Facture</ARKPPP_ChoiceLetterPayBorrowedWPNLabel>
+	
+	<ARKPPP_ChoiceLetterPayBorrowedWPNTitle>{0} facture à payer</ARKPPP_ChoiceLetterPayBorrowedWPNTitle>
+	<ARKPPP_ChoiceLetterPayBorrowedWPNDesc>Le contrat que vous aviez avec {0} pour le bail de {1} a expiré. Vous avez maintenant un délai de 24H pour payer à la faction un montant de {2} d'argent.</ARKPPP_ChoiceLetterPayBorrowedWPNDesc>
+	<ARKPPP_ChoiceLetterPayBorrowedWPNDescDiscountPart>({0} moins une remise de {1} d'argent)</ARKPPP_ChoiceLetterPayBorrowedWPNDescDiscountPart>
+	<ARKPPP_ChoiceLetterPayBorrowedWPNOptionAccept>Payer la facture</ARKPPP_ChoiceLetterPayBorrowedWPNOptionAccept>
+	<ARKPPP_ChoiceLetterPayBorrowedWPNOptionReject>Refuser de payer</ARKPPP_ChoiceLetterPayBorrowedWPNOptionReject>
+	
+	
+	
+	<!-- Settings -->
+	
+	<ARKPPP_SettingsSectionGeneral>Général</ARKPPP_SettingsSectionGeneral>
+	<ARKPPP_SettingsSectionPBE>Energie du faisceau orbital</ARKPPP_SettingsSectionPBE>
+	<ARKPPP_SettingsSectionIncidents>Incidents</ARKPPP_SettingsSectionIncidents>
+	<ARKPPP_SettingsSectionTrade>Relations commerciales</ARKPPP_SettingsSectionTrade>
+	<ARKPPP_SettingsSectionARES>A.R.E.S</ARKPPP_SettingsSectionARES>
+	<ARKPPP_SettingsSectionFactionPower>Faction : Quantité d'énergie par niveau technologique </ARKPPP_SettingsSectionFactionPower>
+	
+	<ARKPPP_SettingsMinHour>Heures minimum ({0}h)</ARKPPP_SettingsMinHour>
+	<ARKPPP_SettingsMaxHour>Heures maximum ({0}h)</ARKPPP_SettingsMaxHour>
+	<ARKPPP_SettingsMinDay>Durée minimum ({0} jours)</ARKPPP_SettingsMinDay>
+	<ARKPPP_SettingsMaxDay>Durée maximum ({0} jours)</ARKPPP_SettingsMaxDay>
+	<ARKPPP_SettingsMinWatt>Quantitée de Watt minimum ({0}W)</ARKPPP_SettingsMinWatt>
+	<ARKPPP_SettingsMaxWatt>Quantitée de Watt maximum ({0}W)</ARKPPP_SettingsMaxWatt>
+	<ARKPPP_SettingsSupernovaChanceGood>Chance d'une conséquence positive ({0}%)</ARKPPP_SettingsSupernovaChanceGood>
+	<ARKPPP_SettingsMechWarshipChanceBeamAttack>Risque qu'il lance une attaque par faisceau d'énergie orbitale ({0}%)</ARKPPP_SettingsMechWarshipChanceBeamAttack>
+	<ARKPPP_SettingsPBE>Générateur d'énergie par faisceau orbital</ARKPPP_SettingsPBE>
+	<ARKPPP_Archotech>Archo</ARKPPP_Archotech>
+	<ARKPPP_Ultratech>Ultra</ARKPPP_Ultratech>
+	<ARKPPP_Spacertech>Spacer</ARKPPP_Spacertech>
+	<ARKPPP_Industrialtech>Industriel</ARKPPP_Industrialtech>
+	<ARKPPP_Medievaltech>Medieval</ARKPPP_Medievaltech>
+	<ARKPPP_Othertech>Autre</ARKPPP_Othertech>
+	<ARKPPP_SettingsFactionWPNSoldChanceGetPower>WPN vendus au joueur - Chance que la faction posséde du courant : {0}%</ARKPPP_SettingsFactionWPNSoldChanceGetPower>
+	<ARKPPP_SettingsFactionWPNPurchasedChanceWantPower>WPN achetés par le joueur - Chance que la faction veuille du courant : {0}%</ARKPPP_SettingsFactionWPNPurchasedChanceWantPower>
+	<ARKPPP_SettingsFactionWPNSoldToPlayer>WPN vendu au joueur</ARKPPP_SettingsFactionWPNSoldToPlayer>	
+	<ARKPPP_SettingsFactionWPNPurchasedToPlayer>WPN acheté par le joueur</ARKPPP_SettingsFactionWPNPurchasedToPlayer>	
+	<ARKPPP_SettingsEmbargo>Embargo</ARKPPP_SettingsEmbargo>	
+	<ARKPPP_SettingsIncidentSupernova>Supernova</ARKPPP_SettingsIncidentSupernova>
+	<ARKPPP_SettingsIncidentMechanoidWarshipAttack>Vaisseau de guerre mechanoid - Interval entre chaque attaque</ARKPPP_SettingsIncidentMechanoidWarshipAttack>
+	<ARKPPP_SettingsIncidentMechanoidWarship>Vaisseau de guerre mechanoid</ARKPPP_SettingsIncidentMechanoidWarship>
+	<ARKPPP_SettingsIncidentUnsecureWPN>WPN non sécurisé</ARKPPP_SettingsIncidentUnsecureWPN>
+	<ARKPPP_SettingsIncidentWPNInterruption>WPN interruption</ARKPPP_SettingsIncidentWPNInterruption>
+	<ARKPPP_SettingsIncidentDamagedSatellite>Satellite endommagé</ARKPPP_SettingsIncidentDamagedSatellite>
+	<ARKPPP_SettingsPBEEnergyProduced>Energie produite par </ARKPPP_SettingsPBEEnergyProduced>
+	<ARKPPP_SettingsPBELowBeam>Petit faisceau ({0}W)</ARKPPP_SettingsPBELowBeam>
+	<ARKPPP_SettingsPBENormalBeam>Faisceau normal ({0}W)</ARKPPP_SettingsPBENormalBeam>
+	<ARKPPP_SettingsPBEBig1Beam>Gros faisceau 1 ({0}W)</ARKPPP_SettingsPBEBig1Beam>
+	<ARKPPP_SettingsPBEBig2Beam>Gros faisceau 2 ({0}W)</ARKPPP_SettingsPBEBig2Beam>
+	<ARKPPP_SettingsARESRadiusV1>Rayon V1 ({0})</ARKPPP_SettingsARESRadiusV1>
+	<ARKPPP_SettingsARESRadiusV2>Rayon V2 ({0})</ARKPPP_SettingsARESRadiusV2>
+	<ARKPPP_SettingsARESRadiusV3>Rayon EMP ({0})</ARKPPP_SettingsARESRadiusV3>
+	<ARKPPP_SettingsARESChanceExplosion>Risque que l'émetter explose ({0}%)</ARKPPP_SettingsARESChanceExplosion>
+	<ARKPPP_SettingsARESChanceExplosionBattery>Risque que des batteries explosent ({0}%)</ARKPPP_SettingsARESChanceExplosionBattery>
+	<ARKPPP_SettingsARESDurationV1>Durée V1 ({0})</ARKPPP_SettingsARESDurationV1>
+	<ARKPPP_SettingsARESDurationV2>Durée V2 ({0})</ARKPPP_SettingsARESDurationV2>
+	<ARKPPP_SettingsARESNeededEnergyV1>Energie requise dans les batteries V1 ({0}W)</ARKPPP_SettingsARESNeededEnergyV1>
+	<ARKPPP_SettingsARESNeededEnergyV2>Energie requise dans les batteries V2 ({0}W)</ARKPPP_SettingsARESNeededEnergyV2>
+	<ARKPPP_SettingsARESNeededEnergyV3>Energie requise dans les batteries EMP ({0}W)</ARKPPP_SettingsARESNeededEnergyV3>
+	<ARKPPP_SettingsChancePBEDilatation1>Risque de subir une dilatation du faisceau orbital au niveau d'intensitée 1 ({0}%)</ARKPPP_SettingsChancePBEDilatation1>
+	<ARKPPP_SettingsChancePBEDilatation2>Risque de subir une dilatation du faisceau orbital au niveau d'intensitée 2 ({0}%)</ARKPPP_SettingsChancePBEDilatation2>
+	<ARKPPP_SettingsChancePBEDilatation3>Risque de subir une dilatation du faisceau orbital au niveau d'intensitée 3 ({0}%)</ARKPPP_SettingsChancePBEDilatation3>
+	<ARKPPP_SettingsChancePBEAimingError>Risque d'une erreur de visée orbitale avec plusieurs faisceaux orbitaux ({0}%)</ARKPPP_SettingsChancePBEAimingError>
+	<ARKPPP_SettingsChancePBEEMP>Risque EMP ({0}%)</ARKPPP_SettingsChancePBEEMP>
+	
+	<ARKPPP_SettingsSTSOverheating>Surchauffe STS</ARKPPP_SettingsSTSOverheating>
+	<ARKPPP_SettingsSTSOverheatingChanceBlacklisting>Risque que la planète soit blackistéé du réseau de satelitaire ({0}%)</ARKPPP_SettingsSTSOverheatingChanceBlacklisting>
+	<ARKPPP_SettingsSTSOverheatingChanceAimingError>Risque d'une erreur de visée orbital ({0}%)</ARKPPP_SettingsSTSOverheatingChanceAimingError>
+	
+	<ARKPPP_SettingsMaxDevicesPLWPN>Nombre maximal de périphériques pouvant être gérés par les émetteurs portables de LWPN ({0})</ARKPPP_SettingsMaxDevicesPLWPN>
+	<ARKPPP_SettingsCheckAvailableMoneyBeforeBuyWPN>Vérifiez l’argent disponible à proximité de la balise de commerce orbitale avant d’emprunter un WPN à une faction</ARKPPP_SettingsCheckAvailableMoneyBeforeBuyWPN>
+	<ARKPPP_SettingsMaxWattPortableWPNReceiver>Puissance maximale délivrée par le récepteur WPN portable ({0}W)</ARKPPP_SettingsMaxWattPortableWPNReceiver>
+	<ARKPPP_SettingsARESChanceFactionAllowFire>Chance que les factions possèdent une infrastructure permettant d'activer le système ARES depuis leur WPN ({0}%)</ARKPPP_SettingsARESChanceFactionAllowFire>
+	<ARKPPP_SettingsTradeChanceFactionRandomlyDontWantPay>Risque que les factions neutres et ennemies refusent aléatoirement de payer les WPN loués ({0}%)</ARKPPP_SettingsTradeChanceFactionRandomlyDontWantPay>
+	<ARKPPP_SettingsMinHourBeforeMeltdown>Temps minimum avant la fusion du STS en cas de température trop élevée ({0} h)</ARKPPP_SettingsMinHourBeforeMeltdown>
+	<ARKPPP_SettingsMaxHourBeforeMeltdown>Temps maximum avant la fusion du STS en cas de température trop élevée ({0} h)</ARKPPP_SettingsMaxHourBeforeMeltdown>
+	<ARKPPP_SettingsDisablePBEShaking>Désactiver le tremblement de l'écran des faisceaux orbitaux (nécessaire de recharger la sauvegarde)</ARKPPP_SettingsDisablePBEShaking>
+	<ARKPPP_SettingsWPNReceiverDontWorkUnderRoof>Les WPN ne fonctionnent pas sous les toits</ARKPPP_SettingsWPNReceiverDontWorkUnderRoof>
+	<ARKPPP_SettingsDisablePBESky>Désactiver l'éclairage du ciel de la map (pas  appliqué sur les faisceaux déjà en cours)</ARKPPP_SettingsDisablePBESky>
+	<ARKPPP_SettingsARESTHunderColor>Couleur des éclairs</ARKPPP_SettingsARESTHunderColor>
+	<ARKPPP_SettingsPBEGlare>Niveau d'intensité de la luminosité ({0}%)</ARKPPP_SettingsPBEGlare>
+	<ARKPPP_SettingsPBEMute>Couper le son du faisceau orbital (nécessaire de recharger la sauvegarde)</ARKPPP_SettingsPBEMute>
+	<ARKPPP_SettingsWattBasePrice>Prix de base (par jour)</ARKPPP_SettingsWattBasePrice>
+	<ARKPPP_SettingsWattBasePriceAlly>allié</ARKPPP_SettingsWattBasePriceAlly>
+	<ARKPPP_SettingsWattBasePriceNeutral>neutre</ARKPPP_SettingsWattBasePriceNeutral>
+	<ARKPPP_SettingsWattBasePriceEnemy>ennemie</ARKPPP_SettingsWattBasePriceEnemy>
+	<ARKPPP_SettingsFactionsOfferRenew>Renouvellement des offres</ARKPPP_SettingsFactionsOfferRenew>
+	<ARKPPP_SettingsFactionsOfferRenewMin>nombre de jours minimum ({0}j)</ARKPPP_SettingsFactionsOfferRenewMin>
+	<ARKPPP_SettingsFactionsOfferRenewMax>nombre de jours maximum ({0}j)</ARKPPP_SettingsFactionsOfferRenewMax>
+	<ARKPPP_SettingsPBEWattNeededAttack>Quantité de Watt stocké requis pour démarrer le faisceau orbital d'attaque de niveau {0}</ARKPPP_SettingsPBEWattNeededAttack>
+	<ARKPPP_SettingsPBEBeamAttackHot1ChanceTargetError>Risque qu'il y ait une erreur de visée orbitale si le STS est un peu chaud ({0}%)</ARKPPP_SettingsPBEBeamAttackHot1ChanceTargetError>
+	<ARKPPP_SettingsPBEBeamAttackHot2ChanceTargetError>Risque qu'il y ait une erreur de visée orbitale si le STS est chaud ({0}%)</ARKPPP_SettingsPBEBeamAttackHot2ChanceTargetError>
+	<ARKPPP_SettingsPBEBeamAttackHot3ChanceTargetError>Risque qu'il y ait une erreur de visée orbitale si le STS est vraiment chaud ({0}%)</ARKPPP_SettingsPBEBeamAttackHot3ChanceTargetError>
+	<ARKPPP_SettingsPBEAttackCooldownMin>Heures minimum à attendre après le lancement d'une attaque de faisceau orbital (blocage temporaire du satellite) ({0}h)</ARKPPP_SettingsPBEAttackCooldownMin>
+	<ARKPPP_SettingsPBEAttackCooldownMax>Heures maximum à attendre après le lancement d'une attaque de faisceau orbital (blocage temporaire du satellite) ({0}h)</ARKPPP_SettingsPBEAttackCooldownMax>
+	<ARKPPP_SettingsSTSHotNbHoursBeforehackFailPossibility>Nombre d'heures de fonctionnement à haute température avant qu'un STS puisse générer des erreurs de piratage ({0}h)</ARKPPP_SettingsSTSHotNbHoursBeforehackFailPossibility>
+	<ARKPPP_SettingsPBEDisableBlacklisting>Désactiver le blacklistage de planète</ARKPPP_SettingsPBEDisableBlacklisting>
+	<ARKPPP_SettingsMechanoidWarshipCannotHitTargetUnderMoutain>Les vaisseau de guerre mechanoid ne peuvent pas attaquer par faisceau orbital des cibles situées sous un plafond épais</ARKPPP_SettingsMechanoidWarshipCannotHitTargetUnderMoutain>
+	<ARKPPP_SettingsLWPNReceptorsDefaultState>Récepteurs LWPN activé par défaut</ARKPPP_SettingsLWPNReceptorsDefaultState>
+	<ARKPPP_SettingsIncidentMechanoidWarshipDisable>Désactiver l'incident de vaisseau mechanoid</ARKPPP_SettingsIncidentMechanoidWarshipDisable>
+	
+	<!-- Beam colors -->
+	<ARKPPP_BeamColorRed>Rouge</ARKPPP_BeamColorRed>
+	<ARKPPP_BeamColorPurple>Violet</ARKPPP_BeamColorPurple>
+	<ARKPPP_BeamColorBlue>Bleu</ARKPPP_BeamColorBlue>
+	<ARKPPP_BeamColorGreen>Vert</ARKPPP_BeamColorGreen>
+	<ARKPPP_BeamColorYellow>Jaune</ARKPPP_BeamColorYellow>
+	<ARKPPP_BeamColorDefault>Par défaut</ARKPPP_BeamColorDefault>
+</LanguageData>

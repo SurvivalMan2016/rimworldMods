@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATPP_CreateS1.label>Сделать суррогатного андроида T1</ATPP_CreateS1.label>
+  <ATPP_CreateS1.description>Сделать пустого андроида S1 из пластали и компонентов.</ATPP_CreateS1.description>
+  <ATPP_CreateS1.jobString>Making Surrogate Android</ATPP_CreateS1.jobString>
+
+  <ATPP_CreateS2.label>Сделать суррогатного андроида T2</ATPP_CreateS2.label>
+  <ATPP_CreateS2.description>Сделать пустого андроида S2 из пластали и компонентов.</ATPP_CreateS2.description>
+  <ATPP_CreateS2.jobString>Making Surrogate Android</ATPP_CreateS2.jobString>
+
+  <ATPP_CreateS3.label>Сделать суррогатного андроида T3</ATPP_CreateS3.label>
+  <ATPP_CreateS3.description>Сделать пустого андроида S3 из пластали и компонентов.</ATPP_CreateS3.description>
+  <ATPP_CreateS3.jobString>Making Surrogate Android</ATPP_CreateS3.jobString>
+
+  <ATPP_CreateS4.label>Сделать суррогатного андроида T4</ATPP_CreateS4.label>
+  <ATPP_CreateS4.description>Сделать пустого андроида S4 из пластали и компонентов.</ATPP_CreateS4.description>
+  <ATPP_CreateS4.jobString>Making Surrogate Android</ATPP_CreateS4.jobString>
+
+
+  <!-- Blank Androids -->
+
+  <ATPP_CreateBlankT3.label>Сделать пустую нейронную сеть андроида T3</ATPP_CreateBlankT3.label>
+  <ATPP_CreateBlankT3.description>Сделать пустой (без инициализированной нейронной сети) андроид Т3 из пластали и компонентов.</ATPP_CreateBlankT3.description>
+  <ATPP_CreateBlankT3.jobString>Making Blank Android</ATPP_CreateBlankT3.jobString>
+
+  <ATPP_CreateBlankT4.label>Сделать пустую нейронную сеть андроида T4</ATPP_CreateBlankT4.label>
+  <ATPP_CreateBlankT4.description>Сделать пустой (без инициализированной нейронной сети) андроид Т4 из пластали и компонентов.</ATPP_CreateBlankT4.description>
+  <ATPP_CreateBlankT4.jobString>Making Blank Android</ATPP_CreateBlankT4.jobString>
+
+
+  <!-- SM7 -->
+
+  <ATPP_CreateM7.label>Сделать M7 суррогатного андроида)</ATPP_CreateM7.label>
+  <ATPP_CreateM7.description>Сделать пустого SM7 андроида из пластали и компонентов.</ATPP_CreateM7.description>
+  <ATPP_CreateM7.jobString>Making Surrogate Android</ATPP_CreateM7.jobString>
+
+
+  <!-- HellDrone -->
+
+  <ATPP_CreateHellDrone.label>Сделать HellUnit суррогатного андроида</ATPP_CreateHellDrone.label>
+  <ATPP_CreateHellDrone.description>Сделать пустого S-HU андроида из пластали и компонентов.</ATPP_CreateHellDrone.description>
+  <ATPP_CreateHellDrone.jobString>Making Surrogate Android</ATPP_CreateHellDrone.jobString>
+
+
+</LanguageData>

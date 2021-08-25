@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Auto Drill -->
+
+  <VFE_ChunkToMine>Бурить в поисках {0}</VFE_ChunkToMine>
+  <VFE_ChunkRandomMine>Бурить в поисках различных камней</VFE_ChunkRandomMine>
+  <VFE_ChooseMine>Выбрать тип камня для бурения</VFE_ChooseMine>
+  <VFE_ChooseMineDesc>Выбор тип камня для поиска бурением. Можно выбрать любой из типов камне на карте или случайный</VFE_ChooseMineDesc>
+  <VFE_RandomRock>Случайный камень</VFE_RandomRock>
+  <VFE_PleaseSelectOutput>Выбрать тип продукции от машины</VFE_PleaseSelectOutput>
+  <VFE_NeedsWater>Эта постройка должна быть размещена на воде</VFE_NeedsWater>
+
+  <!-- Random Building Graphics -->
+
+  <VFE_ChangeGraphic>Изменить внешний вид</VFE_ChangeGraphic>
+  <VFE_ChangeGraphicDesc>Изменить внешний вид этого строения, случайно выбрав из доступных вариантов</VFE_ChangeGraphicDesc>
+
+  <!-- Random Building Graphics, Options -->
+
+  <VFE_RandomOrSequentially>Кнопка "Изменить внешний вид" случайно изменяет внешний вид (уберите для последовательного выбора)</VFE_RandomOrSequentially>
+  <VFE_HideRandomizeButton>Скрыть кнопку "Изменить внешний вид"</VFE_HideRandomizeButton>
+
+  <VFE.SwitchLightColor>Сменить цвет освещения</VFE.SwitchLightColor>
+  <VFE.SwitchLightColorDesc>Изменить текущий цвет освещения.</VFE.SwitchLightColorDesc>
+  <VFE.ChangeColorTo>Изменить цвет на {0}</VFE.ChangeColorTo>
+  <VFE.ColorSwitchPowerOff>Питания нет. Невозможнос сменить цвет.</VFE.ColorSwitchPowerOff>
+
+
+</LanguageData>

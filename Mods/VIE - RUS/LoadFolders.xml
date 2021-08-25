@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <v1.3>
+    <li IfModActive="VanillaExpanded.Ideo.RelicsAndArtifacts">Relic</li>
+    <li IfModActive="VanillaExpanded.VIEHAR">Hats</li>
+    <li IfModActive="VanillaExpanded.VIESAS">Splits</li>
+  </v1.3>
+</loadFolders>

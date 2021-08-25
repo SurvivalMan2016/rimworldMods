@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_SimpleBake.label>простая выпечка</VCE_SimpleBake.label>
+  <VCE_SimpleBake.description>Простая выпечка из нескольких ингредиентов и муки.</VCE_SimpleBake.description>
+
+  <VCE_FineBake.label>вкусная выпечка</VCE_FineBake.label>
+  <VCE_FineBake.description>Сложная выпечка, тщательно собранная из широкого ассортимента ингредиентов и муки.</VCE_FineBake.description>
+
+  <VCE_LavishBake.label>шикарная выпечка</VCE_LavishBake.label>
+  <VCE_LavishBake.description>Шедевр кулинарного искусства. Эта выпечка питает тело, разум и душу.</VCE_LavishBake.description>
+
+  <VCE_GourmetBake.label>изысканная выпечка</VCE_GourmetBake.label>
+  <VCE_GourmetBake.description>Не просто выпечка, а кулинарное произведение искусства - изысканного, продуманного, с эстетически выверенным балансом вкуса и маленькой порцией.</VCE_GourmetBake.description>
+
+
+</LanguageData>

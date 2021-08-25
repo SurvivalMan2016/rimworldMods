@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_MakeEnergyDrink.label>приготовить энергетик</VBE_MakeEnergyDrink.label>
+  <VBE_MakeEnergyDrink.description>Приготовить кислый газированный напиток с ноткой горечи. Комбинация сахара и кофеина дает прилив энергии вначале и опустошение в конце. Послевкусие похоже на эффект от радиации.</VBE_MakeEnergyDrink.description>
+  <VBE_MakeEnergyDrink.jobString>Готовит энергетик.</VBE_MakeEnergyDrink.jobString>
+
+
+</LanguageData>

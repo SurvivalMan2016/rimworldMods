@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Simple Weaver -->
+
+  <VMEu_PlasticProcessor.label>обработчик пластмассы</VMEu_PlasticProcessor.label>
+  <VMEu_PlasticProcessor.description>Небольшая машина, используемая для создания пластика и придания ему различных форм и оттенков, который можно использовать для строительства и ремесел. Процесс происходит быстро и позволяет получить большое количество пластика за один раз.</VMEu_PlasticProcessor.description>
+
+
+  <!-- Synthweaver -->
+
+  <VMEu_SynthWeaver.label>синтезатор</VMEu_SynthWeaver.label>
+  <VMEu_SynthWeaver.description>Большой комплекс, оснащенный высокотехнологичными автоматическими инструментами, такими как ткацкие барабаны, химические инжекторы и печи, которые могут быть использованы для синтеза различных типов материалов на основе нефти.</VMEu_SynthWeaver.description>
+
+
+  <!-- Oil Distiller -->
+
+  <VMEu_OilDistiller.label>дистиллятор нефти</VMEu_OilDistiller.label>
+  <VMEu_OilDistiller.description>Небольшой высокотехнологичный аппарат, используемый для перегонки и обработки нефти с целью получения из него различных химических веществ.</VMEu_OilDistiller.description>
+
+  <VMEu_OilExtractor.label>нефтеэкстрактор</VMEu_OilExtractor.label>
+  <VMEu_OilExtractor.description>Промышленная машина, способная извлекать нефть из глубоких источников.\n\nДля его работы необходимо, чтобы он был построен на месте естественного нефтяного месторождения.</VMEu_OilExtractor.description>
+
+
+</LanguageData>

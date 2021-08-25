@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_DoBillsGrill.label>готовить на гриле</VCE_DoBillsGrill.label>
+  <VCE_DoBillsGrill.verb>готовить на гриле</VCE_DoBillsGrill.verb>
+  <VCE_DoBillsGrill.gerund>готовить на гриле</VCE_DoBillsGrill.gerund>
+
+  <VCE_DoBillsFryer.label>обжарить во фритюре</VCE_DoBillsFryer.label>
+  <VCE_DoBillsFryer.verb>обжаривать во фритюре</VCE_DoBillsFryer.verb>
+  <VCE_DoBillsFryer.gerund>обжаривать во фритюре</VCE_DoBillsFryer.gerund>
+
+  <VCE_DoBillsCanning.label>работать на консервной машине</VCE_DoBillsCanning.label>
+  <VCE_DoBillsCanning.verb>консервировать еду</VCE_DoBillsCanning.verb>
+  <VCE_DoBillsCanning.gerund>консервировать еду</VCE_DoBillsCanning.gerund>
+
+  <VCE_DoBillsPrep.label>готовить за столом для приправ</VCE_DoBillsPrep.label>
+  <VCE_DoBillsPrep.verb>готовить приправы</VCE_DoBillsPrep.verb>
+  <VCE_DoBillsPrep.gerund>готовить приправы</VCE_DoBillsPrep.gerund>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: crisis of belief -->
+  <IdeoChange.label>кризис веры</IdeoChange.label>
+  <!-- EN: Mental state: Crisis of belief -->
+  <IdeoChange.baseInspectLine>Психическое состояние: Кризис веры</IdeoChange.baseInspectLine>
+  <!-- EN: <x>{PAWN_nameDef}</x>'s spirit has broken. As a result,<x> {PAWN_pronoun} </x>was forced to question everything. -->
+  <IdeoChange.beginLetter>{PAWN_nameDef} дух сломлен. В результате {PAWN_pronoun} {PAWN_gender ? был вынужден : была вынуждена} подвергнуть все сомнению.</IdeoChange.beginLetter>
+  
+  <!-- EN: rebelling -->
+  <Rebellion.label>бунт</Rebellion.label>
+  <!-- EN: Mental state: Rebelling -->
+  <Rebellion.baseInspectLine>Психическое состояние: Бунт</Rebellion.baseInspectLine>
+  <!-- EN: <x>{0} </x>has reached a psychological limit and is going to induce other slaves to rebel. -->
+  <Rebellion.beginLetter>{0} {0_gender ? достиг : достигла} психологического предела и собирается побудить других рабов к восстанию.</Rebellion.beginLetter>
+  <!-- EN: rebel -->
+  <Rebellion.beginLetterLabel>бунтарь</Rebellion.beginLetterLabel>
+  
+</LanguageData>

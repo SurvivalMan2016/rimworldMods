@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Black-Footed Ferret -->
+
+  <AEXP_BlackFootedFerret.label>черноногий хорек</AEXP_BlackFootedFerret.label>
+  <AEXP_BlackFootedFerret.description>Небольшой ночной представитель семейства ласковых, питающийся более мелкими, чем он сам, животными. У него длинное тело, желтовато-коричневый мех с черноватым пятном на спине и черная маска вокруг глаз.\n\n&lt;color=#33d733&gt;Статус вида в реальном мире:&lt;/color&gt; Находится под угрозой исчезновения. Черноногие хорьки - это млекопитаюшие, находящиеся под наибольшей угрозой исчезновенния в Северной Америке. В 1976 году они считались вымершими. Небольшая группа была вновь обнаружена в 1981 году, выведена в неволе и с осторожностью выпущена на волю. По состоянию на 2020 год менее 500 черноногих хорьков живут в дикой природе на 17 участках реинтродукции - их популяция значительно ниже 3000, необходимых для полного восстановления вида.</AEXP_BlackFootedFerret.description>
+  <AEXP_BlackFootedFerret.tools.0.label>левая лапа</AEXP_BlackFootedFerret.tools.0.label>
+  <AEXP_BlackFootedFerret.tools.1.label>правая лапа</AEXP_BlackFootedFerret.tools.1.label>
+  <AEXP_BlackFootedFerret.tools.3.label>голова</AEXP_BlackFootedFerret.tools.3.label>
+  <AEXP_BlackFootedFerret.race.meatLabel>мясо черноногого хорька</AEXP_BlackFootedFerret.race.meatLabel>
+
+
+  <!-- Black Rhino -->
+
+  <AEXP_BlackRhino.label>черный носорог</AEXP_BlackRhino.label>
+  <AEXP_BlackRhino.description>Огромное травоядное млекопитающее с темпераментным характером. Черные носороги отличаются от своих белых сородичей немного меньшими размерами и формой губ. У черного носорога заостренная верхняя губа, а у белого - квадратная. Эта разница связана с рационом животных - черные носороги добывают большую часть своего пропитания от кустарников.\n\n&lt;color=#33d733&gt;Статус вида в реальном мире:&lt;/color&gt; Находится под критической угрозой исчезновения. Три из семи подвидов черных носорогов вымерли с 1850 года, а один находится на грани вымирания. По состоянию на 2020 год, благодаря постоянным усилиям программ сохранения животных в Африке, численность черного носорога выросла с 5366 до 5627 особей.</AEXP_BlackRhino.description>
+  <AEXP_BlackRhino.tools.0.label>рог</AEXP_BlackRhino.tools.0.label>
+  <AEXP_BlackRhino.tools.1.label>рог</AEXP_BlackRhino.tools.1.label>
+  <AEXP_BlackRhino.tools.3.label>голова</AEXP_BlackRhino.tools.3.label>
+
+
+  <!-- Bonobo -->
+
+  <AEXP_Bonobo.label>бонобо</AEXP_Bonobo.label>
+  <AEXP_Bonobo.description>Бонобо - большая обезьяна, меньший родственник шимпанзе с более круглым черепом и более плоским лицом. У бонобо более длинные ноги, более короткие руки и более узкое туловище. Бонобо демонстрируют совершенно иное социальное поведение, чем шимпанзе, с упором на миротворчество и секс, как инструмент для управления и снижения напряженности.\n\n&lt;color=#33d733&gt;Статус вида в реальном мире:&lt;/color&gt; Находится под угрозой исчезновения. За последние 30 лет популяция быстро сократилась, но надежных оценок текущего числа бонобо не существует. Их среде обитания в Демократической Республике Конго часто угрожает политическая нестабильность.</AEXP_Bonobo.description>
+  <AEXP_Bonobo.tools.0.label>левый кулак</AEXP_Bonobo.tools.0.label>
+  <AEXP_Bonobo.tools.1.label>правый кулак</AEXP_Bonobo.tools.1.label>
+  <AEXP_Bonobo.tools.3.label>голова</AEXP_Bonobo.tools.3.label>
+
+
+  <!-- Moa -->
+
+  <AEXP_Moa.label>моа</AEXP_Moa.label>
+  <AEXP_Moa.description>Очень крупное травоядная нелетающая птица, обитающая на островах Старой Земли в Новой Зеландии. У моа не было даже рудиментарных крыльев, которые есть у всех других ратитов. Моа питаются различными видами растений и различными их частями, в том числе волокнистыми веточками и листьями, взятыми с невысоких деревьев и кустарников.\n\n&lt;color=#33d733&gt;Статус вида в реальном мире:&lt;/color&gt; Недавно исчезнувшие. Моа были доминирующими травоядными животными в Новой Зеландии до прибытия людей. Полинезийцы прибыли туда где-то до 1300 года, и вскоре все роды моа вымерли из-за охоты и, в меньшей степени, из-за сокращения среды обитания вследствие вырубки лесов. К 1445 году все моа вымерли.</AEXP_Moa.description>
+  <AEXP_Moa.tools.0.label>когти</AEXP_Moa.tools.0.label>
+  <AEXP_Moa.tools.1.label>клюв</AEXP_Moa.tools.1.label>
+  <AEXP_Moa.tools.2.label>голова</AEXP_Moa.tools.2.label>
+
+
+  <!-- Panda -->
+
+  <AEXP_Panda.label>большая панда</AEXP_Panda.label>
+  <AEXP_Panda.description>Панда с характерным и пышным черно-белым мехом - энергичный медведь, приспособленный к жизни в бамбуковых лесах. В среднем большая панда съедает от 9 до 14 кг побегов бамбука в день, чтобы компенсировать ограниченную энергетическую ценность своего рациона. Панды обычно менее агрессивны, чем другие виды медведей.\n\n&lt;color=#33d733&gt;Статус вида в реальном мире:&lt;/color&gt; Уязвимый. Число диких панд, недавно повышенных до статуса исчезающего вида (по состоянию на 2020 год), наконец-то восстанавливается после нескольких лет сокращения. Утрата среды обитания - главная угроза для них.</AEXP_Panda.description>
+  <AEXP_Panda.tools.0.label>левая лапа</AEXP_Panda.tools.0.label>
+  <AEXP_Panda.tools.1.label>правая лапа</AEXP_Panda.tools.1.label>
+  <AEXP_Panda.tools.3.label>голова</AEXP_Panda.tools.3.label>
+
+
+  <!-- Quagga -->
+
+  <AEXP_Quagga.label>квагга</AEXP_Quagga.label>
+  <AEXP_Quagga.description>Квагга - это подвид равнинной зебры. Он отличается от других зебр своим ограниченным рисунком, состоящим из коричневых и белых полос, в основном на передней части тела. Задняя часть коричневого цвета, без полос и больше походит на лошадь.\n\n&lt;color=#33d733&gt;Статус вида в реальном мире:&lt;/color&gt; Недавно вымершие. Квагги вымерли в конце XIX века из-за чрезмерной охоты африканцев. Проект Quagga был начат в 1987 в Южной Африке с целью создания популяции кваггоподобных зебр путем выборочного разведения особей с уменьшенным рисунком полос из равнинных зебр. Конечная цель проекта - ввести получившийся вид в прежний ареал квагги.</AEXP_Quagga.description>
+  <AEXP_Quagga.tools.0.label>голова</AEXP_Quagga.tools.0.label>
+  <AEXP_Quagga.tools.1.label>левое копыто</AEXP_Quagga.tools.1.label>
+  <AEXP_Quagga.tools.2.label>правое копыто</AEXP_Quagga.tools.2.label>
+
+
+  <!-- Rockhopper Penguin -->
+
+  <AEXP_RockhopperPenguin.label>хохлатый пингвин</AEXP_RockhopperPenguin.label>
+  <AEXP_RockhopperPenguin.description>Гораздо меньшие по размеру, чем императорские пингвины, хохлатые пингвины весят менее 10 фунтов. Они характеризуются тем, что прыгают по скалистым холмам и скалам, где живут и размножаются.\n\n&lt;color=#33d733&gt;Статус вида в реальном мире:&lt;/color&gt; Уязвимый. По оценкам, за последние 30 лет, популяция хохлатых пингвинов сократилась почти на 25%, а теперь изменение климата может подвергнуть их еще большему риску.</AEXP_RockhopperPenguin.description>
+  <AEXP_RockhopperPenguin.tools.0.label>когти</AEXP_RockhopperPenguin.tools.0.label>
+  <AEXP_RockhopperPenguin.tools.1.label>клюв</AEXP_RockhopperPenguin.tools.1.label>
+  <AEXP_RockhopperPenguin.tools.2.label>голова</AEXP_RockhopperPenguin.tools.2.label>
+
+
+  <!-- Tasmanian Devil -->
+
+  <AEXP_TasmanianDevil.label>тасманийский дьявол</AEXP_TasmanianDevil.label>
+  <AEXP_TasmanianDevil.description>Плотоядное сумчатое животное, характеризующееся коренастым и мускулистым телосложением, черным мехом, резким запахом, чрезвычайно громким и тревожным визгом, острым обонянием и агрессией во время кормежки.\n\n&lt;color=#33d733&gt;Статус вида в реальном мире:&lt;/color&gt; Находится под угрозой исчезновения. По оценкам экспертов, с середины 1990-х годов население тасманийского дьявола сократилось более чем на 80%. По текущим оценкам, в дикой природе все еще живет менее 25000 животных этого вида.</AEXP_TasmanianDevil.description>
+  <AEXP_TasmanianDevil.tools.0.label>левая лапа</AEXP_TasmanianDevil.tools.0.label>
+  <AEXP_TasmanianDevil.tools.1.label>правая лапа</AEXP_TasmanianDevil.tools.1.label>
+  <AEXP_TasmanianDevil.tools.3.label>голова</AEXP_TasmanianDevil.tools.3.label>
+  <AEXP_TasmanianDevil.race.meatLabel>мясо тасманийского дьявола</AEXP_TasmanianDevil.race.meatLabel>
+
+  <!-- Thylacine -->
+
+  <AEXP_Thylacine.label>сумчатый волк</AEXP_Thylacine.label>
+  <AEXP_Thylacine.description>Известный также, как тилацин, а также как тасманийский тигр из-за полосатой нижней части спины. Сумчатый волк - осторожный и ночной хищник, с внешним видом собаки среднего или крупного размера. Отличается от собаки жестким хвостом и брюшным мешком, похожим на такой же у кенгуру.\n\n&lt;color=#33d733&gt;Статус вида в реальном мире:&lt;/color&gt; Недавно вымершие. Последний известный тилацин умер в зоопарке Бомарис в Хобарте в 1936 году. По текущим оценкам, во время пребывания европейцев в Тасмании насчитывалось около 5000 тилацинов, но чрезмерная охота, в сочетании с такими факторами, как разрушение среды обитания тилацинов и занесенные болезни, привели к быстром вымиранию этого вида.</AEXP_Thylacine.description>
+  <AEXP_Thylacine.tools.0.label>левая лапа</AEXP_Thylacine.tools.0.label>
+  <AEXP_Thylacine.tools.1.label>правая лапа</AEXP_Thylacine.tools.1.label>
+  <AEXP_Thylacine.tools.3.label>голова</AEXP_Thylacine.tools.3.label>
+  <AEXP_Thylacine.race.meatLabel>мясо сумчатого волка</AEXP_Thylacine.race.meatLabel>
+
+  <!-- African Wild Dog -->
+
+  <AEXP_AfricanWildDog.label>гиеновидная собака</AEXP_AfricanWildDog.label>
+  <AEXP_AfricanWildDog.description>Крупный представитель семейства собачьих, отличающийся от собак и волков зубами, отсутствием пальцев на лапах, а также специализацией гиперплотоядной диете. Гиеновидная собака - очень социальное животное, живущее стаями. Как и большинство диких собак, они предпочитают держаться как можно дальше от людей.\n\n&lt;color=#33d733&gt;Статус вида в реальном мире:&lt;/color&gt; Находится по угрозой исчезновения. Гиеновидной собаке в первую очередь угрожает фрагментация среды обитания, которая приводит к конфликту между человеком и дикой природой, передаче инфекционных заболеваний и высокой смертности. По текущим оценкам, к 2020 году существует около 6600 взрослых особей этого вида.</AEXP_AfricanWildDog.description>
+  <AEXP_AfricanWildDog.tools.0.label>левая лапа</AEXP_AfricanWildDog.tools.0.label>
+  <AEXP_AfricanWildDog.tools.1.label>правая лапа</AEXP_AfricanWildDog.tools.1.label>
+  <AEXP_AfricanWildDog.tools.3.label>голова</AEXP_AfricanWildDog.tools.3.label>
+
+
+  <!-- Pangolin -->
+
+  <AEXP_Pangolin.label>гигантский панголин</AEXP_Pangolin.label>
+  <AEXP_Pangolin.description>Иногда называемые чешуйчатыми муравьедами, панголины - это млекопитающие с большими защитными кератиновыми чешуйками, покрывающими их кожу. Панголины ведут ночной образ жизни и их рацион состоит в основном из муравьев и термитов, которых они ловят своими длинными языками. Обычно они живут в одиночестве и встречаются только для того, чтобы спариться.\n\n&lt;color=#33d733&gt;Статус вида в реальном мире:&lt;/color&gt; Находится под угрозой исчезновения. Гигантскому панголину угрожает разрушение среды обитания и вырубка лесов, а также охота за их мясом. Панголины стали самым популярным поисковым запросом по диким млекопитающим в мире.</AEXP_Pangolin.description>
+  <AEXP_Pangolin.tools.0.label>левая лапа</AEXP_Pangolin.tools.0.label>
+  <AEXP_Pangolin.tools.1.label>правая лапа</AEXP_Pangolin.tools.1.label>
+  <AEXP_Pangolin.tools.2.label>голова</AEXP_Pangolin.tools.2.label>
+  <AEXP_Pangolin.race.meatLabel>мясо гигантского панголина</AEXP_Pangolin.race.meatLabel>
+
+</LanguageData>

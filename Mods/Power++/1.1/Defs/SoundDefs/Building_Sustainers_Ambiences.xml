@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <SoundDef>
+    <defName>ARKPPP_Computer_Ambience</defName>  
+    <sustain>True</sustain>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <priorityMode>PrioritizeNearest</priorityMode>  
+    <sustainStartSound>ARKPPP_Computer_Ambience_Start</sustainStartSound>  
+    <sustainStopSound>ARKPPP_Computer_Ambience_Stop</sustainStopSound>  
+    <subSounds>
+      <li>
+        <muteWhenPaused>True</muteWhenPaused>      
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Computer/run</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>16</min>        
+          <max>16</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>1</min>        
+          <max>1.015</max>
+        </pitchRange>      
+        <distRange>
+          <min>0</min>        
+          <max>30</max>
+        </distRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  
+  <SoundDef>
+    <defName>ARKPPP_Computer_Ambience_Start</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Computer/start</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>16</min>        
+          <max>16</max>
+        </volumeRange>      
+        <distRange>
+          <min>0</min>        
+          <max>50.27907</max>
+        </distRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>ARKPPP_Computer_Ambience_Stop</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Computer/stop</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>16</min>        
+          <max>16</max>
+        </volumeRange>      
+        <distRange>
+          <min>0</min>        
+          <max>50.27907</max>
+        </distRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  
+  <!-- Alarme de temperature elevee -->
+  <SoundDef>
+    <defName>ARKPPP_Computer_Hot_Ambience</defName>  
+    <sustain>True</sustain>  
+    <context>MapOnly</context>
+    <eventNames />  
+	<maxSimultaneous>1</maxSimultaneous>
+	<maxVoices>1</maxVoices>
+    <priorityMode>PrioritizeNearest</priorityMode>  
+    <subSounds>
+      <li>
+        <muteWhenPaused>True</muteWhenPaused>      
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Computer/hot</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>18</min>        
+          <max>18</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>1</min>        
+          <max>1.015</max>
+        </pitchRange>      
+        <distRange>
+          <min>0</min>        
+          <max>75</max>
+        </distRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  
+  
+    <!-- Alarme de temperature elevee du dish -->
+  <SoundDef>
+    <defName>ARKPPP_PowerBeamDish_Warning_Ambience</defName>  
+    <sustain>True</sustain>  
+    <context>MapOnly</context>
+    <eventNames />  
+	<maxSimultaneous>2</maxSimultaneous>
+	<maxVoices>1</maxVoices>
+    <priorityMode>PrioritizeNearest</priorityMode>  
+    <subSounds>
+      <li>
+        <muteWhenPaused>True</muteWhenPaused>      
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Computer/hotDish</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>18</min>        
+          <max>18</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>1</min>        
+          <max>1.015</max>
+        </pitchRange>      
+        <distRange>
+          <min>0</min>        
+          <max>75</max>
+        </distRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+</Defs>

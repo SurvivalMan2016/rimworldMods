@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MechanizedInfantry.title>Механизированная пехота</MechanizedInfantry.title>
+  <MechanizedInfantry.titleShort>Мех</MechanizedInfantry.titleShort>
+  <MechanizedInfantry.baseDescription>{PAWN_nameDef} это форма механизированной пехоты, очень мощные боевые единицы, которые, к сожалению, очень слабо запрограммированы.</MechanizedInfantry.baseDescription>
+
+  <FactoryMade.title>Фабричный</FactoryMade.title>
+  <FactoryMade.titleShort>Мех</FactoryMade.titleShort>
+  <FactoryMade.baseDescription>Этот мех был создан на древней фабрике.</FactoryMade.baseDescription>
+
+
+</LanguageData>

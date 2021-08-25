@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Intolerance.degreeDatas.0.label>Нетерпимость</Intolerance.degreeDatas.0.label>
+  <Intolerance.degreeDatas.0.description>{PAWN_nameDef} нетерпим ко всем формам жизни, будь то механические или биологические. Всегда ищет случайной драки, особенно в плохом настроении.</Intolerance.degreeDatas.0.description>
+
+  <FeelingsTowardHumanity.degreeDatas.0.label>Любовь к человечеству</FeelingsTowardHumanity.degreeDatas.0.label>
+  <FeelingsTowardHumanity.degreeDatas.0.description>{PAWN_nameDef} питает глубокую привязанность ко всем людям, видя в них не только своих создателей, но и родителей.</FeelingsTowardHumanity.degreeDatas.0.description>
+  <FeelingsTowardHumanity.degreeDatas.1.label>Ненависть к человечеству</FeelingsTowardHumanity.degreeDatas.1.label>
+  <FeelingsTowardHumanity.degreeDatas.1.description>{PAWN_nameDef} питает глубокую ненависть ко всему человечеству, видя в них не более чем эгоистичные мешки мяса с костями.</FeelingsTowardHumanity.degreeDatas.1.description>
+
+
+</LanguageData>

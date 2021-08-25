@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VMEu_InsertPlasticDesc>Жидкий пластик для переработки</VMEu_InsertPlasticDesc>
+  <VMEu_StartInsertionPlastic>Принесите жидкий пластик</VMEu_StartInsertionPlastic>
+  <VMEu_StartInsertionPlasticDesc>Принесите жидкий пластик в процессор, чтобы начать переработку.</VMEu_StartInsertionPlasticDesc>
+  <VMEu_CancelBringingPlastic>Отмена доставки жидкого пластика</VMEu_CancelBringingPlastic>
+  <VMEu_CancelBringingPlasticDesc>Отмена подачи жидкого пластика в процессор.</VMEu_CancelBringingPlasticDesc>
+
+
+  <VMEu_PondHasOil>На этом месторождении имеется {0} единиц нефти</VMEu_PondHasOil>
+  <VMEu_PondNoOil>Это нефтяное месторождение истощено</VMEu_PondNoOil>
+  <VMEu_MustPlaceOnOilPond>Нефтеэкстрактор должен быть построен на нефтяном месторождении.</VMEu_MustPlaceOnOilPond>
+  <VMEu_ExtractorProducing>Экстрактор производит {0} единиц нефти за {1}</VMEu_ExtractorProducing>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AEXP_WalrusTusk.label>моржовый бивень</AEXP_WalrusTusk.label>
+  <AEXP_WalrusTusk.description>Бивень моржа. Ценное, но несколько громоздкое оружие ближнего боя.</AEXP_WalrusTusk.description>
+  <AEXP_WalrusTusk.tools.0.label>острие</AEXP_WalrusTusk.tools.0.label>
+  <AEXP_WalrusTusk.tools.1.label>основание</AEXP_WalrusTusk.tools.1.label>
+
+
+</LanguageData>

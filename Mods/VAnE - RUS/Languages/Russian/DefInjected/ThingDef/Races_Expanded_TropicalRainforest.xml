@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gorilla -->
+
+  <AEXP_Gorilla.label>горилла</AEXP_Gorilla.label>
+  <AEXP_Gorilla.description>Эти наземные травоядные обезьяны - самые крупные из ныне живущих приматов, и они являются следующими ближайшими родственниками людей после шимпанзе и бонобо. Как и всех человекобразных обезьян, руки гориллы длиннее, чем ноги. Гориллы обычно на удивление застенчивы, хотя могут проявлять агрессию, бьясь в грудь и бросаясь в атаку, если их социальная группа находится под угрозой.</AEXP_Gorilla.description>
+  <AEXP_Gorilla.tools.0.label>левый кулак</AEXP_Gorilla.tools.0.label>
+  <AEXP_Gorilla.tools.1.label>правый кулак</AEXP_Gorilla.tools.1.label>
+  <AEXP_Gorilla.tools.2.label>зубы</AEXP_Gorilla.tools.2.label>
+  <AEXP_Gorilla.tools.3.label>голова</AEXP_Gorilla.tools.3.label>
+  <AEXP_Gorilla.race.meatLabel>мясо примата</AEXP_Gorilla.race.meatLabel>
+
+  <!-- Jaguar -->
+
+  <AEXP_Jaguar.label>ягуар</AEXP_Jaguar.label>
+  <AEXP_Jaguar.description>Крупный вид кошачьих и единственный существующий представитель пантер, обитающий в Америке на старой Земле. Эта пятнистая кошка очень похожа на леопарда, но обычно крупнее и крепче. Ягуар любит плавать и в значительной степени является одиночным, приспособленным к условиям хищником, который охотится с помощью засад и находится на вершине пищевой цепочки.</AEXP_Jaguar.description>
+  <AEXP_Jaguar.race.meatLabel>мясо ягуара</AEXP_Jaguar.race.meatLabel>
+
+  <!-- Lemur -->
+
+  <AEXP_Lemur.label>лемур</AEXP_Lemur.label>
+  <AEXP_Lemur.description>Будучи небольшим приматом, лемуры ведут древесный образ жизни и обычно активны по ночам. У них заостренная морда, большие глаза и длинный хвост. Хотя они социальные существа, но традиционно считаются менее умными, чем остальные приматы, поскольку не демонстрируют использование инструментов в дикой природе.</AEXP_Lemur.description>
+  <AEXP_Lemur.tools.0.label>левый кулачок</AEXP_Lemur.tools.0.label>
+  <AEXP_Lemur.tools.1.label>правый кулачок</AEXP_Lemur.tools.1.label>
+  <AEXP_Lemur.tools.2.label>зубы</AEXP_Lemur.tools.2.label>
+  <AEXP_Lemur.tools.3.label>голова</AEXP_Lemur.tools.3.label>
+
+  <!-- Mandrill -->
+
+  <AEXP_Mandrill.label>мандрил</AEXP_Mandrill.label>
+  <AEXP_Mandrill.description>Мандрилы - одни из самых крупных обезьян. Это застенчивые и замкнутые приматы, обитающие только в тропических лесах. Мандрилы чрезвычайно красочны, возможно больше, чем любое другое млекопитающее. Их легко узнать по сине-красной коже на морде и ярко окрашенным крупам.</AEXP_Mandrill.description>
+  <AEXP_Mandrill.tools.0.label>левый кулак</AEXP_Mandrill.tools.0.label>
+  <AEXP_Mandrill.tools.1.label>правый кулак</AEXP_Mandrill.tools.1.label>
+  <AEXP_Mandrill.tools.2.label>зубы</AEXP_Mandrill.tools.2.label>
+  <AEXP_Mandrill.tools.3.label>голова</AEXP_Mandrill.tools.3.label>
+
+  <!-- Tapir -->
+
+  <AEXP_Tapir.label>тапир</AEXP_Tapir.label>
+  <AEXP_Tapir.description>Большое травоядное млекопитающее, похожее по форме на свинью с коротким хоботом вместо пятачка. Тапиры обитают в джунглях и лесных регионах.</AEXP_Tapir.description>
+  <AEXP_Tapir.tools.0.label>зубы</AEXP_Tapir.tools.0.label>
+  <AEXP_Tapir.tools.1.label>голова</AEXP_Tapir.tools.1.label>
+
+  <!-- Tiger -->
+
+  <AEXP_Tiger.label>тигр</AEXP_Tiger.label>
+  <AEXP_Tiger.description>Тигр - самый крупный вид среди больших кошек. Он наиболее узнаваем по темным вертикальным полосам на рыжевато-оранжевом меху с более светлой нижней стороной. Это высший хищник, территориальный и, как правило, одиночный. В дикой природе тигры в основном питаются крупными и средними млекопитающими.</AEXP_Tiger.description>
+  <AEXP_Tiger.tools.0.label>левая лапа</AEXP_Tiger.tools.0.label>
+  <AEXP_Tiger.tools.1.label>правая лапа</AEXP_Tiger.tools.1.label>
+  <AEXP_Tiger.tools.2.label>зубы</AEXP_Tiger.tools.2.label>
+  <AEXP_Tiger.tools.3.label>голова</AEXP_Tiger.tools.3.label>
+  <AEXP_Tiger.race.meatLabel>мясо тигра</AEXP_Tiger.race.meatLabel>
+
+
+</LanguageData>

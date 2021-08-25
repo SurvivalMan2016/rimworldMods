@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_BlackTea.label>черный чай</VBE_BlackTea.label>
+  <VBE_BlackTea.description>Крепкий чай со сливками, бодрит и помогает вылечить недуги.</VBE_BlackTea.description>
+  <VBE_BlackTea.ingestible.ingestCommandString>Пить {0}</VBE_BlackTea.ingestible.ingestCommandString>
+  <VBE_BlackTea.ingestible.ingestReportString>Пьет {0}.</VBE_BlackTea.ingestible.ingestReportString>
+
+
+</LanguageData>

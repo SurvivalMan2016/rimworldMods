@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.0>questName-&gt;[asker_nameDef]'s [monster] [contract]</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.0>
+  <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.1>monster-&gt;паук</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.1>
+  <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.2>monster-&gt;древний гигантский паук</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.2>
+  <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.3>monster-&gt;арахнид</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.3>
+  <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.4>monster-&gt;громадный паук</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.4>
+  <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.5>contract-&gt;контракт</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.5>
+  <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.6>contract-&gt;миссия</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.6>
+  <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.7>contract-&gt;расположение</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.7>
+  <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.8>contract-&gt;обязательство</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.8>
+  <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.9>contract-&gt;священная миссия</VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings.9>
+  <VAE_Spider_MonsterEncounterQuest.questDescriptionRules.rulesStrings.0>questDescription-&gt;[asker_nameFull], [asker_faction_leaderTitle] из [asker_faction_name], сообщил, что их домашний скот, похоже, исчезает с угрожающей скоростью. На месте пропажи находят ошметки шелковых нитей, намекающих на то, что за исчезновениями стоит гнездо прожорливых гигантских пауков.\n\nЕсли мы успешно разрешим эту проблему, то нас наградят [allRewardsDescriptions]</VAE_Spider_MonsterEncounterQuest.questDescriptionRules.rulesStrings.0>
+  <VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.label>Задание неактуально: [resolvedQuestName]</VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.label>
+  <VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.text>Пауки покинули эту область и вы не услышите о них о тех пор, пока они снова не объявятся вместе со своими очередными жертвами. Задание [resolvedQuestName] уже неактуально.</VAE_Spider_MonsterEncounterQuest.root.nodes.9.node.nodes.0.text>
+  <VAE_Spider_MonsterEncounterQuest.root.nodes.10.node.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</VAE_Spider_MonsterEncounterQuest.root.nodes.10.node.nodeIfChosenPawnSignalUsed.label>
+  <VAE_Spider_MonsterEncounterQuest.root.nodes.10.node.nodeIfChosenPawnSignalUsed.text>Эти колонисты участвовали в эпической охоте по заданию [resolvedQuestName]. [asker_definite] хочет знать, кто из участников должен получить награду [royalFavorReward_amount] [asker_faction_royalFavorLabel] за эту услугу.</VAE_Spider_MonsterEncounterQuest.root.nodes.10.node.nodeIfChosenPawnSignalUsed.text>
+
+
+</LanguageData>

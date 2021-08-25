@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: essential -->
+  <DrugUse_Essential.label>существенно</DrugUse_Essential.label>
+  <!-- EN: Exotic states of mind are central to a good life. -->
+  <DrugUse_Essential.description>Неординарные состояния ума играют центральную роль в хорошей жизни.</DrugUse_Essential.description>
+  <!-- EN: Drugs taken every<x> {DAYSSATISIFED} </x>days -->
+  <DrugUse_Essential.comps.0.description>Лекарства, принимаемые каждые {DAYSSATISIFED} дней</DrugUse_Essential.comps.0.description>
+  
+</LanguageData>

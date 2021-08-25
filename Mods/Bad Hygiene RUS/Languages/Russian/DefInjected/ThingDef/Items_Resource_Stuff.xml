@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BedPan.label>утка</BedPan.label>
+  <BedPan.description>Сосуд для естественных отходов организма, предназначенный для прикованных к постели пациентов.</BedPan.description>
+
+  <Biosolids.label>удобрение</Biosolids.label>
+  <Biosolids.description>Правильно переработанные нечистоты становятся твердыми биоотходами, которые немного повышают плодородность почвы, что полезно в суровых условиях с ограниченным пространством для посевов. Биоотходы также значительно повышают плодородность песка, что может сделать его пригодным для земледелия в сочетании с орошением.</Biosolids.description>
+
+  <FecalSludge.label>фекалии</FecalSludge.label>
+  <FecalSludge.description>Бочка, наполненная фекалиями. Может быть опрокинута, сожжена или переработана в удобрения.</FecalSludge.description>
+
+
+  <!-- Example of a drink for the thirst need, modExtension makes anything ingestible work as a drink, this is patched out when thirst is disabled -->
+
+  <DBH_WaterBottle.label>вода</DBH_WaterBottle.label>
+  <DBH_WaterBottle.description>Бутылка воды.</DBH_WaterBottle.description>
+  <DBH_WaterBottle.ingestible.ingestCommandString>Пить {0}</DBH_WaterBottle.ingestible.ingestCommandString>
+  <DBH_WaterBottle.ingestible.ingestReportString>Пьет {0}</DBH_WaterBottle.ingestible.ingestReportString>
+
+
+</LanguageData>

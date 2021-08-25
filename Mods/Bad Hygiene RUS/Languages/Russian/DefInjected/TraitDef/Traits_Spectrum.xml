@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hygienic.degreeDatas.0.label>гермофоб</Hygienic.degreeDatas.0.label>
+  <Hygienic.degreeDatas.0.description>[PAWN_nameDef] одержим микробами и будет мыться гораздо чаще, чем обычно.</Hygienic.degreeDatas.0.description>
+  <Hygienic.degreeDatas.1.label>чистюля</Hygienic.degreeDatas.1.label>
+  <Hygienic.degreeDatas.1.description>[PAWN_nameDef] очень любит чистоту и будет мыться чаще.</Hygienic.degreeDatas.1.description>
+  <Hygienic.degreeDatas.2.label>грязнуля</Hygienic.degreeDatas.2.label>
+  <Hygienic.degreeDatas.2.description>[PAWN_nameDef] не очень следит за чистотой и будет мыться реже.</Hygienic.degreeDatas.2.description>
+  <Hygienic.degreeDatas.3.label>неряха</Hygienic.degreeDatas.3.label>
+  <Hygienic.degreeDatas.3.description>[PAWN_nameDef] имеет крайне низкие стандарты гигиены и будет мыться только тогда, когда это абсолютно необходимо.</Hygienic.degreeDatas.3.description>
+
+
+</LanguageData>

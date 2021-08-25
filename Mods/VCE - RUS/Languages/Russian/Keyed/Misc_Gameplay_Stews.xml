@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Stews -->
+
+
+  <VCE_InsertStewDesc>Готовить рагу</VCE_InsertStewDesc>
+
+  <VCE_StartStewInsertion>Поставить рагу</VCE_StartStewInsertion>
+  <VCE_StartStewInsertionDesc>Поставить рагу на дровяную печь чтобы начать варку.</VCE_StartStewInsertionDesc>
+
+  <VCE_CancelBringingStew>Не ставить рагу</VCE_CancelBringingStew>
+  <VCE_CancelBringingStewDesc>Не ставить рагу на дровяную печь.</VCE_CancelBringingStewDesc>
+
+  <VCE_StewFailurePower>Рагу испортилось из-за нехватки топлива в дровяной печи</VCE_StewFailurePower>
+  <VCE_StewFailurePowerWarning>Рагу может испортиться из-за нехватки топлива в дровяной печи</VCE_StewFailurePowerWarning>
+
+  <VCE_FinishedSimpleStew>Простое рагу готово и ждет когда кто-нибудь его заберет</VCE_FinishedSimpleStew>
+  <VCE_FinishedFineStew>Вкусное рагу готово и ждет когда кто-нибудь его заберет</VCE_FinishedFineStew>
+  <VCE_FinishedLavishStew>Шикарное рагу готово и ждет когда кто-нибудь его заберет</VCE_FinishedLavishStew>
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_ConsumedSoySauce.label>употребил соевый соус (из блюда)</VCE_ConsumedSoySauce.label>
+  <VCE_ConsumedSoySauce.description>Ферментированная паста из соевых бобов, жаренного зерна, рассола и бактерий вида Aspergillus. Соевый соус можно добавлять непосредственно в пищу и использовать в кулинарии в качестве соуса или соли, чтобы придать блюду насыщенный вкус умами. Соевый соус содержит в 10 раз больше антиоксидантов, чем красное вино и может помочь предотвратить сердечно-сосудистые заболевания (увеличивает перекачку и фильтрацию крови).</VCE_ConsumedSoySauce.description>
+
+  <VCE_ConsumedWasabi.label>употребил васаби (из блюда)</VCE_ConsumedWasabi.label>
+  <VCE_ConsumedWasabi.description>Паста из измельченных корневищ васаби, используемая в качестве пикантной приправы для суши и других продуктов. По вкусу васаби больше похож на острую горчицу, чем на перец чили, поскольку стимулирует нос больше, чем язык. Васаби очищает ваше дыхание и заставляет на время согреться.</VCE_ConsumedWasabi.description>
+
+  <VCE_AteSimpleSushi.label>употребил простые суши</VCE_AteSimpleSushi.label>
+  <VCE_AteSimpleSushi.description>Я съел простые и сытные суши.</VCE_AteSimpleSushi.description>
+
+  <VCE_AteFineSushi.label>употребил вкусные суши</VCE_AteFineSushi.label>
+  <VCE_AteFineSushi.description>Я съел вкусные и сытные суши.</VCE_AteFineSushi.description>
+
+  <VCE_AteLavishSushi.label>употребил шикарные суши</VCE_AteLavishSushi.label>
+  <VCE_AteLavishSushi.description>Я съел шикарные и сытные суши.</VCE_AteLavishSushi.description>
+
+  <VCE_AteGourmetSushi.label>употребил изысканные суши</VCE_AteGourmetSushi.label>
+  <VCE_AteGourmetSushi.description>Я съел изысканные и сытные суши.</VCE_AteGourmetSushi.description>
+
+
+</LanguageData>

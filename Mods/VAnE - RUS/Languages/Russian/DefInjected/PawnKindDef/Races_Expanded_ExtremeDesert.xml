@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Camel -->
+
+  <AEXP_Camel.label>бактриан</AEXP_Camel.label>
+  <AEXP_Camel.labelPlural>бактрианы</AEXP_Camel.labelPlural>
+  <AEXP_Camel.lifeStages.0.label>верблюжонок</AEXP_Camel.lifeStages.0.label>
+  <AEXP_Camel.lifeStages.0.labelPlural>верблюжата</AEXP_Camel.lifeStages.0.labelPlural>
+  <AEXP_Camel.lifeStages.0.labelMale>верблюжонок</AEXP_Camel.lifeStages.0.labelMale>
+  <AEXP_Camel.lifeStages.0.labelMalePlural>верблюжата</AEXP_Camel.lifeStages.0.labelMalePlural>
+  <AEXP_Camel.lifeStages.0.labelFemale>верблюжонок</AEXP_Camel.lifeStages.0.labelFemale>
+  <AEXP_Camel.lifeStages.0.labelFemalePlural>верблюжата</AEXP_Camel.lifeStages.0.labelFemalePlural>
+  <AEXP_Camel.lifeStages.1.label>молодой верблюд</AEXP_Camel.lifeStages.1.label>
+  <AEXP_Camel.lifeStages.1.labelPlural>молодые верблюды</AEXP_Camel.lifeStages.1.labelPlural>
+  <AEXP_Camel.lifeStages.1.labelMale>молодой верблюд</AEXP_Camel.lifeStages.1.labelMale>
+  <AEXP_Camel.lifeStages.1.labelMalePlural>молодые верблюды</AEXP_Camel.lifeStages.1.labelMalePlural>
+  <AEXP_Camel.lifeStages.1.labelFemale>молодая верблюдица</AEXP_Camel.lifeStages.1.labelFemale>
+  <AEXP_Camel.lifeStages.1.labelFemalePlural>молодые верблюдицы</AEXP_Camel.lifeStages.1.labelFemalePlural>
+  <AEXP_Camel.lifeStages.2.label>верблюд</AEXP_Camel.lifeStages.2.label>
+  <AEXP_Camel.lifeStages.2.labelPlural>верблюды</AEXP_Camel.lifeStages.2.labelPlural>
+  <AEXP_Camel.lifeStages.2.labelMale>верблюд</AEXP_Camel.lifeStages.2.labelMale>
+  <AEXP_Camel.lifeStages.2.labelMalePlural>верблюды</AEXP_Camel.lifeStages.2.labelMalePlural>
+  <AEXP_Camel.lifeStages.2.labelFemale>верблюдица</AEXP_Camel.lifeStages.2.labelFemale>
+  <AEXP_Camel.lifeStages.2.labelFemalePlural>верблюдицы</AEXP_Camel.lifeStages.2.labelFemalePlural>
+  <AEXP_Camel.labelMale>верблюд</AEXP_Camel.labelMale>
+  <AEXP_Camel.labelMalePlural>верблюды</AEXP_Camel.labelMalePlural>
+  <AEXP_Camel.labelFemale>верблюдица</AEXP_Camel.labelFemale>
+  <AEXP_Camel.labelFemalePlural>верблюдицы</AEXP_Camel.labelFemalePlural>
+
+
+  <!-- Rattlesnake -->
+
+  <AEXP_Rattlesnake.label>гремучая змея</AEXP_Rattlesnake.label>
+  <AEXP_Rattlesnake.labelPlural>гремучие змеи</AEXP_Rattlesnake.labelPlural>
+  <AEXP_Rattlesnake.lifeStages.0.label>гремучий змееныш</AEXP_Rattlesnake.lifeStages.0.label>
+  <AEXP_Rattlesnake.lifeStages.0.labelPlural>гремучие змееныши</AEXP_Rattlesnake.lifeStages.0.labelPlural>
+  <AEXP_Rattlesnake.lifeStages.0.labelMale>гремучий змееныш</AEXP_Rattlesnake.lifeStages.0.labelMale>
+  <AEXP_Rattlesnake.lifeStages.0.labelMalePlural>гремучие змееныши</AEXP_Rattlesnake.lifeStages.0.labelMalePlural>
+  <AEXP_Rattlesnake.lifeStages.0.labelFemale>гремучий змееныш</AEXP_Rattlesnake.lifeStages.0.labelFemale>
+  <AEXP_Rattlesnake.lifeStages.0.labelFemalePlural>гремучие змееныши</AEXP_Rattlesnake.lifeStages.0.labelFemalePlural>
+  <AEXP_Rattlesnake.lifeStages.1.label>молодая гремучая змея</AEXP_Rattlesnake.lifeStages.1.label>
+  <AEXP_Rattlesnake.lifeStages.1.labelPlural>молодые гремучие змеи</AEXP_Rattlesnake.lifeStages.1.labelPlural>
+  <AEXP_Rattlesnake.lifeStages.1.labelMale>молодая гремучая змея</AEXP_Rattlesnake.lifeStages.1.labelMale>
+  <AEXP_Rattlesnake.lifeStages.1.labelMalePlural>молодые гремучие змеи</AEXP_Rattlesnake.lifeStages.1.labelMalePlural>
+  <AEXP_Rattlesnake.lifeStages.1.labelFemale>молодая гремучая змея</AEXP_Rattlesnake.lifeStages.1.labelFemale>
+  <AEXP_Rattlesnake.lifeStages.1.labelFemalePlural>молодые гремучие змеи</AEXP_Rattlesnake.lifeStages.1.labelFemalePlural>
+  <AEXP_Rattlesnake.lifeStages.2.label>гремучая змея</AEXP_Rattlesnake.lifeStages.2.label>
+  <AEXP_Rattlesnake.lifeStages.2.labelPlural>гремучие змеи</AEXP_Rattlesnake.lifeStages.2.labelPlural>
+  <AEXP_Rattlesnake.lifeStages.2.labelMale>гремучая змея</AEXP_Rattlesnake.lifeStages.2.labelMale>
+  <AEXP_Rattlesnake.lifeStages.2.labelMalePlural>гремучие змеи</AEXP_Rattlesnake.lifeStages.2.labelMalePlural>
+  <AEXP_Rattlesnake.lifeStages.2.labelFemale>гремучая змея</AEXP_Rattlesnake.lifeStages.2.labelFemale>
+  <AEXP_Rattlesnake.lifeStages.2.labelFemalePlural>гремучие змеи</AEXP_Rattlesnake.lifeStages.2.labelFemalePlural>
+  <AEXP_Rattlesnake.labelMale>гремучая змея</AEXP_Rattlesnake.labelMale>
+  <AEXP_Rattlesnake.labelMalePlural>гремучие змеи</AEXP_Rattlesnake.labelMalePlural>
+  <AEXP_Rattlesnake.labelFemale>гремучая змея</AEXP_Rattlesnake.labelFemale>
+  <AEXP_Rattlesnake.labelFemalePlural>гремучие змеи</AEXP_Rattlesnake.labelFemalePlural>
+
+
+  <!-- Megascorpion -->
+
+  <AEXP_Megascorpion.label>гигантский скорпион</AEXP_Megascorpion.label>
+  <AEXP_Megascorpion.labelPlural>гигантские скорпионы</AEXP_Megascorpion.labelPlural>
+  <AEXP_Megascorpion.lifeStages.0.label>детеныш гигантского скорпиона</AEXP_Megascorpion.lifeStages.0.label>
+  <AEXP_Megascorpion.lifeStages.0.labelPlural>детеныши гигантского скорпиона</AEXP_Megascorpion.lifeStages.0.labelPlural>
+  <AEXP_Megascorpion.lifeStages.0.labelMale>детеныш гигантского скорпиона</AEXP_Megascorpion.lifeStages.0.labelMale>
+  <AEXP_Megascorpion.lifeStages.0.labelMalePlural>детеныши гигантского скорпиона</AEXP_Megascorpion.lifeStages.0.labelMalePlural>
+  <AEXP_Megascorpion.lifeStages.0.labelFemale>детеныш гигантского аскорпиона</AEXP_Megascorpion.lifeStages.0.labelFemale>
+  <AEXP_Megascorpion.lifeStages.0.labelFemalePlural>детеныши гигантского скорпиона</AEXP_Megascorpion.lifeStages.0.labelFemalePlural>
+  <AEXP_Megascorpion.lifeStages.1.label>молодой гигантский скорпион</AEXP_Megascorpion.lifeStages.1.label>
+  <AEXP_Megascorpion.lifeStages.1.labelPlural>молодые гигантские скорпионы</AEXP_Megascorpion.lifeStages.1.labelPlural>
+  <AEXP_Megascorpion.lifeStages.1.labelMale>молодой гигантский скорпион</AEXP_Megascorpion.lifeStages.1.labelMale>
+  <AEXP_Megascorpion.lifeStages.1.labelMalePlural>молодые гигантские скорпионы</AEXP_Megascorpion.lifeStages.1.labelMalePlural>
+  <AEXP_Megascorpion.lifeStages.1.labelFemale>молодой гигантский скорпион</AEXP_Megascorpion.lifeStages.1.labelFemale>
+  <AEXP_Megascorpion.lifeStages.1.labelFemalePlural>молодые гигантские скорпионы</AEXP_Megascorpion.lifeStages.1.labelFemalePlural>
+  <AEXP_Megascorpion.lifeStages.2.label>гигантский скорпион</AEXP_Megascorpion.lifeStages.2.label>
+  <AEXP_Megascorpion.lifeStages.2.labelPlural>гигантские скорпионы</AEXP_Megascorpion.lifeStages.2.labelPlural>
+  <AEXP_Megascorpion.lifeStages.2.labelMale>гигантский скорпион</AEXP_Megascorpion.lifeStages.2.labelMale>
+  <AEXP_Megascorpion.lifeStages.2.labelMalePlural>гигантские скорпионы</AEXP_Megascorpion.lifeStages.2.labelMalePlural>
+  <AEXP_Megascorpion.lifeStages.2.labelFemale>гигантский скорпион</AEXP_Megascorpion.lifeStages.2.labelFemale>
+  <AEXP_Megascorpion.lifeStages.2.labelFemalePlural>гигантские скорпионы</AEXP_Megascorpion.lifeStages.2.labelFemalePlural>
+  <AEXP_Megascorpion.labelMale>гигантский скорпион</AEXP_Megascorpion.labelMale>
+  <AEXP_Megascorpion.labelMalePlural>гигантские скорпионы</AEXP_Megascorpion.labelMalePlural>
+  <AEXP_Megascorpion.labelFemale>гигантский скорпион</AEXP_Megascorpion.labelFemale>
+  <AEXP_Megascorpion.labelFemalePlural>гигантские скорпионы</AEXP_Megascorpion.labelFemalePlural>
+
+
+</LanguageData>

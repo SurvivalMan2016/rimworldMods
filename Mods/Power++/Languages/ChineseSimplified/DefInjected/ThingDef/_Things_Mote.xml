@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- These are Mote ThingDefs. Remain the same, DO NOT translate them. -->
+
+  <ARKPPP_Mote_PBEYellow.label>Mote</ARKPPP_Mote_PBEYellow.label>
+  <ARKPPP_Mote_PBEYellowEnd.label>Mote</ARKPPP_Mote_PBEYellowEnd.label>
+  <ARKPPP_Mote_PBERed.label>Mote</ARKPPP_Mote_PBERed.label>
+  <ARKPPP_Mote_PBERedEnd.label>Mote</ARKPPP_Mote_PBERedEnd.label>
+  <ARKPPP_Mote_PBEBlue.label>Mote</ARKPPP_Mote_PBEBlue.label>
+  <ARKPPP_Mote_PBEBlueEnd.label>Mote</ARKPPP_Mote_PBEBlueEnd.label>
+  <ARKPPP_Mote_PBEGreen.label>Mote</ARKPPP_Mote_PBEGreen.label>
+  <ARKPPP_Mote_PBEGreenEnd.label>Mote</ARKPPP_Mote_PBEGreenEnd.label>
+  <ARKPPP_Mote_PBEPurple.label>Mote</ARKPPP_Mote_PBEPurple.label>
+  <ARKPPP_Mote_PBEPurpleEnd.label>Mote</ARKPPP_Mote_PBEPurpleEnd.label>
+
+
+  <!--<ARKPPP_Mote_PowerBeam.label>Mote</ARKPPP_Mote_PowerBeam.label>-->
+  <!--<ARKPPP_Mote_PowerBeamEnd.label>Mote</ARKPPP_Mote_PowerBeamEnd.label>-->
+
+</LanguageData>

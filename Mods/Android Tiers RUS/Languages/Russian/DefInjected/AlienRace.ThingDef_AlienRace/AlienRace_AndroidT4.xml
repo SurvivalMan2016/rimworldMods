@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Android4Tier.label>Андроид Т4</Android4Tier.label>
+  <Android4Tier.description>Самая продвинутая форма андроида из всех возможных; этот уровень способен эффективно удерживать сознание любого ИИ, загруженного в него, с продвинутыми двигательными способностями и возможностями управления, этот андроид значительно превосходит большинство обычных людей.</Android4Tier.description>
+  <Android4Tier.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>Кожа</Android4Tier.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Android4Tier.tools.0.label>Правый кулак</Android4Tier.tools.0.label>
+  <Android4Tier.tools.1.label>Левый кулак</Android4Tier.tools.1.label>
+  <Android4Tier.tools.2.label>Голова</Android4Tier.tools.2.label>
+
+</LanguageData>

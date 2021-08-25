@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsBurnPit.label>сжечь в яме</DoBillsBurnPit.label>
+  <DoBillsBurnPit.verb>сжечь</DoBillsBurnPit.verb>
+  <DoBillsBurnPit.gerund>сжигать, используя</DoBillsBurnPit.gerund>
+
+  <RemoveSewage.label>сгрести нечистоты в бочки</RemoveSewage.label>
+  <RemoveSewage.verb>убрать нечистоты</RemoveSewage.verb>
+  <RemoveSewage.gerund>убирать нечистоты</RemoveSewage.gerund>
+
+  <UnloadWashing.label>разгрузить стирку</UnloadWashing.label>
+  <UnloadWashing.verb>разгрузить</UnloadWashing.verb>
+  <UnloadWashing.gerund>разгружать</UnloadWashing.gerund>
+
+  <LoadWashing.label>загрузить стирку</LoadWashing.label>
+  <LoadWashing.verb>загрузить</LoadWashing.verb>
+  <LoadWashing.gerund>загружать</LoadWashing.gerund>
+
+  <UnloadComposter.label>достать компост</UnloadComposter.label>
+  <UnloadComposter.verb>достать компост</UnloadComposter.verb>
+  <UnloadComposter.gerund>доставать компост из</UnloadComposter.gerund>
+
+  <FillComposter.label>наполнить компост</FillComposter.label>
+  <FillComposter.verb>наполнить</FillComposter.verb>
+  <FillComposter.gerund>наполнять</FillComposter.gerund>
+
+  <emptySepticTank.label>опорожнить септик</emptySepticTank.label>
+  <emptySepticTank.verb>опорожнить</emptySepticTank.verb>
+  <emptySepticTank.gerund>опорожнять</emptySepticTank.gerund>
+
+  <RefillWater.label>наполнить водой</RefillWater.label>
+  <RefillWater.verb>наполнить</RefillWater.verb>
+  <RefillWater.gerund>наполнять</RefillWater.gerund>
+
+  <CleanFilthIndoors.label>убрать грязь в помещении</CleanFilthIndoors.label>
+  <CleanFilthIndoors.verb>убрать</CleanFilthIndoors.verb>
+  <CleanFilthIndoors.gerund>убирать</CleanFilthIndoors.gerund>
+
+  <emptyLatrine.label>опорожнить сортир</emptyLatrine.label>
+  <emptyLatrine.verb>опорожнить</emptyLatrine.verb>
+  <emptyLatrine.gerund>опорожнять</emptyLatrine.gerund>
+
+  <RefillTub.label>наполнить бадью</RefillTub.label>
+  <RefillTub.verb>наполнить</RefillTub.verb>
+  <RefillTub.gerund>наполнять</RefillTub.gerund>
+
+
+</LanguageData>

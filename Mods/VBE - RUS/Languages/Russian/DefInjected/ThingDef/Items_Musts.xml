@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_SodaSyrup.label>сироп для содовой</VBE_SodaSyrup.label>
+  <VBE_SodaSyrup.description>Густая и отвратительно сладкая смесь, приготовленная путем кипячения лимнной кислоты с натуральным сахаром. Обычно ее получают из тростникового сахара или в виде кукурузного сиропа. Перед употреблением необходимо смешать с водой и оставить на короткое время для газирования в закрытом помещении.</VBE_SodaSyrup.description>
+
+  <VBE_AmbrandyMush.label>амброзиевое пюре</VBE_AmbrandyMush.label>
+  <VBE_AmbrandyMush.description>Нарезанную и спресованную амброзию нужно оставить в покое для созревания и дальнейшей дистиляции в тончайший ликер.</VBE_AmbrandyMush.description>
+
+  <VBE_AmbrandyMust.label>амброзиевое сусло</VBE_AmbrandyMust.label>
+  <VBE_AmbrandyMust.description>Полностью созревашая амброзия превратившаяся в густой сок и оставлена для выращивания бактерий для процесса ферментации. Готова к перегонке в напиток.</VBE_AmbrandyMust.description>
+
+  <VBE_WhiskeyMash.label>висковая смесь</VBE_WhiskeyMash.label>
+  <VBE_WhiskeyMash.description>Крахмалистая и в основном жидкая смесь, с встречающимися тут и там кусочками мякоти. Готова к перегонке в напиток.</VBE_WhiskeyMash.description>
+
+  <VBE_TequilaMust.label>текиловое сусло</VBE_TequilaMust.label>
+  <VBE_TequilaMust.description>Тонкая смесь сока агавы или колючей кактусовой груши, а также закваски из мяса насекомых, готовая к нарезке и ферментации в бочке.</VBE_TequilaMust.description>
+
+  <VBE_VodkaMash.label>водочная смесь</VBE_VodkaMash.label>
+  <VBE_VodkaMash.description>Густая крахмалистая смесь из сырого картофеля и закваски, готовая к ферментации.</VBE_VodkaMash.description>
+
+  <VBE_GinMush.label>джиновая смесь</VBE_GinMush.label>
+  <VBE_GinMush.description>Прозрачная, но мутная смесь сока ягод и разных злаков, готовая к ферментации</VBE_GinMush.description>
+
+
+</LanguageData>

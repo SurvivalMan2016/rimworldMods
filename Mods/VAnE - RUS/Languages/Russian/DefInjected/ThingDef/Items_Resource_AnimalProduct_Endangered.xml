@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Moa Eggs -->
+
+  <AEXP_EggMoaFertilized.label>яйцо моа (опл.)</AEXP_EggMoaFertilized.label>
+  <AEXP_EggMoaFertilized.description>Оплодотворенное яйцо моа. Если все пойдет хорошо, из него вылупится птенец моа. Его можно съесть сырым, но гораздо лучше приготовить.</AEXP_EggMoaFertilized.description>
+
+
+  <!-- Rockhopper Penguin Eggs -->
+
+  <AEXP_EggRockhopperPenguinFertilized.label>яйцо хохлатого пингвина (опл.)</AEXP_EggRockhopperPenguinFertilized.label>
+  <AEXP_EggRockhopperPenguinFertilized.description>Оплодотворенное яйцо хохлатого пингвина. Если все пойдет хорошо, из него вылупится птенец хохлатого пингвина. Его можно съесть сырым, но гораздо лучше приготовить.</AEXP_EggRockhopperPenguinFertilized.description>
+
+
+</LanguageData>

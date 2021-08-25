@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+
+<Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Vanilla Factions Expanded - Mechanoids</li>
+    </mods>
+	<match Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef [defName = "VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith"]/comps/li [@Class = "ItemProcessor.CompProperties_ItemProcessor"]/numberOfInputs</xpath>
+				<value>
+					<numberOfInputs>3</numberOfInputs>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+					<ItemProcessor.CombinationDef>
+						<defName>VMEu_AutomaticAmmunitionFabrication_IndustrialAmmo</defName>
+						<building>VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith</building>
+						<items>
+							<li>VMEu_Lead</li>
+						</items>	
+						<secondItems>
+							<li>VMEu_Bronze</li>
+						</secondItems>
+						<thirdItems>
+							<li>Steel</li>
+						</thirdItems>
+						<amount>
+							<li>1</li>
+							<li>1</li>
+							<li>1</li>
+						</amount>
+						<result>VMEu_IndustrialAmmo</result>	
+						<yield>25</yield>
+						<outputLimitControlled>true</outputLimitControlled>
+						<maxTotalOutput>500</maxTotalOutput>
+						<useQualityIncreasing>false</useQualityIncreasing>
+						<singleTimeIfNotQualityIncreasing>0.1</singleTimeIfNotQualityIncreasing>
+					</ItemProcessor.CombinationDef>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+					<ItemProcessor.CombinationDef>
+						<defName>VMEu_AutomaticAmmunitionFabrication_HeavyAmmo</defName>
+						<building>VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith</building>
+						<items>
+							<li>VMEu_Lead</li>
+						</items>	
+						<secondItems>
+							<li>VMEu_Bronze</li>
+						</secondItems>
+						<thirdItems>
+							<li>Steel</li>
+						</thirdItems>
+						<amount>
+							<li>3</li>
+							<li>3</li>
+							<li>3</li>
+						</amount>
+						<result>VMEu_HeavyAmmo</result>	
+						<yield>30</yield>
+						<outputLimitControlled>true</outputLimitControlled>
+						<maxTotalOutput>500</maxTotalOutput>
+						<useQualityIncreasing>false</useQualityIncreasing>
+						<singleTimeIfNotQualityIncreasing>0.1</singleTimeIfNotQualityIncreasing>
+					</ItemProcessor.CombinationDef>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+					<ItemProcessor.CombinationDef>
+						<defName>VMEu_AutomaticAmmunitionFabrication_SniperAmmo</defName>
+						<building>VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith</building>
+						<items>
+							<li>Uranium</li>
+						</items>	
+						<secondItems>
+							<li>VMEu_Bronze</li>
+						</secondItems>
+						<thirdItems>
+							<li>Steel</li>
+						</thirdItems>
+						<amount>
+							<li>3</li>
+							<li>2</li>
+							<li>2</li>
+						</amount>
+						<result>VMEu_SniperAmmo</result>	
+						<yield>30</yield>
+						<outputLimitControlled>true</outputLimitControlled>
+						<maxTotalOutput>500</maxTotalOutput>
+						<useQualityIncreasing>false</useQualityIncreasing>
+						<singleTimeIfNotQualityIncreasing>0.1</singleTimeIfNotQualityIncreasing>
+					</ItemProcessor.CombinationDef>
+				</value>
+			</li>
+			
+			<!-- SECURITY -->
+			<li Class="PatchOperationFindMod">
+				<mods>
+					<li>Vanilla Furniture Expanded - Security</li>
+				</mods>
+				<match Class="PatchOperationSequence">
+					<success>Always</success>
+					<operations>
+						<li Class="PatchOperationAdd">
+							<xpath>/Defs</xpath>
+							<value>
+								<ItemProcessor.CombinationDef>
+									<defName>VMEu_AutomaticAmmunitionFabrication_ChargueAmmo</defName>
+									<building>VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith</building>
+									<items>
+										<li>Plasteel</li>
+									</items>	
+									<secondItems>
+										<li>VMEu_Tungsten</li>
+									</secondItems>
+									<thirdItems>
+										<li>Steel</li>
+									</thirdItems>
+									<amount>
+										<li>1</li>
+										<li>1</li>
+										<li>3</li>
+									</amount>
+									<result>VMEu_ChargueAmmo</result>	
+									<yield>50</yield>
+									<outputLimitControlled>true</outputLimitControlled>
+									<maxTotalOutput>500</maxTotalOutput>
+									<useQualityIncreasing>false</useQualityIncreasing>
+									<singleTimeIfNotQualityIncreasing>0.1</singleTimeIfNotQualityIncreasing>
+								</ItemProcessor.CombinationDef>
+							</value>
+						</li>
+						<li Class="PatchOperationAdd">
+							<xpath>/Defs</xpath>
+							<value>
+								<ItemProcessor.CombinationDef>
+									<defName>VMEu_AutomaticAmmunitionFabrication_EMPAmmo</defName>
+									<building>VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith</building>
+									<items>
+										<li>ComponentIndustrial</li>
+									</items>	
+									<secondItems>
+										<li>VMEu_Lithium</li>
+									</secondItems>
+									<thirdItems>
+										<li>VMEu_StainlessSteel</li>
+									</thirdItems>
+									<amount>
+										<li>1</li>
+										<li>3</li>
+										<li>1</li>
+									</amount>
+									<result>VMEu_EMPAmmo</result>	
+									<yield>30</yield>
+									<outputLimitControlled>true</outputLimitControlled>
+									<maxTotalOutput>500</maxTotalOutput>
+									<useQualityIncreasing>false</useQualityIncreasing>
+									<singleTimeIfNotQualityIncreasing>0.1</singleTimeIfNotQualityIncreasing>
+								</ItemProcessor.CombinationDef>
+							</value>
+						</li>
+						
+						<!-- FOR LITE -->
+						<li Class="PatchOperationFindMod">
+							<mods>
+								<li>[LITE]Expanded Materials - Metals</li>
+							</mods>
+							<match Class="PatchOperationSequence">
+								<success>Always</success>
+								<operations>
+									<li Class="PatchOperationReplace">
+										<xpath>/Defs/ItemProcessor.CombinationDef [defName = "VMEu_AutomaticAmmunitionFabrication_ChargueAmmo"]/secondItems</xpath>
+										<value>
+											<secondItems>
+												<li>VMEu_Lead</li>
+											</secondItems>
+										</value>
+									</li>
+									<li Class="PatchOperationReplace">
+										<xpath>/Defs/ItemProcessor.CombinationDef [defName = "VMEu_AutomaticAmmunitionFabrication_ChargueAmmo"]/amount/li[2]</xpath>
+										<value>
+											<li>3</li>
+										</value>
+									</li>
+									
+									<li Class="PatchOperationReplace">
+										<xpath>/Defs/ItemProcessor.CombinationDef [defName = "VMEu_AutomaticAmmunitionFabrication_EMPAmmo"]/secondItems</xpath>
+										<value>
+											<secondItems>
+												<li>VMEu_Lead</li>
+											</secondItems>
+										</value>
+									</li>
+									<li Class="PatchOperationReplace">
+										<xpath>/Defs/ItemProcessor.CombinationDef [defName = "VMEu_AutomaticAmmunitionFabrication_EMPAmmo"]/amount/li[2]</xpath>
+										<value>
+											<li>5</li>
+										</value>
+									</li>
+									<li Class="PatchOperationReplace">
+										<xpath>/Defs/ItemProcessor.CombinationDef [defName = "VMEu_AutomaticAmmunitionFabrication_EMPAmmo"]/thirdItems</xpath>
+										<value>
+											<thirdItems>
+												<li>Hay</li>
+											</thirdItems>
+										</value>
+									</li>
+									<li Class="PatchOperationReplace">
+										<xpath>/Defs/ItemProcessor.CombinationDef [defName = "VMEu_AutomaticAmmunitionFabrication_EMPAmmo"]/amount/li[3]</xpath>
+										<value>
+											<li>0</li>
+										</value>
+									</li>
+								</operations>
+							</match>
+						</li>
+					</operations>
+				</match>
+			</li>
+		</operations>
+	</match>
+</Operation>
+
+
+
+</Patch>

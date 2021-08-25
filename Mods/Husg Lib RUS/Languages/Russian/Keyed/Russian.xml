@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HugsLib_settings_btn>Настройки модов</HugsLib_settings_btn>
+  <HugsLib_settings_windowTitle>Настройки модов</HugsLib_settings_windowTitle>
+  <HugsLib_settings_resetValue>Сбросить до настроек по умолчанию</HugsLib_settings_resetValue>
+  <HugsLib_settings_resetAll>Сбросить все</HugsLib_settings_resetAll>
+  <HugsLib_settings_resetAll_prompt>Установить настройки всех модов на их изначальные значения?</HugsLib_settings_resetAll_prompt>
+  <HugsLib_settings_noSettings>Не загружено модов с возможностью настройки.</HugsLib_settings_noSettings>
+  <HugsLib_settings_resetMod>Сбросить настройки {0} </HugsLib_settings_resetMod>
+  <HugsLib_settings_resetMod_prompt>Установить настройки мода {0} на их изначальные значения?</HugsLib_settings_resetMod_prompt>
+  <HugsLib_settings_resetIncludeHidden>Включая скрытые настройки ({0})</HugsLib_settings_resetIncludeHidden>
+  <HugsLib_settings_hiddenSettingsHeader>Скрытые настройки мода:</HugsLib_settings_hiddenSettingsHeader>
+  <HugsLib_settings_resetSuccessMessage>Настройки мода {0} были сброшены.</HugsLib_settings_resetSuccessMessage>
+
+  <HugsLib_setting_showNews_label>Показать новости обновлений модов</HugsLib_setting_showNews_label>
+  <HugsLib_setting_showNews_desc>Позволить обновившимся модам при старте игры показывать окно с описанием обновления.</HugsLib_setting_showNews_desc>
+  <HugsLib_setting_allNews_label>Все новости обновлений модов</HugsLib_setting_allNews_label>
+  <HugsLib_setting_allNews_desc>Показывает все доступные новости обновлений, включая те, что уже были показаны ранее.</HugsLib_setting_allNews_desc>
+  <HugsLib_setting_allNews_button>Показать сейчас</HugsLib_setting_allNews_button>
+  <HugsLib_setting_allNews_fail>Ни один из установленных модов не содержит новостей.</HugsLib_setting_allNews_fail>
+  <HugsLib_setting_unnamed_mod>(мод без названия)</HugsLib_setting_unnamed_mod>
+  <HugsLib_setting_show_settings>Показать настройки</HugsLib_setting_show_settings>
+  <HugsLib_setting_mod_name_title>Настройки мода {0}</HugsLib_setting_mod_name_title>
+  <HugsLib_setting_expand_mod>Открыть</HugsLib_setting_expand_mod>
+  <HugsLib_setting_collapse_mod>Закрыть</HugsLib_setting_collapse_mod>
+  <HugsLib_setting_quickstartSettings_label>Настройки быстрого запуска</HugsLib_setting_quickstartSettings_label>
+  <HugsLib_setting_logPublisherSettings_label>Настройки публикации журнала логов</HugsLib_setting_logPublisherSettings_label>
+  <HugsLib_setting_ignoredUpdateNews_label>Игнорируемые новости обновлений модов</HugsLib_setting_ignoredUpdateNews_label>
+
+  <HugsLib_features_title>Новости обновлений модов</HugsLib_features_title>
+  <HugsLib_features_description>Обновления модов, а также новый функционал и улучшения, которые пришли вместе с ними.\nВы можете отключить это сообщение в Настройках. &gt; Настройки модов</HugsLib_features_description>
+  <HugsLib_features_update>{0} v{1}</HugsLib_features_update>
+  <HugsLib_features_link>Ссылка</HugsLib_features_link>
+  <HugsLib_features_linkDesc>Открыть браузер на странице информации об этом обновлении.\nСсылка: {0}</HugsLib_features_linkDesc>
+  <HugsLib_features_ignoreTooltip>Уведомлять о будущих обновлениях этого мода</HugsLib_features_ignoreTooltip>
+  <HugsLib_features_confirmIgnoreTitle>Подтвердить</HugsLib_features_confirmIgnoreTitle>
+  <HugsLib_features_confirmIgnore>Игорировать будущие новости об обновлениях {0}?\n\nМожно включить повторно в Настройках мода &gt; Все новости обновлений модов</HugsLib_features_confirmIgnore>
+  <HugsLib_features_filterBtn>Фильтр по модам</HugsLib_features_filterBtn>
+  <HugsLib_features_filterStatus>Текущий фильтр: {0}</HugsLib_features_filterStatus>
+  <HugsLib_features_filterAllMods>Все моды</HugsLib_features_filterAllMods>
+  <HugsLib_features_filterDropdownEntry>{0} ({1} новостей{2})</HugsLib_features_filterDropdownEntry>
+  <HugsLib_features_filterIgnoredModSuffix>, игнорируется</HugsLib_features_filterIgnoredModSuffix>
+
+  <HugsLib_copiedToClipboard>Скопировано в буфер обмена.</HugsLib_copiedToClipboard>
+
+  <HugsLib_logs_copy>Скопировать</HugsLib_logs_copy>
+  <HugsLib_logs_shareBtn>Поделиться журналом логов</HugsLib_logs_shareBtn>
+  <HugsLib_logs_shareConfirmTitle>Подтвердить</HugsLib_logs_shareConfirmTitle>
+  <HugsLib_logs_shareConfirmMessage>Опубликовать журнал логов?\n\nЭта операция загрузит журнал логов на публичный сервер и передаст вам ссылку на него. Это полезно, чтобы запросить помощь других пользователей или передать отчет о проблеме автору мода.\n\nНикакой приватной информации передано не будет.</HugsLib_logs_shareConfirmMessage>
+  <HugsLib_logs_publisherTitle>Опубликовать журнал логов</HugsLib_logs_publisherTitle>
+  <HugsLib_logs_uploading>Загрузка {0}</HugsLib_logs_uploading>
+  <HugsLib_logs_shortening>Получение ссылки {0}</HugsLib_logs_shortening>
+  <HugsLib_logs_uploaded>Загрузка завершена!</HugsLib_logs_uploaded>
+  <HugsLib_logs_uploadError>Ошибка загрузки: {0}</HugsLib_logs_uploadError>
+  <HugsLib_logs_abortBtn>Отменить</HugsLib_logs_abortBtn>
+  <HugsLib_logs_retryBtn>Повторить</HugsLib_logs_retryBtn>
+  <HugsLib_logs_browseBtn>Открыть в браузере</HugsLib_logs_browseBtn>
+  <HugsLib_logs_useRecommendedSettings>Использовать рекомендуемые настройки</HugsLib_logs_useRecommendedSettings>
+  <HugsLib_logs_shortUrls>Использовать коротку ссылку</HugsLib_logs_shortUrls>
+  <HugsLib_logs_shortUrls_tip>Создает короткую ссылку при загрузке. Не рекомендуется для размещения в Steam - короткие ссылки там удаляются автоматически.</HugsLib_logs_shortUrls_tip>
+  <HugsLib_logs_platformInfo>Включить информацию о системе</HugsLib_logs_platformInfo>
+  <HugsLib_logs_platformInfo_tip>Включает информацию о вашем процессоре, памяти и видеокарте в журнал логов.</HugsLib_logs_platformInfo_tip>
+  <HugsLib_logs_unlimitedLogSize>Разрешить неограниченный объем логов</HugsLib_logs_unlimitedLogSize>
+  <HugsLib_logs_unlimitedLogSize_tip>Когда опция отключена, журнал логов ограничен 10000 строками для избежания проблем с загрузкой журналов с большим количеством ошибок.</HugsLib_logs_unlimitedLogSize_tip>
+  <HugsLib_logs_toClipboardBtn>В буфер обмена</HugsLib_logs_toClipboardBtn>
+  <HugsLib_logs_uploadBtn>Загрузить</HugsLib_logs_uploadBtn>
+
+  <HugsLib_logs_filesBtn>Файлы</HugsLib_logs_filesBtn>
+  <HugsLib_logs_openLogFile>Открыть файл журнала логов</HugsLib_logs_openLogFile>
+  <HugsLib_logs_openSaveDir>Открыть папку с сохранениями</HugsLib_logs_openSaveDir>
+  <HugsLib_logs_openModsDir>Открыть папку с модами</HugsLib_logs_openModsDir>
+
+  <HugsLib_restart_language_text>Язык игры был изменен. Игра перезапустится автоматически.</HugsLib_restart_language_text>
+
+  <HugsLib_loadOrderWarning_title>Неверный порядок загрузки модов</HugsLib_loadOrderWarning_title>
+  <HugsLib_loadOrderWarning_text>&lt;b&gt;Мод The HugsLib&lt;/b&gt; должен всегда загружаться после &lt;b&gt;Core&lt;/b&gt; во избежание проблем.\nПожалуйста, исправьте порядок модов и перезапустите игру.</HugsLib_loadOrderWarning_text>
+
+  <HugsLib_updateRequired_title>Требуется обновление библиотеки</HugsLib_updateRequired_title>
+  <HugsLib_updateRequired_text>&lt;b&gt;{0}&lt;/b&gt; требует версию &lt;b&gt;{1}&lt;/b&gt; библиотеки &lt;b&gt;HugsLib&lt;/b&gt; для правильной работы.\n\nЖелаете обновить ее сейчас?</HugsLib_updateRequired_text>
+  <HugsLib_updateRequired_updateBtn>Обновить сейчас</HugsLib_updateRequired_updateBtn>
+
+  <test_enumSetting_DefaultValue>Значение по умолчанию</test_enumSetting_DefaultValue>
+  <test_enumSetting_ValueOne>Значение один</test_enumSetting_ValueOne>
+  <test_enumSetting_ValueTwo>Значение два</test_enumSetting_ValueTwo>
+
+</LanguageData>

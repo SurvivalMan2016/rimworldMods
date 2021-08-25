@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ChemfuelPortableGenerator.label>портативный генератор</ChemfuelPortableGenerator.label>
+  <ChemfuelPortableGenerator.description>Производит энергию за счет потребления химического топлива. Должен периодически заправляться вручную. Из-за своего маленького размера менее эффективен и нуждается в дозаправке чаще, чем средний размер.</ChemfuelPortableGenerator.description>
+  
+</LanguageData>

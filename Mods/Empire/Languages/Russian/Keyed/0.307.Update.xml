@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OverwhelmingVictory>Ошеломляющая Победа</OverwhelmingVictory>
+  <OverwhelmingVictoryDesc>Благодаря ощеломляющей победе, вооружённые силы все еще доступны для использования.</OverwhelmingVictoryDesc>
+  <TaxesFromSettlementAreBeingDelivered>Налоги от {0} направляются к вашему пункту сбора налогов!</TaxesFromSettlementAreBeingDelivered>
+  <DueFC>Ожидается</DueFC>
+  <ResearchExpended>{0} очки исследования были использованы для исследования {1}. У вас осталось {2} очков исследований.</ResearchExpended>
+  <ResearchPointsExpended>Расходы на исследования</ResearchPointsExpended>
+  <NoResearchExpended>Сегодня не проводились никакие исследования. У вас осталось {0} очков исследований.</NoResearchExpended>
+  <PointsAddedToResearchPool>В исследовательский пунк были добавлены {0} очков исследований!</PointsAddedToResearchPool>
+  <SetAsEmpirePowerOutput>Установить как выходную мощность</SetAsEmpirePowerOutput>
+  <SetAsOutput>Установить выходную мощность</SetAsOutput>
+  <SetAsOutputSuccess>Трансформатор настроен на выходную мощность для ваших поселений!</SetAsOutputSuccess>
+  <NumberTaxesHasBeenSolved>{0} счета были автоматически разрешены!</NumberTaxesHasBeenSolved>
+  <PrisonersMenu>Заключённые</PrisonersMenu>
+  <FCWorkload>рабочая нагрузка</FCWorkload>
+  <FCHeavy>Тяжёлая</FCHeavy>
+  <FCMedium>Средняя</FCMedium>
+  <FCLight>Лёгкая</FCLight>
+  <FCHeavyExplanation>Добавляет +2 к числу рабочих за базовую стоимость. Уменьшает здоровье на 20.</FCHeavyExplanation>
+  <FCMediumExplanation>Добавляет +1 к числу рабочих за базовую стоимость. Уменьшает здоровье на 10.</FCMediumExplanation>
+  <FCLightExplanation>Добавляет +1 к пределу рабочих. Увеличивает здоровье на 4.</FCLightExplanation>
+  <Actions>Действия</Actions>
+  <SellPawn>Продать пешку</SellPawn>
+  <ReturnToPlayer>Вернуть к игроку</ReturnToPlayer>
+  <SellPawnInfo>Стоимость будет добавлена к следующему налогу из колонии.</SellPawnInfo>
+  <ViewInfo>Показать информацию</ViewInfo>
+  <PrisonerHasDiedLetter>Заключенный умер</PrisonerHasDiedLetter>
+  <PrisonerHasDied>{0} в {1} умер от переутомления</PrisonerHasDied>
+  <TaxDeliveryMap>Карта доставки налогов</TaxDeliveryMap>
+  <Military>Армия</Military>
+  <SetMap>Выбрать карту</SetMap>
+  <ActivateResearch>Использовать исследования</ActivateResearch>
+  <PrisonerCaptureInfo>Заключёных: {0} был порабощен и передан {1}</PrisonerCaptureInfo>
+  <GoodsReceived>Полученные товары</GoodsReceived>
+  <GoodsReceivedFollowing>Вы получили следующие товары от ивента: {0}</GoodsReceivedFollowing>
+  <TaxPercentage>Значение %</TaxPercentage>
+  <ResearchLevel>Прверить технологический уровень</ResearchLevel>
+  <ReachedMaxLevel>максимальный уровень</ReachedMaxLevel>
+  <FCShipBasics>Основы корабля</FCShipBasics>
+  <FCFabrication>Производство</FCFabrication>
+  <FCElectricity>Электричество</FCElectricity>
+  <FCSmithing>Ковка</FCSmithing>
+  <CurrentResearchLevel>Ваш текущий технический уровень {0}. Чтобы выйти на следующий технологический уровень, вы должны исследовать {1}</CurrentResearchLevel>
+  <AllowedRaces>Доступные расы</AllowedRaces>
+  <CannotHaveLessThanOneRace>В вашей фракции не может быть меньше одной расы</CannotHaveLessThanOneRace>
+  <SettlementNotBeingAttacked>Поселение не находится под угрозой</SettlementNotBeingAttacked>
+  <MedievalTechOnly>Только средневековые технологии</MedievalTechOnly>
+  <ForeignMilitarySwitch>Вооруженные силы {0} были направлены на защиту {1}. Они имеют силу {2}</ForeignMilitarySwitch>
+  <FCMilitarySentCapture>Вооруженные силы {0} отправлены на захват {1}</FCMilitarySentCapture>
+  <FCMilitarySentRaid>Вооружённые силы {0} отправлены в рейд на {1}</FCMilitarySentRaid>
+  <FCMilitarySentEnslave>Вооружённые силы {0} отправлены порабощать население {1}</FCMilitarySentEnslave>
+  <FCMilitaryCooldown>Вооружённые силы {0} снова готовы к использованию</FCMilitaryCooldown>
+  <FCSettlementFormed>Поселение Сформировано</FCSettlementFormed>
+  <FreeWorkers>Свободные рабочие</FreeWorkers>
+  <ToggleAutoDefend>Автоматическая защита атакованных поселений: {0}</ToggleAutoDefend>
+
+
+  <FCOverview>Обзор</FCOverview>
+  <FCTraits>Черты</FCTraits>
+  <FCSelectTraits0>Выберите две черты для добавления! Но будьте осторожны, этот выбор необратим!</FCSelectTraits0>
+  <FCSelectTraits2>Помните, что ваш выбор необратим после того, как вы выйдете из этого окна!</FCSelectTraits2>
+  <FCConflictingTraits>У вас не может быть противоречивых фракционных черт!</FCConflictingTraits>
+  <FCUnselectTrait>Чтобы выбрать другую, необходимо отменить выбор одной из ваших текущих черт!</FCUnselectTrait>
+  <FCTraitsChosen>Вы уже выбрали свои черты. Вы больше не можете их редактировать!</FCTraitsChosen>
+  <NotEnoughSilverToDeploySquad>У тебя не хватит серебра, чтобы передислоцировать этот отряд!</NotEnoughSilverToDeploySquad>
+  <XDaysToRedeploy>Осталось {0} дней, пока не обновится возможность передислоцирования отрядов.</XDaysToRedeploy>
+  <FCRelationImproved>Отношения Улучшены!</FCRelationImproved>
+  <FCRelationImprovedText>Ваше общение с {0} привела к улучшению отношений с {1}!</FCRelationImprovedText>
+  <FCRelationNotImproved>Отношения не изменились.</FCRelationNotImproved>
+  <FCFailedToImproveRelationship>Ваше общение с {0} не смогли улучшить отношения.</FCFailedToImproveRelationship>
+  <XDaysToSendDiplomat>Осталось {0} дней до тех пор, пока не будет обновлена возможность улучшения отношений.</XDaysToSendDiplomat>
+  <FCIncreaseRelations>Попытка улучшить отношения</FCIncreaseRelations>
+  <FCCannotImproveRelationsWithType>Нельзя улучшать отношения с фракциями такого типа.</FCCannotImproveRelationsWithType>
+  <FCSpecialActions>Специальные действия</FCSpecialActions>
+  <FCBuyLoyalty>Купить Лояльность</FCBuyLoyalty>
+  <SendSilverToColony>Отправить серебро в колонию</SendSilverToColony>
+  <SendingXSilver>Отправлено {0} серебра</SendingXSilver>
+  <SettlementGainsXLoyalty>Поселение выйгрывает {0} лояльности</SettlementGainsXLoyalty>
+  <FCConfirm>Принять</FCConfirm>
+  <FCGiveTaxBreak>Налоговая льгота</FCGiveTaxBreak>
+  <FCConfirmDecision>Подтвердить решение</FCConfirmDecision>
+  <FCConfirmTaxBreak>Снизить базовый налог на 30% в течение 10 дней, но получать дополнительные +2 к счастью и процветанию ежедневно?</FCConfirmTaxBreak>
+  <FCAlreadyGivingTaxBreak>Вы уже предоставляете этому поселению налоговые льготы на следующие {0} дней.</FCAlreadyGivingTaxBreak>
+  <FCGivingTaxBreak>{0} получит налоговые льготы на следующие 10 дней. Народ доволен!
+</FCGivingTaxBreak>
+  <FCActionMercenaryRefreshed>Действие "Запрос наемника" доступно для использования.</FCActionMercenaryRefreshed>
+  <FCActionSettlementFeeReduction>Стоимость вашего следующего поселения будет снижена вдвое из-за черты вашей фракции: экспоненциальный.</FCActionSettlementFeeReduction>
+  <FCActionAvailable>Действие доступно</FCActionAvailable>
+  <FCActionMercenaryOnCooldown>Вы не можете использовать это действие ещё {0}</FCActionMercenaryOnCooldown>
+  <FCRequestMercenary>Запрос наемника</FCRequestMercenary>
+  <FCMercenaryJoined>Наёмник присоединился</FCMercenaryJoined>
+  <FCMercenaryJoinedText>Наемник, {0}, от вашей фракции присоединилась к вашей колонии!</FCMercenaryJoinedText>
+  <FCSendResearchItems>Отправить объекты исследования</FCSendResearchItems>
+  <FCFactionResearch>Исследование фракций</FCFactionResearch>
+  <FCFactionLevelUp>Уровень фракции повысился</FCFactionLevelUp>
+  <FCFactionLevelUpDesc>Ваша фракция {0} достигла {1} уровня!</FCFactionLevelUpDesc>
+  <FCSelectANewTrait>Выберите новую черту</FCSelectANewTrait>
+  <FCTraitLockedUntilLevel>Заблокировано до уровня {0}</FCTraitLockedUntilLevel>
+  <FCLevel>Уровень фракции: {0}</FCLevel>
+  <FCConfirmTrait>Вы уверены, что хотите выбрать {0}? Вы не сможете отменить это решение.</FCConfirmTrait>
+  <FCIndustriousPop>В вашем поселении {0} налоги сгенерировали дополнительные {1} проценты в налогах!</FCIndustriousPop>
+  <FCIdustriousTaxBoost>Промышленные налоги</FCIdustriousTaxBoost>
+  <FCSelectYourTraits>Начальные черты вашей фракции не выбраны. Перейдите на вкладку настройки фракции, чтобы выбрать их!</FCSelectYourTraits>
+
+
+
+  <!-- Updated the following defs  -->
+  <!--     Building - Research Labs & Glitterworld Research Facility    -->
+  <!--     Social Policy - Science blah blah   &  Faction trait - Researchers     -->
+
+
+
+</LanguageData>

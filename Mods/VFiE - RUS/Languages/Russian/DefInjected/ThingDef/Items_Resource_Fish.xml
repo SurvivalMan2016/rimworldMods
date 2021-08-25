@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anchovy -->
+
+  <VCEF_RawAnchovy.label>анчоус</VCEF_RawAnchovy.label>
+  <VCEF_RawAnchovy.description>Сырой анчоус. Небольшая кормовая рыба семейства анчоусных. Большинство видов обитает в морских водах, но некоторые попадают в солоноватую воду, а некоторые ограничиваются пресной водой.</VCEF_RawAnchovy.description>
+  <VCEF_RawAnchovy.tools.0.label>анчоус</VCEF_RawAnchovy.tools.0.label>
+
+
+  <!-- Angelfish -->
+
+  <VCEF_RawAngelfish.label>рыба-ангел</VCEF_RawAngelfish.label>
+  <VCEF_RawAngelfish.description>Сырая рыба-ангел. Эта рыба относится к нескольким видам рыб, как морских, так и пресноводных. Обычно эта рыба обладает ярким цветом и плоским телом.</VCEF_RawAngelfish.description>
+  <VCEF_RawAngelfish.tools.0.label>рыба-ангел</VCEF_RawAngelfish.tools.0.label>
+
+
+  <!-- Anglerfish -->
+
+  <VCEF_RawAnglerfish.label>удильщик</VCEF_RawAnglerfish.label>
+  <VCEF_RawAnglerfish.description>Сырой удильщик. Удильщик - это костистая рыба, названная так в честь характерного для нее способа охоты, при котором мясистый нарост из головый рыбы (эска или иллициум) служит приманков для других рыб.</VCEF_RawAnglerfish.description>
+  <VCEF_RawAnglerfish.tools.0.label>удильщик</VCEF_RawAnglerfish.tools.0.label>
+
+
+  <!-- Bass -->
+
+  <VCEF_RawBass.label>бас</VCEF_RawBass.label>
+  <VCEF_RawBass.description>Сырой бас. Бас - это название, которое разделяют многие виды рыб. Термин охватывает как пресноводные, так и морские виды, принадлежащие к крупному отряду окунеобразных.</VCEF_RawBass.description>
+  <VCEF_RawBass.tools.0.label>бас</VCEF_RawBass.tools.0.label>
+
+
+  <!-- Catfish -->
+
+  <VCEF_RawCatfish.label>сом</VCEF_RawCatfish.label>
+  <VCEF_RawCatfish.description>Сырой сом. Сом - это разнообразная группа рыб с лучеперыми плавниками. Называется также рыбой-кошкой из-за выдающихся усов, напоминающих кошачьи.</VCEF_RawCatfish.description>
+  <VCEF_RawCatfish.tools.0.label>сом</VCEF_RawCatfish.tools.0.label>
+
+
+  <!-- Clownfish -->
+
+  <VCEF_RawClownfish.label>рыба-клоун</VCEF_RawClownfish.label>
+  <VCEF_RawClownfish.description>Сырая рыба-клоун. В дикой природе рыбы-клоуны образуют симбиотические взаимотношения с актиниями. В зависимости от вида, рыба-клоун в целом бывает желтого, оранжевого, красноватого или черноватого цвета. У многих видны белые полосы или пятна.</VCEF_RawClownfish.description>
+  <VCEF_RawClownfish.tools.0.label>рыба-клоун</VCEF_RawClownfish.tools.0.label>
+
+
+  <!-- Cod -->
+
+  <VCEF_RawCod.label>треска</VCEF_RawCod.label>
+  <VCEF_RawCod.description>Сырая треска. Треска относится к нескольким крупным видам рыб с ненасытным аппетитом, питающимся в основном другими рыбами и различными беспозвоночными. Треска издавно считается идеальной рыбой для употребления в пищу человеком, благодаря своей шелушащейся белойк мякоти, высокому содержанию белка и низкому содержанию жира.</VCEF_RawCod.description>
+  <VCEF_RawCod.tools.0.label>треска</VCEF_RawCod.tools.0.label>
+
+
+  <!-- Eel -->
+
+  <VCEF_RawEel.label>угорь</VCEF_RawEel.label>
+  <VCEF_RawEel.description>Сырой угорь. Угорь - это любая рыба с лучеперыми плавниками, относящаяся к отряду угреобразных. Угри - длинные рыбы, не имеющие брюшных плавников, а у многих видов отсутствуют также и грудные плавники. Угри плавают с помощью движений, генерирующих волны, которые проходят вдоль их тела.</VCEF_RawEel.description>
+  <VCEF_RawEel.tools.0.label>угорь</VCEF_RawEel.tools.0.label>
+
+
+  <!-- Goldfish -->
+
+  <VCEF_RawGoldfish.label>золотая рыбка</VCEF_RawGoldfish.label>
+  <VCEF_RawGoldfish.description>Сырая золотая рыбка. Золотая рыбка (Carassius auratus) - пресноводная рыба в семействе карповые отряда карпообразные. Это одна из наиболее часто встречаемых аквариумных рыбок.</VCEF_RawGoldfish.description>
+  <VCEF_RawGoldfish.tools.0.label>золотая рыбка</VCEF_RawGoldfish.tools.0.label>
+
+
+  <!-- Guppy -->
+
+  <VCEF_RawGuppy.label>гуппи</VCEF_RawGuppy.label>
+  <VCEF_RawGuppy.description>Сырая гуппи. Гуппи (Poecilia reticulata), также известная как рыба-миллионер и радужная рыба, является одной из наиболее широко распространенных тропических рыб в мире и одним из самых популярных видов пресноводных аквариумных рыб.</VCEF_RawGuppy.description>
+  <VCEF_RawGuppy.tools.0.label>гуппи</VCEF_RawGuppy.tools.0.label>
+
+
+  <!-- Haddock -->
+
+  <VCEF_RawHaddock.label>пикша</VCEF_RawHaddock.label>
+  <VCEF_RawHaddock.description>Сырая пикша. Пикша (Melanogrammus aeglefinus) - морская рыба из семейства тресковые, настоящая треска. Это важная промысловая рыба которую традиционно употребляют в свежем или копченом виде.</VCEF_RawHaddock.description>
+  <VCEF_RawHaddock.tools.0.label>пикша</VCEF_RawHaddock.tools.0.label>
+
+
+  <!-- Halibut -->
+
+  <VCEF_RawHalibut.label>палтус</VCEF_RawHalibut.label>
+  <VCEF_RawHalibut.description>Сырой палтус. Палтус - это общее название, в основном относящееся к двум камбалам правых камбал. Реже и только в некоторых регионах другие виды камбалы также называют палтусами.</VCEF_RawHalibut.description>
+  <VCEF_RawHalibut.tools.0.label>палтус</VCEF_RawHalibut.tools.0.label>
+
+
+  <!-- Herring -->
+
+  <VCEF_RawHerring.label>сельдь</VCEF_RawHerring.label>
+  <VCEF_RawHerring.description>Сырая сельдь. Сельдь - это кормовая рыба, в основном принадлежащая к семействую сельдевые. Сельдь часто перемещается большими косяками у берега.</VCEF_RawHerring.description>
+  <VCEF_RawHerring.tools.0.label>сельдь</VCEF_RawHerring.tools.0.label>
+
+
+  <!-- Koi -->
+
+  <VCEF_RawKoi.label>карп кои</VCEF_RawKoi.label>
+  <VCEF_RawKoi.description>Сырой карп кои. Кои - это цветные разновидности амурского карпа (Cyprinus rubrofuscus), которые содержатся в декоративных целях в открытых прудах или в водных садах.</VCEF_RawKoi.description>
+  <VCEF_RawKoi.tools.0.label>карп кои</VCEF_RawKoi.tools.0.label>
+
+
+  <!-- Lobster -->
+
+  <VCEF_RawLobster.label>омар</VCEF_RawLobster.label>
+  <VCEF_RawLobster.description>Сырой омар. Омары - крупные морские ракообразные. У них длинное тело с мускулистым хвостом. У трех из пяти пар ног есть клешни, включая первую пару, которая обычно намного крупнее остальных.</VCEF_RawLobster.description>
+  <VCEF_RawLobster.tools.0.label>омар</VCEF_RawLobster.tools.0.label>
+
+
+  <!-- Mackerel -->
+
+  <VCEF_RawMackerel.label>скумбрия</VCEF_RawMackerel.label>
+  <VCEF_RawMackerel.description>Сырая скумбрия. Скумбрия - это общее название, применяемое к ряду различных видов пелагических рыб, во основном из семейства скумбриевые. Они обитают как в умеренных, так и в тропических морях и в основном живут вдоль побережья или в океанической среде.</VCEF_RawMackerel.description>
+  <VCEF_RawMackerel.tools.0.label>скумбрия</VCEF_RawMackerel.tools.0.label>
+
+
+  <!-- Minnow -->
+
+  <VCEF_RawMinnow.label>пескарь</VCEF_RawMinnow.label>
+  <VCEF_RawMinnow.description>Сырой пескарь. Пескарь или гольян - общее название ряда видов мелких пресноводных рыб, принадлежащих к нескольким родам семейства карповых.</VCEF_RawMinnow.description>
+  <VCEF_RawMinnow.tools.0.label>пескарь</VCEF_RawMinnow.tools.0.label>
+
+
+  <!-- Perch -->
+
+  <VCEF_RawPerch.label>окунь</VCEF_RawPerch.label>
+  <VCEF_RawPerch.description>Сырой окунь. Окунь - это общее название рыб из рода пресноводных окуней, промысловых рыб, принадлежащих к семейству окуневых. Окуни дали свое название большому отряду позвоночных - окунеобразные. Многие виды пресноводных промысловых рыб более или менее напоминают окуня, но относятся к разным родам.</VCEF_RawPerch.description>
+  <VCEF_RawPerch.tools.0.label>окунь</VCEF_RawPerch.tools.0.label>
+
+
+  <!-- Piranha -->
+
+  <VCEF_RawPiranha.label>пиранья</VCEF_RawPiranha.label>
+  <VCEF_RawPiranha.description>Сырая пиранья. Пиранья - пресноводная рыба, населяющая реки, поймы, озера и водоемы. Хотя их часто описывают как чрезвычайно хищных и питающихся в основном рыбой, на самом деле их пищевые привычки сильно различаются, и они также поедают растительный материал, что приводит к их классификации как всеядных.</VCEF_RawPiranha.description>
+  <VCEF_RawPiranha.tools.0.label>пиранья</VCEF_RawPiranha.tools.0.label>
+
+
+  <!-- Pufferfish -->
+
+  <VCEF_RawPufferfish.label>рыба фугу</VCEF_RawPufferfish.label>
+  <VCEF_RawPufferfish.description>Сырая рыба фугу. Иглобрюхие - это семейство преимущественно морских и устьевых рыб. Большинство видов иглобрюхов токсичны, а некоторые относятся к числу самых ядовитых позвоночных животных в мире. У некоторых видов внутренние органы, такие как печень, а иногда и кожа, содержат тетродотоксин - очень токсичный для большинства животных при употреблении в пищу. Но тем не менее, мясо некоторых видов считается деликатесом, если его готовят специально обученные повара.</VCEF_RawPufferfish.description>
+  <VCEF_RawPufferfish.tools.0.label>рыба фугу</VCEF_RawPufferfish.tools.0.label>
+
+
+  <!-- Salmon -->
+
+  <VCEF_RawSalmon.label>лосось</VCEF_RawSalmon.label>
+  <VCEF_RawSalmon.description>Сырой лосось. Лосось - это общее название для нескольких видов лучеперых рыб из семейства лососевых. Как правило лосось анадромный: он вылупляется в пресной воде, мигрирует в океан, а затем возвращается в пресную воду для размножения. Однако популяции нескольких видов на протяжении всей жизни ограничиваются пресной водой.</VCEF_RawSalmon.description>
+  <VCEF_RawSalmon.tools.0.label>лосось</VCEF_RawSalmon.tools.0.label>
+
+
+  <!-- Sprat -->
+
+  <VCEF_RawSprat.label>килька</VCEF_RawSprat.label>
+  <VCEF_RawSprat.description>Сырая килька. Килька - это общее название применяемое к группе кормовых рыб, принадлежащих к роду шпроты, семейства сельдевые. Как и большинство кормовых рыб, кильки - очень активная, мелкая жирная рыба. Они путешествуют большими стаями вместе с другими рыбами и непрерывно плавают в течение дня.</VCEF_RawSprat.description>
+  <VCEF_RawSprat.tools.0.label>килька</VCEF_RawSprat.tools.0.label>
+
+
+  <!-- Swordfish -->
+
+  <VCEF_RawSwordfish.label>меч-рыба</VCEF_RawSwordfish.label>
+  <VCEF_RawSwordfish.description>Сырая меч-рыба. Меч-рыба, также известная как меченосец - большая, далеко мигрирующая хищная рыба. Характеризуется длинным, плоским и острым клювом.</VCEF_RawSwordfish.description>
+  <VCEF_RawSwordfish.tools.0.label>меч-рыба</VCEF_RawSwordfish.tools.0.label>
+
+
+  <!-- Trout -->
+
+  <VCEF_RawTrout.label>форель</VCEF_RawTrout.label>
+  <VCEF_RawTrout.description>Сырая форель. Форель - это общее название для ряда видов пресноводных рыб. Большинство видов форели обитают исключительно в пресноводных озерах и реках, в то время как есть и другие, такие как стальная форель, которая может провести два или три года в море, прежде чем вернуться в пресную воду для нереста. Привычка, более типичная для лосося.</VCEF_RawTrout.description>
+  <VCEF_RawTrout.tools.0.label>форель</VCEF_RawTrout.tools.0.label>
+
+
+  <!-- Tuna -->
+
+  <VCEF_RawTuna.label>тунец</VCEF_RawTuna.label>
+  <VCEF_RawTuna.description>Сырой тунец. Тунец - крупная морская рыба. Активный и ловкий хищник, тунец имеет гладкое обтекаемое тело и является одной из самых быстро плавающих пелагических рыб. Тунец высоко ценится как промысловая рыба. Помимо их коммерческой ценности в качестве пищи, их огромные размеры, скорость и мощь, которые они демонстрируют как высшие хищники, вызывают восхищение рыбаков, писателей и ученых.</VCEF_RawTuna.description>
+  <VCEF_RawTuna.tools.0.label>тунец</VCEF_RawTuna.tools.0.label>
+
+
+</LanguageData>

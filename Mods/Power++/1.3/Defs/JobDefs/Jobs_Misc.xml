@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <JobDef>
+    <defName>ARKPPP_FlickWireless</defName>
+    <driverClass>aRandomKiwi.PPP.JobDriver_FlickWireless</driverClass>
+    <reportString>flicking wireless switch.</reportString>
+    <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
+  </JobDef>
+</Defs>

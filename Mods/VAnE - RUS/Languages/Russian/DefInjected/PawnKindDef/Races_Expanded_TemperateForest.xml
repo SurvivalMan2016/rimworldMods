@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Red Panda -->
+
+  <AEXP_RedPanda.label>красная панда</AEXP_RedPanda.label>
+  <AEXP_RedPanda.labelPlural>красные панды</AEXP_RedPanda.labelPlural>
+  <AEXP_RedPanda.lifeStages.0.label>детеныш красной панды</AEXP_RedPanda.lifeStages.0.label>
+  <AEXP_RedPanda.lifeStages.0.labelPlural>детеныши красной панды</AEXP_RedPanda.lifeStages.0.labelPlural>
+  <AEXP_RedPanda.lifeStages.0.labelMale>детеныш красной панды</AEXP_RedPanda.lifeStages.0.labelMale>
+  <AEXP_RedPanda.lifeStages.0.labelMalePlural>детеныши красной панды</AEXP_RedPanda.lifeStages.0.labelMalePlural>
+  <AEXP_RedPanda.lifeStages.0.labelFemale>детеныш красной панды</AEXP_RedPanda.lifeStages.0.labelFemale>
+  <AEXP_RedPanda.lifeStages.0.labelFemalePlural>детеныши красной панды</AEXP_RedPanda.lifeStages.0.labelFemalePlural>
+  <AEXP_RedPanda.lifeStages.1.label>молодая красная панда</AEXP_RedPanda.lifeStages.1.label>
+  <AEXP_RedPanda.lifeStages.1.labelPlural>молодые красные панды</AEXP_RedPanda.lifeStages.1.labelPlural>
+  <AEXP_RedPanda.lifeStages.1.labelMale>молодая красная панда</AEXP_RedPanda.lifeStages.1.labelMale>
+  <AEXP_RedPanda.lifeStages.1.labelMalePlural>молодые красные панды</AEXP_RedPanda.lifeStages.1.labelMalePlural>
+  <AEXP_RedPanda.lifeStages.1.labelFemale>молодая красная панда</AEXP_RedPanda.lifeStages.1.labelFemale>
+  <AEXP_RedPanda.lifeStages.1.labelFemalePlural>молодые красные панды</AEXP_RedPanda.lifeStages.1.labelFemalePlural>
+  <AEXP_RedPanda.lifeStages.2.label>красная панда</AEXP_RedPanda.lifeStages.2.label>
+  <AEXP_RedPanda.lifeStages.2.labelPlural>красные панды</AEXP_RedPanda.lifeStages.2.labelPlural>
+  <AEXP_RedPanda.lifeStages.2.labelMale>красная панда</AEXP_RedPanda.lifeStages.2.labelMale>
+  <AEXP_RedPanda.lifeStages.2.labelMalePlural>красные панды</AEXP_RedPanda.lifeStages.2.labelMalePlural>
+  <AEXP_RedPanda.lifeStages.2.labelFemale>красная панда</AEXP_RedPanda.lifeStages.2.labelFemale>
+  <AEXP_RedPanda.lifeStages.2.labelFemalePlural>красные панды</AEXP_RedPanda.lifeStages.2.labelFemalePlural>
+  <AEXP_RedPanda.labelMale>красная панда</AEXP_RedPanda.labelMale>
+  <AEXP_RedPanda.labelMalePlural>красные панды</AEXP_RedPanda.labelMalePlural>
+  <AEXP_RedPanda.labelFemale>красная панда</AEXP_RedPanda.labelFemale>
+  <AEXP_RedPanda.labelFemalePlural>красные панды</AEXP_RedPanda.labelFemalePlural>
+
+
+  <!-- Badger -->
+
+  <AEXP_Badger.label>барсук</AEXP_Badger.label>
+  <AEXP_Badger.labelPlural>барсуки</AEXP_Badger.labelPlural>
+  <AEXP_Badger.lifeStages.0.label>барсучонок</AEXP_Badger.lifeStages.0.label>
+  <AEXP_Badger.lifeStages.0.labelPlural>барсучата</AEXP_Badger.lifeStages.0.labelPlural>
+  <AEXP_Badger.lifeStages.0.labelMale>барсучонок</AEXP_Badger.lifeStages.0.labelMale>
+  <AEXP_Badger.lifeStages.0.labelMalePlural>барсучата</AEXP_Badger.lifeStages.0.labelMalePlural>
+  <AEXP_Badger.lifeStages.0.labelFemale>барсучонок</AEXP_Badger.lifeStages.0.labelFemale>
+  <AEXP_Badger.lifeStages.0.labelFemalePlural>барсучата</AEXP_Badger.lifeStages.0.labelFemalePlural>
+  <AEXP_Badger.lifeStages.1.label>молодой барсук</AEXP_Badger.lifeStages.1.label>
+  <AEXP_Badger.lifeStages.1.labelPlural>молодые барсуки</AEXP_Badger.lifeStages.1.labelPlural>
+  <AEXP_Badger.lifeStages.1.labelMale>молодой барсук</AEXP_Badger.lifeStages.1.labelMale>
+  <AEXP_Badger.lifeStages.1.labelMalePlural>молодые барсуки</AEXP_Badger.lifeStages.1.labelMalePlural>
+  <AEXP_Badger.lifeStages.1.labelFemale>молодая барсучиха</AEXP_Badger.lifeStages.1.labelFemale>
+  <AEXP_Badger.lifeStages.1.labelFemalePlural>молодые барсучихи</AEXP_Badger.lifeStages.1.labelFemalePlural>
+  <AEXP_Badger.lifeStages.2.label>барсук</AEXP_Badger.lifeStages.2.label>
+  <AEXP_Badger.lifeStages.2.labelPlural>барсуки</AEXP_Badger.lifeStages.2.labelPlural>
+  <AEXP_Badger.lifeStages.2.labelMale>барсук</AEXP_Badger.lifeStages.2.labelMale>
+  <AEXP_Badger.lifeStages.2.labelMalePlural>барсуки</AEXP_Badger.lifeStages.2.labelMalePlural>
+  <AEXP_Badger.lifeStages.2.labelFemale>барсучиха</AEXP_Badger.lifeStages.2.labelFemale>
+  <AEXP_Badger.lifeStages.2.labelFemalePlural>барсучихи</AEXP_Badger.lifeStages.2.labelFemalePlural>
+  <AEXP_Badger.labelMale>барсук</AEXP_Badger.labelMale>
+  <AEXP_Badger.labelMalePlural>барсуки</AEXP_Badger.labelMalePlural>
+  <AEXP_Badger.labelFemale>барсучиха</AEXP_Badger.labelFemale>
+  <AEXP_Badger.labelFemalePlural>барсучихи</AEXP_Badger.labelFemalePlural>
+
+
+  <!-- Wild Goose -->
+
+  <AEXP_WildGoose.label>дикий гусь</AEXP_WildGoose.label>
+  <AEXP_WildGoose.labelPlural>дикие гуси</AEXP_WildGoose.labelPlural>
+  <AEXP_WildGoose.lifeStages.0.label>гусенок</AEXP_WildGoose.lifeStages.0.label>
+  <AEXP_WildGoose.lifeStages.0.labelPlural>гусята</AEXP_WildGoose.lifeStages.0.labelPlural>
+  <AEXP_WildGoose.lifeStages.0.labelMale>гусенок</AEXP_WildGoose.lifeStages.0.labelMale>
+  <AEXP_WildGoose.lifeStages.0.labelMalePlural>гусята</AEXP_WildGoose.lifeStages.0.labelMalePlural>
+  <AEXP_WildGoose.lifeStages.0.labelFemale>гусенок</AEXP_WildGoose.lifeStages.0.labelFemale>
+  <AEXP_WildGoose.lifeStages.0.labelFemalePlural>гусята</AEXP_WildGoose.lifeStages.0.labelFemalePlural>
+  <AEXP_WildGoose.lifeStages.1.label>молодой дикий гусь</AEXP_WildGoose.lifeStages.1.label>
+  <AEXP_WildGoose.lifeStages.1.labelPlural>молодые дикие гуси</AEXP_WildGoose.lifeStages.1.labelPlural>
+  <AEXP_WildGoose.lifeStages.1.labelMale>молодой дикий селезень</AEXP_WildGoose.lifeStages.1.labelMale>
+  <AEXP_WildGoose.lifeStages.1.labelMalePlural>молодые дикие селезни</AEXP_WildGoose.lifeStages.1.labelMalePlural>
+  <AEXP_WildGoose.lifeStages.1.labelFemale>молодая дикая гусыня</AEXP_WildGoose.lifeStages.1.labelFemale>
+  <AEXP_WildGoose.lifeStages.1.labelFemalePlural>молодые дикие гусыни</AEXP_WildGoose.lifeStages.1.labelFemalePlural>
+  <AEXP_WildGoose.lifeStages.2.label>дикий гусь</AEXP_WildGoose.lifeStages.2.label>
+  <AEXP_WildGoose.lifeStages.2.labelPlural>дикие гуси</AEXP_WildGoose.lifeStages.2.labelPlural>
+  <AEXP_WildGoose.lifeStages.2.labelMale>дикий селезень</AEXP_WildGoose.lifeStages.2.labelMale>
+  <AEXP_WildGoose.lifeStages.2.labelMalePlural>дикие селезни</AEXP_WildGoose.lifeStages.2.labelMalePlural>
+  <AEXP_WildGoose.lifeStages.2.labelFemale>дикая гусыня</AEXP_WildGoose.lifeStages.2.labelFemale>
+  <AEXP_WildGoose.lifeStages.2.labelFemalePlural>дикие гусыни</AEXP_WildGoose.lifeStages.2.labelFemalePlural>
+  <AEXP_WildGoose.labelMale>дикий селезень</AEXP_WildGoose.labelMale>
+  <AEXP_WildGoose.labelMalePlural>дикие селезни</AEXP_WildGoose.labelMalePlural>
+  <AEXP_WildGoose.labelFemale>дикая гусыня</AEXP_WildGoose.labelFemale>
+  <AEXP_WildGoose.labelFemalePlural>дикие гусыни</AEXP_WildGoose.labelFemalePlural>
+
+
+  <!-- Beaver -->
+
+  <AEXP_Beaver.label>бобер</AEXP_Beaver.label>
+  <AEXP_Beaver.labelPlural>бобры</AEXP_Beaver.labelPlural>
+  <AEXP_Beaver.lifeStages.0.label>бобренок</AEXP_Beaver.lifeStages.0.label>
+  <AEXP_Beaver.lifeStages.0.labelPlural>бобрята</AEXP_Beaver.lifeStages.0.labelPlural>
+  <AEXP_Beaver.lifeStages.0.labelMale>бобренок</AEXP_Beaver.lifeStages.0.labelMale>
+  <AEXP_Beaver.lifeStages.0.labelMalePlural>бобрята</AEXP_Beaver.lifeStages.0.labelMalePlural>
+  <AEXP_Beaver.lifeStages.0.labelFemale>бобренок</AEXP_Beaver.lifeStages.0.labelFemale>
+  <AEXP_Beaver.lifeStages.0.labelFemalePlural>бобрята</AEXP_Beaver.lifeStages.0.labelFemalePlural>
+  <AEXP_Beaver.lifeStages.1.label>молодой бобер</AEXP_Beaver.lifeStages.1.label>
+  <AEXP_Beaver.lifeStages.1.labelPlural>молодые бобры</AEXP_Beaver.lifeStages.1.labelPlural>
+  <AEXP_Beaver.lifeStages.1.labelMale>молодой бобер</AEXP_Beaver.lifeStages.1.labelMale>
+  <AEXP_Beaver.lifeStages.1.labelMalePlural>молодые бобры</AEXP_Beaver.lifeStages.1.labelMalePlural>
+  <AEXP_Beaver.lifeStages.1.labelFemale>молодая бобриха</AEXP_Beaver.lifeStages.1.labelFemale>
+  <AEXP_Beaver.lifeStages.1.labelFemalePlural>молодые бобрихи</AEXP_Beaver.lifeStages.1.labelFemalePlural>
+  <AEXP_Beaver.lifeStages.2.label>бобер</AEXP_Beaver.lifeStages.2.label>
+  <AEXP_Beaver.lifeStages.2.labelPlural>бобры</AEXP_Beaver.lifeStages.2.labelPlural>
+  <AEXP_Beaver.lifeStages.2.labelMale>бобер</AEXP_Beaver.lifeStages.2.labelMale>
+  <AEXP_Beaver.lifeStages.2.labelMalePlural>бобры</AEXP_Beaver.lifeStages.2.labelMalePlural>
+  <AEXP_Beaver.lifeStages.2.labelFemale>бобриха</AEXP_Beaver.lifeStages.2.labelFemale>
+  <AEXP_Beaver.lifeStages.2.labelFemalePlural>бобрихи</AEXP_Beaver.lifeStages.2.labelFemalePlural>
+  <AEXP_Beaver.labelMale>бобер</AEXP_Beaver.labelMale>
+  <AEXP_Beaver.labelMalePlural>бобры</AEXP_Beaver.labelMalePlural>
+  <AEXP_Beaver.labelFemale>бобриха</AEXP_Beaver.labelFemale>
+  <AEXP_Beaver.labelFemalePlural>бобрихи</AEXP_Beaver.labelFemalePlural>
+
+
+  <!-- Hedgehog -->
+
+  <AEXP_Hedgehog.label>еж</AEXP_Hedgehog.label>
+  <AEXP_Hedgehog.labelPlural>ежи</AEXP_Hedgehog.labelPlural>
+  <AEXP_Hedgehog.lifeStages.0.label>ежонок</AEXP_Hedgehog.lifeStages.0.label>
+  <AEXP_Hedgehog.lifeStages.0.labelPlural>ежата</AEXP_Hedgehog.lifeStages.0.labelPlural>
+  <AEXP_Hedgehog.lifeStages.0.labelMale>ежонок</AEXP_Hedgehog.lifeStages.0.labelMale>
+  <AEXP_Hedgehog.lifeStages.0.labelMalePlural>ежата</AEXP_Hedgehog.lifeStages.0.labelMalePlural>
+  <AEXP_Hedgehog.lifeStages.0.labelFemale>ежонок</AEXP_Hedgehog.lifeStages.0.labelFemale>
+  <AEXP_Hedgehog.lifeStages.0.labelFemalePlural>ежата</AEXP_Hedgehog.lifeStages.0.labelFemalePlural>
+  <AEXP_Hedgehog.lifeStages.1.label>молодой еж</AEXP_Hedgehog.lifeStages.1.label>
+  <AEXP_Hedgehog.lifeStages.1.labelPlural>молодые ежи</AEXP_Hedgehog.lifeStages.1.labelPlural>
+  <AEXP_Hedgehog.lifeStages.1.labelMale>молодой еж</AEXP_Hedgehog.lifeStages.1.labelMale>
+  <AEXP_Hedgehog.lifeStages.1.labelMalePlural>молодые ежи</AEXP_Hedgehog.lifeStages.1.labelMalePlural>
+  <AEXP_Hedgehog.lifeStages.1.labelFemale>молодая ежиха</AEXP_Hedgehog.lifeStages.1.labelFemale>
+  <AEXP_Hedgehog.lifeStages.1.labelFemalePlural>молодые ежихи</AEXP_Hedgehog.lifeStages.1.labelFemalePlural>
+  <AEXP_Hedgehog.lifeStages.2.label>ежа</AEXP_Hedgehog.lifeStages.2.label>
+  <AEXP_Hedgehog.lifeStages.2.labelPlural>ежи</AEXP_Hedgehog.lifeStages.2.labelPlural>
+  <AEXP_Hedgehog.lifeStages.2.labelMale>еж</AEXP_Hedgehog.lifeStages.2.labelMale>
+  <AEXP_Hedgehog.lifeStages.2.labelMalePlural>ежи</AEXP_Hedgehog.lifeStages.2.labelMalePlural>
+  <AEXP_Hedgehog.lifeStages.2.labelFemale>ежиха</AEXP_Hedgehog.lifeStages.2.labelFemale>
+  <AEXP_Hedgehog.lifeStages.2.labelFemalePlural>ежихи</AEXP_Hedgehog.lifeStages.2.labelFemalePlural>
+  <AEXP_Hedgehog.labelMale>еж</AEXP_Hedgehog.labelMale>
+  <AEXP_Hedgehog.labelMalePlural>ежи</AEXP_Hedgehog.labelMalePlural>
+  <AEXP_Hedgehog.labelFemale>ежиха</AEXP_Hedgehog.labelFemale>
+  <AEXP_Hedgehog.labelFemalePlural>ежихи</AEXP_Hedgehog.labelFemalePlural>
+
+
+</LanguageData>

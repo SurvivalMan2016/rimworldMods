@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MVCF.Toggle>Переключить {0}</MVCF.Toggle>
+  <MVCF.ToggleUsing>Переключить используя {0} автоматически</MVCF.ToggleUsing>
+  <MVCF.ToggleAuto>Включить автоматическое использование</MVCF.ToggleAuto>
+
+</LanguageData>

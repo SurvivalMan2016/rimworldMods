@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_EnergyDrinkHigh.label>употребление энергетика</VBE_EnergyDrinkHigh.label>
+  <VBE_EnergyDrinkHigh.description>Энергетик немедленно восстанавливает силы и увеличивает скорость передвижения, но имеет негативный пост-эффект.</VBE_EnergyDrinkHigh.description>
+  <VBE_EnergyDrinkHigh.labelNoun>выпил энергетик</VBE_EnergyDrinkHigh.labelNoun>
+
+  <VBE_EnergyDrinkCrash.label>пост-эффект от энергетика</VBE_EnergyDrinkCrash.label>
+  <VBE_EnergyDrinkCrash.description>Неприятный отложенный эффект от употребления энергетика.</VBE_EnergyDrinkCrash.description>
+  <VBE_EnergyDrinkCrash.labelNoun>страдает от пост-эффекта энергетика</VBE_EnergyDrinkCrash.labelNoun>
+
+
+</LanguageData>

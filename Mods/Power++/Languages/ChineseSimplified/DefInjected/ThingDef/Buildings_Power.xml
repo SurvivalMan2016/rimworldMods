@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- [ Power Receptors ] -->
+
+  <ARKPPP_WirelessPowerReceptor.label>WPN接收器</ARKPPP_WirelessPowerReceptor.label>
+  <ARKPPP_WirelessPowerReceptor.description>无线电力接收器发电机。需要连接到有效的WPN以提供电力。</ARKPPP_WirelessPowerReceptor.description>
+  <ARKPPP_WirelessPowerReceptor_Blueprint.label>WPN接收器（蓝图）</ARKPPP_WirelessPowerReceptor_Blueprint.label>
+  <ARKPPP_WirelessPowerReceptor_Frame.label>WPN接收器（建造中）</ARKPPP_WirelessPowerReceptor_Frame.label>
+  <ARKPPP_WirelessPowerReceptor_Frame.description>一个无线电力接收器发电机。需要连接到有效的WPN以提供电力。</ARKPPP_WirelessPowerReceptor_Frame.description>
+
+  <ARKPPP_WirelessPortablePowerReceptor.label>便携WPN接收器</ARKPPP_WirelessPortablePowerReceptor.label>
+  <ARKPPP_WirelessPortablePowerReceptor.description>便携式无线电力接收器发电机。需要连接到有效的WPN以提供电力。因其规模小，最大传输电力限制为3000W。</ARKPPP_WirelessPortablePowerReceptor.description>
+  <ARKPPP_WirelessPortablePowerReceptor_Blueprint.label>便携WPN接收器（蓝图）</ARKPPP_WirelessPortablePowerReceptor_Blueprint.label>
+  <ARKPPP_WirelessPortablePowerReceptor_Blueprint_Install.label>便携WPN接收器（蓝图）</ARKPPP_WirelessPortablePowerReceptor_Blueprint_Install.label>
+  <ARKPPP_WirelessPortablePowerReceptor_Frame.label>便携WPN接收器（建造中）</ARKPPP_WirelessPortablePowerReceptor_Frame.label>
+  <ARKPPP_WirelessPortablePowerReceptor_Frame.description>便携式无线电力接收器发电机。需要连接到有效的WPN以提供电力。因其规模小，最大传输电力限制为3000W。</ARKPPP_WirelessPortablePowerReceptor_Frame.description>
+
+
+  <!-- [ Power Emitters ] -->
+
+  <ARKPPP_WirelessPowerEmitter.label>WPN发射器</ARKPPP_WirelessPowerEmitter.label>
+  <ARKPPP_WirelessPowerEmitter.description>用于远距离广播的WPN无线发射器。注意：此设备运作对天气条件敏感（雷暴）。</ARKPPP_WirelessPowerEmitter.description>
+  <ARKPPP_WirelessPowerEmitter_Blueprint.label>WPN发射器（蓝图）</ARKPPP_WirelessPowerEmitter_Blueprint.label>
+  <ARKPPP_WirelessPowerEmitter_Frame.label>WPN发射器（建造中）</ARKPPP_WirelessPowerEmitter_Frame.label>
+  <ARKPPP_WirelessPowerEmitter_Frame.description>用于远距离广播的WPN无线发射器。注意：此设备运作对天气条件敏感（雷暴）。</ARKPPP_WirelessPowerEmitter_Frame.description>
+
+  <ARKPPP_WirelessPowerEmitterAdvanced.label>先进WPN发射器</ARKPPP_WirelessPowerEmitterAdvanced.label>
+  <ARKPPP_WirelessPowerEmitterAdvanced.description>用于远距离广播的WPN无线发射器。</ARKPPP_WirelessPowerEmitterAdvanced.description>
+  <ARKPPP_WirelessPowerEmitterAdvanced_Blueprint.label>WPN发射器（蓝图）</ARKPPP_WirelessPowerEmitterAdvanced_Blueprint.label>
+  <ARKPPP_WirelessPowerEmitterAdvanced_Frame.label>WPN发射器（建造中）</ARKPPP_WirelessPowerEmitterAdvanced_Frame.label>
+  <ARKPPP_WirelessPowerEmitterAdvanced_Frame.description>用于远距离广播的WPN无线发射器。</ARKPPP_WirelessPowerEmitterAdvanced_Frame.description>
+
+
+  <!-- [ Local Wireless power emitter ] -->
+
+  <ARKPPP_LocalWirelessPowerEmitter.label>LWPN发射器</ARKPPP_LocalWirelessPowerEmitter.label>
+  <ARKPPP_LocalWirelessPowerEmitter.description>用于建立本地（当前地图）无线电网（LWNP）的设备，允许所有电器不依靠电缆连接至电网。</ARKPPP_LocalWirelessPowerEmitter.description>
+  <ARKPPP_LocalWirelessPowerEmitter_Blueprint.label>LWPN发射器（蓝图）</ARKPPP_LocalWirelessPowerEmitter_Blueprint.label>
+  <ARKPPP_LocalWirelessPowerEmitter_Frame.label>LWPN发射器（建造中）</ARKPPP_LocalWirelessPowerEmitter_Frame.label>
+  <ARKPPP_LocalWirelessPowerEmitter_Frame.description>用于建立本地（当前地图）无线电网（LWNP）的设备，允许所有电器不依靠电缆连接。</ARKPPP_LocalWirelessPowerEmitter_Frame.description>
+
+  <ARKPPP_LocalWirelessPortablePowerEmitter.label>便携LWPN发射器</ARKPPP_LocalWirelessPortablePowerEmitter.label>
+  <ARKPPP_LocalWirelessPortablePowerEmitter.description>用于建立本地（当前地图）无线电网（LWNP）的便携式设备，允许所有电器不依靠电缆连接至电网。注意：因其规模小，可连接的无线设备有限。</ARKPPP_LocalWirelessPortablePowerEmitter.description>
+  <ARKPPP_LocalWirelessPortablePowerEmitter_Blueprint.label>便携LWPN发射器（蓝图）</ARKPPP_LocalWirelessPortablePowerEmitter_Blueprint.label>
+  <ARKPPP_LocalWirelessPortablePowerEmitter_Blueprint_Install.label>便携LWPN发射器（蓝图）</ARKPPP_LocalWirelessPortablePowerEmitter_Blueprint_Install.label>
+  <ARKPPP_LocalWirelessPortablePowerEmitter_Frame.label>便携LWPN发射器（建造中）</ARKPPP_LocalWirelessPortablePowerEmitter_Frame.label>
+  <ARKPPP_LocalWirelessPortablePowerEmitter_Frame.description>用于建立本地（当前地图）无线电网（LWNP）的便携式设备，允许所有电器不依靠电缆连接至电网。注意：因其规模小，可连接的无线设备有限。</ARKPPP_LocalWirelessPortablePowerEmitter_Frame.description>
+
+
+  <!-- power beam absorption dish -->
+
+  <ARKPPP_PowerBeamAbsorptionDish.label>远古能量接收器</ARKPPP_PowerBeamAbsorptionDish.label>
+  <ARKPPP_PowerBeamAbsorptionDish.description>一个巨大的能量吸收器，注定了其只能从远古卫星网络中收集电力。</ARKPPP_PowerBeamAbsorptionDish.description>
+  <ARKPPP_PowerBeamAbsorptionDish_Blueprint.label>远古能量接收器（蓝图）</ARKPPP_PowerBeamAbsorptionDish_Blueprint.label>
+  <ARKPPP_PowerBeamAbsorptionDish_Frame.label>远古能量接收器（建造中）</ARKPPP_PowerBeamAbsorptionDish_Frame.label>
+  <ARKPPP_PowerBeamAbsorptionDish_Frame.description>一个巨大的能量吸收器，注定了其只能从远古卫星网络中收集电力。</ARKPPP_PowerBeamAbsorptionDish_Frame.description>
+
+
+  <!-- Satellite targeting computer -->
+
+  <ARKPPP_PowerBeamSatelliteTargetingSystem.label>卫星导向系统</ARKPPP_PowerBeamSatelliteTargetingSystem.label>
+  <ARKPPP_PowerBeamSatelliteTargetingSystem.description>用于骇入和控制一颗远古卫星的超级计算机。除必须不断冷却之外，不应突然出现与卫星不同步的情况，这会产生非常严重的后果。因此必须始终遵循启动和停止的初始程序！</ARKPPP_PowerBeamSatelliteTargetingSystem.description>
+  <ARKPPP_PowerBeamSatelliteTargetingSystem_Blueprint.label>卫星导向系统（蓝图）</ARKPPP_PowerBeamSatelliteTargetingSystem_Blueprint.label>
+  <ARKPPP_PowerBeamSatelliteTargetingSystem_Frame.label>卫星导向系统（建造中）</ARKPPP_PowerBeamSatelliteTargetingSystem_Frame.label>
+  <ARKPPP_PowerBeamSatelliteTargetingSystem_Frame.description>用于骇入和控制一颗远古卫星的超级计算机。除必须不断冷却之外，不应突然出现与卫星不同步的情况，这会产生非常严重的后果。因此必须始终遵循启动和停止的初始程序！</ARKPPP_PowerBeamSatelliteTargetingSystem_Frame.description>
+
+
+  <!-- AD Relay Tower -->
+
+  <ARKPPP_ADRelayTower.label>AD基站</ARKPPP_ADRelayTower.label>
+  <ARKPPP_ADRelayTower.description>通过卫星网络将一个或多个“远古能量接收器（AD）”远程连接到卫星导向系统（STS）的无线天线基站。</ARKPPP_ADRelayTower.description>
+  <ARKPPP_ADRelayTower_Blueprint.label>AD基站（蓝图）</ARKPPP_ADRelayTower_Blueprint.label>
+  <ARKPPP_ADRelayTower_Frame.label>AD基站（建造中）</ARKPPP_ADRelayTower_Frame.label>
+  <ARKPPP_ADRelayTower_Frame.description>通过卫星网络将一个或多个“远古能量接收器（AD）”远程连接到卫星导向系统（STS）的无线天线基站。</ARKPPP_ADRelayTower_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_GinHigh.label>употребление джина</VBE_GinHigh.label>
+  <VBE_GinHigh.description>Употребление джина. Повышает уровень социльного взаимодействия.</VBE_GinHigh.description>
+  <VBE_GinHigh.stages.0.label>разогрет</VBE_GinHigh.stages.0.label>
+  <VBE_GinHigh.stages.1.label>навеселе</VBE_GinHigh.stages.1.label>
+  <VBE_GinHigh.stages.2.label>пьян</VBE_GinHigh.stages.2.label>
+  <VBE_GinHigh.stages.3.label>еле стоит на ногах</VBE_GinHigh.stages.3.label>
+  <VBE_GinHigh.stages.4.label>на грани сознания</VBE_GinHigh.stages.4.label>
+  <VBE_GinHigh.labelNoun>выпил джина</VBE_GinHigh.labelNoun>
+
+
+</LanguageData>

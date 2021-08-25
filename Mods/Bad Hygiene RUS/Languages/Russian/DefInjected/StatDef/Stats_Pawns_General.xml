@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ThirstRateMultiplier.label>мультипликатор жажды</ThirstRateMultiplier.label>
+  <ThirstRateMultiplier.description>Мультипликатор отвечает за то, как быстро у существ наступает жажда.</ThirstRateMultiplier.description>
+
+  <HygieneRateMultiplier.label>мультипликатор гигиены</HygieneRateMultiplier.label>
+  <HygieneRateMultiplier.description>Мультипликатор отвечает за то, как быстро у существ снижается уровень гигиены.</HygieneRateMultiplier.description>
+
+  <BladderRateMultiplier.label>мультипликатор нужды</BladderRateMultiplier.label>
+  <BladderRateMultiplier.description>Мультипликатор отвечает за то, как быстро у существ возникает малая нужда.</BladderRateMultiplier.description>
+
+
+</LanguageData>

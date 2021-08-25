@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef Name="ARKPPP_Motebase" Abstract="True">
+    <thingClass>MoteThrown</thingClass>
+    <label>Mote</label>
+    <category>Mote</category>
+    <graphicData>
+      <graphicClass>Graphic_Mote</graphicClass>
+      <shaderType>Mote</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteLow</altitudeLayer>
+    <tickerType>Normal</tickerType>
+    <useHitPoints>false</useHitPoints>
+    <isSaveable>false</isSaveable>
+    <rotatable>false</rotatable>
+	<mote>
+      <fadeInTime>0.5</fadeInTime>
+      <solidTime>1.15</solidTime>
+      <fadeOutTime>0.6</fadeOutTime>
+    </mote>
+  </ThingDef>
+
+
+  <ThingDef ParentName="ARKPPP_Motebase">
+    <defName>ARKPPP_MoteBIII</defName>
+    <graphicData>
+      <texPath>Load/B3</texPath>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+  </ThingDef>
+  
+  <ThingDef ParentName="ARKPPP_Motebase">
+    <defName>ARKPPP_MoteBII</defName>
+    <graphicData>
+      <texPath>Load/B2</texPath>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+  </ThingDef>
+  
+  <ThingDef ParentName="ARKPPP_Motebase">
+    <defName>ARKPPP_MoteBI</defName>
+    <graphicData>
+      <texPath>Load/B1</texPath>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+  </ThingDef>
+
+</Defs>

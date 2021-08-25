@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Expanded Materials - Metals (RUS)</name>
+  <author>Gaster Mini/Rimworld mods (Rus/Eng)</author>
+  <packageId>RWMRE.VMEu</packageId>
+  <description>
+	Преревод мода Expanded Materials - Metals на русский.
+Для того, чтобы русификатор заработал, в меню порядка загрузки модов он должен быть !ПОСЛЕ! оригинального Expanded Materials - Metals
+
+Перевод сделан командой Rimworld mods (Rus/Eng). https://vk.com/rimworldmodsruseng
+Дискорд сервер https://discord.gg/ghJJDkq
+
+Я буду рад любой помощи, будь то идея, указание на ошибки или вступление в ряды нашей команды!
+
+	Translation of Utility Columns mod into Russian.
+In order for the Russificator to work, it must be !afterwards in the menu of the order of loading mods! original Expanded Materials - Metals
+
+Translated by the Rimworld mods (Rus/Eng) team. https://vk.com/rimworldmodsruseng
+Discord server https://discord.gg/ghJJDkq.
+
+I will be glad to receive any help, be it an idea, an indication of errors or joining our team!
+  </description>
+  <url/>
+  <supportedVersions>
+	<li>1.2</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>Argon.VMEu</packageId>
+      <displayName>Expanded Materials - Metals</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2259837114</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadBefore/>
+  <loadAfter>
+	<li>Argon.VMEu</li>
+  </loadAfter>
+  <incompatibleWith />
+</ModMetaData>

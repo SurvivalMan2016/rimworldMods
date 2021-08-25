@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_ChopCondiments.label>приготовить комбикорм из приправ</VCE_ChopCondiments.label>
+  <VCE_ChopCondiments.description>Смешать различные приправы в съедобную органическую массу, которой можно кормить животных. Получается лучше, чем корм для домашних животных из супермаркета.</VCE_ChopCondiments.description>
+  <VCE_ChopCondiments.jobString>Готовит комбикорм из приправ.</VCE_ChopCondiments.jobString>
+
+  <VCE_MakeSalt.label>извлечь соль</VCE_MakeSalt.label>
+  <VCE_MakeSalt.description>Обрабатывать куски натурального камня, чтобы извлечь соль.\n\nИспользуется навык кулинарии.</VCE_MakeSalt.description>
+  <VCE_MakeSalt.jobString>Извлекает соль.</VCE_MakeSalt.jobString>
+
+  <VCE_MakeSaltfromBlocks.label>извлечь соль из блоков</VCE_MakeSaltfromBlocks.label>
+  <VCE_MakeSaltfromBlocks.description>Обрабатывать блоки натурального камня, чтобы извлечь соль.\n\nИспользуется навык кулинарии.</VCE_MakeSaltfromBlocks.description>
+  <VCE_MakeSaltfromBlocks.jobString>Извлекает соль из блоков.</VCE_MakeSaltfromBlocks.jobString>
+
+  <VCE_AgaveNectar.label>приготовить нектар из агавы</VCE_AgaveNectar.label>
+  <VCE_AgaveNectar.description>Сделать нектар из агавы. Нектар агавы - тонкий и полусладкий нектар, известный своими лечебными и противовоспалительными свойствами.</VCE_AgaveNectar.description>
+  <VCE_AgaveNectar.jobString>Готовит нектар из агавы.</VCE_AgaveNectar.jobString>
+
+  <VCE_InsectJellyPreserves.label>приготовить варенье из желе насекомых</VCE_InsectJellyPreserves.label>
+  <VCE_InsectJellyPreserves.description>Сделать варенье из желе насекомых. Получится очень насыщенный, сладкий и удивительно полезный продукт.</VCE_InsectJellyPreserves.description>
+  <VCE_InsectJellyPreserves.jobString>Делает варенье из желе насекомых.</VCE_InsectJellyPreserves.jobString>
+
+  <VCE_Mayo.label>приготовить майонез</VCE_Mayo.label>
+  <VCE_Mayo.description>Сделать майонез из яиц. Майонез это густая эмульсия из яиц, масла и трав. Майонез, хотя и вреден для здоровья, придает пище приятный запах и крайне калорийный.</VCE_Mayo.description>
+  <VCE_Mayo.jobString>Готовит майонез.</VCE_Mayo.jobString>
+
+  <VCE_SmokeleafButter.label>приготовить масло с дымолистом</VCE_SmokeleafButter.label>
+  <VCE_SmokeleafButter.description>Сделать масло из молока и дымолиста. Загустевшая и жирная субстанция получается путем сбивания молока в очень густые сливки, смешивания с соком дымолиста и последующим застыванием. Очень вредно для здоровья.</VCE_SmokeleafButter.description>
+  <VCE_SmokeleafButter.jobString>Готовит масло с дымолистом.</VCE_SmokeleafButter.jobString>
+
+  <VCE_ChocolateSyrup.label>приготовить шоколадный сироп</VCE_ChocolateSyrup.label>
+  <VCE_ChocolateSyrup.description>Сделать шоколадный сироп из генетически модифицированного шоколада. Хотя шоколадный сироп вреден для здоровья, он все же лучше, чем чистый сахар.</VCE_ChocolateSyrup.description>
+  <VCE_ChocolateSyrup.jobString>Готовит шоколадный сироп.</VCE_ChocolateSyrup.jobString>
+
+
+</LanguageData>

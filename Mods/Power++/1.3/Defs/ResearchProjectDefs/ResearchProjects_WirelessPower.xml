@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ResearchTabDef>
+    <defName>ARKPPP_WirelessPowerTab</defName>
+    <label>Power++</label>
+  </ResearchTabDef>
+  
+  <ResearchProjectDef>
+    <defName>ARKPPP_WirelessPowerTheoryResearch</defName>
+    <label>Theory of wireless power emission</label>
+    <tab>ARKPPP_WirelessPowerTab</tab>
+    <description>Allow you to unlock wireless power technologies</description>
+    <baseCost>3000</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>Fabrication</li>
+    </prerequisites>
+	<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+	<researchViewX>0</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ARKPPP_WirelessPowerShortRangeResearch</defName>
+    <label>Local Wireless power networks (LWPN)</label>
+    <tab>ARKPPP_WirelessPowerTab</tab>
+    <description>Allows you to create stable local wireless power networks (LWPN) which allow to use connected electrical devices without electric wires</description>
+    <baseCost>6000</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+	  <li>ARKPPP_WirelessPowerTheoryResearch</li>
+    </prerequisites>
+	<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+	<researchViewX>1</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ARKPPP_WirelessPowerShortRangePortableResearch</defName>
+    <label>Portable LWPN emitter</label>
+    <tab>ARKPPP_WirelessPowerTab</tab>
+    <description>Allows you to build portable LWPN emitter, very practical on caravan and quest maps</description>
+    <baseCost>10000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+	  <li>ARKPPP_WirelessPowerShortRangeResearch</li>
+    </prerequisites>
+	<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+	<researchViewX>2</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ARKPPP_WirelessPowerLongRangeResearch</defName>
+    <label>Long range wireless power networks (WPN)</label>
+    <tab>ARKPPP_WirelessPowerTab</tab>
+    <description>Allows you to create stable long range wireless power networks (WPN)</description>
+    <baseCost>6000</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+	  <li>ARKPPP_WirelessPowerTheoryResearch</li>
+    </prerequisites>
+	<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+	<researchViewX>1</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ARKPPP_WirelessPowerLongRangeAdvancedResearch</defName>
+    <label>Advanced WPN emitter</label>
+    <tab>ARKPPP_WirelessPowerTab</tab>
+    <description>Allows you to create advanced WPN emitter which consumes less energy and works properly even during a thunderstorm</description>
+    <baseCost>12000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+	  <li>ARKPPP_WirelessPowerLongRangeResearch</li>
+    </prerequisites>
+	<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+	<researchViewX>2</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ARKPPP_WirelessPowerLongRangePortableReceptorResearch</defName>
+    <label>Portable WPN receiver</label>
+    <tab>ARKPPP_WirelessPowerTab</tab>
+    <description>Allows you to create portable WPN receiver which can be very practical during a caravan and quest maps</description>
+    <baseCost>8000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+	  <li>ARKPPP_WirelessPowerLongRangeResearch</li>
+    </prerequisites>
+	<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+	<researchViewX>2</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+  
+   <ResearchProjectDef>
+    <defName>ARKPPP_WirelessPowerLongRangeARES</defName>
+    <label>ARES</label>
+    <tab>ARKPPP_WirelessPowerTab</tab>
+    <description>Allow you to use the WPN receivers as a weapon by draining all the energy from the source electrical network and then channeling it as a very local intense thunderstorm</description>
+    <baseCost>15000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+	  <li>ARKPPP_WirelessPowerLongRangeResearch</li>
+    </prerequisites>
+	<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+	<researchViewX>2</researchViewX>
+    <researchViewY>3</researchViewY>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>ARKPPP_WirelessPowerLongRangeARESEMP</defName>
+    <label>ARES EMP</label>
+    <tab>ARKPPP_WirelessPowerTab</tab>
+    <description>A devious way to use the ARES system to generate big electromagnetic pulse ( EMP ) that will burn all electrical systems in the radius of impact</description>
+    <baseCost>18000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+	  <li>ARKPPP_WirelessPowerLongRangeARES</li>
+    </prerequisites>
+	<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+	<researchViewX>3</researchViewX>
+    <researchViewY>3</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ARKPPP_WirelessPowerLongRangeARES2</defName>
+    <label>ARES 2.0</label>
+    <tab>ARKPPP_WirelessPowerTab</tab>
+    <description>An improvement to the ARES system that significantly widens the diameter and intensity of the storm</description>
+    <baseCost>20000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+	  <li>ARKPPP_WirelessPowerLongRangeARES</li>
+    </prerequisites>
+	<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+	<researchViewX>3</researchViewX>
+    <researchViewY>4</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ARKPPP_HackingSatelliteNetwork</defName>
+    <label>Hacking network of power-collection satellites</label>
+    <tab>ARKPPP_WirelessPowerTab</tab>
+    <description>Allow you to unlock technologies related to satellite network power-collection</description>
+    <baseCost>3000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>Fabrication</li>
+    </prerequisites>
+	<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+	<researchViewX>0</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+  
+  
+  <ResearchProjectDef>
+    <defName>ARKPPP_HackingSatelliteNetworkSTS</defName>
+    <label>Satelitte target system</label>
+    <tab>ARKPPP_WirelessPowerTab</tab>
+    <description>Allow you to a satellite targetting system, which will guide to the nearest centimeter the orbital beam directly on an absorption dish</description>
+    <baseCost>8000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+	  <li>ARKPPP_HackingSatelliteNetwork</li>
+    </prerequisites>
+	<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+	<researchViewX>1</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ARKPPP_HackingSatelliteNetworkAD</defName>
+    <label>Absorption dish</label>
+    <tab>ARKPPP_WirelessPowerTab</tab>
+    <description>Allow you to build giant absorption dish</description>
+    <baseCost>6000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+	  <li>ARKPPP_HackingSatelliteNetwork</li>
+    </prerequisites>
+	<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+	<researchViewX>1</researchViewX>
+    <researchViewY>3</researchViewY>
+  </ResearchProjectDef>
+  
+  
+  <ResearchProjectDef>
+    <defName>ARKPPP_HackingSatelliteNetworkLens</defName>
+    <label>Beam coloring lens</label>
+    <tab>ARKPPP_WirelessPowerTab</tab>
+    <description>Allow you to change the powerbeam's color</description>
+    <baseCost>3000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+	  <li>ARKPPP_HackingSatelliteNetwork</li>
+    </prerequisites>
+	<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+	<researchViewX>1</researchViewX>
+    <researchViewY>4</researchViewY>
+  </ResearchProjectDef>
+  
+  <ResearchProjectDef>
+    <defName>ARKPPP_HackingSatelliteNetworkADRT</defName>
+    <label>Remote absorption dish</label>
+    <tab>ARKPPP_WirelessPowerTab</tab>
+    <description>Allow you to build AD relay tower which let you link STS and AD remotely</description>
+    <baseCost>2000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+	  <li>ARKPPP_HackingSatelliteNetwork</li>
+    </prerequisites>
+	<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+	<researchViewX>1</researchViewX>
+    <researchViewY>5</researchViewY>
+  </ResearchProjectDef>
+
+</Defs>

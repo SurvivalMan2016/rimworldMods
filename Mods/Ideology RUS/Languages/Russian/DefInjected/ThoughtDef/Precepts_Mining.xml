@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mined -->
+  <Mined_Disapproved.stages.mined.label>копание</Mined_Disapproved.stages.mined.label>
+  <!-- EN: I had to mine a hole. I disapprove of harming the earth this way. -->
+  <Mined_Disapproved.stages.mined.description>Мне пришлось вырыть яму. Я не одобряю причинение вреда земле таким образом.</Mined_Disapproved.stages.mined.description>
+  
+  <!-- EN: mined -->
+  <Mined_Horrible.stages.mined.label>копание</Mined_Horrible.stages.mined.label>
+  <!-- EN: I had to mine a hole. It was an offense against the earth. -->
+  <Mined_Horrible.stages.mined.description>Мне пришлось вырыть яму. Это было осквернение земли.</Mined_Horrible.stages.mined.description>
+  
+  <!-- EN: mined -->
+  <Mined_Know_Disapproved.stages.mined.label>копание</Mined_Know_Disapproved.stages.mined.label>
+  
+  <!-- EN: mined -->
+  <Mined_Know_Disapproved_Mood.stages.mined.label>копание</Mined_Know_Disapproved_Mood.stages.mined.label>
+  <!-- EN: Someone mined a hole in the pure earth. It's wrong to scar the world this way. -->
+  <Mined_Know_Disapproved_Mood.stages.mined.description>Кто - то вырыл яму в чистой земле. Неправильно так шрамировать мир.</Mined_Know_Disapproved_Mood.stages.mined.description>
+  
+  <!-- EN: mined -->
+  <Mined_Know_Horrible.stages.mined.label>копание</Mined_Know_Horrible.stages.mined.label>
+  
+  <!-- EN: mined -->
+  <Mined_Know_Horrible_Mood.stages.mined.label>копание</Mined_Know_Horrible_Mood.stages.mined.label>
+  <!-- EN: Someone mined a hole in the pure earth. It was a horrible violation of nature. -->
+  <Mined_Know_Horrible_Mood.stages.mined.description>Кто-то вырыл яму в чистой земле. Это было ужасное нарушение природы.</Mined_Know_Horrible_Mood.stages.mined.description>
+  
+  <!-- EN: mined -->
+  <Mined_Know_Prohibited.stages.mined.label>копание</Mined_Know_Prohibited.stages.mined.label>
+  
+  <!-- EN: mined -->
+  <Mined_Know_Prohibited_Mood.stages.mined.label>копание</Mined_Know_Prohibited_Mood.stages.mined.label>
+  <!-- EN: We mined a hole in the pure earth. What a terrible offense against nature. -->
+  <Mined_Know_Prohibited_Mood.stages.mined.description>Мы вырыли яму в чистой земле. Какое ужасное преступление против природы.</Mined_Know_Prohibited_Mood.stages.mined.description>
+  
+</LanguageData>

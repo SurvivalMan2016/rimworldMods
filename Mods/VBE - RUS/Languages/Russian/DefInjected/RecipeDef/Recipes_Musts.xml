@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_MakeSodaSyrup.label>сделать сироп для содовой</VBE_MakeSodaSyrup.label>
+  <VBE_MakeSodaSyrup.description>Сделать сироп для содовой, смешав натуральный фруктовый сок с кукурузным сиропом с высоким содержанием фруктозы.</VBE_MakeSodaSyrup.description>
+  <VBE_MakeSodaSyrup.jobString>Делает сироп для содовой.</VBE_MakeSodaSyrup.jobString>
+
+  <VBE_AmbrosiaMush.label>сделать амброзиевую смесь</VBE_AmbrosiaMush.label>
+  <VBE_AmbrosiaMush.description>Нарезать и спрессовать амброзию и оставить ее созревать в сусло для дальнейшей дистиляции в тончайший ликер.</VBE_AmbrosiaMush.description>
+  <VBE_AmbrosiaMush.jobString>Делает амброзиевую смесь.</VBE_AmbrosiaMush.jobString>
+
+  <VBE_MakeTequilaMust.label>сделать текиловое сусло</VBE_MakeTequilaMust.label>
+  <VBE_MakeTequilaMust.description>Сделать сусло из сока агавы и закваски из мяса насекомых. Нарезать и оставить для ферментации в бочке.</VBE_MakeTequilaMust.description>
+  <VBE_MakeTequilaMust.jobString>Делает текиловое сусло.</VBE_MakeTequilaMust.jobString>
+
+  <VBE_MakeWhiskeyMash.label>сделать висковую смесь</VBE_MakeWhiskeyMash.label>
+  <VBE_MakeWhiskeyMash.description>Сделать крахмалистую и жидкую смесь, с встречающимися тут и там кусочками мякоти. Будьте готовы к ожиданию, когда виски выдержится.</VBE_MakeWhiskeyMash.description>
+  <VBE_MakeWhiskeyMash.jobString>Делает висковую смесь.</VBE_MakeWhiskeyMash.jobString>
+
+  <VBE_MakeVodkaMash.label>сделать водочную смесь</VBE_MakeVodkaMash.label>
+  <VBE_MakeVodkaMash.description>Сделать густую крахмалистую смесь из сырого картофеля и закваски, готовую к ферментации.</VBE_MakeVodkaMash.description>
+  <VBE_MakeVodkaMash.jobString>Делает водочную смесь.</VBE_MakeVodkaMash.jobString>
+
+  <VBE_MakeGinMush.label>сделать джиновую смесь</VBE_MakeGinMush.label>
+  <VBE_MakeGinMush.description>Сделайте прозрачную, но мутную смесь сока ягод и разных злаков, готовую к ферментации.</VBE_MakeGinMush.description>
+  <VBE_MakeGinMush.jobString>Делает джиновую смесь.</VBE_MakeGinMush.jobString>
+  
+
+</LanguageData>

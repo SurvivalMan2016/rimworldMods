@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Alligator -->
+
+  <AEXP_Alligator.label>аллигатор</AEXP_Alligator.label>
+  <AEXP_Alligator.description>Аллигатор - большая рептилия, обитающая в пресноводных болотах. Они являются высшими хищниками и потребляют рыбу, земноводных, рептилий, птиц и млекопитающих. Как и другие крокодилы, здоровые аллигаторы растут на протяжении всей своей жизни.</AEXP_Alligator.description>
+  <AEXP_Alligator.tools.0.label>зубы</AEXP_Alligator.tools.0.label>
+  <AEXP_Alligator.race.meatLabel>мясо аллигатора</AEXP_Alligator.race.meatLabel>
+
+  <!-- Anaconda -->
+
+  <AEXP_Anaconda.label>анаконда</AEXP_Anaconda.label>
+  <AEXP_Anaconda.description>Анаконда - самый тяжелый и один из самых длинных из известных видов змей, достигает в длину 5 и более метров. Это преимущественно ночной вид, который как правило большую часть своей жизни проводит в воде или вокруг нее.</AEXP_Anaconda.description>
+  <AEXP_Anaconda.tools.0.label>зубы</AEXP_Anaconda.tools.0.label>
+  <AEXP_Anaconda.tools.1.label>голова</AEXP_Anaconda.tools.1.label>
+  <AEXP_Anaconda.race.meatLabel>мясо анаконды</AEXP_Anaconda.race.meatLabel>
+
+
+  <!-- Indian Elephant -->
+
+  <AEXP_IndianElephant.label>индийский слон</AEXP_IndianElephant.label>
+  <AEXP_IndianElephant.description>Индийский слон - одно из крупнейших немодифицированных наземных животных. В целом индийские слоны меньше по размеру и имеют меньшие уши, чем африканские слоны, но зато у них более широкие черепа и большие хоботы. На голове слона расположена самая высокая точка его тела.</AEXP_IndianElephant.description>
+  <AEXP_IndianElephant.tools.0.label>левое копыто</AEXP_IndianElephant.tools.0.label>
+  <AEXP_IndianElephant.tools.1.label>правое копыто</AEXP_IndianElephant.tools.1.label>
+  <AEXP_IndianElephant.tools.2.label>голова</AEXP_IndianElephant.tools.2.label>
+  <AEXP_IndianElephant.race.meatLabel>мясо индийского слона</AEXP_IndianElephant.race.meatLabel>
+
+
+</LanguageData>

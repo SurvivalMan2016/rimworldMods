@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Main wall light -->
+
+  <Lighting_MURWallLight.label>настенный светильник</Lighting_MURWallLight.label>
+  <Lighting_MURWallLight.description>Светильник, предназначенный для размещения на стенах.</Lighting_MURWallLight.description>
+
+
+  <!-- Sun light -->
+
+  <Lighting_MURWallSunLight.label>солнечный настенный светильник</Lighting_MURWallSunLight.label>
+  <Lighting_MURWallSunLight.description>Солнечный светильник для выращивания растений, предназначенный для размещения на стенах.</Lighting_MURWallSunLight.description>
+  <Lighting_MURWallSunLight.comps.3.offMessage>Выключен в период отдыха растений.</Lighting_MURWallSunLight.comps.3.offMessage>
+
+
+  <!-- Wall darklight -->
+
+  <Lighting_MURWallLightDark.label>настенный ночник</Lighting_MURWallLightDark.label>
+  <Lighting_MURWallLightDark.description>Светильник с низкой интенсивностью света, предназначенный для размещения на стенах.</Lighting_MURWallLightDark.description>
+
+
+  <!-- Colored lights: Primary -->
+
+  <Lighting_MURWallLightRed.label>настенный светильник (красный)</Lighting_MURWallLightRed.label>
+  <Lighting_MURWallLightRed.description>Светильник, предназначенный для размещения на стенах. Красная подсветка.</Lighting_MURWallLightRed.description>
+
+  <Lighting_MURWallLightGreen.label>настенный светильник (зеленый)</Lighting_MURWallLightGreen.label>
+  <Lighting_MURWallLightGreen.description>Светильник, предназначенный для размещения на стенах. Зеленая подсветка.</Lighting_MURWallLightGreen.description>
+
+  <Lighting_MURWallLightBlue.label>настенный светильник (синий)</Lighting_MURWallLightBlue.label>
+  <Lighting_MURWallLightBlue.description>Светильник, предназначенный для размещения на стенах. Синяя подсветка.</Lighting_MURWallLightBlue.description>
+
+
+  <!-- Colored lights: Secondary -->
+
+  <Lighting_MURWallLightYellow.label>настенный светильник (желтый)</Lighting_MURWallLightYellow.label>
+  <Lighting_MURWallLightYellow.description>Светильник, предназначенный для размещения на стенах.Желтая подсветка.</Lighting_MURWallLightYellow.description>
+
+  <Lighting_MURWallLightMagenta.label>настенный светильник (пурпурный)</Lighting_MURWallLightMagenta.label>
+  <Lighting_MURWallLightMagenta.description>Светильник, предназначенный для размещения на стенах. Пурпурная подсветка.</Lighting_MURWallLightMagenta.description>
+
+  <Lighting_MURWallLightCyan.label>настенный светильник (бирюзовый)</Lighting_MURWallLightCyan.label>
+  <Lighting_MURWallLightCyan.description>Светильник, предназначенный для размещения на стенах. Бирюзовая подсветка.</Lighting_MURWallLightCyan.description>
+
+
+  <!-- Colored lights: Tertiary -->
+
+  <Lighting_MURWallLightRose.label>настенный светильник (розовый)</Lighting_MURWallLightRose.label>
+  <Lighting_MURWallLightRose.description>Светильник, предназначенный для размещения на стенах. Розовая подсветка.</Lighting_MURWallLightRose.description>
+
+  <Lighting_MURWallLightViolet.label>настенный светильник (фиолетовый)</Lighting_MURWallLightViolet.label>
+  <Lighting_MURWallLightViolet.description>Светильник, предназначенный для размещения на стенах. Фиолетовая подсветка.</Lighting_MURWallLightViolet.description>
+
+  <Lighting_MURWallLightAzure.label>настенный светильник (лазурный)</Lighting_MURWallLightAzure.label>
+  <Lighting_MURWallLightAzure.description>Светильник, предназначенный для размещения на стенах. Лазурная подсветка.</Lighting_MURWallLightAzure.description>
+
+  <Lighting_MURWallLightSpringGreen.label>настенный светильник (светло-зеленый)</Lighting_MURWallLightSpringGreen.label>
+  <Lighting_MURWallLightSpringGreen.description>Светильник, предназначенный для размещения на стенах. Светло-зеленая подсветка.</Lighting_MURWallLightSpringGreen.description>
+
+  <Lighting_MURWallLightChartreuse.label>настенный светильник (желто-зеленый)</Lighting_MURWallLightChartreuse.label>
+  <Lighting_MURWallLightChartreuse.description>Светильник, предназначенный для размещения на стенах. Желто-зеленая подсветка.</Lighting_MURWallLightChartreuse.description>
+
+  <Lighting_MURWallLightOrange.label>настенный светильник (оранжевый)</Lighting_MURWallLightOrange.label>
+  <Lighting_MURWallLightOrange.description>Светильник, предназначенный для размещения на стенах. Оранжевая подсветка.</Lighting_MURWallLightOrange.description>
+
+
+</LanguageData>

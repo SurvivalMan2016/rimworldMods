@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- -Beagle- -->
+
+  <AEXP_Beagle.label>бигль</AEXP_Beagle.label>
+  <AEXP_Beagle.labelPlural>бигли</AEXP_Beagle.labelPlural>
+  <AEXP_Beagle.lifeStages.0.label>щенок бигля</AEXP_Beagle.lifeStages.0.label>
+  <AEXP_Beagle.lifeStages.0.labelPlural>щенки бигля</AEXP_Beagle.lifeStages.0.labelPlural>
+  <AEXP_Beagle.lifeStages.0.labelMale>щенок бигля</AEXP_Beagle.lifeStages.0.labelMale>
+  <AEXP_Beagle.lifeStages.0.labelMalePlural>щенки бигля</AEXP_Beagle.lifeStages.0.labelMalePlural>
+  <AEXP_Beagle.lifeStages.0.labelFemale>щенок бигля</AEXP_Beagle.lifeStages.0.labelFemale>
+  <AEXP_Beagle.lifeStages.0.labelFemalePlural>щенки бигля</AEXP_Beagle.lifeStages.0.labelFemalePlural>
+  <AEXP_Beagle.lifeStages.1.label>молодой бигль</AEXP_Beagle.lifeStages.1.label>
+  <AEXP_Beagle.lifeStages.1.labelPlural>молодые бигли</AEXP_Beagle.lifeStages.1.labelPlural>
+  <AEXP_Beagle.lifeStages.1.labelMale>молодой бигль</AEXP_Beagle.lifeStages.1.labelMale>
+  <AEXP_Beagle.lifeStages.1.labelMalePlural>молодые бигли</AEXP_Beagle.lifeStages.1.labelMalePlural>
+  <AEXP_Beagle.lifeStages.1.labelFemale>молодой бигль</AEXP_Beagle.lifeStages.1.labelFemale>
+  <AEXP_Beagle.lifeStages.1.labelFemalePlural>молодые бигли</AEXP_Beagle.lifeStages.1.labelFemalePlural>
+  <AEXP_Beagle.lifeStages.2.label>бигль</AEXP_Beagle.lifeStages.2.label>
+  <AEXP_Beagle.lifeStages.2.labelPlural>бигли</AEXP_Beagle.lifeStages.2.labelPlural>
+  <AEXP_Beagle.lifeStages.2.labelMale>бигль</AEXP_Beagle.lifeStages.2.labelMale>
+  <AEXP_Beagle.lifeStages.2.labelMalePlural>бигли</AEXP_Beagle.lifeStages.2.labelMalePlural>
+  <AEXP_Beagle.lifeStages.2.labelFemale>бигль</AEXP_Beagle.lifeStages.2.labelFemale>
+  <AEXP_Beagle.lifeStages.2.labelFemalePlural>бигли</AEXP_Beagle.lifeStages.2.labelFemalePlural>
+  <AEXP_Beagle.labelMale>бигль</AEXP_Beagle.labelMale>
+  <AEXP_Beagle.labelMalePlural>бигли</AEXP_Beagle.labelMalePlural>
+  <AEXP_Beagle.labelFemale>бигль</AEXP_Beagle.labelFemale>
+  <AEXP_Beagle.labelFemalePlural>бигли</AEXP_Beagle.labelFemalePlural>
+
+
+  <!-- -Chihuahua- -->
+
+  <AEXP_Chihuahua.label>чихуахуа</AEXP_Chihuahua.label>
+  <AEXP_Chihuahua.labelPlural>чихуахуа</AEXP_Chihuahua.labelPlural>
+  <AEXP_Chihuahua.lifeStages.0.label>щенок чихуахуа </AEXP_Chihuahua.lifeStages.0.label>
+  <AEXP_Chihuahua.lifeStages.0.labelPlural>щенки чихуахуа </AEXP_Chihuahua.lifeStages.0.labelPlural>
+  <AEXP_Chihuahua.lifeStages.0.labelMale>щенок чихуахуа</AEXP_Chihuahua.lifeStages.0.labelMale>
+  <AEXP_Chihuahua.lifeStages.0.labelMalePlural>щенки чихуахуа</AEXP_Chihuahua.lifeStages.0.labelMalePlural>
+  <AEXP_Chihuahua.lifeStages.0.labelFemale>щенок чихуахуа</AEXP_Chihuahua.lifeStages.0.labelFemale>
+  <AEXP_Chihuahua.lifeStages.0.labelFemalePlural>щенки чихуахуа</AEXP_Chihuahua.lifeStages.0.labelFemalePlural>
+  <AEXP_Chihuahua.lifeStages.1.label>молодой чихуахуа</AEXP_Chihuahua.lifeStages.1.label>
+  <AEXP_Chihuahua.lifeStages.1.labelPlural>молодые чихуахуа</AEXP_Chihuahua.lifeStages.1.labelPlural>
+  <AEXP_Chihuahua.lifeStages.1.labelMale>молодой чихуахуа</AEXP_Chihuahua.lifeStages.1.labelMale>
+  <AEXP_Chihuahua.lifeStages.1.labelMalePlural>молодые чихуахуа</AEXP_Chihuahua.lifeStages.1.labelMalePlural>
+  <AEXP_Chihuahua.lifeStages.1.labelFemale>молодой чихуахуа</AEXP_Chihuahua.lifeStages.1.labelFemale>
+  <AEXP_Chihuahua.lifeStages.1.labelFemalePlural>молодые чихуахуа</AEXP_Chihuahua.lifeStages.1.labelFemalePlural>
+  <AEXP_Chihuahua.lifeStages.2.label>чихуахуа</AEXP_Chihuahua.lifeStages.2.label>
+  <AEXP_Chihuahua.lifeStages.2.labelPlural>чихуахуа</AEXP_Chihuahua.lifeStages.2.labelPlural>
+  <AEXP_Chihuahua.lifeStages.2.labelMale>чихуахуа</AEXP_Chihuahua.lifeStages.2.labelMale>
+  <AEXP_Chihuahua.lifeStages.2.labelMalePlural>чихуахуа</AEXP_Chihuahua.lifeStages.2.labelMalePlural>
+  <AEXP_Chihuahua.lifeStages.2.labelFemale>чихуахуа</AEXP_Chihuahua.lifeStages.2.labelFemale>
+  <AEXP_Chihuahua.lifeStages.2.labelFemalePlural>чихуахуа</AEXP_Chihuahua.lifeStages.2.labelFemalePlural>
+  <AEXP_Chihuahua.labelMale>чихуахуа</AEXP_Chihuahua.labelMale>
+  <AEXP_Chihuahua.labelMalePlural>чихуахуа</AEXP_Chihuahua.labelMalePlural>
+  <AEXP_Chihuahua.labelFemale>чихуахуа</AEXP_Chihuahua.labelFemale>
+  <AEXP_Chihuahua.labelFemalePlural>чихуахуа</AEXP_Chihuahua.labelFemalePlural>
+
+
+  <!-- -Corgi- -->
+
+  <AEXP_Corgi.label>корги</AEXP_Corgi.label>
+  <AEXP_Corgi.labelPlural>корги</AEXP_Corgi.labelPlural>
+  <AEXP_Corgi.lifeStages.0.label>щенок корги</AEXP_Corgi.lifeStages.0.label>
+  <AEXP_Corgi.lifeStages.0.labelPlural>щенки корги</AEXP_Corgi.lifeStages.0.labelPlural>
+  <AEXP_Corgi.lifeStages.0.labelMale>щенок корги</AEXP_Corgi.lifeStages.0.labelMale>
+  <AEXP_Corgi.lifeStages.0.labelMalePlural>щенки корги</AEXP_Corgi.lifeStages.0.labelMalePlural>
+  <AEXP_Corgi.lifeStages.0.labelFemale>щенок корги</AEXP_Corgi.lifeStages.0.labelFemale>
+  <AEXP_Corgi.lifeStages.0.labelFemalePlural>щенки корги</AEXP_Corgi.lifeStages.0.labelFemalePlural>
+  <AEXP_Corgi.lifeStages.1.label>молодой корги</AEXP_Corgi.lifeStages.1.label>
+  <AEXP_Corgi.lifeStages.1.labelPlural>молодые корги</AEXP_Corgi.lifeStages.1.labelPlural>
+  <AEXP_Corgi.lifeStages.1.labelMale>молодой корги</AEXP_Corgi.lifeStages.1.labelMale>
+  <AEXP_Corgi.lifeStages.1.labelMalePlural>молодые корги</AEXP_Corgi.lifeStages.1.labelMalePlural>
+  <AEXP_Corgi.lifeStages.1.labelFemale>молодой корги</AEXP_Corgi.lifeStages.1.labelFemale>
+  <AEXP_Corgi.lifeStages.1.labelFemalePlural>молодые корги</AEXP_Corgi.lifeStages.1.labelFemalePlural>
+  <AEXP_Corgi.lifeStages.2.label>корги</AEXP_Corgi.lifeStages.2.label>
+  <AEXP_Corgi.lifeStages.2.labelPlural>корги</AEXP_Corgi.lifeStages.2.labelPlural>
+  <AEXP_Corgi.lifeStages.2.labelMale>корги</AEXP_Corgi.lifeStages.2.labelMale>
+  <AEXP_Corgi.lifeStages.2.labelMalePlural>корги</AEXP_Corgi.lifeStages.2.labelMalePlural>
+  <AEXP_Corgi.lifeStages.2.labelFemale>корги</AEXP_Corgi.lifeStages.2.labelFemale>
+  <AEXP_Corgi.lifeStages.2.labelFemalePlural>корги</AEXP_Corgi.lifeStages.2.labelFemalePlural>
+  <AEXP_Corgi.labelMale>корги</AEXP_Corgi.labelMale>
+  <AEXP_Corgi.labelMalePlural>корги</AEXP_Corgi.labelMalePlural>
+  <AEXP_Corgi.labelFemale>корги</AEXP_Corgi.labelFemale>
+  <AEXP_Corgi.labelFemalePlural>корги</AEXP_Corgi.labelFemalePlural>
+
+
+  <!-- -FrenchBulldog- -->
+
+  <AEXP_FrenchBulldog.label>французский бульдог</AEXP_FrenchBulldog.label>
+  <AEXP_FrenchBulldog.labelPlural>французские бульдоги</AEXP_FrenchBulldog.labelPlural>
+  <AEXP_FrenchBulldog.lifeStages.0.label>щенок французского бульдога</AEXP_FrenchBulldog.lifeStages.0.label>
+  <AEXP_FrenchBulldog.lifeStages.0.labelPlural>щенки французского бульдога</AEXP_FrenchBulldog.lifeStages.0.labelPlural>
+  <AEXP_FrenchBulldog.lifeStages.0.labelMale>щенок французского бульдога</AEXP_FrenchBulldog.lifeStages.0.labelMale>
+  <AEXP_FrenchBulldog.lifeStages.0.labelMalePlural>щенки французского бульдога</AEXP_FrenchBulldog.lifeStages.0.labelMalePlural>
+  <AEXP_FrenchBulldog.lifeStages.0.labelFemale>щенок французского бульдога</AEXP_FrenchBulldog.lifeStages.0.labelFemale>
+  <AEXP_FrenchBulldog.lifeStages.0.labelFemalePlural>щенки французского бульдога</AEXP_FrenchBulldog.lifeStages.0.labelFemalePlural>
+  <AEXP_FrenchBulldog.lifeStages.1.label>молодой французский бульдог</AEXP_FrenchBulldog.lifeStages.1.label>
+  <AEXP_FrenchBulldog.lifeStages.1.labelPlural>молодые французские бульдоги</AEXP_FrenchBulldog.lifeStages.1.labelPlural>
+  <AEXP_FrenchBulldog.lifeStages.1.labelMale>молодой французский бульдог</AEXP_FrenchBulldog.lifeStages.1.labelMale>
+  <AEXP_FrenchBulldog.lifeStages.1.labelMalePlural>молодые французские бульдоги</AEXP_FrenchBulldog.lifeStages.1.labelMalePlural>
+  <AEXP_FrenchBulldog.lifeStages.1.labelFemale>молодой французский бульдог</AEXP_FrenchBulldog.lifeStages.1.labelFemale>
+  <AEXP_FrenchBulldog.lifeStages.1.labelFemalePlural>молодые французские бульдоги</AEXP_FrenchBulldog.lifeStages.1.labelFemalePlural>
+  <AEXP_FrenchBulldog.lifeStages.2.label>французский бульдог</AEXP_FrenchBulldog.lifeStages.2.label>
+  <AEXP_FrenchBulldog.lifeStages.2.labelPlural>французские бульдоги</AEXP_FrenchBulldog.lifeStages.2.labelPlural>
+  <AEXP_FrenchBulldog.lifeStages.2.labelMale>французский бульдога</AEXP_FrenchBulldog.lifeStages.2.labelMale>
+  <AEXP_FrenchBulldog.lifeStages.2.labelMalePlural>французские бульдоги</AEXP_FrenchBulldog.lifeStages.2.labelMalePlural>
+  <AEXP_FrenchBulldog.lifeStages.2.labelFemale>французский бульдог</AEXP_FrenchBulldog.lifeStages.2.labelFemale>
+  <AEXP_FrenchBulldog.lifeStages.2.labelFemalePlural>французские бульдоги</AEXP_FrenchBulldog.lifeStages.2.labelFemalePlural>
+  <AEXP_FrenchBulldog.labelMale>французский бульдога</AEXP_FrenchBulldog.labelMale>
+  <AEXP_FrenchBulldog.labelMalePlural>французские бульдоги</AEXP_FrenchBulldog.labelMalePlural>
+  <AEXP_FrenchBulldog.labelFemale>французский бульдог</AEXP_FrenchBulldog.labelFemale>
+  <AEXP_FrenchBulldog.labelFemalePlural>французские бульдоги</AEXP_FrenchBulldog.labelFemalePlural>
+
+
+  <!-- GermanShepherd -->
+
+  <AEXP_GermanShepherd.label>немецкая овчарка</AEXP_GermanShepherd.label>
+  <AEXP_GermanShepherd.labelPlural>немецкие овчарки</AEXP_GermanShepherd.labelPlural>
+  <AEXP_GermanShepherd.lifeStages.0.label>щенок немецкой овчарки</AEXP_GermanShepherd.lifeStages.0.label>
+  <AEXP_GermanShepherd.lifeStages.0.labelPlural>щенки немецкой овчарки</AEXP_GermanShepherd.lifeStages.0.labelPlural>
+  <AEXP_GermanShepherd.lifeStages.0.labelMale>щенок немецкой овчарки</AEXP_GermanShepherd.lifeStages.0.labelMale>
+  <AEXP_GermanShepherd.lifeStages.0.labelMalePlural>щенки немецкой овчарки</AEXP_GermanShepherd.lifeStages.0.labelMalePlural>
+  <AEXP_GermanShepherd.lifeStages.0.labelFemale>щенок немецкой овчарки</AEXP_GermanShepherd.lifeStages.0.labelFemale>
+  <AEXP_GermanShepherd.lifeStages.0.labelFemalePlural>щенки немецкой овчарки</AEXP_GermanShepherd.lifeStages.0.labelFemalePlural>
+  <AEXP_GermanShepherd.lifeStages.1.label>молодая немецкая овчарка</AEXP_GermanShepherd.lifeStages.1.label>
+  <AEXP_GermanShepherd.lifeStages.1.labelPlural>молодые немецкие овчарки</AEXP_GermanShepherd.lifeStages.1.labelPlural>
+  <AEXP_GermanShepherd.lifeStages.1.labelMale>молодая немецкая овчарка</AEXP_GermanShepherd.lifeStages.1.labelMale>
+  <AEXP_GermanShepherd.lifeStages.1.labelMalePlural>молодые немецкие овчарки</AEXP_GermanShepherd.lifeStages.1.labelMalePlural>
+  <AEXP_GermanShepherd.lifeStages.1.labelFemale>молодая немецкая овчарка</AEXP_GermanShepherd.lifeStages.1.labelFemale>
+  <AEXP_GermanShepherd.lifeStages.1.labelFemalePlural>молодые немецкие овчарки</AEXP_GermanShepherd.lifeStages.1.labelFemalePlural>
+  <AEXP_GermanShepherd.lifeStages.2.label>немецкая овчарка</AEXP_GermanShepherd.lifeStages.2.label>
+  <AEXP_GermanShepherd.lifeStages.2.labelPlural>немецкие овчарки</AEXP_GermanShepherd.lifeStages.2.labelPlural>
+  <AEXP_GermanShepherd.lifeStages.2.labelMale>немецкая овчарка</AEXP_GermanShepherd.lifeStages.2.labelMale>
+  <AEXP_GermanShepherd.lifeStages.2.labelMalePlural>немецкие овчарки</AEXP_GermanShepherd.lifeStages.2.labelMalePlural>
+  <AEXP_GermanShepherd.lifeStages.2.labelFemale>немецкая овчарка</AEXP_GermanShepherd.lifeStages.2.labelFemale>
+  <AEXP_GermanShepherd.lifeStages.2.labelFemalePlural>немецкие овчарки</AEXP_GermanShepherd.lifeStages.2.labelFemalePlural>
+  <AEXP_GermanShepherd.labelMale>немецкая овчарка</AEXP_GermanShepherd.labelMale>
+  <AEXP_GermanShepherd.labelMalePlural>немецкие овчарки</AEXP_GermanShepherd.labelMalePlural>
+  <AEXP_GermanShepherd.labelFemale>немецкая овчарка</AEXP_GermanShepherd.labelFemale>
+  <AEXP_GermanShepherd.labelFemalePlural>немецкие овчарки</AEXP_GermanShepherd.labelFemalePlural>
+
+
+  <!-- -GreatDane- -->
+
+  <AEXP_GreatDane.label>датский дог</AEXP_GreatDane.label>
+  <AEXP_GreatDane.labelPlural>датские доги</AEXP_GreatDane.labelPlural>
+  <AEXP_GreatDane.lifeStages.0.label>щенок датского дога</AEXP_GreatDane.lifeStages.0.label>
+  <AEXP_GreatDane.lifeStages.0.labelPlural>щенки датского дога</AEXP_GreatDane.lifeStages.0.labelPlural>
+  <AEXP_GreatDane.lifeStages.0.labelMale>щенок датского дога </AEXP_GreatDane.lifeStages.0.labelMale>
+  <AEXP_GreatDane.lifeStages.0.labelMalePlural>щенки датского дога</AEXP_GreatDane.lifeStages.0.labelMalePlural>
+  <AEXP_GreatDane.lifeStages.0.labelFemale>щенки датского дога</AEXP_GreatDane.lifeStages.0.labelFemale>
+  <AEXP_GreatDane.lifeStages.0.labelFemalePlural>щенки датского дога</AEXP_GreatDane.lifeStages.0.labelFemalePlural>
+  <AEXP_GreatDane.lifeStages.1.label>молодой датский дог</AEXP_GreatDane.lifeStages.1.label>
+  <AEXP_GreatDane.lifeStages.1.labelPlural>молодые датские доги</AEXP_GreatDane.lifeStages.1.labelPlural>
+  <AEXP_GreatDane.lifeStages.1.labelMale>молодой датский дог</AEXP_GreatDane.lifeStages.1.labelMale>
+  <AEXP_GreatDane.lifeStages.1.labelMalePlural>молодые датские доги</AEXP_GreatDane.lifeStages.1.labelMalePlural>
+  <AEXP_GreatDane.lifeStages.1.labelFemale>молодой датский дог</AEXP_GreatDane.lifeStages.1.labelFemale>
+  <AEXP_GreatDane.lifeStages.1.labelFemalePlural>молодые датские доги</AEXP_GreatDane.lifeStages.1.labelFemalePlural>
+  <AEXP_GreatDane.lifeStages.2.label>датский дог</AEXP_GreatDane.lifeStages.2.label>
+  <AEXP_GreatDane.lifeStages.2.labelPlural>датские доги</AEXP_GreatDane.lifeStages.2.labelPlural>
+  <AEXP_GreatDane.lifeStages.2.labelMale>датский дог</AEXP_GreatDane.lifeStages.2.labelMale>
+  <AEXP_GreatDane.lifeStages.2.labelMalePlural>датские доги</AEXP_GreatDane.lifeStages.2.labelMalePlural>
+  <AEXP_GreatDane.lifeStages.2.labelFemale>датский дог</AEXP_GreatDane.lifeStages.2.labelFemale>
+  <AEXP_GreatDane.lifeStages.2.labelFemalePlural>датские доги</AEXP_GreatDane.lifeStages.2.labelFemalePlural>
+  <AEXP_GreatDane.labelMale>датский дог</AEXP_GreatDane.labelMale>
+  <AEXP_GreatDane.labelMalePlural>датские доги</AEXP_GreatDane.labelMalePlural>
+  <AEXP_GreatDane.labelFemale>датский дог</AEXP_GreatDane.labelFemale>
+  <AEXP_GreatDane.labelFemalePlural>датские доги</AEXP_GreatDane.labelFemalePlural>
+
+
+  <!-- -Poodle- -->
+
+  <AEXP_Poodle.label>пудель</AEXP_Poodle.label>
+  <AEXP_Poodle.labelPlural>пудели</AEXP_Poodle.labelPlural>
+  <AEXP_Poodle.lifeStages.0.label>щенок пуделя</AEXP_Poodle.lifeStages.0.label>
+  <AEXP_Poodle.lifeStages.0.labelPlural>щенки пуделя</AEXP_Poodle.lifeStages.0.labelPlural>
+  <AEXP_Poodle.lifeStages.0.labelMale>щенок пуделя</AEXP_Poodle.lifeStages.0.labelMale>
+  <AEXP_Poodle.lifeStages.0.labelMalePlural>щенки пуделя</AEXP_Poodle.lifeStages.0.labelMalePlural>
+  <AEXP_Poodle.lifeStages.0.labelFemale>щенок пуделя</AEXP_Poodle.lifeStages.0.labelFemale>
+  <AEXP_Poodle.lifeStages.0.labelFemalePlural>щенки пуделя</AEXP_Poodle.lifeStages.0.labelFemalePlural>
+  <AEXP_Poodle.lifeStages.1.label>молодой пудель</AEXP_Poodle.lifeStages.1.label>
+  <AEXP_Poodle.lifeStages.1.labelPlural>молодые пудели</AEXP_Poodle.lifeStages.1.labelPlural>
+  <AEXP_Poodle.lifeStages.1.labelMale>молодой пудель</AEXP_Poodle.lifeStages.1.labelMale>
+  <AEXP_Poodle.lifeStages.1.labelMalePlural>молодые пудели</AEXP_Poodle.lifeStages.1.labelMalePlural>
+  <AEXP_Poodle.lifeStages.1.labelFemale>молодой пудель</AEXP_Poodle.lifeStages.1.labelFemale>
+  <AEXP_Poodle.lifeStages.1.labelFemalePlural>молодые пудели</AEXP_Poodle.lifeStages.1.labelFemalePlural>
+  <AEXP_Poodle.lifeStages.2.label>пудель</AEXP_Poodle.lifeStages.2.label>
+  <AEXP_Poodle.lifeStages.2.labelPlural>пудели</AEXP_Poodle.lifeStages.2.labelPlural>
+  <AEXP_Poodle.lifeStages.2.labelMale>пудель</AEXP_Poodle.lifeStages.2.labelMale>
+  <AEXP_Poodle.lifeStages.2.labelMalePlural>пудели</AEXP_Poodle.lifeStages.2.labelMalePlural>
+  <AEXP_Poodle.lifeStages.2.labelFemale>пудель</AEXP_Poodle.lifeStages.2.labelFemale>
+  <AEXP_Poodle.lifeStages.2.labelFemalePlural>пудели</AEXP_Poodle.lifeStages.2.labelFemalePlural>
+  <AEXP_Poodle.labelMale>пудель</AEXP_Poodle.labelMale>
+  <AEXP_Poodle.labelMalePlural>пудели</AEXP_Poodle.labelMalePlural>
+  <AEXP_Poodle.labelFemale>пудель</AEXP_Poodle.labelFemale>
+  <AEXP_Poodle.labelFemalePlural>пудели</AEXP_Poodle.labelFemalePlural>
+
+
+  <!-- -Pug- -->
+
+  <AEXP_Pug.label>мопс</AEXP_Pug.label>
+  <AEXP_Pug.labelPlural>мопсы</AEXP_Pug.labelPlural>
+  <AEXP_Pug.lifeStages.0.label>щенок мопса</AEXP_Pug.lifeStages.0.label>
+  <AEXP_Pug.lifeStages.0.labelPlural>щенки мопса</AEXP_Pug.lifeStages.0.labelPlural>
+  <AEXP_Pug.lifeStages.0.labelMale>щенок мопса</AEXP_Pug.lifeStages.0.labelMale>
+  <AEXP_Pug.lifeStages.0.labelMalePlural>щенки мопса</AEXP_Pug.lifeStages.0.labelMalePlural>
+  <AEXP_Pug.lifeStages.0.labelFemale>щенок мопса</AEXP_Pug.lifeStages.0.labelFemale>
+  <AEXP_Pug.lifeStages.0.labelFemalePlural>щенки мопса</AEXP_Pug.lifeStages.0.labelFemalePlural>
+  <AEXP_Pug.lifeStages.1.label>молодой мопс</AEXP_Pug.lifeStages.1.label>
+  <AEXP_Pug.lifeStages.1.labelPlural>молодые мопсы</AEXP_Pug.lifeStages.1.labelPlural>
+  <AEXP_Pug.lifeStages.1.labelMale>молодой мопс</AEXP_Pug.lifeStages.1.labelMale>
+  <AEXP_Pug.lifeStages.1.labelMalePlural>молодые мопсы</AEXP_Pug.lifeStages.1.labelMalePlural>
+  <AEXP_Pug.lifeStages.1.labelFemale>молодой мопс</AEXP_Pug.lifeStages.1.labelFemale>
+  <AEXP_Pug.lifeStages.1.labelFemalePlural>молодые мопсы</AEXP_Pug.lifeStages.1.labelFemalePlural>
+  <AEXP_Pug.lifeStages.2.label>мопс</AEXP_Pug.lifeStages.2.label>
+  <AEXP_Pug.lifeStages.2.labelPlural>мопсы</AEXP_Pug.lifeStages.2.labelPlural>
+  <AEXP_Pug.lifeStages.2.labelMale>мопс</AEXP_Pug.lifeStages.2.labelMale>
+  <AEXP_Pug.lifeStages.2.labelMalePlural>мопсы</AEXP_Pug.lifeStages.2.labelMalePlural>
+  <AEXP_Pug.lifeStages.2.labelFemale>мопс</AEXP_Pug.lifeStages.2.labelFemale>
+  <AEXP_Pug.lifeStages.2.labelFemalePlural>мопсы</AEXP_Pug.lifeStages.2.labelFemalePlural>
+  <AEXP_Pug.labelMale>мопс</AEXP_Pug.labelMale>
+  <AEXP_Pug.labelMalePlural>мопсы</AEXP_Pug.labelMalePlural>
+  <AEXP_Pug.labelFemale>мопс</AEXP_Pug.labelFemale>
+  <AEXP_Pug.labelFemalePlural>мопсы</AEXP_Pug.labelFemalePlural>
+
+
+  <!-- Rottweiler -->
+
+  <AEXP_Rottweiler.label>ротвейлер</AEXP_Rottweiler.label>
+  <AEXP_Rottweiler.labelPlural>ротвейлеры</AEXP_Rottweiler.labelPlural>
+  <AEXP_Rottweiler.lifeStages.0.label>щенок ротвейлера</AEXP_Rottweiler.lifeStages.0.label>
+  <AEXP_Rottweiler.lifeStages.0.labelPlural>щенки ротвейлера</AEXP_Rottweiler.lifeStages.0.labelPlural>
+  <AEXP_Rottweiler.lifeStages.0.labelMale>щенок ротвейлера</AEXP_Rottweiler.lifeStages.0.labelMale>
+  <AEXP_Rottweiler.lifeStages.0.labelMalePlural>щенки ротвейлера</AEXP_Rottweiler.lifeStages.0.labelMalePlural>
+  <AEXP_Rottweiler.lifeStages.0.labelFemale>щенок ротвейлера</AEXP_Rottweiler.lifeStages.0.labelFemale>
+  <AEXP_Rottweiler.lifeStages.0.labelFemalePlural>щенки ротвейлера</AEXP_Rottweiler.lifeStages.0.labelFemalePlural>
+  <AEXP_Rottweiler.lifeStages.1.label>молодой ротвейлер</AEXP_Rottweiler.lifeStages.1.label>
+  <AEXP_Rottweiler.lifeStages.1.labelPlural>молодые ротвейлеры</AEXP_Rottweiler.lifeStages.1.labelPlural>
+  <AEXP_Rottweiler.lifeStages.1.labelMale>молодой ротвейлер</AEXP_Rottweiler.lifeStages.1.labelMale>
+  <AEXP_Rottweiler.lifeStages.1.labelMalePlural>молодые ротвейлеры</AEXP_Rottweiler.lifeStages.1.labelMalePlural>
+  <AEXP_Rottweiler.lifeStages.1.labelFemale>молодой ротвейлер</AEXP_Rottweiler.lifeStages.1.labelFemale>
+  <AEXP_Rottweiler.lifeStages.1.labelFemalePlural>молодые ротвейлеры</AEXP_Rottweiler.lifeStages.1.labelFemalePlural>
+  <AEXP_Rottweiler.lifeStages.2.label>ротвейлер</AEXP_Rottweiler.lifeStages.2.label>
+  <AEXP_Rottweiler.lifeStages.2.labelPlural>ротвейлеры</AEXP_Rottweiler.lifeStages.2.labelPlural>
+  <AEXP_Rottweiler.lifeStages.2.labelMale>ротвейлер</AEXP_Rottweiler.lifeStages.2.labelMale>
+  <AEXP_Rottweiler.lifeStages.2.labelMalePlural>ротвейлеры</AEXP_Rottweiler.lifeStages.2.labelMalePlural>
+  <AEXP_Rottweiler.lifeStages.2.labelFemale>ротвейлер</AEXP_Rottweiler.lifeStages.2.labelFemale>
+  <AEXP_Rottweiler.lifeStages.2.labelFemalePlural>ротвейлеры</AEXP_Rottweiler.lifeStages.2.labelFemalePlural>
+  <AEXP_Rottweiler.labelMale>ротвейлер</AEXP_Rottweiler.labelMale>
+  <AEXP_Rottweiler.labelMalePlural>ротвейлеры</AEXP_Rottweiler.labelMalePlural>
+  <AEXP_Rottweiler.labelFemale>ротвейлер</AEXP_Rottweiler.labelFemale>
+  <AEXP_Rottweiler.labelFemalePlural>ротвейлеры</AEXP_Rottweiler.labelFemalePlural>
+
+
+  <!-- -Shih-Tzu- -->
+
+  <AEXP_Shih-Tzu.label>ши-тцу</AEXP_Shih-Tzu.label>
+  <AEXP_Shih-Tzu.labelPlural>ши-тцу</AEXP_Shih-Tzu.labelPlural>
+  <AEXP_Shih-Tzu.lifeStages.0.label>щенок ши-тцу</AEXP_Shih-Tzu.lifeStages.0.label>
+  <AEXP_Shih-Tzu.lifeStages.0.labelPlural>щенки ши-тцу</AEXP_Shih-Tzu.lifeStages.0.labelPlural>
+  <AEXP_Shih-Tzu.lifeStages.0.labelMale>щенок ши-тцу</AEXP_Shih-Tzu.lifeStages.0.labelMale>
+  <AEXP_Shih-Tzu.lifeStages.0.labelMalePlural>щенки ши-тцу</AEXP_Shih-Tzu.lifeStages.0.labelMalePlural>
+  <AEXP_Shih-Tzu.lifeStages.0.labelFemale>щенок ши-тцу</AEXP_Shih-Tzu.lifeStages.0.labelFemale>
+  <AEXP_Shih-Tzu.lifeStages.0.labelFemalePlural>щенки ши-тцу</AEXP_Shih-Tzu.lifeStages.0.labelFemalePlural>
+  <AEXP_Shih-Tzu.lifeStages.1.label>молодой ши-тцу</AEXP_Shih-Tzu.lifeStages.1.label>
+  <AEXP_Shih-Tzu.lifeStages.1.labelPlural>молодые ши-тцу</AEXP_Shih-Tzu.lifeStages.1.labelPlural>
+  <AEXP_Shih-Tzu.lifeStages.1.labelMale>молодой ши-тцу</AEXP_Shih-Tzu.lifeStages.1.labelMale>
+  <AEXP_Shih-Tzu.lifeStages.1.labelMalePlural>молодые ши-тцу</AEXP_Shih-Tzu.lifeStages.1.labelMalePlural>
+  <AEXP_Shih-Tzu.lifeStages.1.labelFemale>молодой ши-тцу</AEXP_Shih-Tzu.lifeStages.1.labelFemale>
+  <AEXP_Shih-Tzu.lifeStages.1.labelFemalePlural>молодые ши-тцу</AEXP_Shih-Tzu.lifeStages.1.labelFemalePlural>
+  <AEXP_Shih-Tzu.lifeStages.2.label>ши-тцу</AEXP_Shih-Tzu.lifeStages.2.label>
+  <AEXP_Shih-Tzu.lifeStages.2.labelPlural>ши-тцу</AEXP_Shih-Tzu.lifeStages.2.labelPlural>
+  <AEXP_Shih-Tzu.lifeStages.2.labelMale>ши-тцу</AEXP_Shih-Tzu.lifeStages.2.labelMale>
+  <AEXP_Shih-Tzu.lifeStages.2.labelMalePlural>ши-тцу</AEXP_Shih-Tzu.lifeStages.2.labelMalePlural>
+  <AEXP_Shih-Tzu.lifeStages.2.labelFemale>ши-тцу</AEXP_Shih-Tzu.lifeStages.2.labelFemale>
+  <AEXP_Shih-Tzu.lifeStages.2.labelFemalePlural>ши-тцу</AEXP_Shih-Tzu.lifeStages.2.labelFemalePlural>
+  <AEXP_Shih-Tzu.labelMale>ши-тцу</AEXP_Shih-Tzu.labelMale>
+  <AEXP_Shih-Tzu.labelMalePlural>ши-тцу</AEXP_Shih-Tzu.labelMalePlural>
+  <AEXP_Shih-Tzu.labelFemale>ши-тцу</AEXP_Shih-Tzu.labelFemale>
+  <AEXP_Shih-Tzu.labelFemalePlural>ши-тцу</AEXP_Shih-Tzu.labelFemalePlural>
+
+
+  <!-- WelshTerrier -->
+
+  <AEXP_WelshTerrier.label>вельштерьер</AEXP_WelshTerrier.label>
+  <AEXP_WelshTerrier.labelPlural>вельштерьеры</AEXP_WelshTerrier.labelPlural>
+  <AEXP_WelshTerrier.lifeStages.0.label>щенок вельштерьера</AEXP_WelshTerrier.lifeStages.0.label>
+  <AEXP_WelshTerrier.lifeStages.0.labelPlural>щенки вельштерьера</AEXP_WelshTerrier.lifeStages.0.labelPlural>
+  <AEXP_WelshTerrier.lifeStages.0.labelMale>щенок вельштерьера</AEXP_WelshTerrier.lifeStages.0.labelMale>
+  <AEXP_WelshTerrier.lifeStages.0.labelMalePlural>щенки вельштерьера</AEXP_WelshTerrier.lifeStages.0.labelMalePlural>
+  <AEXP_WelshTerrier.lifeStages.0.labelFemale>щенок вельштерьера</AEXP_WelshTerrier.lifeStages.0.labelFemale>
+  <AEXP_WelshTerrier.lifeStages.0.labelFemalePlural>щенки вельштерьера</AEXP_WelshTerrier.lifeStages.0.labelFemalePlural>
+  <AEXP_WelshTerrier.lifeStages.1.label>молодой вельштерьер</AEXP_WelshTerrier.lifeStages.1.label>
+  <AEXP_WelshTerrier.lifeStages.1.labelPlural>молодые вельштерьеры</AEXP_WelshTerrier.lifeStages.1.labelPlural>
+  <AEXP_WelshTerrier.lifeStages.1.labelMale>молодой вельштерьер</AEXP_WelshTerrier.lifeStages.1.labelMale>
+  <AEXP_WelshTerrier.lifeStages.1.labelMalePlural>молодые вельштерьеры</AEXP_WelshTerrier.lifeStages.1.labelMalePlural>
+  <AEXP_WelshTerrier.lifeStages.1.labelFemale>молодой вельштерьер</AEXP_WelshTerrier.lifeStages.1.labelFemale>
+  <AEXP_WelshTerrier.lifeStages.1.labelFemalePlural>молодые вельштерьеры</AEXP_WelshTerrier.lifeStages.1.labelFemalePlural>
+  <AEXP_WelshTerrier.lifeStages.2.label>вельштерьер</AEXP_WelshTerrier.lifeStages.2.label>
+  <AEXP_WelshTerrier.lifeStages.2.labelPlural>вельштерьеры</AEXP_WelshTerrier.lifeStages.2.labelPlural>
+  <AEXP_WelshTerrier.lifeStages.2.labelMale>вельштерьер</AEXP_WelshTerrier.lifeStages.2.labelMale>
+  <AEXP_WelshTerrier.lifeStages.2.labelMalePlural>вельштерьеры</AEXP_WelshTerrier.lifeStages.2.labelMalePlural>
+  <AEXP_WelshTerrier.lifeStages.2.labelFemale>вельштерьер</AEXP_WelshTerrier.lifeStages.2.labelFemale>
+  <AEXP_WelshTerrier.lifeStages.2.labelFemalePlural>вельштерьеры</AEXP_WelshTerrier.lifeStages.2.labelFemalePlural>
+  <AEXP_WelshTerrier.labelMale>вельштерьер</AEXP_WelshTerrier.labelMale>
+  <AEXP_WelshTerrier.labelMalePlural>вельштерьеры</AEXP_WelshTerrier.labelMalePlural>
+  <AEXP_WelshTerrier.labelFemale>вельштерьер</AEXP_WelshTerrier.labelFemale>
+  <AEXP_WelshTerrier.labelFemalePlural>вельштерьеры</AEXP_WelshTerrier.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>OskarPotocki.VFE.Vikings</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/PreceptDef[defName="IdeoBuilding"]/buildingRoomRequirements//li[4]/things</xpath>
+          <value>
+            <li>VFEV_RunedColumn</li>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

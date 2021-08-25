@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Juice.label>сок</VBE_Juice.label>
+  <VBE_Juice.description>Фруктовый сок, терпкий и резкий, может быть приготовлен из одного фрукта или в виде смеси из нескольких. На основе сока можно варить и смешивать много других напитков. Хотя соки не более питательны, чем фрукты, их гораздо проще хранить и траспортировать.</VBE_Juice.description>
+  <VBE_Juice.ingestible.ingestCommandString>Пить {0}</VBE_Juice.ingestible.ingestCommandString>
+  <VBE_Juice.ingestible.ingestReportString>Пьет {0}</VBE_Juice.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ##### Стены из пластиковых кирпичей ##### -->
+
+  <VMEu_Wall_BricksBlue.label>Синяя стена из пластиковых кирпичей</VMEu_Wall_BricksBlue.label>
+  <VMEu_Wall_BricksBlue.description>Непроходимая стена. Способна удерживать крышу.</VMEu_Wall_BricksBlue.description>
+  
+  <VMEu_Wall_BricksRed.label>Красная стена из пластиковых кирпичей</VMEu_Wall_BricksRed.label>
+  <VMEu_Wall_BricksRed.description>Непроходимая стена. Способна удерживать крышу.</VMEu_Wall_BricksRed.description>
+  
+  <VMEu_Wall_BricksWhite.label>Белая стена из пластиковых кирпичей</VMEu_Wall_BricksWhite.label>
+  <VMEu_Wall_BricksWhite.description>Непроходимая стена. Способна удерживать крышу.</VMEu_Wall_BricksWhite.description>
+  
+  <VMEu_Wall_BricksBlack.label>Чёрная стена из пластиковых кирпичей</VMEu_Wall_BricksBlack.label>
+  <VMEu_Wall_BricksBlack.description>Непроходимая стена. Способна удерживать крышу.</VMEu_Wall_BricksBlack.description>
+  
+  <VMEu_Wall_BricksBrown.label>Коричневая стена из пластиковых кирпичей</VMEu_Wall_BricksBrown.label>
+  <VMEu_Wall_BricksBrown.description>Непроходимая стена. Способна удерживать крышу.</VMEu_Wall_BricksBrown.description>
+
+</LanguageData>

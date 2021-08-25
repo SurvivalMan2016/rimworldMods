@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Coal.label>石炭</Coal.label>
+  <Coal.description>動物の死骸から長い時を経て生成された、可燃性の黒または暗褐色の堆積岩。熱や電気を生成する燃料となります。</Coal.description>
+
+  <Charcoal.label>木炭</Charcoal.label>
+  <Charcoal.description>木材から焼成した軽量で黒い炭素燃料。</Charcoal.description>
+
+
+</LanguageData>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ingredient based thoughts -->
+
+  <VCE_ConsumedSugar.stages.0.label>употребил сахар</VCE_ConsumedSugar.stages.0.label>
+  <VCE_ConsumedSugar.stages.0.description>Сахар - это не любовь. Но так может показаться.</VCE_ConsumedSugar.stages.0.description>
+
+  <VCE_ConsumedChocolateSyrup.stages.0.label>употребил шоколадный сироп</VCE_ConsumedChocolateSyrup.stages.0.label>
+  <VCE_ConsumedChocolateSyrup.stages.0.description>Шоколад это ЛЮБОВЬ.</VCE_ConsumedChocolateSyrup.stages.0.description>
+
+  <VCE_ConsumedInsectJelly.stages.0.label>употребил варенье из желе насекомых</VCE_ConsumedInsectJelly.stages.0.label>
+  <VCE_ConsumedInsectJelly.stages.0.description>Какой невероятный, сладкий и насыщенный вкус!</VCE_ConsumedInsectJelly.stages.0.description>
+
+  <VCE_SmokeleafButterHigh.stages.0.label>употребил масло с дымолистом</VCE_SmokeleafButterHigh.stages.0.label>
+  <VCE_SmokeleafButterHigh.stages.0.description>Я типа обкурен, чувак.</VCE_SmokeleafButterHigh.stages.0.description>
+
+  <VCE_ConsumedSalt.stages.0.label>употребил соль</VCE_ConsumedSalt.stages.0.label>
+  <VCE_ConsumedSalt.stages.0.description>Щепотка соли действительно усиливает вкус еды.</VCE_ConsumedSalt.stages.0.description>
+
+  <VCE_ConsumedMayo.stages.0.label>употребил майонез</VCE_ConsumedMayo.stages.0.label>
+  <VCE_ConsumedMayo.stages.0.description>Я съел немного восхитительного майонеза. Очень сытно!</VCE_ConsumedMayo.stages.0.description>
+
+  <VCE_ConsumedAgave.stages.0.label>употребил нектар агавы</VCE_ConsumedAgave.stages.0.label>
+  <VCE_ConsumedAgave.stages.0.description>Я съел немного прекрасного нектара агавы.</VCE_ConsumedAgave.stages.0.description>
+
+  <VCE_ConsumedSpices.stages.0.label>употребил пряности</VCE_ConsumedSpices.stages.0.label>
+  <VCE_ConsumedSpices.stages.0.description>Этот обед был остреньким!</VCE_ConsumedSpices.stages.0.description>
+
+  <VCE_ConsumedDigestibleResurrectorNanites.stages.0.label>употребил воскрешающие наниты</VCE_ConsumedDigestibleResurrectorNanites.stages.0.label>
+  <VCE_ConsumedDigestibleResurrectorNanites.stages.0.description>Я чувствую себя непобедимым!</VCE_ConsumedDigestibleResurrectorNanites.stages.0.description>
+
+
+  <!-- Gourmet based thoughts -->
+
+  <VCE_AteGourmetMeal.stages.0.label>съел изысканное блюдо</VCE_AteGourmetMeal.stages.0.label>
+  <VCE_AteGourmetMeal.stages.0.description>Умопомрачительный кулинарный опыт. Мое небо испытывает ощущения, выходящие за пределы этого мира.</VCE_AteGourmetMeal.stages.0.description>
+
+
+  <!-- Dessert based thoughts -->
+
+  <VCE_AteSimpleDessert.stages.0.label>съел простой десерт</VCE_AteSimpleDessert.stages.0.label>
+  <VCE_AteSimpleDessert.stages.0.description>Этот десерт был простым, но определенно вкусным.</VCE_AteSimpleDessert.stages.0.description>
+
+  <VCE_AteFineDessert.stages.0.label>съел вкусный десерт</VCE_AteFineDessert.stages.0.label>
+  <VCE_AteFineDessert.stages.0.description>Этот десерт был действительно хорош! Хочу еще!</VCE_AteFineDessert.stages.0.description>
+
+  <VCE_AteLavishDessert.stages.0.label>съел шикарный десерт</VCE_AteLavishDessert.stages.0.label>
+  <VCE_AteLavishDessert.stages.0.description>Этот десерт невероятно хорошо, я так хочу съесть его еще!</VCE_AteLavishDessert.stages.0.description>
+
+  <VCE_AteGourmetDessert.stages.0.label>съел изысканный десерт</VCE_AteGourmetDessert.stages.0.label>
+  <VCE_AteGourmetDessert.stages.0.description>Боже мой! Мое небо никогда не испытывало такого оргазма вкуса. Это чистое фуд-порно. Мне нужно еще!</VCE_AteGourmetDessert.stages.0.description>
+
+
+  <!-- Grill based thoughts -->
+
+  <VCE_AteSimpleGrill.stages.0.label>съел простой гриль</VCE_AteSimpleGrill.stages.0.label>
+  <VCE_AteSimpleGrill.stages.0.description>Простой гриль. Хех.</VCE_AteSimpleGrill.stages.0.description>
+
+  <VCE_AteFineGrill.stages.0.label>съел вкусный гриль</VCE_AteFineGrill.stages.0.label>
+  <VCE_AteFineGrill.stages.0.description>Я ел очень вкусное мясо на гриле с разными овощами. Супер вкусно.</VCE_AteFineGrill.stages.0.description>
+
+  <VCE_AteLavishGrill.stages.0.label>съел шикарный гриль</VCE_AteLavishGrill.stages.0.label>
+  <VCE_AteLavishGrill.stages.0.description>Я ел невероятное блюдо с искусно приготовленным мясом на гриле и разными овощами. Вкусно!</VCE_AteLavishGrill.stages.0.description>
+
+  <VCE_AteGourmetGrill.stages.0.label>съел изысканный гриль</VCE_AteGourmetGrill.stages.0.label>
+  <VCE_AteGourmetGrill.stages.0.description>Это...это было не из этого мира. Мясо таяло во рту. Просто невероятно.</VCE_AteGourmetGrill.stages.0.description>
+
+
+  <!-- Fried and canned food based thoughts -->
+
+  <VCE_AteFriedGoods.stages.0.label>съел жареную пищу</VCE_AteFriedGoods.stages.0.label>
+  <VCE_AteFriedGoods.stages.0.description>Жирная еда. Так вкусно.</VCE_AteFriedGoods.stages.0.description>
+
+  <VCE_ConsumedCannedGoods.stages.0.label>съел консервированную пищу</VCE_ConsumedCannedGoods.stages.0.label>
+  <VCE_ConsumedCannedGoods.stages.0.description>Есть прямо из консервной банки это все равно что есть без стола.</VCE_ConsumedCannedGoods.stages.0.description>
+
+
+</LanguageData>

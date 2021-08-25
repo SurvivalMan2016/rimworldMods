@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<ARKPPP_WirelessPowerTheoryResearch.label>Теория излучения беспроводной энергии</ARKPPP_WirelessPowerTheoryResearch.label>
+	<ARKPPP_WirelessPowerTheoryResearch.description>Позволяет вам открыть технологии беспроводной передачи энергии</ARKPPP_WirelessPowerTheoryResearch.description>
+	
+	<ARKPPP_WirelessPowerShortRangeResearch.label>Локальная беспроводная сеть электропитания (LWPN)</ARKPPP_WirelessPowerShortRangeResearch.label>
+	<ARKPPP_WirelessPowerShortRangeResearch.description>Позволяет создавать локальные стабильные беспроводные сети электропитания(LWPN), позволяющие подключать электрические устройства без проводов</ARKPPP_WirelessPowerShortRangeResearch.description>
+	
+	<ARKPPP_WirelessPowerLongRangeResearch.label>Беспроводная сеть электропитания (WPN)</ARKPPP_WirelessPowerLongRangeResearch.label>
+	<ARKPPP_WirelessPowerLongRangeResearch.description>Позволяет создавать стабильные беспроводные сети электропитания (WPN), позволяющие передаать энергию на большие расстояния</ARKPPP_WirelessPowerLongRangeResearch.description>
+	
+	<ARKPPP_WirelessPowerShortRangePortableResearch.label>Портативный излучатель LWPN</ARKPPP_WirelessPowerShortRangePortableResearch.label>
+	<ARKPPP_WirelessPowerShortRangePortableResearch.description>Позволяет производить портативные излучатели LWPN, которые очень удобно использовать караванам</ARKPPP_WirelessPowerShortRangePortableResearch.description>
+	
+	<ARKPPP_WirelessPowerLongRangeAdvancedResearch.label>Усовершенствованный излучатель WPN</ARKPPP_WirelessPowerLongRangeAdvancedResearch.label>
+	<ARKPPP_WirelessPowerLongRangeAdvancedResearch.description>Позволяет производить усовершенствованный излучатель WPN, потребляющий меньше энергии и работающий даже во время грозы</ARKPPP_WirelessPowerLongRangeAdvancedResearch.description>
+	
+	<ARKPPP_WirelessPowerLongRangePortableReceptorResearch.label>Портативный приемник WPN</ARKPPP_WirelessPowerLongRangePortableReceptorResearch.label>
+	<ARKPPP_WirelessPowerLongRangePortableReceptorResearch.description>Позволяет производить портативный приемник WPN, который может быть полезен в караванах</ARKPPP_WirelessPowerLongRangePortableReceptorResearch.description>
+	
+	<ARKPPP_WirelessPowerLongRangeARES.label>ARES</ARKPPP_WirelessPowerLongRangeARES.label>
+	<ARKPPP_WirelessPowerLongRangeARES.description>Позволяет использовать приемники WPN как оружие. Они будут выкачивать всю энергию из исходной сети и направлять ее в виде локального грозового шторма</ARKPPP_WirelessPowerLongRangeARES.description>
+	
+	<ARKPPP_WirelessPowerLongRangeARESEMP.label>ARES ЭМИ</ARKPPP_WirelessPowerLongRangeARESEMP.label>
+	<ARKPPP_WirelessPowerLongRangeARESEMP.description>Способ использовать систему ARES для генерации мощного электромагнитного импульса(ЭМИ), сжигающего всю электронику в небольшом радиусе от точки удара</ARKPPP_WirelessPowerLongRangeARESEMP.description>
+	
+	<ARKPPP_WirelessPowerLongRangeARES2.label>ARES 2.0</ARKPPP_WirelessPowerLongRangeARES2.label>
+	<ARKPPP_WirelessPowerLongRangeARES2.description>Усовершенствование системы ARES, увеличивающее диаметр и интенсивность шторма</ARKPPP_WirelessPowerLongRangeARES2.description>
+	
+	<ARKPPP_HackingSatelliteNetwork.label>Взлом сети энергодобывающих спутников</ARKPPP_HackingSatelliteNetwork.label>
+	<ARKPPP_HackingSatelliteNetwork.description>Позволяет изучить технологии, связанные с энергодобывающими спутниками</ARKPPP_HackingSatelliteNetwork.description>
+	
+	<ARKPPP_HackingSatelliteNetworkSTS.label>Спутниковая система наведения</ARKPPP_HackingSatelliteNetworkSTS.label>
+	<ARKPPP_HackingSatelliteNetworkSTS.description>Позволяет использовать спутниковую систему наведения, которая будет направлять орбитальный луч на абсорбционную тарелку</ARKPPP_HackingSatelliteNetworkSTS.description>
+	
+	<ARKPPP_HackingSatelliteNetworkAD.label>Абсорбционная тарелка</ARKPPP_HackingSatelliteNetworkAD.label>
+	<ARKPPP_HackingSatelliteNetworkAD.description>Позволяет построить гигантскую поглощающую тарелку</ARKPPP_HackingSatelliteNetworkAD.description>
+	
+	<ARKPPP_HackingSatelliteNetworkLens.label>Линзы окраски луча</ARKPPP_HackingSatelliteNetworkLens.label>
+	<ARKPPP_HackingSatelliteNetworkLens.description>Позволяет изменить цвет орбитального луча путем взлома подсистемы линз спутников</ARKPPP_HackingSatelliteNetworkLens.description>
+	
+	<ARKPPP_HackingSatelliteNetworkADRT.label>Удаленная абсорбционная тарелка</ARKPPP_HackingSatelliteNetworkADRT.label>
+	<ARKPPP_HackingSatelliteNetworkADRT.description>Позволяет построить ретранслятор абсорбционной тарелки, позволяющий удаленно подключаться к системе спутников</ARKPPP_HackingSatelliteNetworkADRT.description>
+</LanguageData>

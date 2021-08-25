@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_UncookedSoupSimple.label>сырой простой суп</VCE_UncookedSoupSimple.label>
+  <VCE_UncookedSoupSimple.description>Сырой простой суп. Необходимо приготовить на электрической плитке, чтобы он стал съедобным.</VCE_UncookedSoupSimple.description>
+
+  <VCE_CookedSoupSimple.label>простой суп</VCE_CookedSoupSimple.label>
+  <VCE_CookedSoupSimple.description>Простой суп, на скорую руку сделанный из нескольких ингредиентов.</VCE_CookedSoupSimple.description>
+
+  <VCE_UncookedSoupFine.label>сырой вкусный суп</VCE_UncookedSoupFine.label>
+  <VCE_UncookedSoupFine.description>Сырой вкусный суп. Необходимо приготовить на электрической плитке, чтобы он стал съедобным.</VCE_UncookedSoupFine.description>
+
+  <VCE_CookedSoupFine.label>вкусный суп</VCE_CookedSoupFine.label>
+  <VCE_CookedSoupFine.description>Сложный суп, тщательно собранный из широкого ассортимента ингредиентов.</VCE_CookedSoupFine.description>
+
+  <VCE_UncookedSoupLavish.label>сырой шикарный суп</VCE_UncookedSoupLavish.label>
+  <VCE_UncookedSoupLavish.description>Сырой шикарный суп. Необходимо приготовить на электрической плитке, чтобы он стал съедобным.</VCE_UncookedSoupLavish.description>
+
+  <VCE_CookedSoupLavish.label>шикарный суп</VCE_CookedSoupLavish.label>
+  <VCE_CookedSoupLavish.description>Шедевр кулинарного искусства, этот суп питает тело, разум и душу.</VCE_CookedSoupLavish.description>
+
+  <VCE_UncookedSoupGourmet.label>сырой изысканный суп</VCE_UncookedSoupGourmet.label>
+  <VCE_UncookedSoupGourmet.description>Сырой изысканный суп. Необходимо приготовить на электрической плитке, чтобы он стал съедобным.</VCE_UncookedSoupGourmet.description>
+
+  <VCE_CookedSoupGourmet.label>изысканный суп</VCE_CookedSoupGourmet.label>
+  <VCE_CookedSoupGourmet.description>Кулинарное произведение искусства - изысканное, продуманное, с эстетически выверенным балансом вкуса и маленькой порцией.</VCE_CookedSoupGourmet.description>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hippopotamus -->
+
+  <AEXP_Leather_Hippopotamus.label>кожа бегемота</AEXP_Leather_Hippopotamus.label>
+  <AEXP_Leather_Hippopotamus.description>Плотная кожа бегемота. Она не только чрезвычайно прочная, но и обеспечивает значительную защиту от жары.</AEXP_Leather_Hippopotamus.description>
+
+  <!-- Wildebeest -->
+
+  <AEXP_Leather_Wildebeest.label>шкура антилопы</AEXP_Leather_Wildebeest.label>
+  <AEXP_Leather_Wildebeest.description>Густой, но рыхлый мех и кожа антилопы гну. Хотя и обеспечивает некоторую защиту от повреждений, она не отличается долговечностью.</AEXP_Leather_Wildebeest.description>
+
+
+</LanguageData>

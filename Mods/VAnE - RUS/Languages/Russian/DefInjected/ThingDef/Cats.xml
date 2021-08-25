@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- CatAbyssinian -->
+
+  <AEXP_CatAbyssinian.label>абиссинская кошка</AEXP_CatAbyssinian.label>
+  <AEXP_CatAbyssinian.description>Стройная, кустарниковая кошка среднего размера с небольшими костями.</AEXP_CatAbyssinian.description>
+  <AEXP_CatAbyssinian.tools.0.label>левая лапа</AEXP_CatAbyssinian.tools.0.label>
+  <AEXP_CatAbyssinian.tools.1.label>правая лапа</AEXP_CatAbyssinian.tools.1.label>
+  <AEXP_CatAbyssinian.tools.2.label>зубы</AEXP_CatAbyssinian.tools.2.label>
+  <AEXP_CatAbyssinian.tools.3.label>голова</AEXP_CatAbyssinian.tools.3.label>
+
+
+  <!-- CatBengal -->
+
+  <AEXP_CatBengal.label>бенгальская кошка</AEXP_CatBengal.label>
+  <AEXP_CatBengal.description>Одомашненный гибрид домашней кошки и тропического леопарда.</AEXP_CatBengal.description>
+  <AEXP_CatBengal.tools.0.label>левая лапа</AEXP_CatBengal.tools.0.label>
+  <AEXP_CatBengal.tools.1.label>правая лапа</AEXP_CatBengal.tools.1.label>
+  <AEXP_CatBengal.tools.2.label>зубы</AEXP_CatBengal.tools.2.label>
+  <AEXP_CatBengal.tools.3.label>голова</AEXP_CatBengal.tools.3.label>
+
+  <!-- CatBritishShorthair -->
+
+  <AEXP_CatBritishShorthair.label>британская короткошерстная кошка</AEXP_CatBritishShorthair.label>
+  <AEXP_CatBritishShorthair.description>Породистая версия обычной британской кошки с характерным коренастым телом, густой шерстью и очень широкой мордой. Несмотря на то, что эти кошки довольно мощные благодаря большой груди и массивным лапам, они абсолютно безвредны.</AEXP_CatBritishShorthair.description>
+  <AEXP_CatBritishShorthair.tools.0.label>левая лапа</AEXP_CatBritishShorthair.tools.0.label>
+  <AEXP_CatBritishShorthair.tools.1.label>правая лапа</AEXP_CatBritishShorthair.tools.1.label>
+  <AEXP_CatBritishShorthair.tools.2.label>зубы</AEXP_CatBritishShorthair.tools.2.label>
+  <AEXP_CatBritishShorthair.tools.3.label>голова</AEXP_CatBritishShorthair.tools.3.label>
+
+
+  <!-- CatMaineCoon -->
+
+  <AEXP_CatMaineCoon.label>мейн-кун</AEXP_CatMaineCoon.label>
+  <AEXP_CatMaineCoon.description>Это самая крупная из домашних кошек, у нее отличительная внешность и ценные охотничьи навыки. Это крупный и общительный питомец, поэтому он получил прозвище "нежный великан".</AEXP_CatMaineCoon.description>
+  <AEXP_CatMaineCoon.tools.0.label>левая лапа</AEXP_CatMaineCoon.tools.0.label>
+  <AEXP_CatMaineCoon.tools.1.label>правая лапа</AEXP_CatMaineCoon.tools.1.label>
+  <AEXP_CatMaineCoon.tools.2.label>зубы</AEXP_CatMaineCoon.tools.2.label>
+  <AEXP_CatMaineCoon.tools.3.label>голова</AEXP_CatMaineCoon.tools.3.label>
+
+
+  <!-- CatMunchkin -->
+
+  <AEXP_CatMunchkin.label>манчкин</AEXP_CatMunchkin.label>
+  <AEXP_CatMunchkin.description>Это новая порода кошек, также известная как колбасная кошка, отличается очень короткими ногами. Милые, добродушные, игривые и общительные, эти кошки - идеальные компаньоны для людей, ведущих ленивый образ жизни.</AEXP_CatMunchkin.description>
+  <AEXP_CatMunchkin.tools.0.label>левая лапа</AEXP_CatMunchkin.tools.0.label>
+  <AEXP_CatMunchkin.tools.1.label>правая лапа</AEXP_CatMunchkin.tools.1.label>
+  <AEXP_CatMunchkin.tools.2.label>зубы</AEXP_CatMunchkin.tools.2.label>
+  <AEXP_CatMunchkin.tools.3.label>голова</AEXP_CatMunchkin.tools.3.label>
+
+
+
+  <!-- NorwegianForestCat -->
+
+  <AEXP_CatNorwegianForest.label>норвежская лесная кошка</AEXP_CatNorwegianForest.label>
+  <AEXP_CatNorwegianForest.description>Кошка, которая приспособилась к очень холодному климату из-за верхнего слоя блестящей, волнистой шерсти.</AEXP_CatNorwegianForest.description>
+  <AEXP_CatNorwegianForest.tools.0.label>левая лапа</AEXP_CatNorwegianForest.tools.0.label>
+  <AEXP_CatNorwegianForest.tools.1.label>правая лапа</AEXP_CatNorwegianForest.tools.1.label>
+  <AEXP_CatNorwegianForest.tools.2.label>зубы</AEXP_CatNorwegianForest.tools.2.label>
+  <AEXP_CatNorwegianForest.tools.3.label>голова</AEXP_CatNorwegianForest.tools.3.label>
+
+
+  <!-- CatPersian -->
+
+  <AEXP_CatPersian.label>персидская кошка</AEXP_CatPersian.label>
+  <AEXP_CatPersian.description>Персидские кошки - обладают длинной шерстью и происходят от диких кошек пустыни. Они царственны, умны и подвижны, что делает их превосходными охотниками на мелких грызунов и птиц.</AEXP_CatPersian.description>
+  <AEXP_CatPersian.tools.0.label>левая лапа</AEXP_CatPersian.tools.0.label>
+  <AEXP_CatPersian.tools.1.label>правая лапа</AEXP_CatPersian.tools.1.label>
+  <AEXP_CatPersian.tools.2.label>зубы</AEXP_CatPersian.tools.2.label>
+  <AEXP_CatPersian.tools.3.label>голова</AEXP_CatPersian.tools.3.label>
+
+
+  <!-- CatSiamese -->
+
+  <AEXP_CatSiamese.label>сиамская кошка</AEXP_CatSiamese.label>
+  <AEXP_CatSiamese.description>Кошка с характерной треугольной головой, голубыми глазами и длинным мускулистым телом, известная своим социальным характером.</AEXP_CatSiamese.description>
+  <AEXP_CatSiamese.tools.0.label>левая лапа</AEXP_CatSiamese.tools.0.label>
+  <AEXP_CatSiamese.tools.1.label>правая лапа</AEXP_CatSiamese.tools.1.label>
+  <AEXP_CatSiamese.tools.2.label>зубы</AEXP_CatSiamese.tools.2.label>
+  <AEXP_CatSiamese.tools.3.label>голова</AEXP_CatSiamese.tools.3.label>
+
+
+  <!-- CatSomali -->
+
+  <AEXP_CatSomali.label>сомалийская кошка</AEXP_CatSomali.label>
+  <AEXP_CatSomali.description>Кустарниковая кошка из той же семьи, что из абиссинская кошка. У нее пушистый хвост и миндалевидные глаза.</AEXP_CatSomali.description>
+  <AEXP_CatSomali.tools.0.label>левая лапа</AEXP_CatSomali.tools.0.label>
+  <AEXP_CatSomali.tools.1.label>правая лапа</AEXP_CatSomali.tools.1.label>
+  <AEXP_CatSomali.tools.2.label>зубы</AEXP_CatSomali.tools.2.label>
+  <AEXP_CatSomali.tools.3.label>голова</AEXP_CatSomali.tools.3.label>
+
+
+  <!-- CatSphynx -->
+
+  <AEXP_CatSphynx.label>сфинкс</AEXP_CatSphynx.label>
+  <AEXP_CatSphynx.description>Кошка, известная своим полным отсутствием шерсти и полученная в результате селекционного разведения. Теплые на ощупь, они легко теряют температуру тела, что заставляет их искать источники тепла.</AEXP_CatSphynx.description>
+  <AEXP_CatSphynx.tools.0.label>левая лапа</AEXP_CatSphynx.tools.0.label>
+  <AEXP_CatSphynx.tools.1.label>правая лапа</AEXP_CatSphynx.tools.1.label>
+  <AEXP_CatSphynx.tools.2.label>зубы</AEXP_CatSphynx.tools.2.label>
+  <AEXP_CatSphynx.tools.3.label>голова</AEXP_CatSphynx.tools.3.label>
+
+
+</LanguageData>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <ATPP_DisassembleAndroid.label>Разобрать мертвого андроида</ATPP_DisassembleAndroid.label>
+  <ATPP_DisassembleAndroid.description>Разобрать мертвого андроида на его составные части.</ATPP_DisassembleAndroid.description>
+  <ATPP_DisassembleAndroid.jobString>Disassembling android.</ATPP_DisassembleAndroid.jobString>
+
+  <ATPP_Make_SM7Mech40MMCannon.label>Сделать 40-мм пушку (оружие SM7)</ATPP_Make_SM7Mech40MMCannon.label>
+  <ATPP_Make_SM7Mech40MMCannon.description>Сделать 40-мм пушку (оружие SM7)</ATPP_Make_SM7Mech40MMCannon.description>
+  <ATPP_Make_SM7Mech40MMCannon.jobString>Make an 40mm Cannon.</ATPP_Make_SM7Mech40MMCannon.jobString>
+
+  <ATPP_Make_SM7MechMastiffGun.label>Сделать дробовик Мастифа(оружие SM7)</ATPP_Make_SM7MechMastiffGun.label>
+  <ATPP_Make_SM7MechMastiffGun.description>Изготовить дробовик Mastiff(оружие SM7)</ATPP_Make_SM7MechMastiffGun.description>
+  <ATPP_Make_SM7MechMastiffGun.jobString>Make an Mastiff Shotgun.</ATPP_Make_SM7MechMastiffGun.jobString>
+
+  <ATPP_Make_SM7MechHandCannon.label>Сделать ручную пушку X-5 (оружие SM7)</ATPP_Make_SM7MechHandCannon.label>
+  <ATPP_Make_SM7MechHandCannon.description>Создать ручную пушку X-5 (оружие SM7)</ATPP_Make_SM7MechHandCannon.description>
+  <ATPP_Make_SM7MechHandCannon.jobString>Make an X-5 Hand Cannon.</ATPP_Make_SM7MechHandCannon.jobString>
+
+  <ATPP_Make_T1ArtificialBrain.label>Сделать искусственный мозг Т1</ATPP_Make_T1ArtificialBrain.label>
+  <ATPP_Make_T1ArtificialBrain.description>Сделать искусственный мозг T1, чтобы превратить суррогат в пустую нейронную сеть андроида.</ATPP_Make_T1ArtificialBrain.description>
+  <ATPP_Make_T1ArtificialBrain.jobString>Make an artificial brain T1.</ATPP_Make_T1ArtificialBrain.jobString>
+
+  <ATPP_Make_T2ArtificialBrain.label>Сделать искусственный мозг Т2</ATPP_Make_T2ArtificialBrain.label>
+  <ATPP_Make_T2ArtificialBrain.description>Сделать искусственный мозг T2, чтобы превратить суррогат в пустую нейронную сеть андроида.</ATPP_Make_T2ArtificialBrain.description>
+  <ATPP_Make_T2ArtificialBrain.jobString>Make an artificial brain T2.</ATPP_Make_T2ArtificialBrain.jobString>
+
+  <ATPP_Make_T3ArtificialBrain.label>Сделать искусственный мозг Т3</ATPP_Make_T3ArtificialBrain.label>
+  <ATPP_Make_T3ArtificialBrain.description>Сделать искусственный мозг T3, чтобы превратить суррогат в пустую нейронную сеть андроида.</ATPP_Make_T3ArtificialBrain.description>
+  <ATPP_Make_T3ArtificialBrain.jobString>Make an artificial brain T3.</ATPP_Make_T3ArtificialBrain.jobString>
+
+  <ATPP_Make_T4ArtificialBrain.label>Сделать искусственный мозг Т4</ATPP_Make_T4ArtificialBrain.label>
+  <ATPP_Make_T4ArtificialBrain.description>Сделать искусственный мозг T4, чтобы превратить суррогат в пустую нейронную сеть андроида.</ATPP_Make_T4ArtificialBrain.description>
+  <ATPP_Make_T4ArtificialBrain.jobString>Make an artificial brain T4.</ATPP_Make_T4ArtificialBrain.jobString>
+
+  <ATPP_Make_RXChip.label>Сделать RX нейрочип</ATPP_Make_RXChip.label>
+  <ATPP_Make_RXChip.description>Нейронный чип, выступающий в роли персонального реле SkyMind.</ATPP_Make_RXChip.description>
+  <ATPP_Make_RXChip.jobString>Make RX neural chip.</ATPP_Make_RXChip.jobString>
+
+  <ATPP_Make_VX0Chip.label>Сделать VX0 нейрочип</ATPP_Make_VX0Chip.label>
+  <ATPP_Make_VX0Chip.description>Создание нейрочипа VX0, нейронный чип, который превращает его хозяина в биологический суррогат.</ATPP_Make_VX0Chip.description>
+  <ATPP_Make_VX0Chip.jobString>Make VX0 neural chip.</ATPP_Make_VX0Chip.jobString>
+
+  <ATPP_Make_VX1Chip.label>Сделать VX1 нейрочип</ATPP_Make_VX1Chip.label>
+  <ATPP_Make_VX1Chip.description>Создание нейрочипа VX1, позволяющий хосту удаленно управлять любым андроидом или биологическим суррогатом серии SX.</ATPP_Make_VX1Chip.description>
+  <ATPP_Make_VX1Chip.jobString>Make VX1 neural chip.</ATPP_Make_VX1Chip.jobString>
+
+  <ATPP_Make_VX2Chip.label>Сделать VX2 нейрочип</ATPP_Make_VX2Chip.label>
+  <ATPP_Make_VX2Chip.description>Создание нейрочипа VX2, позволяющий хосту удаленно управлять любым андроидом или биологическим суррогатом серии SX и дублировать / переставлять их разум.</ATPP_Make_VX2Chip.description>
+  <ATPP_Make_VX2Chip.jobString>Make VX2 neural chip.</ATPP_Make_VX2Chip.jobString>
+
+  <ATPP_Make_VX3Chip.label>Сделать VX3 нейрочип</ATPP_Make_VX3Chip.label>
+  <ATPP_Make_VX3Chip.description>Создайте чип VX3, позволяющий хосту удаленно управлять несколькими андроидами или биологическими суррогатами серии SX одновременно и дублировать / переставлять их разум.</ATPP_Make_VX3Chip.description>
+  <ATPP_Make_VX3Chip.jobString>Make VX3 neural chip.</ATPP_Make_VX3Chip.jobString>
+
+  <ATPP_Make_NanitesHydraulicSerum.label>Сделать нанитовый слот (гидравлический)</ATPP_Make_NanitesHydraulicSerum.label>
+  <ATPP_Make_NanitesHydraulicSerum.description>Создание андроидной гидравлической нанитовой сыворотки, позволяющей восстанавливать проблемы андроида(связанные со старостью).</ATPP_Make_NanitesHydraulicSerum.description>
+  <ATPP_Make_NanitesHydraulicSerum.jobString>Making android nanite serum</ATPP_Make_NanitesHydraulicSerum.jobString>
+
+  <ATPP_Make_NanitesCPUSerum.label>Сделать нанитовый слот (CPU)</ATPP_Make_NanitesCPUSerum.label>
+  <ATPP_Make_NanitesCPUSerum.description>Сделайте нанитную сыворотку для процессора андроида, которая позволит восстановить процессор андроида(в связи со старостью).</ATPP_Make_NanitesCPUSerum.description>
+  <ATPP_Make_NanitesCPUSerum.jobString>Making android nanite serum</ATPP_Make_NanitesCPUSerum.jobString>
+
+  <ATPP_Make_NanitesCoolingSerum.label>Сделать нанитовый слот (охлаждение)</ATPP_Make_NanitesCoolingSerum.label>
+  <ATPP_Make_NanitesCoolingSerum.description>Сделать андроид охлаждающую нанитную сыворотку, позволяющую восстановить систему охлаждения андроида (в связи со старостью).</ATPP_Make_NanitesCoolingSerum.description>
+  <ATPP_Make_NanitesCoolingSerum.jobString>Making android nanite serum</ATPP_Make_NanitesCoolingSerum.jobString>
+
+  <ATPP_Make_NanitesFrameSerum.label>Сделать нанитовый слот (каркас)</ATPP_Make_NanitesFrameSerum.label>
+  <ATPP_Make_NanitesFrameSerum.description>Создание нанитовой сыворотки для андроида, позволяющей восстановить каркас андроида (в связи со старостью)).</ATPP_Make_NanitesFrameSerum.description>
+  <ATPP_Make_NanitesFrameSerum.jobString>Making android nanite serum</ATPP_Make_NanitesFrameSerum.jobString>
+  
+  <ATPP_CreateM8.label>Создать прототип механоида M8</ATPP_CreateM8.label>
+  <ATPP_CreateM8.description>Создайте прототип суррогатного механоида M8 из пластали и компонентов.</ATPP_CreateM8.description>
+  <ATPP_CreateM8.jobString>Making a prototype M8 mechanoid</ATPP_CreateM8.jobString>
+  
+  
+</LanguageData>

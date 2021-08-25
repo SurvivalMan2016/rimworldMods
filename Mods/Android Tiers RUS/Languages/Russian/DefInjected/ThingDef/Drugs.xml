@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StructureGel.label>Структурный гель</StructureGel.label>
+  <StructureGel.description>Вязкий черный гель, сделанный из сетки связанных механитов и аминокислот, он широко используется в производстве и временном улучшении андроидов. Однако: не предназначенный для биологического потребления, гель обладает питательной ценностью, с ожидаемыми судорогами и рвотой, если что-то, кроме андроидов, попытается его переварить.</StructureGel.description>
+  <StructureGel.ingestible.ingestCommandString>Потребить {0}</StructureGel.ingestible.ingestCommandString>
+  <StructureGel.ingestible.ingestReportString>Потребляет {0}.</StructureGel.ingestible.ingestReportString>
+
+
+  <!-- HediffAndroid -->
+
+  <Antifreeze.label>Полимерный антифриз</Antifreeze.label>
+  <Antifreeze.description>Смесь присадок на основе полимеров, которая снижает температуру замерзания и повышает температуру кипения большинства жидкостей на водной основе. Очень полезно для регулирования температуры андроидами, но токсично для биологической жизни.</Antifreeze.description>
+  <Antifreeze.ingestible.ingestCommandString>Потребить {0}</Antifreeze.ingestible.ingestCommandString>
+  <Antifreeze.ingestible.ingestReportString>Потребляет {0}.</Antifreeze.ingestible.ingestReportString>
+
+  <MechSwarm.label>Рой механитов</MechSwarm.label>
+  <MechSwarm.description>Эта маленькая таблетка содержит миллионы и миллионы крошечных наномеханитов. Предназначен для роения механического хозяина и увеличения кинетического выхода за счет контролируемой перегрузки механизмов пешки. Однако биологическое потребление приведет к тошноте и обильной рвоте.</MechSwarm.description>
+  <MechSwarm.ingestible.ingestCommandString>Потребить {0}</MechSwarm.ingestible.ingestCommandString>
+  <MechSwarm.ingestible.ingestReportString>Потребляет {0}.</MechSwarm.ingestible.ingestReportString>
+
+  <FractalPill.label>Фрактальное усиление</FractalPill.label>
+  <FractalPill.description>Эта таблетка редко встречается где-либо, за исключением только лучших архотех-обществ. Потребляемый любой механической жизнью, он вызовет необратимое усиление, с постоянно возрастающим эффектом с каждым использованием. Из-за его редкости; его полная мощность никогда не была задокументирована ни в одной системе. Однако то, что было задокументировано, - это ужасные последствия при приеме внутрь людьми, которые из-за ограничений языка не могут быть объяснены в полной мере.</FractalPill.description>
+  <FractalPill.ingestible.ingestCommandString>Потребить {0}</FractalPill.ingestible.ingestCommandString>
+  <FractalPill.ingestible.ingestReportString>Потребляет {0}.</FractalPill.ingestible.ingestReportString>
+
+
+  <!-- Regen Pill -->
+
+  <RegenPillAt.label>Моно-мазевая таблетка</RegenPillAt.label>
+  <RegenPillAt.description>Эта таблетка содержит небольшой флакон "регенеративной" жидкости, которая значительно увеличивает регенерацию здоровья как органиков, так и андроидов, хотя первоначально предназначалась только для последних. При попадании в организм андроида он будет циркулировать по системе и помещать небольшие количества самовосстанавливающегося растворителя на все, что проходит, поощряя небольшие зазоры в металле к более эффективному заживлению и ремонту. \n\n Органики все еще имеют потенциал извлечь выгоду из этого, но в значительно уменьшенном масштабе, а таблетки вместо этого стимулируют рост клеток в местах повреждения. Хотя и несколько токсичен в больших дозах. \n\n Пока эта таблетка действует на пешку:\n +60% Скорость Заживления Для Андроидов \n +15% Скорость Исцеления Для Людей / Других</RegenPillAt.description>
+  <RegenPillAt.ingestible.ingestCommandString>Потребить {0}</RegenPillAt.ingestible.ingestCommandString>
+  <RegenPillAt.ingestible.ingestReportString>Потребляет {0}.</RegenPillAt.ingestible.ingestReportString>
+
+
+</LanguageData>

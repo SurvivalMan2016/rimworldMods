@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeConcreteSlabBricks.label>изготовить керамобетон из каменных блоков</MakeConcreteSlabBricks.label>
+  <MakeConcreteSlabBricks.description>Изготовить керамобетонную плиту.</MakeConcreteSlabBricks.description>
+  <MakeConcreteSlabBricks.jobString>Изготавливает керамобетонную плиту</MakeConcreteSlabBricks.jobString>
+
+  <MakeConcreteSlabBricks4.label>изготовить керамобетон из каменных блоков x4</MakeConcreteSlabBricks4.label>
+  <MakeConcreteSlabBricks4.description>Изготовить 4 керамобетонные плиты.</MakeConcreteSlabBricks4.description>
+  <MakeConcreteSlabBricks4.jobString>Изготовливает 4 керамобетонные плиты</MakeConcreteSlabBricks4.jobString>
+
+  <MakeConcreteSlabChunks.label>изготовить керамобетон из каменных обломков</MakeConcreteSlabChunks.label>
+  <MakeConcreteSlabChunks.description>Изготовить керамобетонную плиту.</MakeConcreteSlabChunks.description>
+  <MakeConcreteSlabChunks.jobString>Изготавливает керамобетонную плиту</MakeConcreteSlabChunks.jobString>
+
+
+</LanguageData>

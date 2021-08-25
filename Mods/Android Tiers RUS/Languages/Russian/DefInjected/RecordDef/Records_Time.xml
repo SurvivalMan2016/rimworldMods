@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TimeInBedForMedicalReasons.label>Время в постели по медицинским показаниям</TimeInBedForMedicalReasons.label>
+  <TimeInBedForMedicalReasons.description>Общее время, проведенное в постели по медицинским показаниям: ожидание лечения, восстановление после травм или операция.</TimeInBedForMedicalReasons.description>
+
+
+</LanguageData>

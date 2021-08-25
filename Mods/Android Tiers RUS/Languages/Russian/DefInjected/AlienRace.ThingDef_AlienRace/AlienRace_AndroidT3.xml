@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <Android3Tier.label>Андроид Т3</Android3Tier.label>
+  <Android3Tier.description>Прототип андроида, созданный в секретной лаборатории R/D вдали от глаз всего остального мира. Этот андроид обладает высокоразвитыми двигательными и моторными способностями, идеально имитирующими способности обычного человека. Хотя андроид неуклюж и несколько медлителен, он имеет модульную конструкцию, позволяющую в любой момент модернизировать имеющиеся детали.</Android3Tier.description>
+  <Android3Tier.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>Кожа</Android3Tier.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Android3Tier.tools.0.label>Правый кулак</Android3Tier.tools.0.label>
+  <Android3Tier.tools.1.label>Левый кулак</Android3Tier.tools.1.label>
+  <Android3Tier.tools.2.label>Голова</Android3Tier.tools.2.label>
+
+</LanguageData>

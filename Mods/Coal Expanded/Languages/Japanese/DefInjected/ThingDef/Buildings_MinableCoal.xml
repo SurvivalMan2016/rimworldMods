@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Coal Ore -->
+
+  <MineableCoal.label>石炭鉱脈</MineableCoal.label>
+  <MineableCoal.description>石炭の塊を含んだ岩石です。</MineableCoal.description>
+
+
+</LanguageData>

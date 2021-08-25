@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SGelhuman.label>Структурный гель</SGelhuman.label>
+  <SGelhuman.description>Смесь аминокислот и механитов, проникающая в кровь, очень токсична и может вызвать судороги.</SGelhuman.description>
+  <SGelhuman.stages.0.label>Затрудненное дыхание</SGelhuman.stages.0.label>
+  <SGelhuman.stages.1.label>Дрожь</SGelhuman.stages.1.label>
+  <SGelhuman.stages.2.label>Сотрясение</SGelhuman.stages.2.label>
+  <SGelhuman.stages.3.label>Конвульсии</SGelhuman.stages.3.label>
+  <SGelhuman.stages.4.label>Схватки</SGelhuman.stages.4.label>
+
+
+  <!-- HediffAndroid -->
+
+  <SGelandroid.label>Структурный гель</SGelandroid.label>
+  <SGelandroid.description>Смесь аминокислот и механитов, проходящая через трубопровод охлаждающей жидкости, помогает поддерживать внутренние компоненты для лучшей производительности.</SGelandroid.description>
+  <SGelandroid.stages.0.label>Малый эффект</SGelandroid.stages.0.label>
+  <SGelandroid.stages.1.label>Потеря эффекта</SGelandroid.stages.1.label>
+  <SGelandroid.stages.2.label>Мягкий эффект</SGelandroid.stages.2.label>
+  <SGelandroid.stages.3.label>Эффективный</SGelandroid.stages.3.label>
+  <SGelandroid.stages.4.label>Пик</SGelandroid.stages.4.label>
+
+  <Toxicated.label>Токсины</Toxicated.label>
+  <Toxicated.description>Токсичные соединения попадающие в кровь, вызывают затрудненное дыхание и рвоту.</Toxicated.description>
+  <Toxicated.stages.0.label>Затрудненное дыхание</Toxicated.stages.0.label>
+  <Toxicated.stages.1.label>Тошнота</Toxicated.stages.1.label>
+  <Toxicated.stages.2.label>Заболевание</Toxicated.stages.2.label>
+  <Toxicated.stages.3.label>Рвота</Toxicated.stages.3.label>
+  <Toxicated.stages.4.label>Хроническое</Toxicated.stages.4.label>
+
+  <AFreezeandroid.label>Полимерный антифриз</AFreezeandroid.label>
+  <AFreezeandroid.description>Антифриз на полимерной основе внутри трубок с охлаждающей жидкостью. Помогает регулировать температуру как для горячей, так и для холодной окружающей среды.</AFreezeandroid.description>
+  <AFreezeandroid.stages.0.label>Малый эффект</AFreezeandroid.stages.0.label>
+  <AFreezeandroid.stages.1.label>Потеря эффекта</AFreezeandroid.stages.1.label>
+  <AFreezeandroid.stages.2.label>Мягкий эффект</AFreezeandroid.stages.2.label>
+  <AFreezeandroid.stages.3.label>Эффективный</AFreezeandroid.stages.3.label>
+  <AFreezeandroid.stages.4.label>Пик</AFreezeandroid.stages.4.label>
+
+  <MechSwarmandroid.label>Механический рой</MechSwarmandroid.label>
+  <MechSwarmandroid.description>Нано-механиты, проходящие через трубки охлаждающей жидкости. Помогает поддерживать максимальную производительность внутренних компонентов.</MechSwarmandroid.description>
+  <MechSwarmandroid.stages.0.label>Малый эффект</MechSwarmandroid.stages.0.label>
+  <MechSwarmandroid.stages.1.label>Потеря эффекта</MechSwarmandroid.stages.1.label>
+  <MechSwarmandroid.stages.2.label>Мягкий эффект</MechSwarmandroid.stages.2.label>
+  <MechSwarmandroid.stages.3.label>Эффективный</MechSwarmandroid.stages.3.label>
+  <MechSwarmandroid.stages.4.label>Пик</MechSwarmandroid.stages.4.label>
+
+  <Conversion.label>???</Conversion.label>
+  <Conversion.description>Фрактальные соединения в кровотоке. Вызывает судороги, обильную рвоту и резкое повреждение кожи из-за сильного воспаления тканей.</Conversion.description>
+  <Conversion.stages.0.label>Судороги</Conversion.stages.0.label>
+  <Conversion.stages.1.label>Припадки</Conversion.stages.1.label>
+  <Conversion.stages.2.label>Коллапс</Conversion.stages.2.label>
+  <Conversion.stages.3.label>Преобразование</Conversion.stages.3.label>
+
+  <FractalPillAndroid.label>Фрактальный усилитель</FractalPillAndroid.label>
+  <FractalPillAndroid.description>Фрактальные соединения внутри трубок с охлаждающей жидкостью. Значительно повышает эффективность и мощность любых действий.</FractalPillAndroid.description>
+  <FractalPillAndroid.stages.0.label>Незначительный эффект</FractalPillAndroid.stages.0.label>
+  <FractalPillAndroid.stages.1.label>I</FractalPillAndroid.stages.1.label>
+  <FractalPillAndroid.stages.2.label>II</FractalPillAndroid.stages.2.label>
+  <FractalPillAndroid.stages.3.label>III</FractalPillAndroid.stages.3.label>
+  <FractalPillAndroid.stages.4.label>IV</FractalPillAndroid.stages.4.label>
+  <FractalPillAndroid.stages.5.label>V</FractalPillAndroid.stages.5.label>
+  <FractalPillAndroid.stages.6.label>VI</FractalPillAndroid.stages.6.label>
+  <FractalPillAndroid.stages.7.label>VII</FractalPillAndroid.stages.7.label>
+  <FractalPillAndroid.stages.8.label>VIII</FractalPillAndroid.stages.8.label>
+  <FractalPillAndroid.stages.9.label>IX</FractalPillAndroid.stages.9.label>
+  <FractalPillAndroid.stages.10.label>X</FractalPillAndroid.stages.10.label>
+  <FractalPillAndroid.stages.11.label>XI</FractalPillAndroid.stages.11.label>
+  <FractalPillAndroid.stages.12.label>XII</FractalPillAndroid.stages.12.label>
+  <FractalPillAndroid.stages.13.label>XIII</FractalPillAndroid.stages.13.label>
+  <FractalPillAndroid.stages.14.label>XIV</FractalPillAndroid.stages.14.label>
+  <FractalPillAndroid.stages.15.label>XV</FractalPillAndroid.stages.15.label>
+  <FractalPillAndroid.stages.16.label>XVI</FractalPillAndroid.stages.16.label>
+  <FractalPillAndroid.stages.17.label>XVII</FractalPillAndroid.stages.17.label>
+  <FractalPillAndroid.stages.18.label>XVIII</FractalPillAndroid.stages.18.label>
+  <FractalPillAndroid.stages.19.label>XIX</FractalPillAndroid.stages.19.label>
+  <FractalPillAndroid.stages.20.label>XX</FractalPillAndroid.stages.20.label>
+  <FractalPillAndroid.stages.21.label>Максимум</FractalPillAndroid.stages.21.label>
+
+
+  <!-- Regen Pill -->
+
+  <RegenHumanoid.label>Моно-Мазь(Люди)</RegenHumanoid.label>
+  <RegenHumanoid.description>Активные регенеративные растворители в кровотоке. Способствует регенерации основных клеток.</RegenHumanoid.description>
+  <RegenHumanoid.stages.0.label>Затрудненное дыхание</RegenHumanoid.stages.0.label>
+  <RegenHumanoid.stages.1.label>Слабый</RegenHumanoid.stages.1.label>
+  <RegenHumanoid.stages.2.label>Средний</RegenHumanoid.stages.2.label>
+  <RegenHumanoid.stages.3.label>Сильный</RegenHumanoid.stages.3.label>
+  <RegenHumanoid.stages.4.label>Максимум</RegenHumanoid.stages.4.label>
+
+
+  <!-- HediffAndroid -->
+
+  <RegenAndroid.label>Моно-Мазь(Андроиды)</RegenAndroid.label>
+  <RegenAndroid.description>Активные регенеративные растворители в трубках охлаждающей жидкости. Способствуют авторемонту механизмов.</RegenAndroid.description>
+
+
+</LanguageData>

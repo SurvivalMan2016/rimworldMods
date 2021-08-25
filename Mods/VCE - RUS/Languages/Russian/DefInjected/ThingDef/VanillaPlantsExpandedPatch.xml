@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_Ketchup.label>кетчуп</VCE_Ketchup.label>
+  <VCE_Ketchup.description>Густой соус из тушеных томатов, соленый и острый, со сладким послевкусием. Идеально подходит для мясных и жареных блюд.</VCE_Ketchup.description>
+
+  <VCE_HotSauce.label>острый соус</VCE_HotSauce.label>
+  <VCE_HotSauce.description>Острый соус, приготовленный из тушеного перца и других специй. Хотя такие острые соусы вредят организму поначалу, они, как известно, притупляют боль и согревают вскоре после употребления.</VCE_HotSauce.description>
+
+</LanguageData>

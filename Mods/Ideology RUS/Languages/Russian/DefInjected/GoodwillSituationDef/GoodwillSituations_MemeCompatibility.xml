@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal personhood agreement -->
+  <AnimalPersonhood_AnimalPersonhood.label>соглашение о личности животного</AnimalPersonhood_AnimalPersonhood.label>
+  
+  <!-- EN: cannibalism agreement -->
+  <Cannibal_Cannibal.label>соглашение о каннибализме</Cannibal_Cannibal.label>
+  
+  <!-- EN: cannibal vs flesh purity -->
+  <Cannibal_FleshPurity.label>каннибал против чистоты плоти</Cannibal_FleshPurity.label>
+  
+  <!-- EN: cannibal vs pain is virtue -->
+  <Cannibal_PainIsVirtue.label>каннибал против боль - это добродетель</Cannibal_PainIsVirtue.label>
+  
+  <!-- EN: collectivist agreement -->
+  <Collectivist_Collectivist.label>коллективистское соглашение</Collectivist_Collectivist.label>
+  
+  <!-- EN: collectivist vs individualist -->
+  <Collectivist_Individualist.label>коллективист против индивидуализма</Collectivist_Individualist.label>
+  
+  <!-- EN: female supremacy agreement -->
+  <FemaleSupremacy_FemaleSupremacy.label>соглашение о женском превосходстве</FemaleSupremacy_FemaleSupremacy.label>
+  
+  <!-- EN: female supremacy vs individualist -->
+  <FemaleSupremacy_Individualist.label>женское превосходство против индивидуализма</FemaleSupremacy_Individualist.label>
+  
+  <!-- EN: female supremacy vs male supremacy -->
+  <FemaleSupremacy_MaleSupremacy.label>женское превосходство против мужского превосходства</FemaleSupremacy_MaleSupremacy.label>
+  
+  <!-- EN: flesh purity agreement -->
+  <FleshPurity_FleshPurity.label>соглашение о чистоте мяса</FleshPurity_FleshPurity.label>
+  
+  <!-- EN: flesh purity vs transhumanist -->
+  <FleshPurity_Transhumanist.label>чистота плоти против трансгуманизма</FleshPurity_Transhumanist.label>
+  
+  <!-- EN: guilty -->
+  <Guilty_All.label>виновный</Guilty_All.label>
+  
+  <!-- EN: high life vs flesh purity -->
+  <HighLife_FleshPurity.label>роскошная жизнь против чистоты плоти</HighLife_FleshPurity.label>
+  
+  <!-- EN: high life agreement -->
+  <HighLife_HighLife.label>соглашение о роскошной жизни</HighLife_HighLife.label>
+  
+  <!-- EN: human primacy vs animal personhood -->
+  <HumanPrimacy_AnimalPersonhood.label>первенство человека над животной личностью</HumanPrimacy_AnimalPersonhood.label>
+  
+  <!-- EN: human primacy vs flesh purity -->
+  <HumanPrimacy_FleshPurity.label>первенство человека над чистотой плоти</HumanPrimacy_FleshPurity.label>
+  
+  <!-- EN: human primacy agreement -->
+  <HumanPrimacy_HumanPrimacy.label>соглашение о первенстве человека</HumanPrimacy_HumanPrimacy.label>
+  
+  <!-- EN: human primacy vs transhumanist -->
+  <HumanPrimacy_Transhumanist.label>человеческое превосходство против трансгуманизма</HumanPrimacy_Transhumanist.label>
+  
+  <!-- EN: individualist vs cannibal -->
+  <Individualist_Cannibal.label>индивидуалист против каннибала</Individualist_Cannibal.label>
+  
+  <!-- EN: individualist agreement -->
+  <Individualist_Individualist.label>индивидуалистическое соглашение</Individualist_Individualist.label>
+  
+  <!-- EN: individualist vs proselytizer -->
+  <Individualist_Proselytizer.label>индивидуалист против прозелитизера</Individualist_Proselytizer.label>
+  
+  <!-- EN: loyalist -->
+  <Loyalist_All.label>лоялист</Loyalist_All.label>
+  
+  <!-- EN: male supremacy vs individualist -->
+  <MaleSupremacy_Individualist.label>мужское превосходство против индивидуализма</MaleSupremacy_Individualist.label>
+  
+  <!-- EN: male supremacy agreement -->
+  <MaleSupremacy_MaleSupremacy.label>соглашение о мужском превосходстве</MaleSupremacy_MaleSupremacy.label>
+  
+  <!-- EN: nature primacy vs animal personhood -->
+  <NaturePrimacy_AnimalPersonhood.label>первенство природы против личности животного</NaturePrimacy_AnimalPersonhood.label>
+  
+  <!-- EN: nature primacy vs human primacy -->
+  <NaturePrimacy_HumanPrimacy.label>первенство природы против первенства человека</NaturePrimacy_HumanPrimacy.label>
+  
+  <!-- EN: nature primacy agreement -->
+  <NaturePrimacy_NaturePrimacy.label>соглашение о первенстве природы</NaturePrimacy_NaturePrimacy.label>
+  
+  <!-- EN: nature primacy vs transhumanist -->
+  <NaturePrimacy_Transhumanist.label>первенство природы против трансгуманизма</NaturePrimacy_Transhumanist.label>
+  
+  <!-- EN: nudism agreement -->
+  <Nudism_Nudism.label>соглашение о нудизме</Nudism_Nudism.label>
+  
+  <!-- EN: pain is virtue agreement -->
+  <PainIsVirtue_PainIsVirtue.label>соглашение о боль - это добродетель</PainIsVirtue_PainIsVirtue.label>
+  
+  <!-- EN: raider -->
+  <Raider_All.label>рейдер</Raider_All.label>
+  
+  <!-- EN: rancher vs animal personhood -->
+  <Rancher_AnimalPersonhood.label>скотоводство против личности животного</Rancher_AnimalPersonhood.label>
+  
+  <!-- EN: rancher vs nature primacy -->
+  <Rancher_NaturePrimacy.label>скотоводство против первенства природы</Rancher_NaturePrimacy.label>
+  
+  <!-- EN: both follow<x> {0_name}</x> -->
+  <SameIdeo.label>оба следуют {0_name}</SameIdeo.label>
+  
+  <!-- EN: supremacist -->
+  <Supremacist_All.label>сторонник превосходства</Supremacist_All.label>
+  
+  <!-- EN: transhumanist agreement -->
+  <Transhumanist_Transhumanist.label>соглашение о трансгуманизме</Transhumanist_Transhumanist.label>
+  
+</LanguageData>

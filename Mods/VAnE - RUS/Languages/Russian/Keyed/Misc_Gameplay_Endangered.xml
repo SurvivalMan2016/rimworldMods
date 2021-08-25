@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Misc -->
+
+  <VAEE.ReleaseIntoWild>Отпустить на волю</VAEE.ReleaseIntoWild>
+  <VAEE.ReleaseIntoWildDesc>Отпустите это животное в дикую природу и укрепите отношения с племенами и чужеземными фракциями.</VAEE.ReleaseIntoWildDesc>
+  <VAEE.ReleaseToRepopulate>Отпустить для репопуляции</VAEE.ReleaseToRepopulate>
+  <VAEE.ReleaseToRepopulateDesc>Выпустите это животное в дикую природу для репопуляции и укрепите отношения с племенами и чужеземными фракциями.</VAEE.ReleaseToRepopulateDesc>
+  <VAEE.LetterLabelExtintAnimalsPasses>Животные исчезающего вида</VAEE.LetterLabelExtintAnimalsPasses>
+  <VAEE.LetterExtintAnimalsPasses>Пара {0}, находящихся под угрозой исчезновения, забрела в этот район.\n\nОни легко могут стать добычей более крупных хищников и браконьеров, но вы можете приручить их и увести в безопасное место.\n\nВыпустив таких животных в дикую природу вы улучшите отношения с племенами и чужеземными фракциями.</VAEE.LetterExtintAnimalsPasses>
+  <VAEE.LetterExtintAnimalsPassesRepopulate>Пара {0}, находящихся под угрозой исчезновения, забрела в этот район.\n\nОни легко могут стать добычей более крупных хищников и браконьеров, но вы можете приручить их и увести в безопасное место.\n\nВыпустив таких животных в дикую природу для репопуляции вы улучшите отношения с племенами и чужеземными фракциями.</VAEE.LetterExtintAnimalsPassesRepopulate>
+  <VAEE.ReleasingToTheWildMessage>Отпустив животное исчезающего вида в дикую природу, вы улучшили отношения с племенами и чужеземными фракциями на +2.</VAEE.ReleasingToTheWildMessage>
+  <VAEE.ReleasingToTheWildMessageRepopulate>Отпустив животное исчезающего вида в дикую природу для репопуляции, вы улучшили отношения с племенами и чужеземными фракциями на +2.</VAEE.ReleasingToTheWildMessageRepopulate>
+  <VAEE.ReleasingToTheWildConfirmation>Отпустить на волю\n\nОтпустить животное на волю означает, что вы больше никогда его не увидите, так как животное уйдет за пределы карты.</VAEE.ReleasingToTheWildConfirmation>
+  <VAEE.ReleasingToTheWildConfirmationRepopulate>Отпустить на волю для репопуляции\n\nОтпустить животное на волю для репопуляции означает, что вы больше никогда его не увидите, так как животное уйдет за пределы карты.</VAEE.ReleasingToTheWildConfirmationRepopulate>
+  <VAEE.Cancel>Отмена</VAEE.Cancel>
+  <VAEE.AddBanishGizmoToAllAnimals>Добавить кнопку "Отпустить на волю" для всех животных</VAEE.AddBanishGizmoToAllAnimals>
+  <VAEE.AddBanishGizmoToAllAnimalsRepopulate>Добавить кнопку "Отпустить для репопуляции" для всех животных</VAEE.AddBanishGizmoToAllAnimalsRepopulate>
+
+
+</LanguageData>

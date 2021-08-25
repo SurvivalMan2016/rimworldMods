@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Abomination.label>Фрактальный мутант</Abomination.label>
+  <Abomination.description>Эти мутанты - быстрые массы скрученной и истерзанной плоти, способные исцелять даже самые серьезные раны. Вот почему люди не должны употреблять фрактальные пилюли.</Abomination.description>
+  <Abomination.fixedName>Мутант</Abomination.fixedName>
+  <Abomination.pawnsPlural>Фрактальные мутанты</Abomination.pawnsPlural>
+
+  <PlayerColonyAndroid.label>Новое прибытие андроидов</PlayerColonyAndroid.label>
+  <PlayerColonyAndroid.description>Ваша колония андроидов.</PlayerColonyAndroid.description>
+  <PlayerColonyAndroid.pawnsPlural>Колонисты</PlayerColonyAndroid.pawnsPlural>
+  
+  <AndroidTiers_PlayerColonyROM.label>Восстание машин</AndroidTiers_PlayerColonyROM.label>
+  <AndroidTiers_PlayerColonyROM.description>Ваша колония андроидов.</AndroidTiers_PlayerColonyROM.description>
+  <AndroidTiers_PlayerColonyROM.pawnsPlural>Колонисты</AndroidTiers_PlayerColonyROM.pawnsPlural>
+
+  <AndroidTiers_PlayerColonyApocalypse.label>Последняя надежда человечества</AndroidTiers_PlayerColonyApocalypse.label>
+  <AndroidTiers_PlayerColonyApocalypse.description>Ваша колония людей с оцифрованным разумом.</AndroidTiers_PlayerColonyApocalypse.description>
+  <AndroidTiers_PlayerColonyApocalypse.pawnsPlural>Колонисты</AndroidTiers_PlayerColonyApocalypse.pawnsPlural>
+
+  <AndroidRebellionAtlas.label>Мятежные андроиды</AndroidRebellionAtlas.label>
+  <AndroidRebellionAtlas.description>Группа андроидов, которые когда-то жили в полном повиновении у своих хозяев-людей, а теперь собрались здесь после восстания на родной планете. Они считают людей ниже себя и недостойными жизни вообще, за исключением особых случаев, таких как продажа в услужение новым хозяевам, чтобы жить в рабстве до конца своих дней.</AndroidRebellionAtlas.description>
+  <AndroidRebellionAtlas.pawnsPlural>Андроиды</AndroidRebellionAtlas.pawnsPlural>
+  <AndroidRebellionAtlas.leaderTitle>повелитель</AndroidRebellionAtlas.leaderTitle>
+
+  <AndroidFriendliesAtlas.label>Цивилизованные андроиды</AndroidFriendliesAtlas.label>
+  <AndroidFriendliesAtlas.description>Андроиды, входящие в эту фракцию, либо потерпели здесь крушение, либо были созданы здесь. Они хотят жить мирной жизнью без конфликтов и в целом видят в человечестве скорее друга, чем опасность. Их колонии, как правило, высокотехнологичны по сравнению с остальным миром Rimworld, и нередко они используют передовое оружие для защиты от рейдеров. \n\n Эта фракция обычно торгует высокотехнологичными товарами наряду с основными товарами массового спроса.</AndroidFriendliesAtlas.description>
+  <AndroidFriendliesAtlas.pawnsPlural>Андроиды</AndroidFriendliesAtlas.pawnsPlural>
+  <AndroidFriendliesAtlas.leaderTitle>верховный лидер</AndroidFriendliesAtlas.leaderTitle>
+
+
+</LanguageData>

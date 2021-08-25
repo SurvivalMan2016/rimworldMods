@@ -1,0 +1,578 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <!--[ Power Receptors ]-->
+  <ThingDef Name="ARKPPP_WirelessPowerReceptorBase" ParentName="BuildingBase" Abstract="True">
+	<altitudeLayer>Building</altitudeLayer>
+	<thingClass>Building</thingClass>
+    <passability>Impassable</passability>
+    <pathCost>70</pathCost>
+    <blockWind>true</blockWind>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>0.40</fillPercent>
+    <tickerType>Normal</tickerType>
+	<rotatable>false</rotatable>
+	<comps>
+		<li Class="CompProperties_Breakdownable"/>
+		<li Class="CompProperties_Power">
+			<compClass>aRandomKiwi.PPP.CompWirelessPowerPlantReceptor</compClass>
+			<basePowerConsumption>-0</basePowerConsumption>
+			<transmitsPower>true</transmitsPower>
+		</li>
+		<li Class="CompProperties_Flickable"/>
+	</comps>
+    <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+    <designationCategory>Power</designationCategory>
+    <constructEffect>ConstructMetal</constructEffect>
+    <canOverlapZones>false</canOverlapZones>
+  </ThingDef>
+  
+  <ThingDef ParentName="ARKPPP_WirelessPowerReceptorBase">
+	<defName>ARKPPP_WirelessPowerReceptor</defName>
+	<label>WPN receiver</label>
+	<description>A wireless power receiver generator. Require to be connected to a valid WPN to provide power.</description>
+    <graphicData>
+      <texPath>Buildings/PowerReceptor</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(4, 4)</drawSize>
+      <shadowData>
+        <volume>(1.4, 0.4, 1.4)</volume>
+        <offset>(0,0,-0.1)</offset>
+      </shadowData>
+    </graphicData>
+	<uiIconPath>Buildings/PowerReceptor</uiIconPath>
+    <altitudeLayer>Building</altitudeLayer>
+	<fillPercent>0.5</fillPercent>
+	<statBases>
+	  <MaxHitPoints>450</MaxHitPoints>
+	  <WorkToBuild>3300</WorkToBuild>
+	  <Flammability>0.5</Flammability>
+	  <Beauty>-8</Beauty>
+	</statBases>
+    <tickerType>Normal</tickerType>
+	<size>(4,4)</size>
+	<selectable>true</selectable>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+	<building>
+		<allowAutoroof>false</allowAutoroof>
+	</building>
+	<costList>
+	  <Steel>500</Steel>
+	  <Plasteel>125</Plasteel>
+	  <Gold>35</Gold>
+      <ComponentIndustrial>12</ComponentIndustrial>
+	  <ComponentSpacer>2</ComponentSpacer>
+	</costList>
+    <designationHotKey>Misc7</designationHotKey>
+    <researchPrerequisites>
+      <li>Electricity</li>
+	  <li>ARKPPP_WirelessPowerLongRangeResearch</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>10</constructionSkillPrerequisite>
+  </ThingDef>
+  
+  <ThingDef ParentName="ARKPPP_WirelessPowerReceptorBase">
+	<defName>ARKPPP_WirelessPortablePowerReceptor</defName>
+	<label>Portable WPN receiver</label>
+	<description>A portable wireless power receiver generator. Require to be connected to a valid WPN to provide power. Limited to 3000W maximum because of its small dimensions.</description>
+    <graphicData>
+      <texPath>Buildings/PPowerReceptor</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2, 2)</drawSize>
+      <shadowData>
+        <volume>(0.7, 0.2, 0.7)</volume>
+        <offset>(0,0,-0.1)</offset>
+      </shadowData>
+    </graphicData>
+	<uiIconPath>Buildings/PPowerReceptor</uiIconPath>
+    <altitudeLayer>Building</altitudeLayer>
+    <blockWind>false</blockWind>
+	<fillPercent>0.5</fillPercent>
+	<minifiedDef>MinifiedThing</minifiedDef>
+	<thingCategories>
+      <li>BuildingsMisc</li>
+	</thingCategories>
+	<statBases>
+	  <Mass>15</Mass>
+	  <MaxHitPoints>250</MaxHitPoints>
+	  <WorkToBuild>2200</WorkToBuild>
+	  <Flammability>0.5</Flammability>
+	  <Beauty>-8</Beauty>
+	</statBases>
+    <tickerType>Normal</tickerType>
+	<size>(2,2)</size>
+	<selectable>true</selectable>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+    <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+	<building>
+    <allowAutoroof>false</allowAutoroof>
+	</building>
+	<costList>
+	  <Steel>250</Steel>
+	  <Plasteel>35</Plasteel>
+	  <Gold>15</Gold>
+      <ComponentIndustrial>8</ComponentIndustrial>
+	  <ComponentSpacer>1</ComponentSpacer>
+	</costList>
+    <designationHotKey>Misc7</designationHotKey>
+    <researchPrerequisites>
+      <li>Electricity</li>
+	  <li>ARKPPP_WirelessPowerLongRangePortableReceptorResearch</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>10</constructionSkillPrerequisite>
+  </ThingDef>
+  
+  <!--[ Power Emitters ]-->
+  
+  <ThingDef Name="ARKPPP_WirelessPowerEmitterBase" ParentName="BuildingBase" Abstract="True">
+	<thingClass>Building</thingClass>
+	<altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <blockWind>true</blockWind>
+    <fillPercent>1</fillPercent>
+	<building>
+		<allowAutoroof>false</allowAutoroof>
+	</building>
+	<rotatable>false</rotatable>
+	<size>(6,6)</size>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <designationCategory>Power</designationCategory>
+    <constructEffect>ConstructMetal</constructEffect>
+    <designationHotKey>Misc6</designationHotKey>
+    <canOverlapZones>false</canOverlapZones>
+    <constructionSkillPrerequisite>10</constructionSkillPrerequisite>
+	<comps>
+		<li Class="CompProperties_Flickable"/>
+		<li Class="CompProperties_Breakdownable"/>
+		<li Class="aRandomKiwi.PPP.CompProperties_WirelessPowerEmitter">
+		</li>
+	</comps>
+  </ThingDef>
+  
+  <ThingDef ParentName="ARKPPP_WirelessPowerEmitterBase">
+    <defName>ARKPPP_WirelessPowerEmitter</defName>
+    <label>WPN emitter</label>
+    <description>A wireless emitter device used to broadcast over long distance a WPN. Caution this device is sensitive to weather conditions (thunderstorms)</description>
+    <graphicData>
+      <texPath>Buildings/Emitter1</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(6,6)</drawSize>
+      <shadowData>
+        <volume>(6.03,1.0,5.25)</volume>
+        <offset>(0,0,-0.25)</offset>
+      </shadowData>
+    </graphicData>
+    <statBases>
+      <WorkToBuild>4200</WorkToBuild>
+      <MaxHitPoints>800</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <comps>
+	  <li Class="CompProperties_Power">
+		<compClass>CompPowerTrader</compClass>
+		<shortCircuitInRain>false</shortCircuitInRain>
+		<basePowerConsumption>3000</basePowerConsumption>
+	  </li>
+    </comps>
+	<costList>
+      <Steel>550</Steel>
+	  <Silver>350</Silver>
+	  <Plasteel>75</Plasteel>
+	  <Gold>50</Gold>
+      <ComponentIndustrial>18</ComponentIndustrial>
+	  <ComponentSpacer>1</ComponentSpacer>
+    </costList>
+    <researchPrerequisites>
+      <li>Electricity</li>
+	  <li>ARKPPP_WirelessPowerLongRangeResearch</li>
+    </researchPrerequisites>
+  </ThingDef>
+  
+  <ThingDef ParentName="ARKPPP_WirelessPowerEmitterBase">
+    <defName>ARKPPP_WirelessPowerEmitterAdvanced</defName>
+    <label>Advanced WPN emitter</label>
+    <description>A wireless emitter device used to broadcast over long distance a WPN.</description>
+    <graphicData>
+      <texPath>Buildings/Emitter2</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(6,6)</drawSize>
+      <shadowData>
+        <volume>(6.03,1.0,5.25)</volume>
+        <offset>(0,0,-0.25)</offset>
+      </shadowData>
+    </graphicData>
+    <statBases>
+      <WorkToBuild>5200</WorkToBuild>
+      <MaxHitPoints>1000</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+    </statBases>
+	<constructionSkillPrerequisite>12</constructionSkillPrerequisite>
+    <comps>
+	  <li Class="CompProperties_Power">
+		<compClass>CompPowerTrader</compClass>
+		<shortCircuitInRain>false</shortCircuitInRain>
+		<basePowerConsumption>600</basePowerConsumption>
+	  </li>
+    </comps>
+	<costList>
+      <Steel>850</Steel>
+	  <Silver>1200</Silver>
+	  <Plasteel>250</Plasteel>
+	  <Gold>150</Gold>
+      <ComponentIndustrial>24</ComponentIndustrial>
+	  <ComponentSpacer>3</ComponentSpacer>
+    </costList>
+    <researchPrerequisites>
+      <li>Electricity</li>
+	  <li>ARKPPP_WirelessPowerLongRangeAdvancedResearch</li>
+    </researchPrerequisites>
+  </ThingDef>
+  
+  <!--[ Local Wireless power emitter ]-->
+  
+  <ThingDef ParentName="BuildingBase">
+    <defName>ARKPPP_LocalWirelessPowerEmitter</defName>
+    <label>LWPN emitter</label>
+    <description>A device used to build local (on the current map) wireless powergrid (LWPN), which allow to connect every electrical devices without cables</description>
+    <graphicData>
+      <texPath>Buildings/LocalWirelessPowerEmiter</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(6,6)</drawSize>
+      <shadowData>
+        <volume>(6.03,1.0,5.25)</volume>
+        <offset>(0,0,-0.25)</offset>
+      </shadowData>
+    </graphicData>
+	<rotatable>false</rotatable>
+    <statBases>
+      <WorkToBuild>5200</WorkToBuild>
+      <MaxHitPoints>800</MaxHitPoints>
+      <Flammability>0.5</Flammability>
+    </statBases>
+	<costList>
+      <Steel>1000</Steel>
+	  <Silver>550</Silver>
+	  <Plasteel>350</Plasteel>
+	  <Gold>100</Gold>
+      <ComponentIndustrial>24</ComponentIndustrial>
+	  <ComponentSpacer>6</ComponentSpacer>
+    </costList>
+		<thingClass>Building</thingClass>
+	<altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <blockWind>true</blockWind>
+    <fillPercent>1</fillPercent>
+	<building>
+		<allowAutoroof>false</allowAutoroof>
+		<allowWireConnection>false</allowWireConnection>
+	</building>
+	<size>(6,6)</size>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <designationCategory>Power</designationCategory>
+    <constructEffect>ConstructMetal</constructEffect>
+    <designationHotKey>Misc6</designationHotKey>
+    <canOverlapZones>false</canOverlapZones>
+    <constructionSkillPrerequisite>10</constructionSkillPrerequisite>
+	<comps>
+		<li Class="aRandomKiwi.PPP.CompProperties_LocalWirelessPowerEmitter">
+			<compClass>aRandomKiwi.PPP.CompLocalWirelessPowerEmitter</compClass>
+		</li>
+		<li Class="CompProperties_Power">
+			<compClass>CompPowerTrader</compClass>
+			<shortCircuitInRain>false</shortCircuitInRain>
+			<basePowerConsumption>3200</basePowerConsumption>
+			<transmitsPower>true</transmitsPower>
+		</li>
+		<li Class="CompProperties_Flickable"/>
+		<li Class="CompProperties_Breakdownable"/>
+	</comps>
+    <researchPrerequisites>
+      <li>Electricity</li>
+	  <li>ARKPPP_WirelessPowerShortRangeResearch</li>
+    </researchPrerequisites>
+  </ThingDef>
+  
+  <ThingDef ParentName="BuildingBase">
+    <defName>ARKPPP_LocalWirelessPortablePowerEmitter</defName>
+    <label>Portale LWPN emitter</label>
+    <description>A portable device used to build local (on the current map) wireless powergrid (LWPN), which allow to connect every electrical devices without cables. Caution because of its small dimensions, it can handle limited wireless devices</description>
+    <graphicData>
+      <texPath>Buildings/PWirelessPowerEmiter</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+      <shadowData>
+        <volume>(0.7, 0.2, 0.7)</volume>
+        <offset>(0,0,-0.1)</offset>
+      </shadowData>
+    </graphicData>
+	<rotatable>false</rotatable>
+	<minifiedDef>MinifiedThing</minifiedDef>
+	<thingCategories>
+      <li>BuildingsMisc</li>
+	</thingCategories>
+    <statBases>
+	  <Mass>15</Mass>
+      <WorkToBuild>3800</WorkToBuild>
+      <MaxHitPoints>500</MaxHitPoints>
+      <Flammability>0.5</Flammability>
+    </statBases>
+	<costList>
+      <Steel>350</Steel>
+	  <Plasteel>60</Plasteel>
+	  <Gold>50</Gold>
+      <ComponentIndustrial>16</ComponentIndustrial>
+	  <ComponentSpacer>2</ComponentSpacer>
+    </costList>
+		<thingClass>Building</thingClass>
+	<altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <blockWind>true</blockWind>
+    <fillPercent>1</fillPercent>
+	<building>
+		<allowAutoroof>false</allowAutoroof>
+		<allowWireConnection>false</allowWireConnection>
+	</building>
+	<size>(2,2)</size>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <designationCategory>Power</designationCategory>
+    <constructEffect>ConstructMetal</constructEffect>
+    <designationHotKey>Misc6</designationHotKey>
+    <canOverlapZones>false</canOverlapZones>
+    <constructionSkillPrerequisite>10</constructionSkillPrerequisite>
+	<comps>
+		<li Class="aRandomKiwi.PPP.CompProperties_LocalWirelessPowerEmitter">
+			<compClass>aRandomKiwi.PPP.CompLocalWirelessPowerEmitter</compClass>
+		</li>
+		<li Class="CompProperties_Power">
+			<compClass>CompPowerTrader</compClass>
+			<shortCircuitInRain>false</shortCircuitInRain>
+			<basePowerConsumption>450</basePowerConsumption>
+			<transmitsPower>true</transmitsPower>
+		</li>
+		<li Class="CompProperties_Flickable"/>
+		<li Class="CompProperties_Breakdownable"/>
+	</comps>
+    <researchPrerequisites>
+      <li>Electricity</li>
+	  <li>ARKPPP_WirelessPowerShortRangePortableResearch</li>
+    </researchPrerequisites>
+  </ThingDef>
+
+  
+  
+  
+  <!-- power beam absorption dish -->
+  
+  <ThingDef ParentName="BuildingBase">
+    <defName>ARKPPP_PowerBeamAbsorptionDish</defName>
+    <label>Absorption Dish</label>
+    <description>A giant absorption dish destined to gather power from the ancient satellites network</description>
+    <graphicData>
+      <texPath>Buildings/PowerBeamReceptor</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(24,24)</drawSize>
+      <shadowData>
+        <volume>(6.03,1.0,5.25)</volume>
+        <offset>(0,0,-0.25)</offset>
+      </shadowData>
+    </graphicData>
+	<rotatable>false</rotatable>
+    <statBases>
+      <WorkToBuild>82000</WorkToBuild>
+      <MaxHitPoints>2400</MaxHitPoints>
+      <Flammability>0.0</Flammability>
+    </statBases>
+	<tickerType>Normal</tickerType>
+	<costList>
+      <Steel>2400</Steel>
+	  <Plasteel>350</Plasteel>
+	  <Gold>150</Gold>
+      <ComponentIndustrial>24</ComponentIndustrial>
+	  <ComponentSpacer>6</ComponentSpacer>
+    </costList>
+		<thingClass>Building</thingClass>
+	<altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <blockWind>true</blockWind>
+    <fillPercent>1</fillPercent>
+	<building>
+		<allowAutoroof>false</allowAutoroof>
+		<allowWireConnection>false</allowWireConnection>
+	</building>
+	<size>(24,24)</size>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <designationCategory>Power</designationCategory>
+    <constructEffect>ConstructMetal</constructEffect>
+    <designationHotKey>Misc6</designationHotKey>
+    <canOverlapZones>false</canOverlapZones>
+    <constructionSkillPrerequisite>12</constructionSkillPrerequisite>
+	<drawerType>RealtimeOnly</drawerType>
+    <drawOffscreen>true</drawOffscreen>
+    <seeThroughFog>true</seeThroughFog>
+	<comps>
+		<!--<li Class="CompProperties_Refuelable">
+			<fuelConsumptionRate>2.5</fuelConsumptionRate>
+			<fuelCapacity>30.0</fuelCapacity>
+			<fuelFilter>
+			  <thingDefs>
+				<li>Plasteel</li>
+			  </thingDefs>
+			</fuelFilter>
+		</li>-->
+		<li Class="CompProperties_Power">
+			<compClass>aRandomKiwi.PPP.CompAD</compClass>
+			<basePowerConsumption>-500</basePowerConsumption>
+			<transmitsPower>true</transmitsPower>
+		</li>
+		<li Class="CompProperties_Flickable"/>
+		<li Class="CompProperties_Breakdownable"/>
+	</comps>
+	<placeWorkers>
+      <li>PlaceWorker_NotUnderRoof</li>
+    </placeWorkers>
+    <researchPrerequisites>
+      <li>Electricity</li>
+	  <li>ARKPPP_HackingSatelliteNetworkAD</li>
+    </researchPrerequisites>
+  </ThingDef>
+  
+  <!-- Satellite targeting computer -->
+    <ThingDef ParentName="BuildingBase">
+    <defName>ARKPPP_PowerBeamSatelliteTargetingSystem</defName>
+    <label>Satellite Targeting System</label>
+    <description>A supercomputer used to hack and control one of the ancient satellites. In addition to having to be constantly cooled, no abrupt desynchronization with the satellite should take place, because it can have very serious repercussions. Thus start and stop init sequences must always be respected !</description>
+    <graphicData>
+      <texPath>Buildings/SatelliteTargetingSystem</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(6,6)</drawSize>
+      <shadowData>
+        <volume>(6.03,1.0,5.25)</volume>
+        <offset>(0,0,-0.25)</offset>
+      </shadowData>
+    </graphicData>
+	<tickerType>Normal</tickerType>
+	<rotatable>false</rotatable>
+    <statBases>
+      <WorkToBuild>5200</WorkToBuild>
+      <MaxHitPoints>1200</MaxHitPoints>
+      <Flammability>0.1</Flammability>
+    </statBases>
+	<costList>
+      <Steel>650</Steel>
+	  <Plasteel>350</Plasteel>
+	  <Gold>100</Gold>
+      <ComponentIndustrial>36</ComponentIndustrial>
+	  <ComponentSpacer>4</ComponentSpacer>
+    </costList>
+		<thingClass>Building</thingClass>
+	<altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <blockWind>true</blockWind>
+    <fillPercent>1</fillPercent>
+	<building>
+		<allowAutoroof>false</allowAutoroof>
+		<allowWireConnection>false</allowWireConnection>
+	</building>
+	<size>(6,6)</size>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <designationCategory>Power</designationCategory>
+    <constructEffect>ConstructMetal</constructEffect>
+    <designationHotKey>Misc6</designationHotKey>
+    <canOverlapZones>false</canOverlapZones>
+    <constructionSkillPrerequisite>12</constructionSkillPrerequisite>
+	<comps>
+		<li>
+			<compClass>aRandomKiwi.PPP.CompSTS</compClass>
+		</li>
+		<li Class="aRandomKiwi.PPP.CompProperties_HeatSensitive">
+			<hot1>-15</hot1>
+			<hot2>-8</hot2>
+			<hot3>0</hot3>
+			<hotSoundDef>ARKPPP_Computer_Hot_Ambience</hotSoundDef>
+		</li>
+		<li Class="aRandomKiwi.PPP.CompProperties_Computer">
+			<ambiance>ARKPPP_Computer_Ambience</ambiance>
+		</li>
+		<li Class="CompProperties_HeatPusher">
+			<compClass>CompHeatPusherPowered</compClass>
+			<heatPerSecond>24</heatPerSecond>
+		</li>
+		<li Class="CompProperties_Glower">
+			<glowRadius>8</glowRadius>
+			<glowColor>(52,152,219,0)</glowColor>
+		</li>
+		<li Class="CompProperties_Power">
+			<compClass>CompPowerTrader</compClass>
+			<shortCircuitInRain>false</shortCircuitInRain>
+			<basePowerConsumption>850</basePowerConsumption>
+		</li>
+		<li Class="CompProperties_Flickable"/>
+		<li Class="CompProperties_Breakdownable"/>
+	</comps>
+    <researchPrerequisites>
+      <li>Electricity</li>
+	  <li>ARKPPP_HackingSatelliteNetworkSTS</li>
+    </researchPrerequisites>
+  </ThingDef>
+  
+  <!-- AD Relay Tower -->
+   <ThingDef ParentName="BuildingBase">
+    <defName>ARKPPP_ADRelayTower</defName>
+    <label>AD relay tower</label>
+    <description>Radio Antenna used to remotely connect one or more "Absorption Dishes"(ADs) to a Satelite Targetting System (STS) via the satelite network</description>
+    <graphicData>
+      <texPath>Buildings/CT</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,5)</drawSize>
+    </graphicData>
+	<tickerType>Normal</tickerType>
+	<rotatable>false</rotatable>
+    <statBases>
+      <WorkToBuild>3200</WorkToBuild>
+      <MaxHitPoints>320</MaxHitPoints>
+      <Flammability>0.1</Flammability>
+    </statBases>
+	<costList>
+      <Steel>140</Steel>
+      <ComponentIndustrial>4</ComponentIndustrial>
+	  <ComponentSpacer>1</ComponentSpacer> 
+    </costList>
+		<thingClass>Building</thingClass>
+	<altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <blockWind>true</blockWind>
+    <fillPercent>1</fillPercent>
+	<building>
+		<allowAutoroof>false</allowAutoroof>
+		<allowWireConnection>false</allowWireConnection>
+	</building>
+	<size>(3,5)</size>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <designationCategory>Power</designationCategory>
+    <constructEffect>ConstructMetal</constructEffect>
+    <designationHotKey>Misc6</designationHotKey>
+    <canOverlapZones>false</canOverlapZones>
+    <constructionSkillPrerequisite>12</constructionSkillPrerequisite>
+	<comps>
+		<li>
+			<compClass>aRandomKiwi.PPP.CompADRT</compClass>
+		</li>
+		<li Class="CompProperties_Glower">
+			<glowRadius>6</glowRadius>
+			<glowColor>(212,212,212,0)</glowColor>
+		</li>
+		<li Class="CompProperties_Power">
+			<compClass>CompPowerTrader</compClass>
+			<shortCircuitInRain>false</shortCircuitInRain>
+			<basePowerConsumption>450</basePowerConsumption>
+		</li>
+		<li Class="CompProperties_Flickable"/>
+		<li Class="CompProperties_Breakdownable"/>
+	</comps>
+    <researchPrerequisites>
+      <li>Electricity</li>
+	  <li>ARKPPP_HackingSatelliteNetworkADRT</li>
+    </researchPrerequisites>
+  </ThingDef>
+  
+</Defs>

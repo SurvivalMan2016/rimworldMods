@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_BrewLemonCoffee.label>сварить эспрессо романо</VBE_BrewLemonCoffee.label>
+  <VBE_BrewLemonCoffee.description>Сварить кислый кофе с украшением в виде дольки еще более кислого лимона, который добавит свой сок в напиток перед его употреблением. Вкус специфический, но у него есть свои любители.</VBE_BrewLemonCoffee.description>
+  <VBE_BrewLemonCoffee.jobString>Варит эспрессо романо.</VBE_BrewLemonCoffee.jobString>
+
+  <VBE_MakeLemonTea.label>заварить чай с лимоном</VBE_MakeLemonTea.label>
+  <VBE_MakeLemonTea.description>Заварить черный чай с нарезанным дольками сочным лимоном внутри, также украшенный лимоном сверху.</VBE_MakeLemonTea.description>
+  <VBE_MakeLemonTea.jobString>Заваривает чай с лимоном.</VBE_MakeLemonTea.jobString>
+  
+  <VBE_MakeEarlGreyTea.label>заварить чай Эрл Грей</VBE_MakeEarlGreyTea.label>
+  <VBE_MakeEarlGreyTea.description>Заварить очень крепкий и полусладкий фруктовый чай. Цветочные ноты образуют приятную палитру даже при самом тусклом запахе. Люди, выпившие этот напиток, испытывают странное желание колонизировать.</VBE_MakeEarlGreyTea.description>
+  <VBE_MakeEarlGreyTea.jobString>Заваривает чай Эрл Грей.</VBE_MakeEarlGreyTea.jobString>
+
+
+</LanguageData>

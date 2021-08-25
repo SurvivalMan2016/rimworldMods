@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_MakeCoffee.label>сварить кофе</VBE_MakeCoffee.label>
+  <VBE_MakeCoffee.description>Сварить теплый и горький напиток, в который обычно добавляют молоко и сахар. Фаворит среди студентов и офисных работников по всей галактике. Все благодаря высокому содержанию кофеина и приятному аромату.</VBE_MakeCoffee.description>
+  <VBE_MakeCoffee.jobString>Варит кофе.</VBE_MakeCoffee.jobString>
+
+</LanguageData>

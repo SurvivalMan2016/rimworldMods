@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingCategoryDef>
+    <defName>VMEu_AmmunitionCategory</defName>
+    <label>Turret ammunition</label>
+    <parent>Manufactured</parent>
+    <resourceReadoutRoot>false</resourceReadoutRoot>
+    <iconPath>Things/Item/Resource/VMEu_IndustrialAmmo/VMEu_IndustrialAmmo_c</iconPath>
+  </ThingCategoryDef>
+
+</Defs>

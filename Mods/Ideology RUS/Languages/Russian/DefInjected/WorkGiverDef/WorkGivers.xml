@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: change dryad types -->
+  <ChangeTreeMode.label>изменение типов дриад</ChangeTreeMode.label>
+  <!-- EN: changing dryad caste for -->
+  <ChangeTreeMode.gerund>смена касты дриад на</ChangeTreeMode.gerund>
+  <!-- EN: change dryad caste for -->
+  <ChangeTreeMode.verb>сменить касту дриад на</ChangeTreeMode.verb>
+  
+  <!-- EN: convert prisoners -->
+  <ConvertPrisoner.label>обращать заключенных</ConvertPrisoner.label>
+  <!-- EN: converting -->
+  <ConvertPrisoner.gerund>обращение</ConvertPrisoner.gerund>
+  <!-- EN: convert -->
+  <ConvertPrisoner.verb>обращать</ConvertPrisoner.verb>
+  
+  <!-- EN: emancipate slaves -->
+  <EmancipateSlave.label>освободить рабов</EmancipateSlave.label>
+  <!-- EN: emancipating -->
+  <EmancipateSlave.gerund>освобождение</EmancipateSlave.gerund>
+  <!-- EN: emancipate -->
+  <EmancipateSlave.verb>освободить</EmancipateSlave.verb>
+  
+  <!-- EN: enslave prisoners -->
+  <EnslavePrisoner.label>порабощать заключенных</EnslavePrisoner.label>
+  <!-- EN: enslaving -->
+  <EnslavePrisoner.gerund>порабощение</EnslavePrisoner.gerund>
+  <!-- EN: enslave -->
+  <EnslavePrisoner.verb>поработить</EnslavePrisoner.verb>
+  
+  <!-- EN: execute prisoners -->
+  <ExecuteSlave.label>казнить заключенных</ExecuteSlave.label>
+  <!-- EN: executing -->
+  <ExecuteSlave.gerund>казнь</ExecuteSlave.gerund>
+  <!-- EN: execute -->
+  <ExecuteSlave.verb>казнить</ExecuteSlave.verb>
+  
+  <!-- EN: extract skull -->
+  <ExtractSkull.label>извлечь череп</ExtractSkull.label>
+  <!-- EN: extracting skull of -->
+  <ExtractSkull.gerund>извлечение черепа из</ExtractSkull.gerund>
+  <!-- EN: extract -->
+  <ExtractSkull.verb>извлекать</ExtractSkull.verb>
+  
+  <!-- EN: carry to biosculpter pod -->
+  <HaulToBiosculpterPod.label>перенести в капсулу биоскульптора</HaulToBiosculpterPod.label>
+  <!-- EN: filling -->
+  <HaulToBiosculpterPod.gerund>заполнение</HaulToBiosculpterPod.gerund>
+  <!-- EN: fill -->
+  <HaulToBiosculpterPod.verb>наполнить</HaulToBiosculpterPod.verb>
+  
+  <!-- EN: imprison slaves -->
+  <ImprisonSlave.label>заключить рабов в тюрьму</ImprisonSlave.label>
+  <!-- EN: imprisoning -->
+  <ImprisonSlave.gerund>заключение в тюрьму</ImprisonSlave.gerund>
+  <!-- EN: imprison -->
+  <ImprisonSlave.verb>сажать в тюрьму</ImprisonSlave.verb>
+  
+  <!-- EN: plant seeds -->
+  <PlantSeed.label>посадить растения</PlantSeed.label>
+  <!-- EN: planting -->
+  <PlantSeed.gerund>посадка</PlantSeed.gerund>
+  <!-- EN: plant -->
+  <PlantSeed.verb>посадка</PlantSeed.verb>
+  
+  <!-- EN: prune Gauranlen trees -->
+  <PruneGauranlenTree.label>подрезать деревья Гауранлен</PruneGauranlenTree.label>
+  <!-- EN: pruning -->
+  <PruneGauranlenTree.gerund>обрезка</PruneGauranlenTree.gerund>
+  <!-- EN: prune -->
+  <PruneGauranlenTree.verb>подрезать</PruneGauranlenTree.verb>
+  
+  <!-- EN: suppress slaves -->
+  <SuppressSlave.label>подавлять рабов</SuppressSlave.label>
+  <!-- EN: suppressing -->
+  <SuppressSlave.gerund>подавление</SuppressSlave.gerund>
+  <!-- EN: suppress -->
+  <SuppressSlave.verb>подавлять</SuppressSlave.verb>
+  
+  <!-- EN: empty egg box -->
+  <EmptyEggBox.label>пустая коробка для яиц</EmptyEggBox.label>
+  <!-- EN: emptying -->
+  <EmptyEggBox.gerund>опустошать</EmptyEggBox.gerund>
+  <!-- EN: empty -->
+  <EmptyEggBox.verb>пустая</EmptyEggBox.verb>
+  
+</LanguageData>

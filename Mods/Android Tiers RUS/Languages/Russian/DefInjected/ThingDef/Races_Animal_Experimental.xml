@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidDog.label>K-9 кибернетическая единица</AndroidDog.label>
+  <AndroidDog.description>Тяжелобронированные кибернетические машины, похожие на собак, оснащенные очень сильными гидравлическими челюстями и острыми как бритва когтями. Обычно используются во время военных действий на планетах городского типа в качестве средства "контроля толпы".</AndroidDog.description>
+  <AndroidDog.tools.0.label>левый коготь</AndroidDog.tools.0.label>
+  <AndroidDog.tools.1.label>правый коготь</AndroidDog.tools.1.label>
+  <AndroidDog.tools.3.label>голова</AndroidDog.tools.3.label>
+
+
+</LanguageData>
